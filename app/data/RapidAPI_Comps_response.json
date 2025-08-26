@@ -1,0 +1,369 @@
+{
+  "comps": [
+    {
+      "bathrooms": 4,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "1183 Pearce Drive"
+          },
+          {
+            "fullValue": "Sonoma, CA 95476"
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/1183-Pearce-Dr-Sonoma-CA-95476/59722864_zpid/",
+      "lotAreaValue": 7178.688,
+      "parentRegion": {
+        "name": "95476"
+      },
+      "address": {
+        "city": "Sonoma",
+        "state": "CA",
+        "streetAddress": "1183 Pearce Drive",
+        "zipcode": "95476"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "325036407",
+        "brokerName": "Sotheby's International Realty",
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": "Daniel Casabonne"
+      },
+      "latitude": 38.278828,
+      "homeStatus": "RECENTLY_SOLD",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1700000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": true
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 7178,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/b009c4b2195aeca87f53fbe20ab850ca-p_c.jpg"
+        }
+      ],
+      "zpid": 59722864,
+      "hdpTypeDimension": "RecentlySold",
+      "livingArea": 2875,
+      "longitude": -122.45171,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "currency": "USD",
+      "livingAreaUnits": "Square Feet",
+      "livingAreaValue": 2875
+    },
+    {
+      "bathrooms": 3,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "580 E 6th Street"
+          },
+          {
+            "fullValue": "Sonoma, CA 95476"
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/580-6th-St-E-Sonoma-CA-95476/61206334_zpid/",
+      "lotAreaValue": 4791.6,
+      "parentRegion": {
+        "name": "95476"
+      },
+      "address": {
+        "city": "Sonoma",
+        "state": "CA",
+        "streetAddress": "580 E 6th Street",
+        "zipcode": "95476"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "325038065",
+        "brokerName": "Radius Agent Realty",
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": "Lacy A Lang"
+      },
+      "latitude": 38.288994,
+      "homeStatus": "RECENTLY_SOLD",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1850000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": true
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 4791,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/44ed29729a72e410d5dddebd71dec71d-p_c.jpg"
+        }
+      ],
+      "zpid": 61206334,
+      "hdpTypeDimension": "RecentlySold",
+      "livingArea": 2000,
+      "longitude": -122.442444,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "currency": "USD",
+      "livingAreaUnits": "Square Feet",
+      "livingAreaValue": 2000
+    },
+    {
+      "bathrooms": 3.5,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "406 San Lorenzo Ct"
+          },
+          {
+            "fullValue": "Sonoma, CA 95476"
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/406-San-Lorenzo-Ct-Sonoma-CA-95476/69031861_zpid/",
+      "lotAreaValue": 0.28987603305785,
+      "parentRegion": {
+        "name": "95476"
+      },
+      "address": {
+        "city": "Sonoma",
+        "state": "CA",
+        "streetAddress": "406 San Lorenzo Ct",
+        "zipcode": "95476"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 38.292126,
+      "homeStatus": "RECENTLY_SOLD",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 2650000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 12627,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=406+San+Lorenzo+Ct%2C+Sonoma%2C+CA+95476&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=CRIJUKh-EWekGTEU5EoT19xdUmw="
+        }
+      ],
+      "zpid": 69031861,
+      "hdpTypeDimension": "RecentlySold",
+      "livingArea": 3029,
+      "longitude": -122.44754,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "currency": "USD",
+      "livingAreaUnits": "Square Feet",
+      "livingAreaValue": 3029
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "834 Donner Avenue"
+          },
+          {
+            "fullValue": "Sonoma, CA 95476"
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/834-Donner-Ave-Sonoma-CA-95476/15770400_zpid/",
+      "lotAreaValue": 0.4304,
+      "parentRegion": {
+        "name": "95476"
+      },
+      "address": {
+        "city": "Sonoma",
+        "state": "CA",
+        "streetAddress": "834 Donner Avenue",
+        "zipcode": "95476"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "325020702",
+        "brokerName": "Sotheby's International Realty",
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": "Gina Clyde"
+      },
+      "latitude": 38.285458,
+      "homeStatus": "RECENTLY_SOLD",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 2400000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": true
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 18748,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/a613f33fdf883a364fd4e65e6eec9c82-p_c.jpg"
+        }
+      ],
+      "zpid": 15770400,
+      "hdpTypeDimension": "RecentlySold",
+      "livingArea": 2736,
+      "longitude": -122.45373,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "currency": "USD",
+      "livingAreaUnits": "Square Feet",
+      "livingAreaValue": 2736
+    },
+    {
+      "bathrooms": 4,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "2569 Napa Rd"
+          },
+          {
+            "fullValue": "Sonoma, CA 95476"
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/2569-Napa-Rd-Sonoma-CA-95476/96067360_zpid/",
+      "lotAreaValue": 0.97619375573921,
+      "parentRegion": {
+        "name": "95476"
+      },
+      "address": {
+        "city": "Sonoma",
+        "state": "CA",
+        "streetAddress": "2569 Napa Rd",
+        "zipcode": "95476"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 38.269108,
+      "homeStatus": "RECENTLY_SOLD",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 3640000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 42523,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/4ee9ed5f27aae46304b5543e56614b87-p_c.jpg"
+        }
+      ],
+      "zpid": 96067360,
+      "hdpTypeDimension": "RecentlySold",
+      "livingArea": 2936,
+      "longitude": -122.41356,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "currency": "USD",
+      "livingAreaUnits": "Square Feet",
+      "livingAreaValue": 2936
+    }
+  ]
+}
