@@ -205,7 +205,7 @@
       "lotSize": 12627,
       "miniCardPhotos": [
         {
-          "url": "https://maps.googleapis.com/maps/api/streetview?location=406+San+Lorenzo+Ct%2C+Sonoma%2C+CA+95476&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=CRIJUKh-EWekGTEU5EoT19xdUmw="
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=406+San+Lorenzo+Ct%2C+Sonoma%2C+CA+95476&size=316x234&source=outdoor&&signature=CRIJUKh-EWekGTEU5EoT19xdUmw="
         }
       ],
       "zpid": 69031861,
