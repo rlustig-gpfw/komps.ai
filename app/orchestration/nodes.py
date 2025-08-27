@@ -3,6 +3,7 @@ from __future__ import annotations
 import json
 import os
 from statistics import median
+import random
 from typing import Any, Dict, List
 
 from app.orchestration.types import (
@@ -248,6 +249,7 @@ class Nodes:
         self.llm = init_chat_model(model="gpt-4o")
 
         self.web_search_summarizer = self._create_web_search_summarizer()
+        self.report_writer = self._create_report_writer()
 
     def _create_web_search_summarizer(self):
         """
@@ -268,6 +270,36 @@ class Nodes:
         web_search_summarizer = web_search_summary_prompt | self.llm.with_structured_output(WebSearchSummary)
         return web_search_summarizer
         
+    def _create_report_writer(self):
+        """
+        Create a writer chain that produces a narrative report from valuation context.
+        """
+        report_prompt = PromptTemplate.from_template(
+            """
+            You are an experienced real estate investment analyst. Using the inputs provided, write a concise, decision-ready memo with the following sections:
+
+            1. Executive Summary
+            2. Market Overview
+            3. Comparable Analysis
+            4. Risks
+            5. Recommendations
+
+            Inputs:
+            - Subject Address: {subject_address}
+            - Valuation: {valuation}
+            - Top Drivers: {drivers}
+            - Web Summary: {web_summary}
+            - Comps: {comps}
+
+            Guidelines:
+            - Be specific and data-driven; use the valuation estimate, average $/sqft, assumed living area, and property type when relevant.
+            - In Comparable Analysis, summarize 3-5 key comps with address and price metrics.
+            - In Risks, list 3-5 material risks with brief mitigants when applicable.
+            - In Recommendations, state a clear go/no-go style recommendation informed by the analysis.
+            - Keep the total length under ~500 words.
+            """
+        )
+        return report_prompt | self.llm
 
     def planner(self, state: GraphState):
         """
@@ -398,6 +430,7 @@ class Nodes:
                         "livingArea": living_area_num,
                         "bedrooms": comp.get("bedrooms"),
                         "bathrooms": comp.get("bathrooms"),
+                        "homeType": comp.get("homeType") or comp.get("propertyTypeDimension"),
                         "zpid": comp.get("zpid"),
                         "url": comp.get("hdpUrl"),
                         "pricePerSqft": price_per_sqft,
@@ -463,20 +496,40 @@ class Nodes:
         is_confident: bool = False
         drivers: List[Dict[str, Any]] = []
 
-        valid_prices = [c["price"] for c in comps if isinstance(c.get("price"), (int, float))]
-        if valid_prices:
-            estimate = float(median(valid_prices))
-            is_confident = len(valid_prices) >= 3
+        # Filter comps to match homeType/property type and have valid ppsf
+        # Determine subject type from first comp with type
+        subject_type = None
+        for c in comps:
+            if c.get("homeType"):
+                subject_type = c.get("homeType")
+                break
+        filtered = [c for c in comps if (subject_type is None or c.get("homeType") == subject_type) and isinstance(c.get("pricePerSqft"), (int, float)) and c.get("pricePerSqft") > 0]
 
-        living_areas = [c["livingArea"] for c in comps if isinstance(c.get("livingArea"), (int, float))]
-        if living_areas:
-            target_la = float(median(living_areas))
+        # Compute average price per sqft
+        ppsf_values = [float(c["pricePerSqft"]) for c in filtered]
+        avg_ppsf = sum(ppsf_values) / len(ppsf_values) if ppsf_values else None
+
+        # Estimate subject livingArea as median of filtered comps (fallback to all comps)
+        living_areas_all = [c["livingArea"] for c in comps if isinstance(c.get("livingArea"), (int, float))]
+        living_areas_filtered = [c["livingArea"] for c in filtered if isinstance(c.get("livingArea"), (int, float))]
+        target_la_pool = living_areas_filtered or living_areas_all
+        target_la = float(median(target_la_pool)) if target_la_pool else None
+
+        if avg_ppsf is not None and target_la is not None:
+            base_estimate = avg_ppsf * target_la
+            bump = random.uniform(1.05, 1.10)
+            estimate = float(base_estimate * bump)
+            is_confident = len(filtered) >= 3
+
+        # Drivers: closest comps by living area from filtered list
+        pool_for_drivers = filtered or comps
+        if target_la is not None:
             drivers = sorted(
-                comps,
+                pool_for_drivers,
                 key=lambda c: abs((c.get("livingArea") or target_la) - target_la),
             )[:5]
         else:
-            drivers = comps[:5]
+            drivers = pool_for_drivers[:5]
 
         # Use precomputed web search summary from planner (if available)
         web_summary = state.get("web_search_summary")
@@ -490,8 +543,11 @@ class Nodes:
 
         state["valuation"] = {
             "estimate": estimate,
-            "numComps": len(comps),
-            "method": "median_price",
+            "numComps": len(filtered) if filtered else len(comps),
+            "method": "avg_ppsf_with_bump",
+            "avgPricePerSqft": avg_ppsf,
+            "assumedLivingArea": target_la,
+            "subjectType": subject_type,
         }
         state["valuation_confident"] = bool(is_confident)
         state["valuation_drivers"] = drivers
@@ -506,24 +562,38 @@ class Nodes:
         req = state.get("real_estate_request")
         valuation = state.get("valuation") or {}
         drivers: List[Dict[str, Any]] = state.get("valuation_drivers") or []
-        confident: bool = bool(state.get("valuation_confident"))
+        verified_state: VerifiedState = state.get("verified_state") or VerifiedState()
+        comps_for_report: List[Dict[str, Any]] = (verified_state.comps or [])[:5]
 
-        sources = []
-        for d in drivers:
-            src = d.get("source")
-            if src and src not in sources:
-                sources.append(src)
+        subject_address = getattr(req, "address", None) if req else None
+        web_summary_obj = state.get("web_search_summary") or {}
+        web_summary_text = web_summary_obj.get("summary") if isinstance(web_summary_obj, dict) else None
+
+        # Prepare LLM inputs
+        llm_inputs = {
+            "subject_address": subject_address or "",
+            "valuation": json.dumps(valuation, default=str),
+            "drivers": json.dumps(drivers, default=str),
+            "web_summary": web_summary_text or "",
+            "comps": json.dumps(comps_for_report, default=str),
+        }
+
+        try:
+            llm_result = self.report_writer.invoke(llm_inputs)
+            report_text = getattr(llm_result, "content", llm_result)
+        except Exception:
+            report_text = ""  # fall back silently
 
         state["report"] = {
             "subject": {
-                "address": getattr(req, "address", None) if req else None,
+                "address": subject_address,
                 "mlsId": getattr(req, "mlsId", None) if req else None,
                 "assetClass": getattr(req, "asset_class", None) if req else None,
             },
             "valuation": valuation,
-            "confidence": confident,
-            "topDrivers": drivers,
-            "sources": sources,
+            "drivers": drivers,
+            "comps": comps_for_report,
+            "text": report_text,
         }
         state["done"] = True
         return state
