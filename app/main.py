@@ -6,17 +6,19 @@ from typing import Any, Dict
 
 from orchestration.graph import build_graph
 from orchestration.types import RealEstateRequest, GraphState
+from opik.integrations.langchain import OpikTracer
 
 
 def run_once(address: str, asset_class: str = "residential", mls_id: str = "TEST-MLS") -> Dict[str, Any]:
     graph = build_graph()
+    tracer = OpikTracer(graph=graph.get_graph(xray=True))
 
     request = RealEstateRequest(address=address, asset_class=asset_class, mlsId=mls_id)
     state: GraphState = {
         "real_estate_request": request,
     }
 
-    final_state = graph.invoke(state)
+    final_state = graph.invoke(state, config={"callbacks": [tracer]})
     return final_state
 
 
