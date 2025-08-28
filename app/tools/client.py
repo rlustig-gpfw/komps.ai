@@ -3,6 +3,7 @@ import os
 from typing import Any, Dict
 
 from langchain.tools import tool
+from langchain_community.tools.tavily_search import TavilySearchResults
 
 
 def _sample_comps_path() -> str:
@@ -48,7 +49,7 @@ def web_search(address: str) -> Dict[str, Any]:
     # Build a snippet of info from the results
     snippet = ""
     for result in results:
-        snippet += result.get("content","")[:300] + "\n"
+        snippet += result.get("content","")[:500] + "\n"
     
     return snippet
 

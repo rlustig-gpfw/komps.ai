@@ -40,9 +40,18 @@ class WebSearchSummary(BaseModel):
     drivers: List[str]
 
 
+class ReportSections(BaseModel):
+    executive_summary: str
+    market_overview: str
+    comparable_analysis: str
+    risks: str
+    recommendations: str
+
+
 class GraphState(TypedDict, total=False):
     real_estate_request: RealEstateRequest
     web_search_results: List[Dict[str, Any]]
+    web_search_summary: WebSearchSummary
     action: Optional[Action]
     raw: Optional[ToolResult]
     verified_claims: List[Claim]
@@ -53,3 +62,4 @@ class GraphState(TypedDict, total=False):
     required_failed: bool
     human_gate: Optional[Dict[str, Any]]  # bundle for escalation
     done: bool
+    report: Dict[str, Any]
