@@ -390,7 +390,7 @@ class Nodes:
         except Exception:
             report_sections = {}
 
-        state["report"] = {
+        state["final_report"] = {
             "subject": {
                 "address": subject_address,
                 "mlsId": getattr(req, "mlsId", None) if req else None,

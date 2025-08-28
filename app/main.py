@@ -21,13 +21,14 @@ def run_once(address: str, asset_class: str = "residential", mls_id: str = "TEST
 
 
 def main() -> None:
-    address = "1183 Pearce Drive, Sonoma, CA 95476"
+    #address = "1183 Pearce Drive, Sonoma, CA 95476"
+    address = "13413 Landfair Rd, San Diego, CA 92130"
     if len(sys.argv) > 1:
         address = " ".join(sys.argv[1:])
 
     result = run_once(address)
 
-    report = result.get("report")
+    report = result.get("final_report")
     if report is None:
         print("Graph completed without a report. Full state:")
         print(json.dumps(result, indent=2, default=str))

@@ -62,4 +62,4 @@ class GraphState(TypedDict, total=False):
     required_failed: bool
     human_gate: Optional[Dict[str, Any]]  # bundle for escalation
     done: bool
-    report: Dict[str, Any]
+    final_report: Dict[str, Any]
