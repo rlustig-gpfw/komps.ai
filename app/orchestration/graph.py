@@ -51,7 +51,7 @@ def build_graph():
     g.add_edge("report", END)
 
     g = g.compile()
-    # To save the mermaid graph drawing as a PNG file, call without arguments (it will use the default filename):
-    g.get_graph().draw_mermaid_png(output_file_path="graph.png")
+    # Save graph output to file
+    # g.get_graph().draw_mermaid_png(output_file_path="graph.png")
 
     return g
