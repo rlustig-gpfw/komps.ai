@@ -1,0 +1,372 @@
+{
+  "comps": [
+    {
+      "bathrooms": 3,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "11241 Carmel Creek Rd"
+          },
+          {
+            "fullValue": "San Diego, CA 92130"
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/11241-Carmel-Creek-Rd-San-Diego-CA-92130/16777905_zpid/",
+      "lotAreaValue": 1.02,
+      "parentRegion": {
+        "name": "Carmel Valley"
+      },
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "11241 Carmel Creek Rd",
+        "zipcode": "92130"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "250022016",
+        "brokerName": "Keller Williams Realty",
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": "Maria L Gaughan"
+      },
+      "latitude": 32.92289,
+      "homeStatus": "RECENTLY_SOLD",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1425000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": true
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 44431,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/f1df976a9a785c1bcce4a3a00e8f8819-p_c.jpg"
+        }
+      ],
+      "zpid": 16777905,
+      "hdpTypeDimension": "RecentlySold",
+      "livingArea": 1871,
+      "longitude": -117.22636,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "currency": "USD",
+      "livingAreaUnits": "Square Feet",
+      "livingAreaValue": 1871
+    },
+    {
+      "bathrooms": 3,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "Trilogy"
+          },
+          {
+            "fullValue": "11259 Carmel Creek Rd"
+          },
+          {
+            "fullValue": "San Diego, CA 92130"
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/11259-Carmel-Creek-Rd-San-Diego-CA-92130/16777963_zpid/",
+      "lotAreaValue": 0.88,
+      "parentRegion": {
+        "name": "Carmel Valley"
+      },
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "11259 Carmel Creek Rd",
+        "zipcode": "92130"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "240018127",
+        "brokerName": "Compass",
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": "Beau Trickey"
+      },
+      "latitude": 32.9224,
+      "homeStatus": "RECENTLY_SOLD",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1480000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": true
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 0,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/2caed7b2ee840ff4ed38697ceb031caf-p_c.jpg"
+        }
+      ],
+      "zpid": 16777963,
+      "hdpTypeDimension": "RecentlySold",
+      "livingArea": 1818,
+      "longitude": -117.2263,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "currency": "USD",
+      "livingAreaUnits": "Square Feet",
+      "livingAreaValue": 1818
+    },
+    {
+      "bathrooms": 3,
+      "newConstructionType": null,
+      "lotAreaUnits": "sqft",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "11302 W San Raphael Driveway"
+          },
+          {
+            "fullValue": "San Diego, CA 92130"
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/11302-W-San-Raphael-Driveway-San-Diego-CA-92130/51079459_zpid/",
+      "lotAreaValue": null,
+      "parentRegion": {
+        "name": "Carmel Valley"
+      },
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "11302 W San Raphael Driveway",
+        "zipcode": "92130"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "250029056",
+        "brokerName": "Keller Williams Realty",
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": "Richard Stone"
+      },
+      "latitude": 32.924133,
+      "homeStatus": "RECENTLY_SOLD",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1700000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": true
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/3e32c47cc8846cf3d5365a34c8a53b20-p_c.jpg"
+        }
+      ],
+      "zpid": 51079459,
+      "hdpTypeDimension": "RecentlySold",
+      "livingArea": 2372,
+      "longitude": -117.23115,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "currency": "USD",
+      "livingAreaUnits": "Square Feet",
+      "livingAreaValue": 2372
+    },
+    {
+      "bathrooms": 3,
+      "newConstructionType": null,
+      "lotAreaUnits": "sqft",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "3718 Ruette San Raphael"
+          },
+          {
+            "fullValue": "San Diego, CA 92130"
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/3718-Ruette-San-Raphael-San-Diego-CA-92130/51079506_zpid/",
+      "lotAreaValue": null,
+      "parentRegion": {
+        "name": "Carmel Valley"
+      },
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "3718 Ruette San Raphael",
+        "zipcode": "92130"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "250030750",
+        "brokerName": "Keller Williams Realty",
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": "Richard Stone"
+      },
+      "latitude": 32.925114,
+      "homeStatus": "RECENTLY_SOLD",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1720000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": true
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/97139a79679a750d8ad297e638a43bd9-p_c.jpg"
+        }
+      ],
+      "zpid": 51079506,
+      "hdpTypeDimension": "RecentlySold",
+      "livingArea": 2372,
+      "longitude": -117.23286,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "currency": "USD",
+      "livingAreaUnits": "Square Feet",
+      "livingAreaValue": 2372
+    },
+    {
+      "bathrooms": 3,
+      "newConstructionType": null,
+      "lotAreaUnits": "sqft",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "11377 Carmel Creek Rd"
+          },
+          {
+            "fullValue": "San Diego, CA 92130"
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/11377-Carmel-Creek-Rd-San-Diego-CA-92130/16777961_zpid/",
+      "lotAreaValue": null,
+      "parentRegion": {
+        "name": "Carmel Valley"
+      },
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "11377 Carmel Creek Rd",
+        "zipcode": "92130"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.923424,
+      "homeStatus": "FOR_RENT",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 5500,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "For Rent",
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/ac042b226d364fbd7cef160379f6ec60-p_c.jpg"
+        }
+      ],
+      "zpid": 16777961,
+      "hdpTypeDimension": "ForRent",
+      "livingArea": 1410,
+      "longitude": -117.2241,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": "25nzh9c877kj",
+      "homeType": "SINGLE_FAMILY",
+      "currency": "USD",
+      "livingAreaUnits": "Square Feet",
+      "livingAreaValue": 1410
+    }
+  ]
+}

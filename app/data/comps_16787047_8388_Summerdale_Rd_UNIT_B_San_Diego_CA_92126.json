@@ -1,0 +1,372 @@
+{
+  "comps": [
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "Colony Homes"
+          },
+          {
+            "fullValue": "10983 Via Abaca"
+          },
+          {
+            "fullValue": "San Diego, CA 92126"
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/10983-Via-Abaca-San-Diego-CA-92126/16787398_zpid/",
+      "lotAreaValue": 16.55,
+      "parentRegion": {
+        "name": "Mira Mesa"
+      },
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "10983 Via Abaca",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "250018087",
+        "brokerName": "Real Broker",
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": "Dennis B Rieder"
+      },
+      "latitude": 32.919388,
+      "homeStatus": "RECENTLY_SOLD",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 820000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": true
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 720918,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/a58b4c25fc3c57a979b5b46a51f7fa3a-p_c.jpg"
+        }
+      ],
+      "zpid": 16787398,
+      "hdpTypeDimension": "RecentlySold",
+      "livingArea": 1010,
+      "longitude": -117.13593,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "currency": "USD",
+      "livingAreaUnits": "Square Feet",
+      "livingAreaValue": 1010
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "sqft",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "10413 Flanders Pl"
+          },
+          {
+            "fullValue": "San Diego, CA 92126"
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/10413-Flanders-Pl-San-Diego-CA-92126/16789666_zpid/",
+      "lotAreaValue": null,
+      "parentRegion": {
+        "name": "Mira Mesa"
+      },
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "10413 Flanders Pl",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "250032519",
+        "brokerName": "Berkshire Hathaway HomeServices California Properties",
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": "Lily Geffroy"
+      },
+      "latitude": 32.907238,
+      "homeStatus": "RECENTLY_SOLD",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1020000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": true
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/3abfc5144c39caf7156d6263fb4b1ad0-p_c.jpg"
+        }
+      ],
+      "zpid": 16789666,
+      "hdpTypeDimension": "RecentlySold",
+      "livingArea": 1598,
+      "longitude": -117.155045,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "currency": "USD",
+      "livingAreaUnits": "Square Feet",
+      "livingAreaValue": 1598
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "8184 Flanders Dr"
+          },
+          {
+            "fullValue": "San Diego, CA 92126"
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/8184-Flanders-Dr-San-Diego-CA-92126/16789031_zpid/",
+      "lotAreaValue": 5300,
+      "parentRegion": {
+        "name": "Mira Mesa"
+      },
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "8184 Flanders Dr",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "PTP2503563",
+        "brokerName": "Finest City Homes",
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": "Leslie Peraza"
+      },
+      "latitude": 32.90748,
+      "homeStatus": "RECENTLY_SOLD",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1050000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": true
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 5300,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/59221f17e50038094454beed920e9b85-p_c.jpg"
+        }
+      ],
+      "zpid": 16789031,
+      "hdpTypeDimension": "RecentlySold",
+      "livingArea": 1600,
+      "longitude": -117.1473,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "currency": "USD",
+      "livingAreaUnits": "Square Feet",
+      "livingAreaValue": 1600
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "10265 Eagle Rock Ave"
+          },
+          {
+            "fullValue": "San Diego, CA 92126"
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/10265-Eagle-Rock-Ave-San-Diego-CA-92126/16831321_zpid/",
+      "lotAreaValue": 5227.2,
+      "parentRegion": {
+        "name": "Mira Mesa"
+      },
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "10265 Eagle Rock Ave",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "250032321",
+        "brokerName": "SD HOMES",
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": "Tiffany Mitrowke"
+      },
+      "latitude": 32.904568,
+      "homeStatus": "RECENTLY_SOLD",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 800000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": true
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 5227,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/2a47cae841738f04ea52f8e1a922fd77-p_c.jpg"
+        }
+      ],
+      "zpid": 16831321,
+      "hdpTypeDimension": "RecentlySold",
+      "livingArea": 1456,
+      "longitude": -117.14091,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "currency": "USD",
+      "livingAreaUnits": "Square Feet",
+      "livingAreaValue": 1456
+    },
+    {
+      "bathrooms": 3,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "8580 New Salem St UNIT 7"
+          },
+          {
+            "fullValue": "San Diego, CA 92126"
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/8580-New-Salem-St-UNIT-7-San-Diego-CA-92126/16788361_zpid/",
+      "lotAreaValue": 2.5311,
+      "parentRegion": {
+        "name": "Mira Mesa"
+      },
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "8580 New Salem St UNIT 7",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "PTP2503579",
+        "brokerName": "Black Label Realty",
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": "Justin Reyes"
+      },
+      "latitude": 32.914967,
+      "homeStatus": "RECENTLY_SOLD",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1005000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": true
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 110254,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/3ec0c83e6faaa09f6368c00d1e56dae9-p_c.jpg"
+        }
+      ],
+      "zpid": 16788361,
+      "hdpTypeDimension": "RecentlySold",
+      "livingArea": 1452,
+      "longitude": -117.13889,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "currency": "USD",
+      "livingAreaUnits": "Square Feet",
+      "livingAreaValue": 1452
+    }
+  ]
+}

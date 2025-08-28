@@ -1,0 +1,369 @@
+{
+  "comps": [
+    {
+      "bathrooms": 4,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "3686 Landfair Ct"
+          },
+          {
+            "fullValue": "San Diego, CA 92130"
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/3686-Landfair-Ct-San-Diego-CA-92130/16769248_zpid/",
+      "lotAreaValue": 10080,
+      "parentRegion": {
+        "name": "Carmel Valley"
+      },
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "3686 Landfair Ct",
+        "zipcode": "92130"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "NDP2505273",
+        "brokerName": "Compass",
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": "John Griswold"
+      },
+      "latitude": 32.959858,
+      "homeStatus": "RECENTLY_SOLD",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 3050000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": true
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 10080,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/69b9bb9ed1ef20f48b1ba1c31255156d-p_c.jpg"
+        }
+      ],
+      "zpid": 16769248,
+      "hdpTypeDimension": "RecentlySold",
+      "livingArea": 3071,
+      "longitude": -117.2377,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "currency": "USD",
+      "livingAreaUnits": "Square Feet",
+      "livingAreaValue": 3071
+    },
+    {
+      "bathrooms": 3.5,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "13019 Maritime Pl"
+          },
+          {
+            "fullValue": "San Diego, CA 92130"
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/13019-Maritime-Pl-San-Diego-CA-92130/16768797_zpid/",
+      "lotAreaValue": 7991,
+      "parentRegion": {
+        "name": "Carmel Valley"
+      },
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "13019 Maritime Pl",
+        "zipcode": "92130"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.953228,
+      "homeStatus": "RECENTLY_SOLD",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 2725000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 7991,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=13019+Maritime+Pl%2C+San+Diego%2C+CA+92130&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=E1kH3ED-9lTaBqpHbG-yVilAUg0="
+        }
+      ],
+      "zpid": 16768797,
+      "hdpTypeDimension": "RecentlySold",
+      "livingArea": 3071,
+      "longitude": -117.24169,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "currency": "USD",
+      "livingAreaUnits": "Square Feet",
+      "livingAreaValue": 3071
+    },
+    {
+      "bathrooms": 4,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "4745 Finchley Ter"
+          },
+          {
+            "fullValue": "San Diego, CA 92130"
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/4745-Finchley-Ter-San-Diego-CA-92130/16771375_zpid/",
+      "lotAreaValue": 9583.2,
+      "parentRegion": {
+        "name": "Carmel Valley"
+      },
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "4745 Finchley Ter",
+        "zipcode": "92130"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "250026070",
+        "brokerName": "Craig Sanger Realty",
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": "Craig Sanger"
+      },
+      "latitude": 32.961327,
+      "homeStatus": "RECENTLY_SOLD",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 2830000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": true
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 9583,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/0608f7c9d0f305d2fd6c38df2490abb5-p_c.jpg"
+        }
+      ],
+      "zpid": 16771375,
+      "hdpTypeDimension": "RecentlySold",
+      "livingArea": 3307,
+      "longitude": -117.214966,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "currency": "USD",
+      "livingAreaUnits": "Square Feet",
+      "livingAreaValue": 3307
+    },
+    {
+      "bathrooms": 3,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "13225 Denara Rd"
+          },
+          {
+            "fullValue": "San Diego, CA 92130"
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/13225-Denara-Rd-San-Diego-CA-92130/16769074_zpid/",
+      "lotAreaValue": 4221,
+      "parentRegion": {
+        "name": "Carmel Valley"
+      },
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "13225 Denara Rd",
+        "zipcode": "92130"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "NDP2501559",
+        "brokerName": "HomeSmart Realty West",
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": "Queenie Law"
+      },
+      "latitude": 32.958157,
+      "homeStatus": "RECENTLY_SOLD",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1940000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": true
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 4221,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/7e7ce3716eea1889569c725d2de57f33-p_c.jpg"
+        }
+      ],
+      "zpid": 16769074,
+      "hdpTypeDimension": "RecentlySold",
+      "livingArea": 2205,
+      "longitude": -117.23909,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "currency": "USD",
+      "livingAreaUnits": "Square Feet",
+      "livingAreaValue": 2205
+    },
+    {
+      "bathrooms": 3,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "13646 Mira Montana Dr"
+          },
+          {
+            "fullValue": "Del Mar, CA 92014"
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/13646-Mira-Montana-Dr-Del-Mar-CA-92014/16764514_zpid/",
+      "lotAreaValue": 6969.6,
+      "parentRegion": {
+        "name": "Del Mar Heights"
+      },
+      "address": {
+        "city": "Del Mar",
+        "state": "CA",
+        "streetAddress": "13646 Mira Montana Dr",
+        "zipcode": "92014"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "NDP2506644",
+        "brokerName": "Luxury Coast Grp Barry Estates",
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": "Debbie Carpenter"
+      },
+      "latitude": 32.946262,
+      "homeStatus": "RECENTLY_SOLD",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 2830000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": true
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 6969,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/45ba6606165922dab17c75a308079816-p_c.jpg"
+        }
+      ],
+      "zpid": 16764514,
+      "hdpTypeDimension": "RecentlySold",
+      "livingArea": 2990,
+      "longitude": -117.24899,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "currency": "USD",
+      "livingAreaUnits": "Square Feet",
+      "livingAreaValue": 2990
+    }
+  ]
+}

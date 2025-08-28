@@ -1,0 +1,378 @@
+{
+  "comps": [
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "sqft",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "Arbor Lake"
+          },
+          {
+            "fullValue": "4055 Carmel View Rd UNIT 43"
+          },
+          {
+            "fullValue": "San Diego, CA 92130"
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/4055-Carmel-View-Rd-UNIT-43-San-Diego-CA-92130/16776691_zpid/",
+      "lotAreaValue": null,
+      "parentRegion": {
+        "name": "Carmel Valley"
+      },
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "4055 Carmel View Rd UNIT 43",
+        "zipcode": "92130"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "240009903",
+        "brokerName": "Lieb and Lieb",
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": "Jack R Lieb"
+      },
+      "latitude": 32.94508,
+      "homeStatus": "RECENTLY_SOLD",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 800000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": true
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/62f5b94a5aa815b6999fc7e32f2e716f-p_c.jpg"
+        }
+      ],
+      "zpid": 16776691,
+      "hdpTypeDimension": "RecentlySold",
+      "livingArea": 1071,
+      "longitude": -117.23328,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "currency": "USD",
+      "livingAreaUnits": "Square Feet",
+      "livingAreaValue": 1071
+    },
+    {
+      "bathrooms": 3,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "Sunstream"
+          },
+          {
+            "fullValue": "3663 Caminito Cielo Del Mar"
+          },
+          {
+            "fullValue": "San Diego, CA 92130"
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/3663-Caminito-Cielo-Del-Mar-San-Diego-CA-92130/16776601_zpid/",
+      "lotAreaValue": 1.34,
+      "parentRegion": {
+        "name": "Carmel Valley"
+      },
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "3663 Caminito Cielo Del Mar",
+        "zipcode": "92130"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "240025680",
+        "brokerName": "Century 21 Affiliated",
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": "Jane Hou"
+      },
+      "latitude": 32.94124,
+      "homeStatus": "RECENTLY_SOLD",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 920000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": true
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Townhouse",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 58370,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/f824ac9e758b8145cf4374bc03d1cd6c-p_c.jpg"
+        }
+      ],
+      "zpid": 16776601,
+      "hdpTypeDimension": "RecentlySold",
+      "livingArea": 1078,
+      "longitude": -117.23511,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "TOWNHOUSE",
+      "currency": "USD",
+      "livingAreaUnits": "Square Feet",
+      "livingAreaValue": 1078
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "sqft",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "3621 Caminito Carmel Lndg"
+          },
+          {
+            "fullValue": "San Diego, CA 92130"
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/3621-Caminito-Carmel-Lndg-San-Diego-CA-92130/16775670_zpid/",
+      "lotAreaValue": null,
+      "parentRegion": {
+        "name": "Carmel Valley"
+      },
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "3621 Caminito Carmel Lndg",
+        "zipcode": "92130"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "NDP2503290",
+        "brokerName": "Wisdom Properties",
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": "Christel Carlyle"
+      },
+      "latitude": 32.93877,
+      "homeStatus": "RECENTLY_SOLD",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 995000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": true
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Townhouse",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/a4393ce86a57a4581fa6169e645d53a3-p_c.jpg"
+        }
+      ],
+      "zpid": 16775670,
+      "hdpTypeDimension": "RecentlySold",
+      "livingArea": 1066,
+      "longitude": -117.23706,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "TOWNHOUSE",
+      "currency": "USD",
+      "livingAreaUnits": "Square Feet",
+      "livingAreaValue": 1066
+    },
+    {
+      "bathrooms": 3,
+      "newConstructionType": null,
+      "lotAreaUnits": "sqft",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "12444 Caminito Mira Del Mar"
+          },
+          {
+            "fullValue": "San Diego, CA 92130"
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/12444-Caminito-Mira-Del-Mar-San-Diego-CA-92130/16776846_zpid/",
+      "lotAreaValue": null,
+      "parentRegion": {
+        "name": "Carmel Valley"
+      },
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "12444 Caminito Mira Del Mar",
+        "zipcode": "92130"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "NDP2407024",
+        "brokerName": "Compass",
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": "Nikol Klein"
+      },
+      "latitude": 32.94235,
+      "homeStatus": "RECENTLY_SOLD",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 920000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": true
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Townhouse",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/a0ff5a891738a754a3d7090077b27288-p_c.jpg"
+        }
+      ],
+      "zpid": 16776846,
+      "hdpTypeDimension": "RecentlySold",
+      "livingArea": 1078,
+      "longitude": -117.23391,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "TOWNHOUSE",
+      "currency": "USD",
+      "livingAreaUnits": "Square Feet",
+      "livingAreaValue": 1078
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "Del Mar Palms"
+          },
+          {
+            "fullValue": "2582 Del Mar Heights Rd UNIT 20"
+          },
+          {
+            "fullValue": "Del Mar, CA 92014"
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/2582-Del-Mar-Heights-Rd-UNIT-20-Del-Mar-CA-92014/16764239_zpid/",
+      "lotAreaValue": 0.6212,
+      "parentRegion": {
+        "name": "Del Mar Heights"
+      },
+      "address": {
+        "city": "Del Mar",
+        "state": "CA",
+        "streetAddress": "2582 Del Mar Heights Rd UNIT 20",
+        "zipcode": "92014"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "NDP2408252",
+        "brokerName": "Willis Allen Real Estate",
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": "Paul Fan"
+      },
+      "latitude": 32.949097,
+      "homeStatus": "RECENTLY_SOLD",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 735000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": true
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 0,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/5e71ac8640818abc046749911314e65b-p_c.jpg"
+        }
+      ],
+      "zpid": 16764239,
+      "hdpTypeDimension": "RecentlySold",
+      "livingArea": null,
+      "longitude": -117.24778,
+      "livingAreaUnitsShort": null,
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "currency": "USD",
+      "livingAreaUnits": null,
+      "livingAreaValue": null
+    }
+  ]
+}

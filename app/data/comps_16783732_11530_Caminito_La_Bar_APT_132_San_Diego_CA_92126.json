@@ -1,0 +1,375 @@
+{
+  "comps": [
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "sqft",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "11555 Caminito La Bar APT 48"
+          },
+          {
+            "fullValue": "San Diego, CA 92126"
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/11555-Caminito-La-Bar-APT-48-San-Diego-CA-92126/16783626_zpid/",
+      "lotAreaValue": null,
+      "parentRegion": {
+        "name": "Mira Mesa"
+      },
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "11555 Caminito La Bar APT 48",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "NDP2506717",
+        "brokerName": "Berkshire Hathaway HomeService",
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": "Bryan Devore"
+      },
+      "latitude": 32.926956,
+      "homeStatus": "RECENTLY_SOLD",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 650000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": true
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/0e92a6524a144c1dd986af70dba739fa-p_c.jpg"
+        }
+      ],
+      "zpid": 16783626,
+      "hdpTypeDimension": "RecentlySold",
+      "livingArea": 1035,
+      "longitude": -117.161285,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "CONDO",
+      "currency": "USD",
+      "livingAreaUnits": "Square Feet",
+      "livingAreaValue": 1035
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "7319 Calle Cristobal UNIT 142"
+          },
+          {
+            "fullValue": "San Diego, CA 92126"
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/7319-Calle-Cristobal-UNIT-142-San-Diego-CA-92126/16785032_zpid/",
+      "lotAreaValue": 2.83,
+      "parentRegion": {
+        "name": "Mira Mesa"
+      },
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "7319 Calle Cristobal UNIT 142",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "PTP2406707",
+        "brokerName": "Coldwell Banker West",
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": "Dave Dennis"
+      },
+      "latitude": 32.9222,
+      "homeStatus": "RECENTLY_SOLD",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 650000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": true
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 123274,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/9c7eb3570dfbe28bd4d740e251ded1a1-p_c.jpg"
+        }
+      ],
+      "zpid": 16785032,
+      "hdpTypeDimension": "RecentlySold",
+      "livingArea": 1114,
+      "longitude": -117.16706,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "CONDO",
+      "currency": "USD",
+      "livingAreaUnits": "Square Feet",
+      "livingAreaValue": 1114
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "7319 Calle Cristobal UNIT 144"
+          },
+          {
+            "fullValue": "San Diego, CA 92126"
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/7319-Calle-Cristobal-UNIT-144-San-Diego-CA-92126/16785034_zpid/",
+      "lotAreaValue": 2.83,
+      "parentRegion": {
+        "name": "Mira Mesa"
+      },
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "7319 Calle Cristobal UNIT 144",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "PTP2406361",
+        "brokerName": "Keller Williams Realty",
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": "Linda Lee"
+      },
+      "latitude": 32.9222,
+      "homeStatus": "RECENTLY_SOLD",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 670000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": true
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 123274,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/a516f4123f7daae96d56b4ee61befeea-p_c.jpg"
+        }
+      ],
+      "zpid": 16785034,
+      "hdpTypeDimension": "RecentlySold",
+      "livingArea": 1114,
+      "longitude": -117.16706,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "CONDO",
+      "currency": "USD",
+      "livingAreaUnits": "Square Feet",
+      "livingAreaValue": 1114
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "complex"
+          },
+          {
+            "fullValue": "7305 Calle Cristobal UNIT 122"
+          },
+          {
+            "fullValue": "San Diego, CA 92126"
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/7305-Calle-Cristobal-UNIT-122-San-Diego-CA-92126/16785013_zpid/",
+      "lotAreaValue": 2.83,
+      "parentRegion": {
+        "name": "Mira Mesa"
+      },
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "7305 Calle Cristobal UNIT 122",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "240022876",
+        "brokerName": "eXp Realty of California, Inc.",
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": "Tiffany Ireland"
+      },
+      "latitude": 32.922035,
+      "homeStatus": "RECENTLY_SOLD",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 658888,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": true
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 123274,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/5818ccfba68b216ac42c0b54c188b747-p_c.jpg"
+        }
+      ],
+      "zpid": 16785013,
+      "hdpTypeDimension": "RecentlySold",
+      "livingArea": 1114,
+      "longitude": -117.16748,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "CONDO",
+      "currency": "USD",
+      "livingAreaUnits": "Square Feet",
+      "livingAreaValue": 1114
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "Canyon Park Villas"
+          },
+          {
+            "fullValue": "7210 Calle Cristobal UNIT 4"
+          },
+          {
+            "fullValue": "San Diego, CA 92126"
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/7210-Calle-Cristobal-UNIT-4-San-Diego-CA-92126/16785190_zpid/",
+      "lotAreaValue": 4.25,
+      "parentRegion": {
+        "name": "Sorrento Valley"
+      },
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "7210 Calle Cristobal UNIT 4",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "250023240",
+        "brokerName": "eXp Realty of Southern California, Inc.",
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": "Shannon Wineman"
+      },
+      "latitude": 32.92124,
+      "homeStatus": "RECENTLY_SOLD",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 634000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": true
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 185130,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/615df4631a898ce700eb2f6918f454c5-p_c.jpg"
+        }
+      ],
+      "zpid": 16785190,
+      "hdpTypeDimension": "RecentlySold",
+      "livingArea": 1114,
+      "longitude": -117.16942,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "CONDO",
+      "currency": "USD",
+      "livingAreaUnits": "Square Feet",
+      "livingAreaValue": 1114
+    }
+  ]
+}
