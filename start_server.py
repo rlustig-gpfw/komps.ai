@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 FastAPI Server Startup Script
-Run this to start the real estate analysis API server.
+Run this to start the Komps API server.
 """
 
 import uvicorn
@@ -16,7 +16,7 @@ load_dotenv()
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), 'app'))
 
 if __name__ == "__main__":
-    print("🏠 Starting Real Estate Analysis API Server...")
+    print("🏠 Starting Komps API Server...")
     print("📍 Server will be available at: http://localhost:8000")
     print("📖 API documentation at: http://localhost:8000/docs")
     print("🔍 Health check at: http://localhost:8000/health")
