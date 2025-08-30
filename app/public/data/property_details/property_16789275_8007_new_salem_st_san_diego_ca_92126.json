@@ -1,0 +1,2035 @@
+{
+  "buildingPermits": null,
+  "contact_recipients": [
+    {
+      "agent_reason": 1,
+      "zpro": null,
+      "recent_sales": 0,
+      "review_count": 0,
+      "display_name": "Premier Broker Flex Atlanta GA",
+      "badge_type": "Premier Agent",
+      "business_name": "Zillow Group",
+      "rating_average": 0,
+      "phone": {
+        "prefix": "452",
+        "areacode": "206",
+        "number": "1030"
+      },
+      "zuid": "X1-ZUv2ktj4jt3nyh_98wrm",
+      "image_url": "https://www.zillowstatic.com/static/images/nophoto_h_g.png"
+    }
+  ],
+  "longitude": -117.15049,
+  "countyFIPS": "06073",
+  "imgSrc": "https://photos.zillowstatic.com/fp/4dbac1281fa41b45064bcd19247ed061-p_d.jpg",
+  "livingAreaValue": 1764,
+  "streetAddress": "8007 New Salem St",
+  "county": "San Diego County",
+  "monthlyHoaFee": null,
+  "timeZone": "America/Los_Angeles",
+  "taxHistory": [
+    {
+      "time": 1724734174854,
+      "valueIncreaseRate": 0.019997751,
+      "taxIncreaseRate": 0.022636205,
+      "taxPaid": 7519.26,
+      "value": 607987
+    },
+    {
+      "time": 1693111774854,
+      "valueIncreaseRate": 0.019998973,
+      "taxIncreaseRate": 0.027395088,
+      "taxPaid": 7352.82,
+      "value": 596067
+    },
+    {
+      "time": 1661575774854,
+      "valueIncreaseRate": 0.019997451,
+      "taxIncreaseRate": 0.006981659,
+      "taxPaid": 7156.76,
+      "value": 584380
+    },
+    {
+      "time": 1630039774854,
+      "valueIncreaseRate": 0.010358893,
+      "taxIncreaseRate": 0.012257381,
+      "taxPaid": 7107.14,
+      "value": 572923
+    },
+    {
+      "time": 1598503774854,
+      "valueIncreaseRate": 0.019998884,
+      "taxIncreaseRate": 0.025124848,
+      "taxPaid": 7021.08,
+      "value": 567049
+    },
+    {
+      "time": 1566881374854,
+      "valueIncreaseRate": 0.019998863,
+      "taxIncreaseRate": 0.062161837,
+      "taxPaid": 6849,
+      "value": 555931
+    },
+    {
+      "time": 1535345374854,
+      "valueIncreaseRate": 0.019998316,
+      "taxIncreaseRate": 0.024882272,
+      "taxPaid": 6448.17,
+      "value": 545031
+    },
+    {
+      "time": 1503809374854,
+      "valueIncreaseRate": 0.019999312,
+      "taxIncreaseRate": 0.01619029,
+      "taxPaid": 6291.62,
+      "value": 534345
+    },
+    {
+      "time": 1472273374854,
+      "valueIncreaseRate": 0.027212298,
+      "taxIncreaseRate": 0.02680033,
+      "taxPaid": 6191.38,
+      "value": 523868
+    },
+    {
+      "time": 1440650974854,
+      "valueIncreaseRate": -0.1596471,
+      "taxIncreaseRate": -0.16200452,
+      "taxPaid": 6029.78,
+      "value": 509990
+    },
+    {
+      "time": 1409114974854,
+      "valueIncreaseRate": 0.0045387284,
+      "taxIncreaseRate": 0,
+      "taxPaid": 7195.48,
+      "value": 606876
+    },
+    {
+      "time": 1377578974854,
+      "valueIncreaseRate": 0.019998683,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 604134
+    },
+    {
+      "time": 1346042974854,
+      "valueIncreaseRate": 0.019999104,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 592289
+    },
+    {
+      "time": 1314420574854,
+      "valueIncreaseRate": 0.007528581,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 580676
+    },
+    {
+      "time": 1282884574854,
+      "valueIncreaseRate": -0.0023714444,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 576337
+    },
+    {
+      "time": 1251348574854,
+      "valueIncreaseRate": 0.01999714,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 577707
+    },
+    {
+      "time": 1219812574854,
+      "valueIncreaseRate": 0.019997226,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 566381
+    },
+    {
+      "time": 1188190174854,
+      "valueIncreaseRate": 0.01999853,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 555277
+    },
+    {
+      "time": 1156654174854,
+      "valueIncreaseRate": 0.1460842,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 544390
+    },
+    {
+      "time": 1125118174854,
+      "valueIncreaseRate": 1.7287873,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 475000
+    },
+    {
+      "time": 1093582174854,
+      "valueIncreaseRate": 0.01866211,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 174070
+    },
+    {
+      "time": 1061959774854,
+      "valueIncreaseRate": 0.019996298,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 170881
+    },
+    {
+      "time": 1030423774854,
+      "valueIncreaseRate": 0.019994278,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 167531
+    },
+    {
+      "time": 998887774854,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 164247
+    }
+  ],
+  "dateSold": null,
+  "annualHomeownersInsurance": 4699,
+  "state": "CA",
+  "listed_by": {
+    "agent_reason": 3,
+    "zpro": false,
+    "recent_sales": 1,
+    "zuid": "X1-ZUz04hxwt2fcw9_z47i",
+    "review_count": 145,
+    "display_name": "Yolie Andrade",
+    "profile_url": "https://www.zillow.com/profile/Yolie-Andrade/",
+    "business_name": "Cornerstone Realty Group",
+    "rating_average": 5,
+    "phone": {
+      "prefix": "841",
+      "areacode": "909",
+      "number": "6737"
+    },
+    "badge_type": "Listing Agent",
+    "image_url": "https://photos.zillowstatic.com/fp/83162a907b9fe882c0ef5b43c331fc67-h_n.jpg"
+  },
+  "yearBuilt": 1975,
+  "brokerageName": "Cornerstone Realty Group",
+  "description": "Come check out our beautifully updated Mira Mesa Home!  Centrally located near schools and shopping, this HOME offers it all.  MOVE-IN ready! Step into this spacious and stylish 4-bedroom, 2-bath home perfectly situated in one of Mira Mesa’s most desirable neighborhoods. Freshly painted inside and out with a modern neutral palette, this home features brand-new vinyl plank flooring throughout, offering both durability and elegance.  The kitchen is a chef’s dream—fully equipped with sleek new stainless steel and black appliances, recessed lighting, and plenty of counter space. The airy living room boasts vaulted ceilings, generous natural light, and easy access to both the side and backyard through dual exits and sliding glass doors—perfect for indoor-outdoor living and entertaining. A dedicated dining area provides space for memorable gatherings.  Retreat to the oversized primary suite, complete with his-and-hers closets, a walk-in shower, and double sinks for added convenience. The three additional bedrooms are generously sized, and the front room offers flexibility as a fourth bedroom, office, or guest space. Enjoy energy efficiency with dual-pane windows and new mini blinds throughout. Outside, RV parking adds extra value and convenience, while the newly seeded front yard and fresh landscaping (soon to bloom) promise to make your curb appeal the envy of the neighborhood. All of this just minutes from shopping, restaurants, and parks—many within walking distance. This move-in ready gem combines comfort, style, and location.  But wait there's more.  This home has a brand new HVAC and water heater!  Don’t miss it!",
+  "climate": {
+    "windSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "probability": {},
+        "source": {
+          "url": "https://firststreet.org/property/8007-new-salem-st-san-diego-ca-92126/603399273_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 18
+      }
+    },
+    "floodSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "femaZone": "X_UNSHADED",
+        "source": {
+          "url": "https://firststreet.org/property/8007-new-salem-st-san-diego-ca-92126/603399273_fsid"
+        },
+        "probability": [
+          {
+            "relativeYear": 0,
+            "probability": 0
+          },
+          {
+            "relativeYear": 5,
+            "probability": 0
+          },
+          {
+            "relativeYear": 10,
+            "probability": 0
+          },
+          {
+            "relativeYear": 15,
+            "probability": 0
+          },
+          {
+            "relativeYear": 20,
+            "probability": 0
+          },
+          {
+            "relativeYear": 25,
+            "probability": 0
+          },
+          {
+            "relativeYear": 30,
+            "probability": 0
+          }
+        ],
+        "insuranceSeparatePolicy": "NOT_REQUIRED",
+        "historicCountPropertyAll": 0
+      }
+    },
+    "fireSources": {
+      "primary": {
+        "insuranceRecommendation": "RECOMMENDED",
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 3
+        },
+        "probability": [
+          {
+            "relativeYear": 0,
+            "probability": 9.9999997473788e-05
+          },
+          {
+            "relativeYear": 5,
+            "probability": 0.00069999997504056
+          },
+          {
+            "relativeYear": 10,
+            "probability": 0.0015000000130385
+          },
+          {
+            "relativeYear": 15,
+            "probability": 0.0024000001139939
+          },
+          {
+            "relativeYear": 20,
+            "probability": 0.0035000001080334
+          },
+          {
+            "relativeYear": 25,
+            "probability": 0.0048000002279878
+          },
+          {
+            "relativeYear": 30,
+            "probability": 0.0062000001780689
+          }
+        ],
+        "source": {
+          "url": "https://firststreet.org/property/8007-new-salem-st-san-diego-ca-92126/603399273_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 28
+      }
+    },
+    "heatSources": {
+      "primary": {
+        "percentile98Temp": 90,
+        "hotDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 7
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 9
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 11
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 14
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 16
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 18
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 20
+          }
+        ],
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 4
+        },
+        "source": {
+          "url": "https://firststreet.org/property/8007-new-salem-st-san-diego-ca-92126/603399273_fsid"
+        }
+      }
+    },
+    "airSources": {
+      "primary": {
+        "source": {
+          "url": "https://firststreet.org/property/8007-new-salem-st-san-diego-ca-92126/603399273_fsid"
+        },
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 3
+        },
+        "badAirDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 4
+          }
+        ]
+      }
+    }
+  },
+  "latitude": 32.915474,
+  "nearbyHomes": [
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "8013 New Salem St"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/8013-New-Salem-St-San-Diego-CA-92126/16789274_zpid/",
+      "lotAreaValue": 5500,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "8013 New Salem St",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.915417,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1168900,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 5,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 5500,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=8013+New+Salem+St%2C+San+Diego%2C+CA+92126&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=VuaSUS53TJRTIURvhw5Ppocsfi0="
+        }
+      ],
+      "zpid": 16789274,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 2094,
+      "longitude": -117.150314,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 2094
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "7989 New Salem St"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/7989-New-Salem-St-San-Diego-CA-92126/16789276_zpid/",
+      "lotAreaValue": 5500,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "7989 New Salem St",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.915543,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1133000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 5500,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=7989+New+Salem+St%2C+San+Diego%2C+CA+92126&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=LuWnYHVEe7rIeV3s1jYYl1vMPBw="
+        }
+      ],
+      "zpid": 16789276,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1766,
+      "longitude": -117.15066,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1766
+    },
+    {
+      "hdpTypeDimension": "Zestimate",
+      "lotAreaUnits": "Square Feet",
+      "isShowcaseListing": false,
+      "longitude": -117.15054,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "7966 Gaylen Rd",
+        "zipcode": "92126"
+      },
+      "livingAreaValue": 1541,
+      "lotSize": 5700,
+      "zpid": 16789294,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 2,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "7966 Gaylen Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "hdpUrl": "/homedetails/7966-Gaylen-Rd-San-Diego-CA-92126/16789294_zpid/",
+      "lotAreaValue": 5700,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "OTHER",
+      "latitude": 32.915203,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "newConstructionType": null,
+      "yearBuilt": 1975,
+      "listingTypeDimension": "Unknown Listed By",
+      "livingArea": 1541,
+      "providerListingID": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=7966+Gaylen+Rd%2C+San+Diego%2C+CA+92126&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=KgU5FLJVxGP9NUHUi2auk01BXco="
+        }
+      ],
+      "currency": "USD",
+      "price": 1031000,
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "7960 Gaylen Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/7960-Gaylen-Rd-San-Diego-CA-92126/16789293_zpid/",
+      "lotAreaValue": 5700,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "7960 Gaylen Rd",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.91526,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1192800,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 5700,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=7960+Gaylen+Rd%2C+San+Diego%2C+CA+92126&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=LMCXK9qLwjo7EjLhu4vSy4gPrLc="
+        }
+      ],
+      "zpid": 16789293,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 2031,
+      "longitude": -117.1507,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 2031
+    },
+    {
+      "bathrooms": null,
+      "newConstructionType": null,
+      "lotAreaUnits": "sqft",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "8580-28 New Salem St"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/8580-28-New-Salem-St-San-Diego-CA-92126/348833313_zpid/",
+      "lotAreaValue": null,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "8580-28 New Salem St",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.915764,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1173400,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": null,
+      "propertyTypeDimension": "Home Type Unknown",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=32.91576385498047,-117.15044403076172&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=jFxeLlKg4t-wl9rtO3w1gm1B6Ec="
+        }
+      ],
+      "zpid": 348833313,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": null,
+      "longitude": -117.150444,
+      "livingAreaUnitsShort": null,
+      "providerListingID": null,
+      "homeType": "HOME_TYPE_UNKNOWN",
+      "livingAreaUnits": null,
+      "currency": "USD",
+      "livingAreaValue": null
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "7979 New Salem St"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/7979-New-Salem-St-San-Diego-CA-92126/16789277_zpid/",
+      "lotAreaValue": 5500,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "7979 New Salem St",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.915623,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 977900,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 5500,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/783d4c9dfb0812f6dfbbd847508c3034-p_c.jpg"
+        }
+      ],
+      "zpid": 16789277,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1275,
+      "longitude": -117.15081,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1275
+    },
+    {
+      "bathrooms": 3,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "8019 New Salem St"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/8019-New-Salem-St-San-Diego-CA-92126/16789273_zpid/",
+      "lotAreaValue": 5500,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "8019 New Salem St",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "RS22237995",
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.915375,
+      "homeStatus": "SOLD",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 980000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 5,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 5500,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/be2c6fecfbbb7174535429b723e4f3fc-p_c.jpg"
+        }
+      ],
+      "zpid": 16789273,
+      "hdpTypeDimension": "RecentlySold",
+      "livingArea": 1890,
+      "longitude": -117.15014,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1890
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "7972 Gaylen Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/7972-Gaylen-Rd-San-Diego-CA-92126/16789295_zpid/",
+      "lotAreaValue": 5800,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "7972 Gaylen Rd",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.91515,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1020600,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 5800,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=7972+Gaylen+Rd%2C+San+Diego%2C+CA+92126&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=K8UZeUOiIq_3FVsiR11_R9M4qyA="
+        }
+      ],
+      "zpid": 16789295,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1134,
+      "longitude": -117.150375,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1134
+    }
+  ],
+  "priceHistory": [
+    {
+      "priceChangeRate": -0.017560989315894,
+      "date": "2025-08-01",
+      "source": "CRMLS",
+      "postingIsRental": false,
+      "time": 1754006400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "CRMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/cb8caaa629c0af2058e60add67b2f2ee-zillow_web_logo_inf_11.jpg",
+        "infoString1": "CV25153880"
+      },
+      "pricePerSquareFoot": 634,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 1118888
+    },
+    {
+      "priceChangeRate": 1.2071472868217,
+      "date": "2025-07-09",
+      "source": "CRMLS",
+      "postingIsRental": false,
+      "time": 1752019200000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "CRMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/cb8caaa629c0af2058e60add67b2f2ee-zillow_web_logo_inf_11.jpg",
+        "infoString1": "CV25153880"
+      },
+      "pricePerSquareFoot": 646,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 1138888
+    },
+    {
+      "priceChangeRate": -0.024574669187146,
+      "date": "2015-02-05",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 1423094400000,
+      "sellerAgent": {
+        "name": "Doug Ross",
+        "photo": null,
+        "profileUrl": "/profile/SD-Doug/"
+      },
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 293,
+      "buyerAgent": null,
+      "event": "Sold",
+      "price": 516000
+    },
+    {
+      "priceChangeRate": 0.060120240480962,
+      "date": "2014-11-14",
+      "source": "Visual Tour",
+      "postingIsRental": false,
+      "time": 1415923200000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Visual Tour",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 300,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 529000
+    },
+    {
+      "priceChangeRate": -0.074211502782931,
+      "date": "2014-11-12",
+      "source": "Visual Tour",
+      "postingIsRental": false,
+      "time": 1415750400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Visual Tour",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 283,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 499000
+    },
+    {
+      "priceChangeRate": 0.080160320641283,
+      "date": "2014-11-09",
+      "source": "Visual Tour",
+      "postingIsRental": false,
+      "time": 1415491200000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Visual Tour",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 306,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 539000
+    },
+    {
+      "priceChangeRate": -0.074211502782931,
+      "date": "2014-09-24",
+      "source": "Doug Ross Real Estate",
+      "postingIsRental": false,
+      "time": 1411516800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Doug Ross Real Estate",
+        "infoString3": null,
+        "infoString1": "140051556"
+      },
+      "pricePerSquareFoot": 283,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 499000
+    },
+    {
+      "priceChangeRate": -0.018214936247723,
+      "date": "2014-06-04",
+      "source": "Doug Ross",
+      "postingIsRental": false,
+      "time": 1401840000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Doug Ross",
+        "infoString3": null,
+        "infoString1": "140022473"
+      },
+      "pricePerSquareFoot": 306,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 539000
+    },
+    {
+      "priceChangeRate": 0.3725,
+      "date": "2014-04-30",
+      "source": "Doug Ross",
+      "postingIsRental": false,
+      "time": 1398816000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Doug Ross",
+        "infoString3": null,
+        "infoString1": "140022473"
+      },
+      "pricePerSquareFoot": 311,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 549000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2014-03-06",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 1394064000000,
+      "sellerAgent": {
+        "name": "Doug Ross",
+        "photo": null,
+        "profileUrl": "/profile/SD-Doug/"
+      },
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 227,
+      "buyerAgent": null,
+      "event": "Sold",
+      "price": 400000
+    },
+    {
+      "priceChangeRate": -0.25788497217069,
+      "date": "2013-12-10",
+      "source": "Sapphire Realty",
+      "postingIsRental": false,
+      "time": 1386633600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Sapphire Realty",
+        "infoString3": null,
+        "infoString1": "130062911"
+      },
+      "pricePerSquareFoot": 227,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 400000
+    },
+    {
+      "priceChangeRate": 0.13473684210526,
+      "date": "2005-02-28",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 1109548800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 306,
+      "buyerAgent": null,
+      "event": "Sold",
+      "price": 539000
+    },
+    {
+      "priceChangeRate": 2.0645161290323,
+      "date": "2004-07-29",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 1091059200000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 269,
+      "buyerAgent": null,
+      "event": "Sold",
+      "price": 475000
+    },
+    {
+      "priceChangeRate": -0.066265060240964,
+      "date": "1997-10-22",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 877478400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 88,
+      "buyerAgent": null,
+      "event": "Sold",
+      "price": 155000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "1994-12-09",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 786931200000,
+      "sellerAgent": {
+        "name": "Sara Driscoll",
+        "photo": null,
+        "profileUrl": "/profile/SaraCBW/"
+      },
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 94,
+      "buyerAgent": null,
+      "event": "Sold",
+      "price": 166000
+    }
+  ],
+  "neighborhoodMapThumb": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/4dbac1281fa41b45064bcd19247ed061-p_c.jpg"
+    }
+  ],
+  "schools": [
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6160-Hickman-Elementary-School/",
+      "rating": 8,
+      "totalCount": null,
+      "distance": 0.2,
+      "assigned": null,
+      "name": "Hickman Elementary School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Elementary",
+      "grades": "K-5",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6115-Challenger-Middle-School/",
+      "rating": 7,
+      "totalCount": null,
+      "distance": 0.5,
+      "assigned": null,
+      "name": "Challenger Middle School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Middle",
+      "grades": "6-8",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6203-Mira-Mesa-High-School/",
+      "rating": 9,
+      "totalCount": null,
+      "distance": 0.7,
+      "assigned": null,
+      "name": "Mira Mesa High School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "High",
+      "grades": "9-12",
+      "type": "Public"
+    }
+  ],
+  "rentZestimate": 4398,
+  "city": "San Diego",
+  "providerListingID": null,
+  "currency": "USD",
+  "listingProvider": null,
+  "propertyTaxRate": 1.17,
+  "isShowcaseListing": false,
+  "openHouseSchedule": {},
+  "mortgageRates": null,
+  "address": {
+    "community": null,
+    "city": "San Diego",
+    "state": "CA",
+    "neighborhood": null,
+    "subdivision": "Mira Mesa",
+    "streetAddress": "8007 New Salem St",
+    "zipcode": "92126"
+  },
+  "cityId": 54296,
+  "timeOnZillow": "48 days",
+  "priceChange": -20000,
+  "zestimate": 1112500,
+  "zpid": 16789275,
+  "countyId": 2841,
+  "homeType": "SINGLE_FAMILY",
+  "livingAreaUnits": "sqft",
+  "pageViewCount": 2510,
+  "homeInsights": [
+    {
+      "insights": [
+        {
+          "treatmentId": "model_0",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Rv parking",
+            "Generous natural light",
+            "Oversized primary suite",
+            "Dedicated dining area",
+            "Walk-in shower",
+            "Fresh landscaping",
+            "Brand-new vinyl plank flooring"
+          ]
+        },
+        {
+          "treatmentId": "model_1",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Rv parking",
+            "Generous natural light",
+            "Oversized primary suite",
+            "Dedicated dining area",
+            "Walk-in shower",
+            "Fresh landscaping",
+            "Brand-new vinyl plank flooring"
+          ]
+        }
+      ]
+    }
+  ],
+  "bathrooms": 2,
+  "neighborhoodRegion": {
+    "name": "Mira Mesa"
+  },
+  "zipcode": "92126",
+  "building": null,
+  "zestimateLowPercent": "5",
+  "brokerId": null,
+  "stateId": 9,
+  "url": "/homedetails/8007-New-Salem-St-San-Diego-CA-92126/16789275_zpid/",
+  "solarPotential": null,
+  "attributionInfo": {
+    "buyerAgentName": null,
+    "infoString3": "https://photos.zillowstatic.com/fp/cb8caaa629c0af2058e60add67b2f2ee-zillow_web_95_35.jpg",
+    "mlsName": "CRMLS",
+    "coAgentLicenseNumber": "DRE #02048645",
+    "listingAgreement": null,
+    "listingOffices": [
+      {
+        "associatedOfficeType": "listOffice",
+        "officeName": "Cornerstone Realty Group"
+      },
+      {
+        "associatedOfficeType": "coListOffice",
+        "officeName": "Cornerstone Realty Group"
+      }
+    ],
+    "infoString10": "The multiple listing data appearing on this website, or contained in reports produced therefrom, is owned and copyrighted by California Regional Multiple Listing Service, Inc. (\"CRMLS\") and is protected by all applicable copyright laws. Information provided is for viewer's personal, non-commercial use and may not be used for any purpose other than to identify prospective properties the viewer may be interested in purchasing. All listing data, including but not limited to square footage and lot size is believed to be accurate, but the listing Agent, listing Broker and CRMLS and its affiliates do not warrant or guarantee such accuracy. The viewer should independently verify the listed data prior to making any decisions based on such information by personal inspection and/or contacting a real estate professional.\n\nBased on information from California Regional Multiple Listing Service, Inc. as of 2025-08-26 21:25:46 PDT and /or other sources. All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy. Properties may or may not be listed by the office/agent presenting the information",
+    "buyerAgentMemberStateLicense": null,
+    "brokerName": "Cornerstone Realty Group",
+    "listingAttributionContact": "909-841-6737",
+    "lastUpdated": "2025-08-16 15:06:15",
+    "trueStatus": null,
+    "listingAgentAttributionContact": null,
+    "agentEmail": null,
+    "agentName": "Yolanda Andrade",
+    "attributionTitle": "Listing Provided by:",
+    "mlsId": "CV25153880",
+    "coAgentName": "Jeremy Andrade",
+    "coAgentNumber": "909-767-1134",
+    "infoString5": "909-256-5555",
+    "listingAgents": [
+      {
+        "memberStateLicense": "DRE #01748163",
+        "memberFullName": "Yolanda Andrade",
+        "associatedAgentType": "listAgent"
+      },
+      {
+        "memberStateLicense": "DRE #02048645",
+        "memberFullName": "Jeremy Andrade",
+        "associatedAgentType": "coListAgent"
+      }
+    ],
+    "agentPhoneNumber": "909-256-5555",
+    "agentLicenseNumber": "DRE #01748163",
+    "providerLogo": "https://photos.zillowstatic.com/fp/cb8caaa629c0af2058e60add67b2f2ee-zillow_web_95_35.jpg",
+    "infoString16": null,
+    "buyerBrokerageName": null,
+    "mlsDisclaimer": "The multiple listing data appearing on this website, or contained in reports produced therefrom, is owned and copyrighted by California Regional Multiple Listing Service, Inc. (\"CRMLS\") and is protected by all applicable copyright laws. Information provided is for viewer's personal, non-commercial use and may not be used for any purpose other than to identify prospective properties the viewer may be interested in purchasing. All listing data, including but not limited to square footage and lot size is believed to be accurate, but the listing Agent, listing Broker and CRMLS and its affiliates do not warrant or guarantee such accuracy. The viewer should independently verify the listed data prior to making any decisions based on such information by personal inspection and/or contacting a real estate professional.\n\nBased on information from California Regional Multiple Listing Service, Inc. as of 2025-08-26 21:25:46 PDT and /or other sources. All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy. Properties may or may not be listed by the office/agent presenting the information",
+    "brokerPhoneNumber": "909-256-5555",
+    "lastChecked": "2025-08-26 21:25:46"
+  },
+  "priceChangeDateString": "2025-08-01",
+  "photoCount": 33,
+  "homeStatus": "FOR_SALE",
+  "homeFacts": null,
+  "resoFacts": {
+    "hasAttachedProperty": false,
+    "frontageType": null,
+    "poolFeatures": [
+      "None"
+    ],
+    "flooring": [
+      "Vinyl"
+    ],
+    "foundationDetails": {},
+    "accessibilityFeatures": [
+      "Safe Emergency Egress from Home"
+    ],
+    "hasGarage": true,
+    "hasPetsAllowed": null,
+    "bodyType": null,
+    "topography": null,
+    "landLeaseExpirationDate": null,
+    "hasAdditionalParcels": false,
+    "parkName": null,
+    "livingQuarters": {},
+    "taxAssessedValue": 607987,
+    "atAGlanceFacts": [
+      {
+        "factValue": "Single Family Residence",
+        "factLabel": "Type"
+      },
+      {
+        "factValue": "1975",
+        "factLabel": "Year Built"
+      },
+      {
+        "factValue": "Central, Forced Air",
+        "factLabel": "Heating"
+      },
+      {
+        "factValue": "Central Air",
+        "factLabel": "Cooling"
+      },
+      {
+        "factValue": "2 Attached Garage spaces",
+        "factLabel": "Parking"
+      },
+      {
+        "factValue": "5,500 sqft",
+        "factLabel": "Lot"
+      },
+      {
+        "factValue": "48 Days",
+        "factLabel": "Days on Zillow"
+      },
+      {
+        "factValue": "$634",
+        "factLabel": "Price/sqft"
+      },
+      {
+        "factValue": null,
+        "factLabel": "Offer Review Date"
+      }
+    ],
+    "offerReviewDate": null,
+    "horseYN": null,
+    "view": [
+      "Neighborhood"
+    ],
+    "rooms": [
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "MasterBedroom",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": [
+          "Primary Suite"
+        ],
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "MasterBedroom",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": null,
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "MasterBathroom",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": null,
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "Bathroom",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": [
+          "Bathroom Exhaust Fan",
+          "Bathtub",
+          "Dual Sinks",
+          "Tub Shower",
+          "Walk-In Shower"
+        ],
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "EntryFoyer",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": null,
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "Kitchen",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": [
+          "Granite Counters",
+          "Kitchen/Family Room Combo",
+          "Remodeled",
+          "Updated Kitchen"
+        ],
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "Kitchen",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": null,
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "Laundry",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": null,
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "LivingRoom",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": null,
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "Office",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": null,
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "Other",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": [
+          "Walk-In Closet(s)"
+        ],
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      }
+    ],
+    "belowGradeFinishedArea": null,
+    "feesAndDues": [
+      {
+        "phone": null,
+        "name": null,
+        "fee": null,
+        "type": "HOA"
+      }
+    ],
+    "cityRegion": "San Diego",
+    "mainLevelBathrooms": 2,
+    "hasPrivatePool": null,
+    "landLeaseAmount": null,
+    "waterSource": [
+      "Public"
+    ],
+    "exteriorFeatures": {},
+    "inclusions": [
+      "All kitchen appliances"
+    ],
+    "hasFireplace": true,
+    "gas": null,
+    "propertyCondition": "Turnkey",
+    "elevationUnits": "Feet",
+    "exclusions": [
+      "All staging accessories"
+    ],
+    "mainLevelBedrooms": 4,
+    "numberOfUnitsVacant": null,
+    "hasWaterfrontView": null,
+    "bathroomsOneQuarter": null,
+    "lotSize": "5,500 sqft",
+    "entryLevel": null,
+    "media": [
+      {
+        "mediaCategory": "UnbrandedVirtualTour",
+        "mediaURL": "https://my.matterport.com/show/?m=Ezh2svkb9zC&mls=1"
+      }
+    ],
+    "greenWaterConservation": null,
+    "stories": 1,
+    "livingArea": "1,764 sqft",
+    "commonWalls": "No Common Walls",
+    "listingTerms": "Cash,Cash to New Loan,Conventional,VA Loan",
+    "otherParking": null,
+    "associationFee": null,
+    "marketingType": null,
+    "greenIndoorAirQuality": null,
+    "greenSustainability": null,
+    "livingAreaRangeUnits": "Square Feet",
+    "associationPhone": null,
+    "greenBuildingVerificationType": null,
+    "hasAttachedGarage": true,
+    "bedrooms": 4,
+    "architecturalStyle": "Contemporary",
+    "listingId": null,
+    "structureType": "House",
+    "interiorFeatures": [
+      "Ceiling Fan(s)",
+      "Granite Counters",
+      "Open Floorplan",
+      "Recessed Lighting",
+      "Primary Suite",
+      "Walk-In Closet(s)"
+    ],
+    "horseAmenities": null,
+    "garageParkingCapacity": 2,
+    "developmentStatus": null,
+    "lotFeatures": [
+      "Back Yard",
+      "Front Yard",
+      "Sprinklers In Front",
+      "Sprinkler System"
+    ],
+    "roofType": "Composition",
+    "compensationBasedOn": null,
+    "greenEnergyGeneration": null,
+    "daysOnZillow": 48,
+    "listAOR": "California Regional MLS",
+    "buildingAreaSource": null,
+    "elementarySchool": null,
+    "zoningDescription": null,
+    "irrigationWaterRightsAcres": null,
+    "yearBuiltEffective": null,
+    "greenEnergyEfficient": null,
+    "constructionMaterials": {},
+    "fireplaceFeatures": [
+      "Living Room"
+    ],
+    "hoaFeeTotal": null,
+    "appliances": [
+      "Dishwasher",
+      "Disposal",
+      "Gas Range",
+      "Gas Water Heater",
+      "Refrigerator",
+      "Water Heater"
+    ],
+    "sewer": [
+      "Public Sewer"
+    ],
+    "bathroomsPartial": null,
+    "fencing": "Wood",
+    "spaFeatures": [
+      "None"
+    ],
+    "waterViewYN": false,
+    "buildingName": null,
+    "attic": null,
+    "petsMaxWeight": null,
+    "cumulativeDaysOnMarket": "49 days",
+    "waterfrontFeatures": null,
+    "additionalParcelsDescription": null,
+    "canRaiseHorses": false,
+    "hasLandLease": false,
+    "communityFeatures": [
+      "Sidewalks"
+    ],
+    "waterBodyName": null,
+    "middleOrJuniorSchool": null,
+    "lotSizeDimensions": null,
+    "virtualTour": "https://my.matterport.com/show/?m=Ezh2svkb9zC&mls=1",
+    "contingency": null,
+    "yearBuilt": 1975,
+    "utilities": [
+      "Electricity Connected",
+      "Natural Gas Connected",
+      "Sewer Connected"
+    ],
+    "totalActualRent": null,
+    "bathroomsFull": 2,
+    "parcelNumber": "3112910600",
+    "incomeIncludes": null,
+    "highSchool": null,
+    "taxAnnualAmount": 7519,
+    "subdivisionName": "Mira Mesa",
+    "storiesTotal": 1,
+    "storiesDecimal": 1,
+    "specialListingConditions": "Third Party Approval",
+    "windowFeatures": [
+      "Blinds"
+    ],
+    "ownership": null,
+    "woodedArea": null,
+    "middleOrJuniorSchoolDistrict": null,
+    "associationPhone2": null,
+    "onMarketDate": 1752019200000,
+    "roomTypes": [
+      "Entry/Foyer",
+      "Kitchen",
+      "Laundry",
+      "Living Room",
+      "Primary Bathroom",
+      "Primary Bedroom",
+      "Office",
+      "Other"
+    ],
+    "frontageLength": null,
+    "roadSurfaceType": null,
+    "associationAmenities": null,
+    "propertySubType": [
+      "Single Family Residence"
+    ],
+    "hasCooling": true,
+    "levels": "One",
+    "coveredParkingCapacity": 2,
+    "foundationArea": null,
+    "zoning": "RS-1-14",
+    "hoaFee": null,
+    "livingAreaRange": null,
+    "parkingFeatures": [
+      "Concrete",
+      "Direct Access",
+      "Driveway",
+      "Garage Faces Front",
+      "Garage",
+      "RV Access/Parking"
+    ],
+    "parkingCapacity": 2,
+    "cropsIncludedYN": null,
+    "tenantPays": null,
+    "builderModel": null,
+    "otherStructures": null,
+    "otherFacts": {},
+    "additionalFeeInfo": null,
+    "hasView": true,
+    "openParkingCapacity": null,
+    "securityFeatures": [
+      "Carbon Monoxide Detector(s)",
+      "Smoke Detector(s)"
+    ],
+    "numberOfUnitsInCommunity": null,
+    "hasHomeWarranty": false,
+    "basementYN": null,
+    "doorFeatures": [
+      "Mirrored Closet Door(s)",
+      "Sliding Doors"
+    ],
+    "ownershipType": null,
+    "aboveGradeFinishedArea": null,
+    "associations": {},
+    "waterView": null,
+    "electric": null,
+    "buildingFeatures": null,
+    "hasOpenParking": null,
+    "hasCarport": null,
+    "bathroomsHalf": null,
+    "homeType": "SingleFamily",
+    "isSeniorCommunity": null,
+    "municipality": null,
+    "bathroomsThreeQuarter": null,
+    "hasSpa": false,
+    "basement": null,
+    "associationFee2": null,
+    "cooling": [
+      "Central Air"
+    ],
+    "hasHeating": true,
+    "associationName2": null,
+    "hasRentControl": null,
+    "elementarySchoolDistrict": null,
+    "otherEquipment": null,
+    "bathrooms": 2,
+    "buildingArea": null,
+    "furnished": false,
+    "vegetation": null,
+    "patioAndPorchFeatures": [
+      "Rear Porch",
+      "Covered",
+      "Front Porch"
+    ],
+    "bathroomsFloat": 2,
+    "builderName": null,
+    "highSchoolDistrict": "San Diego Unified",
+    "hasElectricOnProperty": null,
+    "laundryFeatures": [
+      "Laundry Room"
+    ],
+    "entryLocation": "1",
+    "fireplaces": null,
+    "heating": [
+      "Central",
+      "Forced Air"
+    ],
+    "availabilityDate": null,
+    "carportParkingCapacity": null,
+    "hasAssociation": null,
+    "irrigationWaterRightsYN": null,
+    "isNewConstruction": false,
+    "associationFeeIncludes": null,
+    "leaseTerm": null,
+    "pricePerSquareFoot": 634,
+    "associationName": null,
+    "elevation": null
+  },
+  "datePosted": "2025-07-09",
+  "bedrooms": 4,
+  "propertyTypeDimension": "Single Family",
+  "mortgageZHLRates": {
+    "thirtyYearFixedBucket": {
+      "rate": 6.306,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756266623617
+    },
+    "fifteenYearFixedBucket": {
+      "rate": 5.601,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756266623617
+    },
+    "arm5Bucket": {
+      "rate": 6.529,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756266623617
+    }
+  },
+  "comingSoonOnMarketDate": null,
+  "favoriteCount": 85,
+  "livingArea": 1764,
+  "zestimateHighPercent": "5",
+  "mlsid": "CV25153880",
+  "isListedByOwner": null,
+  "listingSubType": {
+    "is_comingSoon": false,
+    "is_pending": false,
+    "is_forAuction": false,
+    "is_bankOwned": false,
+    "is_FSBA": true,
+    "is_FSBO": false,
+    "is_newHome": false,
+    "is_foreclosure": false
+  },
+  "buildingId": null,
+  "country": "USA",
+  "price": 1118888,
+  "priceChangeDate": 1754006400000,
+  "contingentListingType": null
+}

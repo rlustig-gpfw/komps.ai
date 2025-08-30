@@ -1,0 +1,1227 @@
+{
+  "buildingPermits": null,
+  "contact_recipients": [
+    {
+      "agent_reason": 1,
+      "zpro": null,
+      "recent_sales": 0,
+      "review_count": 0,
+      "display_name": "Premier Broker Flex Atlanta GA",
+      "badge_type": "Premier Agent",
+      "business_name": "Zillow Group",
+      "rating_average": 0,
+      "phone": {
+        "prefix": "452",
+        "areacode": "206",
+        "number": "1030"
+      },
+      "zuid": "X1-ZUv2ktj4jt3nyh_98wrm",
+      "image_url": "https://www.zillowstatic.com/static/images/nophoto_h_g.png"
+    }
+  ],
+  "longitude": -117.158966,
+  "countyFIPS": null,
+  "imgSrc": "https://photos.zillowstatic.com/fp/a9522a61112ad88930675af6c5e7196c-p_d.jpg",
+  "livingAreaValue": 1312,
+  "streetAddress": "14312 Montano Way",
+  "county": "San Diego County",
+  "monthlyHoaFee": 452,
+  "timeZone": "America/Los_Angeles",
+  "taxHistory": {},
+  "dateSold": null,
+  "annualHomeownersInsurance": 3570,
+  "state": "CA",
+  "listed_by": {
+    "agent_reason": 3,
+    "zpro": false,
+    "recent_sales": 0,
+    "zuid": "X1-ZUx1zvsbwtnb49_3v2ag",
+    "review_count": 0,
+    "display_name": "Don Fontana",
+    "profile_url": "https://www.zillow.com/profile/CaliforniaWest/",
+    "business_name": "California West Realty",
+    "rating_average": 0,
+    "phone": {
+      "prefix": "918",
+      "areacode": "760",
+      "number": "6768"
+    },
+    "badge_type": "Listing Agent",
+    "image_url": "https://photos.zillowstatic.com/fp/13983eb6d254f9b7aa0802b4fb3ce14e-h_n.jpg"
+  },
+  "yearBuilt": 2025,
+  "brokerageName": "California West Realty",
+  "description": "Welcome to the Dorsey Plan One, a stylish two-story condo offering 2 bedrooms, 2 bathrooms, and 1,312 sq. ft. of beautifully arranged living space which is both efficient and elegant. This home features an attached two-car garage and a unique tech space at the entry, perfect for a home office or study area. The modern kitchen is equipped with white shaker soft-close cabinets, a full tile backsplash, quartz countertops, and premium appliances including a five-burner gas stove, microwave, and dishwasher. Designer-selected upgrades are showcased throughout, including beautiful flooring and a whole-house air and water filtration system. 3Roots is known for its award-winning State of the Art Fit & Rec Center operated by the Fit Athletic Club with access to workout class, personal training and nutrition.  Beach entry pool, lap pool and spa, cabanas, BBQs, walking trails, parks and meditation garden. Ready to move in. All renderings(including photographs) are for illustrative purposes only and are of the model home.",
+  "climate": null,
+  "latitude": 32.893276,
+  "nearbyHomes": [
+    {
+      "hdpTypeDimension": "Zestimate",
+      "lotAreaUnits": "sqft",
+      "isShowcaseListing": false,
+      "longitude": -117.159004,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "14409 Segal Way",
+        "zipcode": "92126"
+      },
+      "livingAreaValue": 1230,
+      "lotSize": null,
+      "zpid": 447958827,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 2,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "14409 Segal Way"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "hdpUrl": "/homedetails/14409-Segal-Way-San-Diego-CA-92126/447958827_zpid/",
+      "lotAreaValue": null,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "NDP2501993",
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "OTHER",
+      "latitude": 32.893566,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Condo",
+      "newConstructionType": null,
+      "yearBuilt": 2025,
+      "listingTypeDimension": "Unknown Listed By",
+      "livingArea": 1230,
+      "providerListingID": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/2ff18369ee2da5ddf60d75178d77d690-p_c.jpg"
+        }
+      ],
+      "currency": "USD",
+      "price": 858400,
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    },
+    {
+      "hdpTypeDimension": "Zestimate",
+      "lotAreaUnits": "sqft",
+      "isShowcaseListing": false,
+      "longitude": -117.15876,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "13959 Martel Way",
+        "zipcode": "92126"
+      },
+      "livingAreaValue": 1872,
+      "lotSize": null,
+      "zpid": 448335042,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "TOWNHOUSE",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 4,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "13959 Martel Way"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "hdpUrl": "/homedetails/13959-Martel-Way-San-Diego-CA-92126/448335042_zpid/",
+      "lotAreaValue": null,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "OTHER",
+      "latitude": 32.893547,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Townhouse",
+      "newConstructionType": null,
+      "yearBuilt": null,
+      "listingTypeDimension": "Unknown Listed By",
+      "livingArea": 1872,
+      "providerListingID": "4pu4eh09xvgb",
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/61cac7339f79df4f1681367fd6d1b4c7-p_c.jpg"
+        }
+      ],
+      "currency": "USD",
+      "price": 1157200,
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    },
+    {
+      "hdpTypeDimension": "Zestimate",
+      "lotAreaUnits": "sqft",
+      "isShowcaseListing": false,
+      "longitude": -117.15901,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "13951 Martel Way",
+        "zipcode": "92126"
+      },
+      "livingAreaValue": 1875,
+      "lotSize": null,
+      "zpid": 449121241,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "TOWNHOUSE",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 4,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "13951 Martel Way"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "hdpUrl": "/homedetails/13951-Martel-Way-San-Diego-CA-92126/449121241_zpid/",
+      "lotAreaValue": null,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "OTHER",
+      "latitude": 32.893597,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Townhouse",
+      "newConstructionType": null,
+      "yearBuilt": null,
+      "listingTypeDimension": "Unknown Listed By",
+      "livingArea": 1875,
+      "providerListingID": "229y8fdqn04uu",
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/aab1c7169cc5fc4df8f10be24917c7ef-p_c.jpg"
+        }
+      ],
+      "currency": "USD",
+      "price": 1158100,
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    },
+    {
+      "hdpTypeDimension": "Zestimate",
+      "lotAreaUnits": "sqft",
+      "isShowcaseListing": false,
+      "longitude": -117.1588,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "13961 Martel Way",
+        "zipcode": "92126"
+      },
+      "livingAreaValue": 1618,
+      "lotSize": null,
+      "zpid": 448333877,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "TOWNHOUSE",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 4,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "13961 Martel Way"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "hdpUrl": "/homedetails/13961-Martel-Way-San-Diego-CA-92126/448333877_zpid/",
+      "lotAreaValue": null,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "OTHER",
+      "latitude": 32.893658,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Townhouse",
+      "newConstructionType": null,
+      "yearBuilt": null,
+      "listingTypeDimension": "Unknown Listed By",
+      "livingArea": 1618,
+      "providerListingID": "1svxajmg187fb",
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/768f0902436766d76015129359803ca7-p_c.jpg"
+        }
+      ],
+      "currency": "USD",
+      "price": 1039400,
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    },
+    {
+      "hdpTypeDimension": "ForSale",
+      "lotAreaUnits": "sqft",
+      "isShowcaseListing": false,
+      "longitude": -117.159355,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "13907 Martel Way",
+        "zipcode": "92126"
+      },
+      "livingAreaValue": 1618,
+      "lotSize": null,
+      "zpid": 454197328,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "TOWNHOUSE",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 4,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "13907 Martel Way"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": true,
+      "hdpUrl": "/homedetails/13907-Martel-Way-San-Diego-CA-92126/454197328_zpid/",
+      "lotAreaValue": null,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "FOR_SALE",
+      "latitude": 32.89358,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Townhouse",
+      "newConstructionType": "BUILDER_SPEC",
+      "yearBuilt": 2025,
+      "listingTypeDimension": "New Construction Spec",
+      "livingArea": 1618,
+      "providerListingID": "31225207",
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/6a8eb223734edcf17bb24b60b7bb4783-p_c.jpg"
+        }
+      ],
+      "currency": "USD",
+      "price": 1117971,
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": true,
+        "is_FSBO": false
+      }
+    },
+    {
+      "hdpTypeDimension": "ForSale",
+      "lotAreaUnits": "sqft",
+      "isShowcaseListing": false,
+      "longitude": -117.159355,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "13903 Martel Way",
+        "zipcode": "92126"
+      },
+      "livingAreaValue": 1518,
+      "lotSize": null,
+      "zpid": 455080292,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "TOWNHOUSE",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 4,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "13903 Martel Way"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": true,
+      "hdpUrl": "/homedetails/13903-Martel-Way-San-Diego-CA-92126/455080292_zpid/",
+      "lotAreaValue": null,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "FOR_SALE",
+      "latitude": 32.89358,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Townhouse",
+      "newConstructionType": "BUILDER_SPEC",
+      "yearBuilt": 2025,
+      "listingTypeDimension": "New Construction Spec",
+      "livingArea": 1518,
+      "providerListingID": "31225207",
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/68efdb1cffda526cc784937525c3f81e-p_c.jpg"
+        }
+      ],
+      "currency": "USD",
+      "price": 1000489,
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": true,
+        "is_FSBO": false
+      }
+    },
+    {
+      "hdpTypeDimension": "ForSale",
+      "lotAreaUnits": "sqft",
+      "isShowcaseListing": false,
+      "longitude": -117.159355,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "13901 Martel Way",
+        "zipcode": "92126"
+      },
+      "livingAreaValue": 1872,
+      "lotSize": null,
+      "zpid": 456076099,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "TOWNHOUSE",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 3,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "13901 Martel Way"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": true,
+      "hdpUrl": "/homedetails/13901-Martel-Way-San-Diego-CA-92126/456076099_zpid/",
+      "lotAreaValue": null,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "FOR_SALE",
+      "latitude": 32.89358,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Townhouse",
+      "newConstructionType": "BUILDER_SPEC",
+      "yearBuilt": 2025,
+      "listingTypeDimension": "New Construction Spec",
+      "livingArea": 1872,
+      "providerListingID": "31225207",
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/bf5d18196aef571b2547fe0149fa61c9-p_c.jpg"
+        }
+      ],
+      "currency": "USD",
+      "price": 1236758,
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": true,
+        "is_FSBO": false
+      }
+    },
+    {
+      "hdpTypeDimension": "Zestimate",
+      "lotAreaUnits": "sqft",
+      "isShowcaseListing": false,
+      "longitude": -117.15824,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "14022 Lemurine Way",
+        "zipcode": "92126"
+      },
+      "livingAreaValue": 1669,
+      "lotSize": null,
+      "zpid": 443275259,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "TOWNHOUSE",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 3,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "14022 Lemurine Way"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": true,
+      "hdpUrl": "/homedetails/14022-Lemurine-Way-San-Diego-CA-92126/443275259_zpid/",
+      "lotAreaValue": null,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "OTHER",
+      "latitude": 32.8937,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Townhouse",
+      "newConstructionType": null,
+      "yearBuilt": 2024,
+      "listingTypeDimension": "Unknown Listed By",
+      "livingArea": 1669,
+      "providerListingID": "31225207",
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/705d29a53ad3f8d3bcf24850d8db18f9-p_c.jpg"
+        }
+      ],
+      "currency": "USD",
+      "price": 1038300,
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "priceChangeRate": -0.01847788428225,
+      "date": "2025-08-09",
+      "source": "CRMLS",
+      "postingIsRental": false,
+      "time": 1754697600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "CRMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/cb8caaa629c0af2058e60add67b2f2ee-zillow_web_logo_inf_11.jpg",
+        "infoString1": "NDP2506157"
+      },
+      "pricePerSquareFoot": 648,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 849900
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2025-06-22",
+      "source": "CRMLS",
+      "postingIsRental": false,
+      "time": 1750550400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "CRMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/cb8caaa629c0af2058e60add67b2f2ee-zillow_web_logo_inf_11.jpg",
+        "infoString1": "NDP2506157"
+      },
+      "pricePerSquareFoot": 660,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 865900
+    }
+  ],
+  "neighborhoodMapThumb": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/a9522a61112ad88930675af6c5e7196c-p_c.jpg"
+    }
+  ],
+  "schools": [
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6198-Mason-Elementary-School/",
+      "rating": 6,
+      "totalCount": null,
+      "distance": 1.4,
+      "assigned": null,
+      "name": "Mason Elementary School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Elementary",
+      "grades": "K-5",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6252-Wangenheim-Middle-School/",
+      "rating": 6,
+      "totalCount": null,
+      "distance": 2.2,
+      "assigned": null,
+      "name": "Wangenheim Middle School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Middle",
+      "grades": "6-8",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6203-Mira-Mesa-High-School/",
+      "rating": 9,
+      "totalCount": null,
+      "distance": 1.6,
+      "assigned": null,
+      "name": "Mira Mesa High School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "High",
+      "grades": "9-12",
+      "type": "Public"
+    }
+  ],
+  "rentZestimate": null,
+  "city": "San Diego",
+  "providerListingID": "30372304",
+  "currency": "USD",
+  "listingProvider": {
+    "enhancedVideoURL": null,
+    "showNoContactInfoMessage": false,
+    "postingGroupName": "CalWest",
+    "isZRMSourceText": null,
+    "showLogos": null,
+    "disclaimerText": null,
+    "sourceText": "Source: California Regional MLS",
+    "title": "Listing Provided by",
+    "logos": {},
+    "postingWebsiteURL": "https://www.calwestliving.com/dorsey-3roots?utm_medium=zillow&utm_source=newhomefeed&nhf_channel=6&nhf_listing_id=376384&nhf_listing_type=community&utm_term=comm_DORSEYat3Roots&utm_campaign=dorsey3roots",
+    "agentLicenseNumber": "DRE #01035451",
+    "postingWebsiteLinkText": "CalWest",
+    "enhancedDescriptionText": null,
+    "agentName": "Don Fontana"
+  },
+  "propertyTaxRate": 1.17,
+  "isShowcaseListing": false,
+  "openHouseSchedule": [
+    {
+      "startTime": "2025-08-30 11:00:00",
+      "endTime": "2025-08-30 15:00:00"
+    },
+    {
+      "startTime": "2025-08-31 11:00:00",
+      "endTime": "2025-08-31 15:00:00"
+    }
+  ],
+  "mortgageRates": null,
+  "address": {
+    "community": null,
+    "city": "San Diego",
+    "state": "CA",
+    "neighborhood": null,
+    "subdivision": "DORSEY at 3Roots",
+    "streetAddress": "14312 Montano Way",
+    "zipcode": "92126"
+  },
+  "cityId": 54296,
+  "timeOnZillow": "65 days",
+  "priceChange": -16000,
+  "zestimate": 850200,
+  "zpid": 453606966,
+  "countyId": 2841,
+  "homeType": "CONDO",
+  "livingAreaUnits": "sqft",
+  "pageViewCount": 1451,
+  "homeInsights": [
+    {
+      "insights": [
+        {
+          "treatmentId": "model_0",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Beach entry pool",
+            "Lap pool and spa",
+            "Attached two-car garage",
+            "Designer-selected upgrades",
+            "Unique tech space",
+            "Meditation garden",
+            "Quartz countertops"
+          ]
+        },
+        {
+          "treatmentId": "model_1",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Beach entry pool",
+            "Lap pool and spa",
+            "Attached two-car garage",
+            "Unique tech space",
+            "Meditation garden",
+            "Quartz countertops",
+            "Beautiful flooring"
+          ]
+        }
+      ]
+    }
+  ],
+  "bathrooms": 2,
+  "neighborhoodRegion": {
+    "name": "Miramar"
+  },
+  "zipcode": "92126",
+  "building": null,
+  "zestimateLowPercent": "5",
+  "brokerId": null,
+  "stateId": 9,
+  "url": "/homedetails/14312-Montano-Way-San-Diego-CA-92126/453606966_zpid/",
+  "solarPotential": null,
+  "attributionInfo": {
+    "buyerAgentName": null,
+    "infoString3": "https://photos.zillowstatic.com/fp/cb8caaa629c0af2058e60add67b2f2ee-zillow_web_95_35.jpg",
+    "mlsName": "CRMLS",
+    "coAgentLicenseNumber": null,
+    "listingAgreement": null,
+    "listingOffices": [
+      {
+        "associatedOfficeType": "listOffice",
+        "officeName": "California West Realty"
+      }
+    ],
+    "infoString10": "The multiple listing data appearing on this website, or contained in reports produced therefrom, is owned and copyrighted by California Regional Multiple Listing Service, Inc. (\"CRMLS\") and is protected by all applicable copyright laws. Information provided is for viewer's personal, non-commercial use and may not be used for any purpose other than to identify prospective properties the viewer may be interested in purchasing. All listing data, including but not limited to square footage and lot size is believed to be accurate, but the listing Agent, listing Broker and CRMLS and its affiliates do not warrant or guarantee such accuracy. The viewer should independently verify the listed data prior to making any decisions based on such information by personal inspection and/or contacting a real estate professional.\n\nBased on information from California Regional Multiple Listing Service, Inc. as of 2025-08-26 21:25:46 PDT and /or other sources. All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy. Properties may or may not be listed by the office/agent presenting the information",
+    "buyerAgentMemberStateLicense": null,
+    "brokerName": "California West Realty",
+    "listingAttributionContact": "dfontana@calwestliving.com",
+    "lastUpdated": "2025-08-09 11:51:34",
+    "trueStatus": null,
+    "listingAgentAttributionContact": null,
+    "agentEmail": "dfontana@calwestliving.com",
+    "agentName": "Don Fontana",
+    "attributionTitle": "Listing Provided by:",
+    "mlsId": "NDP2506157",
+    "coAgentName": null,
+    "coAgentNumber": null,
+    "infoString5": "760-918-6768",
+    "listingAgents": [
+      {
+        "memberStateLicense": "DRE #01035451",
+        "memberFullName": "Don Fontana",
+        "associatedAgentType": "listAgent"
+      }
+    ],
+    "agentPhoneNumber": "760-918-6768",
+    "agentLicenseNumber": "DRE #01035451",
+    "providerLogo": "https://photos.zillowstatic.com/fp/cb8caaa629c0af2058e60add67b2f2ee-zillow_web_95_35.jpg",
+    "infoString16": null,
+    "buyerBrokerageName": null,
+    "mlsDisclaimer": "The multiple listing data appearing on this website, or contained in reports produced therefrom, is owned and copyrighted by California Regional Multiple Listing Service, Inc. (\"CRMLS\") and is protected by all applicable copyright laws. Information provided is for viewer's personal, non-commercial use and may not be used for any purpose other than to identify prospective properties the viewer may be interested in purchasing. All listing data, including but not limited to square footage and lot size is believed to be accurate, but the listing Agent, listing Broker and CRMLS and its affiliates do not warrant or guarantee such accuracy. The viewer should independently verify the listed data prior to making any decisions based on such information by personal inspection and/or contacting a real estate professional.\n\nBased on information from California Regional Multiple Listing Service, Inc. as of 2025-08-26 21:25:46 PDT and /or other sources. All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy. Properties may or may not be listed by the office/agent presenting the information",
+    "brokerPhoneNumber": "760-918-6768",
+    "lastChecked": "2025-08-26 21:25:46"
+  },
+  "priceChangeDateString": "2025-08-09",
+  "photoCount": 14,
+  "homeStatus": "FOR_SALE",
+  "homeFacts": null,
+  "resoFacts": {
+    "hasAttachedProperty": true,
+    "frontageType": null,
+    "poolFeatures": [
+      "Association"
+    ],
+    "flooring": null,
+    "foundationDetails": {},
+    "accessibilityFeatures": [
+      "Accessible Doors"
+    ],
+    "hasGarage": true,
+    "hasPetsAllowed": null,
+    "bodyType": null,
+    "topography": null,
+    "landLeaseExpirationDate": null,
+    "hasAdditionalParcels": false,
+    "parkName": null,
+    "livingQuarters": {},
+    "taxAssessedValue": null,
+    "atAGlanceFacts": [
+      {
+        "factValue": "Condominium",
+        "factLabel": "Type"
+      },
+      {
+        "factValue": "2025",
+        "factLabel": "Year Built"
+      },
+      {
+        "factValue": null,
+        "factLabel": "Heating"
+      },
+      {
+        "factValue": "Central Air",
+        "factLabel": "Cooling"
+      },
+      {
+        "factValue": "2 Attached Garage spaces",
+        "factLabel": "Parking"
+      },
+      {
+        "factValue": "$452 monthly",
+        "factLabel": "HOA"
+      },
+      {
+        "factValue": "65 Days",
+        "factLabel": "Days on Zillow"
+      },
+      {
+        "factValue": "$648",
+        "factLabel": "Price/sqft"
+      },
+      {
+        "factValue": null,
+        "factLabel": "Offer Review Date"
+      }
+    ],
+    "offerReviewDate": null,
+    "horseYN": null,
+    "view": [
+      "None"
+    ],
+    "rooms": [
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "Bedroom",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": [
+          "All Bedrooms Up"
+        ],
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      }
+    ],
+    "belowGradeFinishedArea": null,
+    "feesAndDues": [
+      {
+        "phone": "858-657-2168",
+        "name": "Dorsey at 3Roots Neighborhood Ass",
+        "fee": "$203 monthly",
+        "type": "HOA"
+      },
+      {
+        "phone": null,
+        "name": "3 Roots Master Association",
+        "fee": "$249 monthly",
+        "type": "HOA"
+      }
+    ],
+    "cityRegion": "San Diego",
+    "mainLevelBathrooms": 2,
+    "hasPrivatePool": null,
+    "landLeaseAmount": null,
+    "waterSource": null,
+    "exteriorFeatures": {},
+    "inclusions": null,
+    "hasFireplace": false,
+    "gas": null,
+    "propertyCondition": null,
+    "elevationUnits": null,
+    "exclusions": null,
+    "mainLevelBedrooms": 0,
+    "numberOfUnitsVacant": null,
+    "hasWaterfrontView": null,
+    "bathroomsOneQuarter": null,
+    "lotSize": null,
+    "entryLevel": null,
+    "media": [
+      {
+        "mediaCategory": "UnbrandedVirtualTour",
+        "mediaURL": "https://www.propertypanorama.com/instaview/crmls/NDP2409367"
+      }
+    ],
+    "greenWaterConservation": null,
+    "stories": 2,
+    "livingArea": "1,312 sqft",
+    "commonWalls": "1 Common Wall",
+    "listingTerms": "Cash,Conventional,Fannie Mae,VA Loan",
+    "otherParking": null,
+    "associationFee": "$203 monthly",
+    "marketingType": null,
+    "greenIndoorAirQuality": null,
+    "greenSustainability": null,
+    "livingAreaRangeUnits": "Square Feet",
+    "associationPhone": "858-657-2168",
+    "greenBuildingVerificationType": null,
+    "hasAttachedGarage": true,
+    "bedrooms": 2,
+    "architecturalStyle": null,
+    "listingId": null,
+    "structureType": "Triplex",
+    "interiorFeatures": [
+      "All Bedrooms Up"
+    ],
+    "horseAmenities": null,
+    "garageParkingCapacity": 2,
+    "developmentStatus": null,
+    "lotFeatures": null,
+    "roofType": null,
+    "compensationBasedOn": null,
+    "greenEnergyGeneration": null,
+    "daysOnZillow": 65,
+    "listAOR": "California Regional MLS (North San Diego County & Pacific Southwest AORs)",
+    "buildingAreaSource": null,
+    "elementarySchool": null,
+    "zoningDescription": null,
+    "irrigationWaterRightsAcres": null,
+    "yearBuiltEffective": null,
+    "greenEnergyEfficient": null,
+    "constructionMaterials": {},
+    "fireplaceFeatures": [
+      "None"
+    ],
+    "hoaFeeTotal": "$452 monthly",
+    "appliances": [
+      "Dishwasher",
+      "Disposal",
+      "Gas Range",
+      "Microwave",
+      "Tankless Water Heater"
+    ],
+    "sewer": [
+      "Public Sewer"
+    ],
+    "bathroomsPartial": null,
+    "fencing": null,
+    "spaFeatures": null,
+    "waterViewYN": false,
+    "buildingName": null,
+    "attic": null,
+    "petsMaxWeight": null,
+    "cumulativeDaysOnMarket": null,
+    "waterfrontFeatures": null,
+    "additionalParcelsDescription": null,
+    "canRaiseHorses": false,
+    "hasLandLease": false,
+    "communityFeatures": [
+      "Park",
+      "Street Lights",
+      "Sidewalks"
+    ],
+    "waterBodyName": null,
+    "middleOrJuniorSchool": null,
+    "lotSizeDimensions": null,
+    "virtualTour": "https://www.propertypanorama.com/instaview/crmls/NDP2409367",
+    "contingency": null,
+    "yearBuilt": 2025,
+    "utilities": null,
+    "totalActualRent": null,
+    "bathroomsFull": 2,
+    "parcelNumber": null,
+    "incomeIncludes": null,
+    "highSchool": null,
+    "taxAnnualAmount": 9944,
+    "subdivisionName": "DORSEY at 3Roots",
+    "storiesTotal": 2,
+    "storiesDecimal": 2,
+    "specialListingConditions": "Standard",
+    "windowFeatures": null,
+    "ownership": null,
+    "woodedArea": null,
+    "middleOrJuniorSchoolDistrict": null,
+    "associationPhone2": null,
+    "onMarketDate": 1750550400000,
+    "roomTypes": [
+      "Bedroom"
+    ],
+    "frontageLength": null,
+    "roadSurfaceType": null,
+    "associationAmenities": [
+      "Clubhouse",
+      "Fitness Center",
+      "Meeting Room",
+      "Maintenance Front Yard",
+      "Outdoor Cooking Area",
+      "Barbecue",
+      "Playground",
+      "Pool",
+      "Sauna",
+      "Spa/Hot Tub",
+      "Trail(s)"
+    ],
+    "propertySubType": [
+      "Condominium"
+    ],
+    "hasCooling": true,
+    "levels": "Two",
+    "coveredParkingCapacity": 2,
+    "foundationArea": null,
+    "zoning": "Residential",
+    "hoaFee": "$452 monthly",
+    "livingAreaRange": null,
+    "parkingFeatures": [
+      "Garage"
+    ],
+    "parkingCapacity": 2,
+    "cropsIncludedYN": null,
+    "tenantPays": null,
+    "builderModel": null,
+    "otherStructures": null,
+    "otherFacts": {},
+    "additionalFeeInfo": null,
+    "hasView": true,
+    "openParkingCapacity": null,
+    "securityFeatures": null,
+    "numberOfUnitsInCommunity": 94,
+    "hasHomeWarranty": false,
+    "basementYN": null,
+    "doorFeatures": null,
+    "ownershipType": null,
+    "aboveGradeFinishedArea": null,
+    "associations": [
+      {
+        "feeFrequency": "$203 monthly",
+        "name": "Dorsey at 3Roots Neighborhood Ass",
+        "phone": "858-657-2168"
+      },
+      {
+        "feeFrequency": "$249 monthly",
+        "name": "3 Roots Master Association",
+        "phone": null
+      }
+    ],
+    "waterView": null,
+    "electric": null,
+    "buildingFeatures": null,
+    "hasOpenParking": null,
+    "hasCarport": null,
+    "bathroomsHalf": null,
+    "homeType": "Condo",
+    "isSeniorCommunity": null,
+    "municipality": null,
+    "bathroomsThreeQuarter": null,
+    "hasSpa": false,
+    "basement": null,
+    "associationFee2": "$249 monthly",
+    "cooling": [
+      "Central Air"
+    ],
+    "hasHeating": null,
+    "associationName2": "3 Roots Master Association",
+    "hasRentControl": null,
+    "elementarySchoolDistrict": null,
+    "otherEquipment": null,
+    "bathrooms": 2,
+    "buildingArea": null,
+    "furnished": false,
+    "vegetation": null,
+    "patioAndPorchFeatures": null,
+    "bathroomsFloat": 2,
+    "builderName": "CalWest",
+    "highSchoolDistrict": "San Diego Unified",
+    "hasElectricOnProperty": null,
+    "laundryFeatures": [
+      "Electric Dryer Hookup",
+      "Gas Dryer Hookup",
+      "Stacked"
+    ],
+    "entryLocation": "1",
+    "fireplaces": null,
+    "heating": null,
+    "availabilityDate": null,
+    "carportParkingCapacity": null,
+    "hasAssociation": true,
+    "irrigationWaterRightsYN": null,
+    "isNewConstruction": true,
+    "associationFeeIncludes": null,
+    "leaseTerm": null,
+    "pricePerSquareFoot": 648,
+    "associationName": "Dorsey at 3Roots Neighborhood Ass",
+    "elevation": null
+  },
+  "datePosted": "2025-06-22",
+  "bedrooms": 2,
+  "propertyTypeDimension": "Condo",
+  "mortgageZHLRates": {
+    "thirtyYearFixedBucket": {
+      "rate": 6.283,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756258620811
+    },
+    "fifteenYearFixedBucket": {
+      "rate": 5.593,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756258620811
+    },
+    "arm5Bucket": {
+      "rate": 6.49,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756258620811
+    }
+  },
+  "comingSoonOnMarketDate": null,
+  "favoriteCount": 49,
+  "livingArea": 1312,
+  "zestimateHighPercent": "5",
+  "mlsid": "NDP2506157",
+  "isListedByOwner": null,
+  "listingSubType": {
+    "is_comingSoon": false,
+    "is_pending": false,
+    "is_forAuction": false,
+    "is_bankOwned": false,
+    "is_FSBA": false,
+    "is_FSBO": false,
+    "is_newHome": true,
+    "is_foreclosure": false
+  },
+  "buildingId": null,
+  "country": "USA",
+  "price": 849900,
+  "priceChangeDate": 1754697600000,
+  "contingentListingType": null
+}

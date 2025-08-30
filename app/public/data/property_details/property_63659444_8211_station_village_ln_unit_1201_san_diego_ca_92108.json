@@ -1,0 +1,1827 @@
+{
+  "buildingPermits": null,
+  "contact_recipients": [
+    {
+      "agent_reason": 1,
+      "zpro": null,
+      "recent_sales": 0,
+      "review_count": 0,
+      "display_name": "Premier Broker Flex Atlanta GA",
+      "badge_type": "Premier Agent",
+      "business_name": "Zillow Group",
+      "rating_average": 0,
+      "phone": {
+        "prefix": "452",
+        "areacode": "206",
+        "number": "1030"
+      },
+      "zuid": "X1-ZUv2ktj4jt3nyh_98wrm",
+      "image_url": "https://www.zillowstatic.com/static/images/nophoto_h_g.png"
+    }
+  ],
+  "longitude": -117.149216,
+  "countyFIPS": "06073",
+  "imgSrc": "https://photos.zillowstatic.com/fp/9ec0e7c5a85b1b5aee38434057785f21-p_d.jpg",
+  "livingAreaValue": 930,
+  "streetAddress": "8211 Station Village Ln UNIT 1201",
+  "county": "San Diego County",
+  "monthlyHoaFee": 580,
+  "timeZone": "America/Los_Angeles",
+  "taxHistory": [
+    {
+      "time": 1724733783484,
+      "valueIncreaseRate": 0.019998157,
+      "taxIncreaseRate": 0.022890376,
+      "taxPaid": 5398.14,
+      "value": 442924
+    },
+    {
+      "time": 1693111383484,
+      "valueIncreaseRate": 0.019998778,
+      "taxIncreaseRate": 0.02752745,
+      "taxPaid": 5277.34,
+      "value": 434240
+    },
+    {
+      "time": 1661575383484,
+      "valueIncreaseRate": 0.01999861,
+      "taxIncreaseRate": 0.0072089275,
+      "taxPaid": 5135.96,
+      "value": 425726
+    },
+    {
+      "time": 1630039383484,
+      "valueIncreaseRate": 0.0103582665,
+      "taxIncreaseRate": 0.01240087,
+      "taxPaid": 5099.2,
+      "value": 417379
+    },
+    {
+      "time": 1598503383484,
+      "valueIncreaseRate": 0.03807011,
+      "taxIncreaseRate": 0.04573489,
+      "taxPaid": 5036.74,
+      "value": 413100
+    },
+    {
+      "time": 1566880983484,
+      "valueIncreaseRate": 0.019997539,
+      "taxIncreaseRate": 0.041450843,
+      "taxPaid": 4816.46,
+      "value": 397950
+    },
+    {
+      "time": 1535344983484,
+      "valueIncreaseRate": 0.019997438,
+      "taxIncreaseRate": 0.024237473,
+      "taxPaid": 4624.76,
+      "value": 390148
+    },
+    {
+      "time": 1503808983484,
+      "valueIncreaseRate": -0.07831566,
+      "taxIncreaseRate": -0.080996804,
+      "taxPaid": 4515.32,
+      "value": 382499
+    },
+    {
+      "time": 1472272983484,
+      "valueIncreaseRate": 0.0375,
+      "taxIncreaseRate": 0.036605075,
+      "taxPaid": 4913.28,
+      "value": 415000
+    },
+    {
+      "time": 1440650583484,
+      "valueIncreaseRate": 0.09589041,
+      "taxIncreaseRate": 0.09009069,
+      "taxPaid": 4739.78,
+      "value": 400000
+    },
+    {
+      "time": 1409114583484,
+      "valueIncreaseRate": 0.30357143,
+      "taxIncreaseRate": 0,
+      "taxPaid": 4348.06,
+      "value": 365000
+    },
+    {
+      "time": 1377578583484,
+      "valueIncreaseRate": 0.033210333,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 280000
+    },
+    {
+      "time": 1346042583484,
+      "valueIncreaseRate": -0.16099072,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 271000
+    },
+    {
+      "time": 1314420183484,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 323000
+    },
+    {
+      "time": 1282884183484,
+      "valueIncreaseRate": -0.07183908,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 323000
+    },
+    {
+      "time": 1251348183484,
+      "valueIncreaseRate": -0.15121952,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 348000
+    },
+    {
+      "time": 1219812183484,
+      "valueIncreaseRate": -0.11559784,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 410000
+    },
+    {
+      "time": 1188189783484,
+      "valueIncreaseRate": 1.0633897,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 463590
+    },
+    {
+      "time": 1156653783484,
+      "valueIncreaseRate": 0.18939951,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 224674
+    },
+    {
+      "time": 1125117783484,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 188897
+    }
+  ],
+  "dateSold": null,
+  "annualHomeownersInsurance": 2730,
+  "state": "CA",
+  "listed_by": {
+    "agent_reason": 3,
+    "zpro": false,
+    "recent_sales": 0,
+    "zuid": "X1-ZUzftnfgl6nxu1_23up7",
+    "review_count": 25,
+    "display_name": "Ryan Judson",
+    "profile_url": "https://www.zillow.com/profile/ryanjudson/",
+    "business_name": "Compass",
+    "rating_average": 5,
+    "phone": {
+      "prefix": "809",
+      "areacode": "760",
+      "number": "4723"
+    },
+    "badge_type": "Listing Agent",
+    "image_url": "https://photos.zillowstatic.com/fp/ce02e44839a3aa280288ca632a0b8221-h_n.jpg"
+  },
+  "yearBuilt": 2005,
+  "brokerageName": "Compass",
+  "description": "Price Improvement!!! Luxury Living on the River – Designer Condo in the Coveted Lido at Mission Valley  Welcome to your dream retreat in the heart of Mission Valley! This beautifully upgraded 2-bedroom condo in the exclusive Lido community offers modern luxury with resort-style amenities.  Enjoy an open-concept layout with high ceilings, designer lighting, and a stylish mix of slate tile, cherry-toned vinyl wood, and plush carpet. The expanded chef’s kitchen features DEKTON countertops, custom cabinetry, a farmhouse sink, stainless steel appliances, and a gas range—perfect for entertaining or everyday elegance.  The versatile second bedroom works beautifully as a guest room, nursery, or office. The spacious primary suite boasts serene San Diego River views, a custom walk-in closet, and direct access to a dual-entry bathroom.  Relax on your private patio overlooking tranquil riverfront scenery. Additional perks include in-unit laundry, central A/C and heat, a gated parking space, and two storage lockers.  Lido offers premium amenities: two pools/spas, fire pits, BBQ areas, a clubhouse, gym, and direct access to river trails. All just minutes from Fashion Valley Mall, Trader Joe’s, top dining, Target, freeways, and the trolley.  Turnkey, stylish, and superbly located—this is Mission Valley living at its best. You won't find another like it! Luxury Living on the River – Designer Condo in the Coveted Lido at Mission Valley  Welcome to your dream retreat in the heart of Mission Valley! This exquisitely upgraded 2-bedroom condo in the exclusive Lido community blends upscale finishes with resort-style amenities for the ultimate in modern luxury.  Step into a stunning, open-concept living space featuring high ceilings, designer lighting, and a rich blend of slate tile, cherry-toned vinyl wood, and plush bedroom carpeting. The expanded chef’s kitchen is a showstopper—outfitted with striking DEKTON countertops, custom cabinetry, a farmhouse sink, stainless steel appliances, a gas range, and sleek finishes fit for a culinary artist.  The versatile second bedroom—with its own closet—is perfect as a guest room, home office, or nursery. The spacious primary suite offers a serene escape with tranquil views of the San Diego River, a custom walk-in closet, and private access to a beautifully remodeled dual-entry bathroom.  Step out onto your private patio to take in peaceful riverfront views—your own slice of nature just moments from the city.  Additional perks include in-unit laundry, central A/C and heat, a gated assigned parking space, and two storage lockers. Lido residents enjoy top-tier amenities: two sparkling pools and spas, outdoor fire pits and BBQs, a stylish clubhouse, full fitness center, and direct access to scenic river trails.  Just minutes from Fashion Valley Mall, Trader Joe’s, top dining, Target, and major freeways & trolley stops, this turnkey gem is ideal for professionals, first-time buyers, investors, or anyone craving upscale convenience with a resort-style flair.  Luxury, location, and lifestyle—this is Mission Valley living at its finest. Don’t miss your chance to call it home.",
+  "climate": {
+    "windSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "probability": {},
+        "source": {
+          "url": "https://firststreet.org/property/8211-station-village-ln-unit-1201-san-diego-ca-92108/603555745_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 18
+      }
+    },
+    "floodSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "femaZone": "X_UNSHADED",
+        "source": {
+          "url": "https://firststreet.org/property/8211-station-village-ln-unit-1201-san-diego-ca-92108/603555745_fsid"
+        },
+        "probability": [
+          {
+            "relativeYear": 0,
+            "probability": 0
+          },
+          {
+            "relativeYear": 5,
+            "probability": 0
+          },
+          {
+            "relativeYear": 10,
+            "probability": 0
+          },
+          {
+            "relativeYear": 15,
+            "probability": 0
+          },
+          {
+            "relativeYear": 20,
+            "probability": 0
+          },
+          {
+            "relativeYear": 25,
+            "probability": 0
+          },
+          {
+            "relativeYear": 30,
+            "probability": 0
+          }
+        ],
+        "insuranceSeparatePolicy": "NOT_REQUIRED",
+        "historicCountPropertyAll": 0
+      }
+    },
+    "fireSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "probability": {},
+        "source": {
+          "url": "https://firststreet.org/property/8211-station-village-ln-unit-1201-san-diego-ca-92108/603555745_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 30
+      }
+    },
+    "heatSources": {
+      "primary": {
+        "percentile98Temp": 87,
+        "hotDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 7
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 9
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 11
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 14
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 16
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 18
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 20
+          }
+        ],
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 4
+        },
+        "source": {
+          "url": "https://firststreet.org/property/8211-station-village-ln-unit-1201-san-diego-ca-92108/603555745_fsid"
+        }
+      }
+    },
+    "airSources": {
+      "primary": {
+        "source": {
+          "url": "https://firststreet.org/property/8211-station-village-ln-unit-1201-san-diego-ca-92108/603555745_fsid"
+        },
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 3
+        },
+        "badAirDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 4
+          }
+        ]
+      }
+    }
+  },
+  "latitude": 32.77307,
+  "nearbyHomes": [
+    {
+      "hdpTypeDimension": "ForSale",
+      "lotAreaUnits": "sqft",
+      "isShowcaseListing": false,
+      "longitude": -117.149216,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "8211 Station Village Ln UNIT 1103",
+        "zipcode": "92108"
+      },
+      "livingAreaValue": 1176,
+      "lotSize": null,
+      "zpid": 63659434,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 2,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "8211 Station Village Ln UNIT 1103"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "hdpUrl": "/homedetails/8211-Station-Village-Ln-UNIT-1103-San-Diego-CA-92108/63659434_zpid/",
+      "lotAreaValue": null,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "250036947",
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "FOR_SALE",
+      "latitude": 32.77307,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Condo",
+      "newConstructionType": null,
+      "yearBuilt": 2005,
+      "listingTypeDimension": "For Sale by Agent",
+      "livingArea": 1176,
+      "providerListingID": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/543bc6ec17e2e3840b1af5ac5236e9c1-p_c.jpg"
+        }
+      ],
+      "currency": "USD",
+      "price": 699000,
+      "listing_sub_type": {
+        "is_FSBA": true,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "8211 Station Village Ln UNIT 1106"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/8211-Station-Village-Ln-UNIT-1106-San-Diego-CA-92108/63659437_zpid/",
+      "lotAreaValue": 0.83,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "8211 Station Village Ln UNIT 1106",
+        "zipcode": "92108"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "240028382",
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.77307,
+      "homeStatus": "RECENTLY_SOLD",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 814000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 36154,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/fb56b00be8219eb2d8bb1e5a2d724c2f-p_c.jpg"
+        }
+      ],
+      "zpid": 63659437,
+      "hdpTypeDimension": "RecentlySold",
+      "livingArea": 1274,
+      "longitude": -117.149216,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1274
+    },
+    {
+      "hdpTypeDimension": "ForSale",
+      "lotAreaUnits": "Acres",
+      "isShowcaseListing": false,
+      "longitude": -117.149216,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "8211 Station Village Ln UNIT 1111",
+        "zipcode": "92108"
+      },
+      "livingAreaValue": 1176,
+      "lotSize": 36154,
+      "zpid": 63659442,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 2,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "8211 Station Village Ln UNIT 1111"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "hdpUrl": "/homedetails/8211-Station-Village-Ln-UNIT-1111-San-Diego-CA-92108/63659442_zpid/",
+      "lotAreaValue": 0.83,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "250035405",
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "FOR_SALE",
+      "latitude": 32.77307,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Condo",
+      "newConstructionType": null,
+      "yearBuilt": 2005,
+      "listingTypeDimension": "For Sale by Agent",
+      "livingArea": 1176,
+      "providerListingID": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/6a63f853176fdcd26d91a2c552e72e00-p_c.jpg"
+        }
+      ],
+      "currency": "USD",
+      "price": 699000,
+      "listing_sub_type": {
+        "is_FSBA": true,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    },
+    {
+      "hdpTypeDimension": "ForRent",
+      "lotAreaUnits": "sqft",
+      "isShowcaseListing": false,
+      "longitude": -117.149216,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "8211 Station Village Ln UNIT 1304",
+        "zipcode": "92108"
+      },
+      "livingAreaValue": 1776,
+      "lotSize": null,
+      "zpid": 63659457,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 2,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "8211 Station Village Ln UNIT 1304"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "hdpUrl": "/homedetails/8211-Station-Village-Ln-UNIT-1304-San-Diego-CA-92108/63659457_zpid/",
+      "lotAreaValue": null,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "250037177",
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "FOR_RENT",
+      "latitude": 32.77307,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Condo",
+      "newConstructionType": null,
+      "yearBuilt": 2005,
+      "listingTypeDimension": "For Rent",
+      "livingArea": 1776,
+      "providerListingID": "2ha0z5f6gwv5",
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/254fcbecd33a4b941e55e08dca615b36-p_c.jpg"
+        }
+      ],
+      "currency": "USD",
+      "price": 4350,
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    },
+    {
+      "hdpTypeDimension": "RecentlySold",
+      "lotAreaUnits": "Acres",
+      "isShowcaseListing": false,
+      "longitude": -117.149216,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "8211 Station Village Ln UNIT 1309",
+        "zipcode": "92108"
+      },
+      "livingAreaValue": 1274,
+      "lotSize": 36154,
+      "zpid": 63659462,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 2,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "8211 Station Village Ln UNIT 1309"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "hdpUrl": "/homedetails/8211-Station-Village-Ln-UNIT-1309-San-Diego-CA-92108/63659462_zpid/",
+      "lotAreaValue": 0.83,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "240012196",
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "SOLD",
+      "latitude": 32.77307,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Condo",
+      "newConstructionType": null,
+      "yearBuilt": null,
+      "listingTypeDimension": "Unknown Listed By",
+      "livingArea": 1274,
+      "providerListingID": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/257ef6008549d34d3ead920ebb9fef32-p_c.jpg"
+        }
+      ],
+      "currency": "USD",
+      "price": 790000,
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "sqft",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "8211 Station Village Ln UNIT 1310"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/8211-Station-Village-Ln-UNIT-1310-San-Diego-CA-92108/63659463_zpid/",
+      "lotAreaValue": null,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "8211 Station Village Ln UNIT 1310",
+        "zipcode": "92108"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "230008829",
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.77307,
+      "homeStatus": "SOLD",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 856000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/780285819c75bfaceab28a6c113df7af-p_c.jpg"
+        }
+      ],
+      "zpid": 63659463,
+      "hdpTypeDimension": "RecentlySold",
+      "livingArea": 1538,
+      "longitude": -117.149216,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1538
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "8211 Station Village Ln UNIT 1202"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/8211-Station-Village-Ln-UNIT-1202-San-Diego-CA-92108/63659445_zpid/",
+      "lotAreaValue": 0.82688246097337,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "8211 Station Village Ln UNIT 1202",
+        "zipcode": "92108"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.773075,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 891800,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Multi Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 36019,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/a6ef1244fbbeb1e71e43cf30ea497894-p_c.jpg"
+        }
+      ],
+      "zpid": 63659445,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1538,
+      "longitude": -117.14921,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "MULTI_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1538
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "8211 Station Village Ln UNIT 1210"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/8211-Station-Village-Ln-UNIT-1210-San-Diego-CA-92108/63659451_zpid/",
+      "lotAreaValue": 0.83,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "8211 Station Village Ln UNIT 1210",
+        "zipcode": "92108"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.773075,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 860200,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Apartment",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 36154,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/4386ecb7abe974b481f7af4ab8150e4b-p_c.jpg"
+        }
+      ],
+      "zpid": 63659451,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1538,
+      "longitude": -117.14921,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "APARTMENT",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1538
+    }
+  ],
+  "priceHistory": [
+    {
+      "priceChangeRate": -0.037037037037037,
+      "date": "2025-07-15",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1752537600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "250032420"
+      },
+      "pricePerSquareFoot": 699,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 650000
+    },
+    {
+      "priceChangeRate": -0.034334763948498,
+      "date": "2025-07-03",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1751500800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "250032420"
+      },
+      "pricePerSquareFoot": 726,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 675000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2025-07-03",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1751500800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "250025284"
+      },
+      "pricePerSquareFoot": 752,
+      "buyerAgent": null,
+      "event": "Listing removed",
+      "price": 699000
+    },
+    {
+      "priceChangeRate": -0.061744966442953,
+      "date": "2025-05-22",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1747872000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "250025284"
+      },
+      "pricePerSquareFoot": 752,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 699000
+    },
+    {
+      "priceChangeRate": 0.83950617283951,
+      "date": "2025-04-23",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1745366400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "250025284"
+      },
+      "pricePerSquareFoot": 801,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 745000
+    },
+    {
+      "priceChangeRate": -0.0097799511002445,
+      "date": "2019-02-25",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 1551052800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 435,
+      "buyerAgent": null,
+      "event": "Sold",
+      "price": 405000
+    },
+    {
+      "priceChangeRate": -0.021531100478469,
+      "date": "2018-10-10",
+      "source": "Christine LaBounty, Realtor with Keller Williams Carmel Valley",
+      "postingIsRental": false,
+      "time": 1539129600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Christine LaBounty, Realtor with Keller Williams Carmel Valley",
+        "infoString3": null,
+        "infoString1": "180052984"
+      },
+      "pricePerSquareFoot": 440,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 409000
+    },
+    {
+      "priceChangeRate": 0.11466666666667,
+      "date": "2018-09-21",
+      "source": "Keller Williams-Carmel Valley",
+      "postingIsRental": false,
+      "time": 1537488000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Keller Williams-Carmel Valley",
+        "infoString3": null,
+        "infoString1": "180052984"
+      },
+      "pricePerSquareFoot": 449,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 418000
+    },
+    {
+      "priceChangeRate": -0.025974025974026,
+      "date": "2016-03-21",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 1458518400000,
+      "sellerAgent": {
+        "name": "Sean Zanganeh",
+        "photo": null,
+        "profileUrl": "/profile/Sean-Zanganeh/"
+      },
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 403,
+      "buyerAgent": {
+        "name": "Christine La Bounty",
+        "photo": null,
+        "profileUrl": "/profile/christinelabounty0/"
+      },
+      "event": "Sold",
+      "price": 375000
+    },
+    {
+      "priceChangeRate": -0.025316455696203,
+      "date": "2016-01-28",
+      "source": "Windermere Homes & Estates",
+      "postingIsRental": false,
+      "time": 1453939200000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Windermere Homes & Estates",
+        "infoString3": null,
+        "infoString1": "150031293"
+      },
+      "pricePerSquareFoot": 414,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 385000
+    },
+    {
+      "priceChangeRate": -0.0087829360100376,
+      "date": "2015-12-14",
+      "source": "Windermere Homes & Estates",
+      "postingIsRental": false,
+      "time": 1450051200000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Windermere Homes & Estates",
+        "infoString3": null,
+        "infoString1": "150031293"
+      },
+      "pricePerSquareFoot": 425,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 395000
+    },
+    {
+      "priceChangeRate": -0.028048780487805,
+      "date": "2015-07-30",
+      "source": "Windermere Homes & Estates",
+      "postingIsRental": false,
+      "time": 1438214400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Windermere Homes & Estates",
+        "infoString3": null,
+        "infoString1": "150031293"
+      },
+      "pricePerSquareFoot": 428,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 398500
+    },
+    {
+      "priceChangeRate": -0.044289044289044,
+      "date": "2015-07-13",
+      "source": "Windermere Homes & Estates",
+      "postingIsRental": false,
+      "time": 1436745600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Windermere Homes & Estates",
+        "infoString3": null,
+        "infoString1": "150031293"
+      },
+      "pricePerSquareFoot": 441,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 410000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2015-06-09",
+      "source": "Windermere Homes & Estates",
+      "postingIsRental": true,
+      "time": 1433808000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Windermere Homes & Estates",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 2,
+      "buyerAgent": null,
+      "event": "Listing removed",
+      "price": 2000
+    },
+    {
+      "priceChangeRate": 251.35294117647,
+      "date": "2015-06-09",
+      "source": "Windermere Homes & Estates",
+      "postingIsRental": false,
+      "time": 1433808000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Windermere Homes & Estates",
+        "infoString3": null,
+        "infoString1": "150031293"
+      },
+      "pricePerSquareFoot": 461,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 429000
+    },
+    {
+      "priceChangeRate": -0.16666666666667,
+      "date": "2015-04-29",
+      "source": "Windermere Homes & Estates",
+      "postingIsRental": true,
+      "time": 1430265600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Windermere Homes & Estates",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 2,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 2000
+    },
+    {
+      "priceChangeRate": 0.2,
+      "date": "2015-01-26",
+      "source": "Point2",
+      "postingIsRental": true,
+      "time": 1422230400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Point2",
+        "infoString3": null,
+        "infoString1": "150004177"
+      },
+      "pricePerSquareFoot": 3,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 2400
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2015-01-24",
+      "source": "Windermere Homes & Estates",
+      "postingIsRental": true,
+      "time": 1422057600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Windermere Homes & Estates",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 2,
+      "buyerAgent": null,
+      "event": "Listed for rent",
+      "price": 2000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2011-07-02",
+      "source": "Real Living",
+      "postingIsRental": false,
+      "time": 1309564800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Real Living",
+        "infoString3": null,
+        "infoString1": "110033617"
+      },
+      "pricePerSquareFoot": 2,
+      "buyerAgent": null,
+      "event": "Listing removed",
+      "price": 1700
+    },
+    {
+      "priceChangeRate": -0.9962596259626,
+      "date": "2011-06-11",
+      "source": "Real Living",
+      "postingIsRental": false,
+      "time": 1307750400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Real Living",
+        "infoString3": null,
+        "infoString1": "110033617"
+      },
+      "pricePerSquareFoot": 2,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 1700
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2006-05-11",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 1147305600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 489,
+      "buyerAgent": {
+        "name": "Christine La Bounty",
+        "photo": null,
+        "profileUrl": "/profile/christinelabounty0/"
+      },
+      "event": "Sold",
+      "price": 454500
+    }
+  ],
+  "neighborhoodMapThumb": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/9ec0e7c5a85b1b5aee38434057785f21-p_c.jpg"
+    }
+  ],
+  "schools": [
+    {
+      "link": "https://www.greatschools.org/california/san-diego/33872-Nipaquay-Elementary/",
+      "rating": 6,
+      "totalCount": null,
+      "distance": 0.3,
+      "assigned": null,
+      "name": "Nipaquay Elementary",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Elementary",
+      "grades": "K-5",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6242-Taft-Middle-School/",
+      "rating": 7,
+      "totalCount": null,
+      "distance": 2.3,
+      "assigned": null,
+      "name": "Taft Middle School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Middle",
+      "grades": "6-8",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/14240-Kearny-Construction-Tech-School/",
+      "rating": 9,
+      "totalCount": null,
+      "distance": 2,
+      "assigned": null,
+      "name": "Kearny Engineering Innovation & Design",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "High",
+      "grades": "9-12",
+      "type": "Public"
+    }
+  ],
+  "rentZestimate": 3050,
+  "city": "San Diego",
+  "providerListingID": null,
+  "currency": "USD",
+  "listingProvider": null,
+  "propertyTaxRate": 1.17,
+  "isShowcaseListing": false,
+  "openHouseSchedule": {},
+  "mortgageRates": null,
+  "address": {
+    "community": null,
+    "city": "San Diego",
+    "state": "CA",
+    "neighborhood": null,
+    "subdivision": "MISSION VALLEY",
+    "streetAddress": "8211 Station Village Ln UNIT 1201",
+    "zipcode": "92108"
+  },
+  "cityId": 54296,
+  "timeOnZillow": "54 days",
+  "priceChange": -25000,
+  "zestimate": 648000,
+  "zpid": 63659444,
+  "countyId": 2841,
+  "homeType": "SINGLE_FAMILY",
+  "livingAreaUnits": "sqft",
+  "pageViewCount": 1154,
+  "homeInsights": [
+    {
+      "insights": [
+        {
+          "treatmentId": "model_0",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Farmhouse sink",
+            "Private patio",
+            "Peaceful riverfront views",
+            "Tranquil riverfront scenery",
+            "Bbq areas",
+            "Full fitness center",
+            "San diego river views"
+          ]
+        },
+        {
+          "treatmentId": "model_1",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Farmhouse sink",
+            "Private patio",
+            "Tranquil riverfront scenery",
+            "Bbq areas",
+            "San diego river views",
+            "Vinyl wood",
+            "Custom cabinetry"
+          ]
+        }
+      ]
+    }
+  ],
+  "bathrooms": 2,
+  "neighborhoodRegion": {
+    "name": "Mission Valley East"
+  },
+  "zipcode": "92108",
+  "building": null,
+  "zestimateLowPercent": "5",
+  "brokerId": null,
+  "stateId": 9,
+  "url": "/homedetails/8211-Station-Village-Ln-UNIT-1201-San-Diego-CA-92108/63659444_zpid/",
+  "solarPotential": null,
+  "attributionInfo": {
+    "buyerAgentName": null,
+    "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_95_35.jpg",
+    "mlsName": "SDMLS",
+    "coAgentLicenseNumber": null,
+    "listingAgreement": null,
+    "listingOffices": [
+      {
+        "associatedOfficeType": "listOffice",
+        "officeName": "Compass"
+      }
+    ],
+    "infoString10": "This information is deemed reliable but not guaranteed. You should rely on this information only to decide whether or not to further investigate a particular property.\nBEFORE MAKING ANY OTHER DECISION, YOU SHOULD PERSONALLY INVESTIGATE THE FACTS (e.g. square footage and lot size) with the assistance of an appropriate professional. You may use this information only to identify properties you may be interested in investigating further. All uses except for personal, noncommercial use in accordance with the foregoing purpose are prohibited. Redistribution or copying of this information, any photographs or video tours is strictly\nprohibited. This information is derived from the Internet Data Exchange (IDX) service provided by San Diego MLS. Displayed property listings may be held by a brokerage firm other than the broker and/or agent responsible for this display. The information and any photographs and video tours and the compilation from which they are derived is protected by copyright. Compilation © 2025 San Diego MLS.",
+    "buyerAgentMemberStateLicense": null,
+    "brokerName": "Compass",
+    "listingAttributionContact": null,
+    "lastUpdated": "2025-07-24 13:18:42",
+    "trueStatus": null,
+    "listingAgentAttributionContact": null,
+    "agentEmail": null,
+    "agentName": "Ryan Judson",
+    "attributionTitle": null,
+    "mlsId": "250032420",
+    "coAgentName": null,
+    "coAgentNumber": null,
+    "infoString5": "760-809-4723",
+    "listingAgents": [
+      {
+        "memberStateLicense": "DRE #01881359",
+        "memberFullName": "Ryan Judson",
+        "associatedAgentType": "listAgent"
+      }
+    ],
+    "agentPhoneNumber": "760-809-4723",
+    "agentLicenseNumber": "DRE #01881359",
+    "providerLogo": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_95_35.jpg",
+    "infoString16": null,
+    "buyerBrokerageName": null,
+    "mlsDisclaimer": "This information is deemed reliable but not guaranteed. You should rely on this information only to decide whether or not to further investigate a particular property.\nBEFORE MAKING ANY OTHER DECISION, YOU SHOULD PERSONALLY INVESTIGATE THE FACTS (e.g. square footage and lot size) with the assistance of an appropriate professional. You may use this information only to identify properties you may be interested in investigating further. All uses except for personal, noncommercial use in accordance with the foregoing purpose are prohibited. Redistribution or copying of this information, any photographs or video tours is strictly\nprohibited. This information is derived from the Internet Data Exchange (IDX) service provided by San Diego MLS. Displayed property listings may be held by a brokerage firm other than the broker and/or agent responsible for this display. The information and any photographs and video tours and the compilation from which they are derived is protected by copyright. Compilation © 2025 San Diego MLS.",
+    "brokerPhoneNumber": "619-353-5828",
+    "lastChecked": "2025-08-26 21:11:24"
+  },
+  "priceChangeDateString": "2025-07-15",
+  "photoCount": 45,
+  "homeStatus": "FOR_SALE",
+  "homeFacts": null,
+  "resoFacts": {
+    "hasAttachedProperty": false,
+    "frontageType": null,
+    "poolFeatures": [
+      "Below Ground",
+      "Association"
+    ],
+    "flooring": null,
+    "foundationDetails": {},
+    "accessibilityFeatures": null,
+    "hasGarage": true,
+    "hasPetsAllowed": null,
+    "bodyType": null,
+    "topography": null,
+    "landLeaseExpirationDate": null,
+    "hasAdditionalParcels": false,
+    "parkName": null,
+    "livingQuarters": {},
+    "taxAssessedValue": 442924,
+    "atAGlanceFacts": [
+      {
+        "factValue": "Single Family Residence",
+        "factLabel": "Type"
+      },
+      {
+        "factValue": "2005",
+        "factLabel": "Year Built"
+      },
+      {
+        "factValue": "Forced Air Unit",
+        "factLabel": "Heating"
+      },
+      {
+        "factValue": "Central Forced Air",
+        "factLabel": "Cooling"
+      },
+      {
+        "factValue": "1 Garage space",
+        "factLabel": "Parking"
+      },
+      {
+        "factValue": "$580 monthly",
+        "factLabel": "HOA"
+      },
+      {
+        "factValue": null,
+        "factLabel": "Lot"
+      },
+      {
+        "factValue": "54 Days",
+        "factLabel": "Days on Zillow"
+      },
+      {
+        "factValue": "$699",
+        "factLabel": "Price/sqft"
+      },
+      {
+        "factValue": null,
+        "factLabel": "Offer Review Date"
+      }
+    ],
+    "offerReviewDate": null,
+    "horseYN": null,
+    "view": [
+      "Lake/River"
+    ],
+    "rooms": {},
+    "belowGradeFinishedArea": null,
+    "feesAndDues": [
+      {
+        "phone": null,
+        "name": "The Lido HOA",
+        "fee": "$580 monthly",
+        "type": "HOA"
+      }
+    ],
+    "cityRegion": "San Diego",
+    "mainLevelBathrooms": null,
+    "hasPrivatePool": null,
+    "landLeaseAmount": null,
+    "waterSource": [
+      "Meter on Property"
+    ],
+    "exteriorFeatures": {},
+    "inclusions": null,
+    "hasFireplace": null,
+    "gas": null,
+    "propertyCondition": null,
+    "elevationUnits": null,
+    "exclusions": null,
+    "mainLevelBedrooms": null,
+    "numberOfUnitsVacant": null,
+    "hasWaterfrontView": null,
+    "bathroomsOneQuarter": null,
+    "lotSize": null,
+    "entryLevel": null,
+    "media": [
+      {
+        "mediaCategory": "UnbrandedVirtualTour",
+        "mediaURL": "https://www.propertypanorama.com/instaview/snd/250032420"
+      }
+    ],
+    "greenWaterConservation": null,
+    "stories": 4,
+    "livingArea": "930 sqft",
+    "commonWalls": null,
+    "listingTerms": "Cash,Conventional,FHA,VA",
+    "otherParking": null,
+    "associationFee": "$580 monthly",
+    "marketingType": null,
+    "greenIndoorAirQuality": null,
+    "greenSustainability": null,
+    "livingAreaRangeUnits": null,
+    "associationPhone": null,
+    "greenBuildingVerificationType": null,
+    "hasAttachedGarage": null,
+    "bedrooms": 2,
+    "architecturalStyle": null,
+    "listingId": null,
+    "structureType": null,
+    "interiorFeatures": null,
+    "horseAmenities": null,
+    "garageParkingCapacity": 1,
+    "developmentStatus": null,
+    "lotFeatures": null,
+    "roofType": "Tile/Clay",
+    "compensationBasedOn": null,
+    "greenEnergyGeneration": null,
+    "daysOnZillow": 54,
+    "listAOR": "San Diego Association of REALTOR",
+    "buildingAreaSource": null,
+    "elementarySchool": null,
+    "zoningDescription": null,
+    "irrigationWaterRightsAcres": null,
+    "yearBuiltEffective": null,
+    "greenEnergyEfficient": null,
+    "constructionMaterials": [
+      "Stucco"
+    ],
+    "fireplaceFeatures": [
+      "Electric",
+      "Decorative"
+    ],
+    "hoaFeeTotal": "$580 monthly",
+    "appliances": [
+      "Dishwasher",
+      "Dryer",
+      "Fire Sprinklers",
+      "Garage Door Opener",
+      "Microwave",
+      "Range/Oven",
+      "Refrigerator",
+      "Washer",
+      "Range/Stove Hood",
+      "Gas Range"
+    ],
+    "sewer": [
+      "Sewer Connected"
+    ],
+    "bathroomsPartial": null,
+    "fencing": "Full",
+    "spaFeatures": null,
+    "waterViewYN": true,
+    "buildingName": "The Lido",
+    "attic": null,
+    "petsMaxWeight": null,
+    "cumulativeDaysOnMarket": null,
+    "waterfrontFeatures": null,
+    "additionalParcelsDescription": null,
+    "canRaiseHorses": false,
+    "hasLandLease": false,
+    "communityFeatures": null,
+    "waterBodyName": null,
+    "middleOrJuniorSchool": null,
+    "lotSizeDimensions": null,
+    "virtualTour": "https://www.propertypanorama.com/instaview/snd/250032420",
+    "contingency": null,
+    "yearBuilt": 2005,
+    "utilities": null,
+    "totalActualRent": null,
+    "bathroomsFull": 1,
+    "parcelNumber": "4383611713",
+    "incomeIncludes": null,
+    "highSchool": null,
+    "taxAnnualAmount": 5398,
+    "subdivisionName": "MISSION VALLEY",
+    "storiesTotal": 1,
+    "storiesDecimal": 4,
+    "specialListingConditions": null,
+    "windowFeatures": null,
+    "ownership": null,
+    "woodedArea": null,
+    "middleOrJuniorSchoolDistrict": null,
+    "associationPhone2": null,
+    "onMarketDate": 1751566849000,
+    "roomTypes": null,
+    "frontageLength": null,
+    "roadSurfaceType": null,
+    "associationAmenities": null,
+    "propertySubType": [
+      "Single Family Residence"
+    ],
+    "hasCooling": true,
+    "levels": "1 Story",
+    "coveredParkingCapacity": 1,
+    "foundationArea": null,
+    "zoning": null,
+    "hoaFee": "$580 monthly",
+    "livingAreaRange": null,
+    "parkingFeatures": [
+      "Assigned"
+    ],
+    "parkingCapacity": 2,
+    "cropsIncludedYN": null,
+    "tenantPays": null,
+    "builderModel": null,
+    "otherStructures": null,
+    "otherFacts": {},
+    "additionalFeeInfo": null,
+    "hasView": true,
+    "openParkingCapacity": null,
+    "securityFeatures": null,
+    "numberOfUnitsInCommunity": 70,
+    "hasHomeWarranty": false,
+    "basementYN": null,
+    "doorFeatures": null,
+    "ownershipType": null,
+    "aboveGradeFinishedArea": null,
+    "associations": [
+      {
+        "feeFrequency": "$580 monthly",
+        "name": "The Lido HOA",
+        "phone": null
+      }
+    ],
+    "waterView": "Lake/River",
+    "electric": null,
+    "buildingFeatures": null,
+    "hasOpenParking": null,
+    "hasCarport": null,
+    "bathroomsHalf": 1,
+    "homeType": "SingleFamily",
+    "isSeniorCommunity": null,
+    "municipality": null,
+    "bathroomsThreeQuarter": null,
+    "hasSpa": false,
+    "basement": null,
+    "associationFee2": null,
+    "cooling": [
+      "Central Forced Air"
+    ],
+    "hasHeating": true,
+    "associationName2": null,
+    "hasRentControl": null,
+    "elementarySchoolDistrict": null,
+    "otherEquipment": null,
+    "bathrooms": 2,
+    "buildingArea": "930",
+    "furnished": false,
+    "vegetation": null,
+    "patioAndPorchFeatures": null,
+    "bathroomsFloat": 2,
+    "builderName": null,
+    "highSchoolDistrict": null,
+    "hasElectricOnProperty": null,
+    "laundryFeatures": [
+      "Electric",
+      "Gas"
+    ],
+    "entryLocation": null,
+    "fireplaces": 1,
+    "heating": [
+      "Forced Air Unit"
+    ],
+    "availabilityDate": null,
+    "carportParkingCapacity": null,
+    "hasAssociation": null,
+    "irrigationWaterRightsYN": null,
+    "isNewConstruction": null,
+    "associationFeeIncludes": [
+      "Common Area Maintenance",
+      "Exterior (Landscaping)",
+      "Exterior Bldg Maintenance",
+      "Gated Community",
+      "Limited Insurance",
+      "Roof Maintenance",
+      "Trash Pickup"
+    ],
+    "leaseTerm": null,
+    "pricePerSquareFoot": 699,
+    "associationName": "The Lido HOA",
+    "elevation": null
+  },
+  "datePosted": "2025-07-03",
+  "bedrooms": 2,
+  "propertyTypeDimension": "Single Family",
+  "mortgageZHLRates": {
+    "thirtyYearFixedBucket": {
+      "rate": 6.306,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756269783512
+    },
+    "fifteenYearFixedBucket": {
+      "rate": 5.601,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756269783512
+    },
+    "arm5Bucket": {
+      "rate": 6.529,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756269783512
+    }
+  },
+  "comingSoonOnMarketDate": null,
+  "favoriteCount": 24,
+  "livingArea": 930,
+  "zestimateHighPercent": "5",
+  "mlsid": "250032420",
+  "isListedByOwner": null,
+  "listingSubType": {
+    "is_comingSoon": false,
+    "is_pending": false,
+    "is_forAuction": false,
+    "is_bankOwned": false,
+    "is_FSBA": true,
+    "is_FSBO": false,
+    "is_newHome": false,
+    "is_foreclosure": false
+  },
+  "buildingId": "1001730536",
+  "country": "USA",
+  "price": 650000,
+  "priceChangeDate": 1752537600000,
+  "contingentListingType": null
+}

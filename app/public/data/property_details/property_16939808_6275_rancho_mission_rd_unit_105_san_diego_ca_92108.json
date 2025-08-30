@@ -1,0 +1,1648 @@
+{
+  "buildingPermits": null,
+  "contact_recipients": [
+    {
+      "agent_reason": 1,
+      "zpro": null,
+      "recent_sales": 0,
+      "review_count": 0,
+      "display_name": "Premier Broker Flex Atlanta GA",
+      "badge_type": "Premier Agent",
+      "business_name": "Zillow Group",
+      "rating_average": 0,
+      "phone": {
+        "prefix": "452",
+        "areacode": "206",
+        "number": "1030"
+      },
+      "zuid": "X1-ZUv2ktj4jt3nyh_98wrm",
+      "image_url": "https://www.zillowstatic.com/static/images/nophoto_h_g.png"
+    }
+  ],
+  "longitude": -117.10786,
+  "countyFIPS": "06073",
+  "imgSrc": "https://photos.zillowstatic.com/fp/8c26c2415723b8698a429ad91dd298b6-p_d.jpg",
+  "livingAreaValue": 667,
+  "streetAddress": "6275 Rancho Mission Rd UNIT 105",
+  "county": "San Diego County",
+  "monthlyHoaFee": 498,
+  "timeZone": "America/Los_Angeles",
+  "taxHistory": [
+    {
+      "time": 1724733805824,
+      "valueIncreaseRate": 0.019995127,
+      "taxIncreaseRate": 0.023063822,
+      "taxPaid": 3647.12,
+      "value": 301380
+    },
+    {
+      "time": 1693111405824,
+      "valueIncreaseRate": 0.019997997,
+      "taxIncreaseRate": 0.027721856,
+      "taxPaid": 3564.9,
+      "value": 295472
+    },
+    {
+      "time": 1661575405824,
+      "valueIncreaseRate": 0.01999648,
+      "taxIncreaseRate": -0.017287299,
+      "taxPaid": 3468.74,
+      "value": 289679
+    },
+    {
+      "time": 1630039405824,
+      "valueIncreaseRate": 1.426272,
+      "taxIncreaseRate": 1.5507731,
+      "taxPaid": 3529.76,
+      "value": 284000
+    },
+    {
+      "time": 1598503405824,
+      "valueIncreaseRate": 0.019989891,
+      "taxIncreaseRate": 0.042363424,
+      "taxPaid": 1383.8,
+      "value": 117052
+    },
+    {
+      "time": 1566881005824,
+      "valueIncreaseRate": 0.019998578,
+      "taxIncreaseRate": 0.045858182,
+      "taxPaid": 1327.56,
+      "value": 114758
+    },
+    {
+      "time": 1535345005824,
+      "valueIncreaseRate": 0.01999039,
+      "taxIncreaseRate": 0.02553847,
+      "taxPaid": 1269.35,
+      "value": 112508
+    },
+    {
+      "time": 1503809005824,
+      "valueIncreaseRate": 0.019992417,
+      "taxIncreaseRate": 0.018129505,
+      "taxPaid": 1237.74,
+      "value": 110303
+    },
+    {
+      "time": 1472273005824,
+      "valueIncreaseRate": 0.015246392,
+      "taxIncreaseRate": 0.015707182,
+      "taxPaid": 1215.7,
+      "value": 108141
+    },
+    {
+      "time": 1440650605824,
+      "valueIncreaseRate": 0.019974912,
+      "taxIncreaseRate": 0.01663106,
+      "taxPaid": 1196.9,
+      "value": 106517
+    },
+    {
+      "time": 1409114605824,
+      "valueIncreaseRate": 0.0045305886,
+      "taxIncreaseRate": 0,
+      "taxPaid": 1177.32,
+      "value": 104431
+    },
+    {
+      "time": 1377578605824,
+      "valueIncreaseRate": 0.019985676,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 103960
+    },
+    {
+      "time": 1346042605824,
+      "valueIncreaseRate": 0.019994996,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 101923
+    },
+    {
+      "time": 1314420205824,
+      "valueIncreaseRate": 0.0075217537,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 99925
+    },
+    {
+      "time": 1282884205824,
+      "valueIncreaseRate": -0.0023738872,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 99179
+    },
+    {
+      "time": 1251348205824,
+      "valueIncreaseRate": 0.019986251,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 99415
+    },
+    {
+      "time": 1219812205824,
+      "valueIncreaseRate": 0.01998807,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 97467
+    },
+    {
+      "time": 1188189805824,
+      "valueIncreaseRate": 0.01999274,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 95557
+    },
+    {
+      "time": 1156653805824,
+      "valueIncreaseRate": 0.019989548,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 93684
+    },
+    {
+      "time": 1125117805824,
+      "valueIncreaseRate": 0.01998934,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 91848
+    },
+    {
+      "time": 1093581805824,
+      "valueIncreaseRate": 0.018654058,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 90048
+    },
+    {
+      "time": 1061959405824,
+      "valueIncreaseRate": 0.019996308,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 88399
+    },
+    {
+      "time": 1030423405824,
+      "valueIncreaseRate": 0.019983994,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 86666
+    },
+    {
+      "time": 998887405824,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 84968
+    }
+  ],
+  "dateSold": null,
+  "annualHomeownersInsurance": 1743,
+  "state": "CA",
+  "listed_by": {
+    "agent_reason": 3,
+    "zpro": false,
+    "recent_sales": 0,
+    "zuid": "X1-ZU168qlrjf2ik95_7c2wh",
+    "review_count": 6,
+    "display_name": "Jessica Flores",
+    "profile_url": "https://www.zillow.com/profile/jessicaflore/",
+    "business_name": "eXp Realty of Southern California, Inc.",
+    "rating_average": 5,
+    "phone": {
+      "prefix": "616",
+      "areacode": "619",
+      "number": "4355"
+    },
+    "badge_type": "Listing Agent",
+    "image_url": "https://photos.zillowstatic.com/fp/c4d824f2aba3d6ac4c65c8af53310feb-h_n.jpg"
+  },
+  "yearBuilt": 1979,
+  "brokerageName": "eXp Realty of Southern California, Inc.",
+  "description": "FHA and VA approved, this charming ground-floor 1-bedroom, 1-bathroom condo in the heart of Mission Valley is perfect for first-time buyers or anyone looking for flexible financing. Step into a bright, open-concept living space with modern finishes, and a private patio ideal for relaxing or entertaining. The pet-friendly, well-maintained community offers resort-style amenities including a sparkling pool, spa, clubhouse and more. Located just minutes from SDSU, major freeways, Downtown San Diego, and Mission Valley’s top restaurants, shops, and public transit, this move-in ready gem offers the ultimate in convenience, comfort, and lifestyle don’t miss your chance to own a slice of San Diego!",
+  "climate": {
+    "windSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "probability": {},
+        "source": {
+          "url": "https://firststreet.org/property/6275-rancho-mission-rd-unit-105-san-diego-ca-92108/603562610_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 18
+      }
+    },
+    "floodSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "femaZone": "X_UNSHADED",
+        "source": {
+          "url": "https://firststreet.org/property/6275-rancho-mission-rd-unit-105-san-diego-ca-92108/603562610_fsid"
+        },
+        "probability": [
+          {
+            "relativeYear": 0,
+            "probability": 0
+          },
+          {
+            "relativeYear": 5,
+            "probability": 0
+          },
+          {
+            "relativeYear": 10,
+            "probability": 0
+          },
+          {
+            "relativeYear": 15,
+            "probability": 0
+          },
+          {
+            "relativeYear": 20,
+            "probability": 0
+          },
+          {
+            "relativeYear": 25,
+            "probability": 0
+          },
+          {
+            "relativeYear": 30,
+            "probability": 0
+          }
+        ],
+        "insuranceSeparatePolicy": "NOT_REQUIRED",
+        "historicCountPropertyAll": 0
+      }
+    },
+    "fireSources": {
+      "primary": {
+        "insuranceRecommendation": "RECOMMENDED",
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 4
+        },
+        "probability": [
+          {
+            "relativeYear": 0,
+            "probability": 0.00019999999494758
+          },
+          {
+            "relativeYear": 5,
+            "probability": 0.001300000003539
+          },
+          {
+            "relativeYear": 10,
+            "probability": 0.0027000000700355
+          },
+          {
+            "relativeYear": 15,
+            "probability": 0.0043999999761581
+          },
+          {
+            "relativeYear": 20,
+            "probability": 0.0063000000081956
+          },
+          {
+            "relativeYear": 25,
+            "probability": 0.0083999997004867
+          },
+          {
+            "relativeYear": 30,
+            "probability": 0.010800000280142
+          }
+        ],
+        "source": {
+          "url": "https://firststreet.org/property/6275-rancho-mission-rd-unit-105-san-diego-ca-92108/603562610_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 36
+      }
+    },
+    "heatSources": {
+      "primary": {
+        "percentile98Temp": 90,
+        "hotDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 7
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 9
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 11
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 14
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 16
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 18
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 20
+          }
+        ],
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 4
+        },
+        "source": {
+          "url": "https://firststreet.org/property/6275-rancho-mission-rd-unit-105-san-diego-ca-92108/603562610_fsid"
+        }
+      }
+    },
+    "airSources": {
+      "primary": {
+        "source": {
+          "url": "https://firststreet.org/property/6275-rancho-mission-rd-unit-105-san-diego-ca-92108/603562610_fsid"
+        },
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 3
+        },
+        "badAirDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 4
+          }
+        ]
+      }
+    }
+  },
+  "latitude": 32.78734,
+  "nearbyHomes": [
+    {
+      "hdpTypeDimension": "RecentlySold",
+      "lotAreaUnits": "sqft",
+      "isShowcaseListing": false,
+      "longitude": -117.10786,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "6275 Rancho Mission Rd UNIT 107",
+        "zipcode": "92108"
+      },
+      "livingAreaValue": 667,
+      "lotSize": null,
+      "zpid": 16939810,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 1,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "6275 Rancho Mission Rd UNIT 107"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "hdpUrl": "/homedetails/6275-Rancho-Mission-Rd-UNIT-107-San-Diego-CA-92108/16939810_zpid/",
+      "lotAreaValue": null,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "PTP2501655",
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "RECENTLY_SOLD",
+      "latitude": 32.78734,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 1,
+      "propertyTypeDimension": "Condo",
+      "newConstructionType": null,
+      "yearBuilt": 1979,
+      "listingTypeDimension": "Unknown Listed By",
+      "livingArea": 667,
+      "providerListingID": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/676a946d1ed685f0945cd8e6fa06437d-p_c.jpg"
+        }
+      ],
+      "currency": "USD",
+      "price": 457000,
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    },
+    {
+      "hdpTypeDimension": "ForSale",
+      "lotAreaUnits": "Acres",
+      "isShowcaseListing": false,
+      "longitude": -117.10786,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "6275 Rancho Mission Rd UNIT 108",
+        "zipcode": "92108"
+      },
+      "livingAreaValue": 667,
+      "lotSize": 120661,
+      "zpid": 16939811,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 1,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "6275 Rancho Mission Rd UNIT 108"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "hdpUrl": "/homedetails/6275-Rancho-Mission-Rd-UNIT-108-San-Diego-CA-92108/16939811_zpid/",
+      "lotAreaValue": 2.77,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "250036993",
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "FOR_SALE",
+      "latitude": 32.78734,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 1,
+      "propertyTypeDimension": "Condo",
+      "newConstructionType": null,
+      "yearBuilt": 1979,
+      "listingTypeDimension": "For Sale by Agent",
+      "livingArea": 667,
+      "providerListingID": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/8eddc71480b267401520876c80340be3-p_c.jpg"
+        }
+      ],
+      "currency": "USD",
+      "price": 455000,
+      "listing_sub_type": {
+        "is_FSBA": true,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    },
+    {
+      "hdpTypeDimension": "RecentlySold",
+      "lotAreaUnits": "sqft",
+      "isShowcaseListing": false,
+      "longitude": -117.10786,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "6275 Rancho Mission Rd UNIT 304",
+        "zipcode": "92108"
+      },
+      "livingAreaValue": 675,
+      "lotSize": null,
+      "zpid": 16939828,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 1,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "6275 Rancho Mission Rd UNIT 304"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "hdpUrl": "/homedetails/6275-Rancho-Mission-Rd-UNIT-304-San-Diego-CA-92108/16939828_zpid/",
+      "lotAreaValue": null,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "NDP2502525",
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "RECENTLY_SOLD",
+      "latitude": 32.78734,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 1,
+      "propertyTypeDimension": "Condo",
+      "newConstructionType": null,
+      "yearBuilt": 1979,
+      "listingTypeDimension": "Unknown Listed By",
+      "livingArea": 675,
+      "providerListingID": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/7167d6b6a10a6f59e320c1b63afc66ec-p_c.jpg"
+        }
+      ],
+      "currency": "USD",
+      "price": 360000,
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": true,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    },
+    {
+      "bathrooms": 1,
+      "newConstructionType": null,
+      "lotAreaUnits": "sqft",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "6275 Rancho Mission Rd UNIT 302"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/6275-Rancho-Mission-Rd-UNIT-302-San-Diego-CA-92108/52516489_zpid/",
+      "lotAreaValue": null,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "6275 Rancho Mission Rd UNIT 302",
+        "zipcode": "92108"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "NDP2410280",
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.78734,
+      "homeStatus": "RECENTLY_SOLD",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 410000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 1,
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/7b81041a915e4bceb62d68631dc8af7f-p_c.jpg"
+        }
+      ],
+      "zpid": 52516489,
+      "hdpTypeDimension": "RecentlySold",
+      "livingArea": 675,
+      "longitude": -117.10786,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 675
+    },
+    {
+      "hdpTypeDimension": "RecentlySold",
+      "lotAreaUnits": "sqft",
+      "isShowcaseListing": false,
+      "longitude": -117.107834,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "6275 Rancho Mission Rd UNIT 112",
+        "zipcode": "92108"
+      },
+      "livingAreaValue": 667,
+      "lotSize": null,
+      "zpid": 16939814,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 1,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "6275 Rancho Mission Rd UNIT 112"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "hdpUrl": "/homedetails/6275-Rancho-Mission-Rd-UNIT-112-San-Diego-CA-92108/16939814_zpid/",
+      "lotAreaValue": null,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "230001855",
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "SOLD",
+      "latitude": 32.787315,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 1,
+      "propertyTypeDimension": "Condo",
+      "newConstructionType": null,
+      "yearBuilt": 1979,
+      "listingTypeDimension": "Unknown Listed By",
+      "livingArea": 667,
+      "providerListingID": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/809c42ed88be7f1866e3e9350fc09807-p_c.jpg"
+        }
+      ],
+      "currency": "USD",
+      "price": 409000,
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    },
+    {
+      "bathrooms": 1,
+      "newConstructionType": null,
+      "lotAreaUnits": "sqft",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "6275 Rancho Mission Rd UNIT 303"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/6275-Rancho-Mission-Rd-UNIT-303-San-Diego-CA-92108/16939827_zpid/",
+      "lotAreaValue": null,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "6275 Rancho Mission Rd UNIT 303",
+        "zipcode": "92108"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "240011978",
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.787315,
+      "homeStatus": "SOLD",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 450000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 1,
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/7eb044d24396e77e1e49a4a5e8ac42e6-p_c.jpg"
+        }
+      ],
+      "zpid": 16939827,
+      "hdpTypeDimension": "RecentlySold",
+      "livingArea": 675,
+      "longitude": -117.107834,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 675
+    },
+    {
+      "hdpTypeDimension": "Zestimate",
+      "lotAreaUnits": "sqft",
+      "isShowcaseListing": false,
+      "longitude": -117.10764,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "6275 Rancho Mission Rd UNIT 106",
+        "zipcode": "92108"
+      },
+      "livingAreaValue": 662,
+      "lotSize": null,
+      "zpid": 16939809,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "APARTMENT",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 1,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "6275 Rancho Mission Rd UNIT 106"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "hdpUrl": "/homedetails/6275-Rancho-Mission-Rd-UNIT-106-San-Diego-CA-92108/16939809_zpid/",
+      "lotAreaValue": null,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "OTHER",
+      "latitude": 32.78712,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 1,
+      "propertyTypeDimension": "Apartment",
+      "newConstructionType": null,
+      "yearBuilt": null,
+      "listingTypeDimension": "Unknown Listed By",
+      "livingArea": 662,
+      "providerListingID": "57cfp55ya0vd9",
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/755d20a2bc6367263799fe6b76de2df8-p_c.jpg"
+        }
+      ],
+      "currency": "USD",
+      "price": 407600,
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    },
+    {
+      "bathrooms": 1,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "6275 Rancho Mission Rd UNIT 101"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/6275-Rancho-Mission-Rd-UNIT-101-San-Diego-CA-92108/16939804_zpid/",
+      "lotAreaValue": 2.7706152433425,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "6275 Rancho Mission Rd UNIT 101",
+        "zipcode": "92108"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.787067,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 372400,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 1,
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 120688,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=6275+Rancho+Mission+Rd%2C+San+Diego%2C+CA+92108&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=N50Z38e3px792soWbMvxOycU71w="
+        }
+      ],
+      "zpid": 16939804,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 667,
+      "longitude": -117.10766,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 667
+    }
+  ],
+  "priceHistory": [
+    {
+      "priceChangeRate": -0.03488147646855,
+      "date": "2025-07-01",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1751328000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "250029335"
+      },
+      "pricePerSquareFoot": 622,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 415000
+    },
+    {
+      "priceChangeRate": -0.011496551724138,
+      "date": "2025-06-03",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1748908800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "250029335"
+      },
+      "pricePerSquareFoot": 645,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 429999
+    },
+    {
+      "priceChangeRate": 0.023529411764706,
+      "date": "2025-03-02",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1740873600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "250020320"
+      },
+      "pricePerSquareFoot": 652,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 435000
+    },
+    {
+      "priceChangeRate": 0.49647887323944,
+      "date": "2025-01-16",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1736985600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "250001395"
+      },
+      "pricePerSquareFoot": 637,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 425000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2020-12-07",
+      "source": "CRMLS",
+      "postingIsRental": false,
+      "time": 1607299200000,
+      "sellerAgent": {
+        "name": "Terry Dollins",
+        "photo": null,
+        "profileUrl": "/profile/tdoll/"
+      },
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "CRMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/1a692386d3d47d3e5db959d0fe1c228c-zillow_web_logo_inf_11.jpg",
+        "infoString1": "PTP2000898"
+      },
+      "pricePerSquareFoot": 426,
+      "buyerAgent": {
+        "name": "Victor Ibarra",
+        "photo": null,
+        "profileUrl": "/profile/VictorIbarraRealtor/"
+      },
+      "event": "Sold",
+      "price": 284000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2020-10-28",
+      "source": "Coldwell Banker Realty",
+      "postingIsRental": false,
+      "time": 1603843200000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Coldwell Banker Realty",
+        "infoString3": null,
+        "infoString1": "PTP2000898"
+      },
+      "pricePerSquareFoot": 426,
+      "buyerAgent": null,
+      "event": "Pending sale",
+      "price": 284000
+    },
+    {
+      "priceChangeRate": -0.050167224080268,
+      "date": "2020-10-22",
+      "source": "Coldwell Banker Realty",
+      "postingIsRental": false,
+      "time": 1603324800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Coldwell Banker Realty",
+        "infoString3": null,
+        "infoString1": "PTP2000898"
+      },
+      "pricePerSquareFoot": 426,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 284000
+    },
+    {
+      "priceChangeRate": -0.0033333333333333,
+      "date": "2020-08-27",
+      "source": "Coldwell Banker Res. Brokerage",
+      "postingIsRental": false,
+      "time": 1598486400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Coldwell Banker Res. Brokerage",
+        "infoString3": null,
+        "infoString1": "200038973"
+      },
+      "pricePerSquareFoot": 448,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 299000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2020-08-13",
+      "source": "Coldwell Banker Res. Brokerage",
+      "postingIsRental": false,
+      "time": 1597276800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Coldwell Banker Res. Brokerage",
+        "infoString3": null,
+        "infoString1": "200038973"
+      },
+      "pricePerSquareFoot": 450,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 300000
+    }
+  ],
+  "neighborhoodMapThumb": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/8c26c2415723b8698a429ad91dd298b6-p_c.jpg"
+    }
+  ],
+  "schools": [
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6170-Juarez-Elementary-School/",
+      "rating": 6,
+      "totalCount": null,
+      "distance": 1,
+      "assigned": null,
+      "name": "Juarez Elementary School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Elementary",
+      "grades": "K-5",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6242-Taft-Middle-School/",
+      "rating": 7,
+      "totalCount": null,
+      "distance": 1.6,
+      "assigned": null,
+      "name": "Taft Middle School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Middle",
+      "grades": "6-8",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/14240-Kearny-Construction-Tech-School/",
+      "rating": 9,
+      "totalCount": null,
+      "distance": 3.2,
+      "assigned": null,
+      "name": "Kearny Engineering Innovation & Design",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "High",
+      "grades": "9-12",
+      "type": "Public"
+    }
+  ],
+  "rentZestimate": 2108,
+  "city": "San Diego",
+  "providerListingID": null,
+  "currency": "USD",
+  "listingProvider": null,
+  "propertyTaxRate": 1.17,
+  "isShowcaseListing": false,
+  "openHouseSchedule": {},
+  "mortgageRates": null,
+  "address": {
+    "community": null,
+    "city": "San Diego",
+    "state": "CA",
+    "neighborhood": null,
+    "subdivision": "SAN DIEGO",
+    "streetAddress": "6275 Rancho Mission Rd UNIT 105",
+    "zipcode": "92108"
+  },
+  "cityId": 54296,
+  "timeOnZillow": "84 days",
+  "priceChange": -14999,
+  "zestimate": 413800,
+  "zpid": 16939808,
+  "countyId": 2841,
+  "homeType": "SINGLE_FAMILY",
+  "livingAreaUnits": "sqft",
+  "pageViewCount": 1028,
+  "homeInsights": [
+    {
+      "insights": [
+        {
+          "treatmentId": "model_0",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Sparkling pool",
+            "Private patio",
+            "Modern finishes",
+            "Bright open-concept living space"
+          ]
+        },
+        {
+          "treatmentId": "model_1",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Private patio"
+          ]
+        }
+      ]
+    }
+  ],
+  "bathrooms": 1,
+  "neighborhoodRegion": {
+    "name": "Grantville"
+  },
+  "zipcode": "92108",
+  "building": null,
+  "zestimateLowPercent": "5",
+  "brokerId": null,
+  "stateId": 9,
+  "url": "/homedetails/6275-Rancho-Mission-Rd-UNIT-105-San-Diego-CA-92108/16939808_zpid/",
+  "solarPotential": null,
+  "attributionInfo": {
+    "buyerAgentName": null,
+    "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_95_35.jpg",
+    "mlsName": "SDMLS",
+    "coAgentLicenseNumber": null,
+    "listingAgreement": null,
+    "listingOffices": [
+      {
+        "associatedOfficeType": "listOffice",
+        "officeName": "eXp Realty of Southern California, Inc."
+      }
+    ],
+    "infoString10": "This information is deemed reliable but not guaranteed. You should rely on this information only to decide whether or not to further investigate a particular property.\nBEFORE MAKING ANY OTHER DECISION, YOU SHOULD PERSONALLY INVESTIGATE THE FACTS (e.g. square footage and lot size) with the assistance of an appropriate professional. You may use this information only to identify properties you may be interested in investigating further. All uses except for personal, noncommercial use in accordance with the foregoing purpose are prohibited. Redistribution or copying of this information, any photographs or video tours is strictly\nprohibited. This information is derived from the Internet Data Exchange (IDX) service provided by San Diego MLS. Displayed property listings may be held by a brokerage firm other than the broker and/or agent responsible for this display. The information and any photographs and video tours and the compilation from which they are derived is protected by copyright. Compilation © 2025 San Diego MLS.",
+    "buyerAgentMemberStateLicense": null,
+    "brokerName": "eXp Realty of Southern California, Inc.",
+    "listingAttributionContact": null,
+    "lastUpdated": "2025-08-04 11:40:31",
+    "trueStatus": null,
+    "listingAgentAttributionContact": null,
+    "agentEmail": null,
+    "agentName": "Jessica Flores Marroquin",
+    "attributionTitle": null,
+    "mlsId": "250029335",
+    "coAgentName": null,
+    "coAgentNumber": null,
+    "infoString5": "619-616-4355",
+    "listingAgents": [
+      {
+        "memberStateLicense": "DRE #02121650",
+        "memberFullName": "Jessica Flores Marroquin",
+        "associatedAgentType": "listAgent"
+      }
+    ],
+    "agentPhoneNumber": "619-616-4355",
+    "agentLicenseNumber": "DRE #02121650",
+    "providerLogo": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_95_35.jpg",
+    "infoString16": null,
+    "buyerBrokerageName": null,
+    "mlsDisclaimer": "This information is deemed reliable but not guaranteed. You should rely on this information only to decide whether or not to further investigate a particular property.\nBEFORE MAKING ANY OTHER DECISION, YOU SHOULD PERSONALLY INVESTIGATE THE FACTS (e.g. square footage and lot size) with the assistance of an appropriate professional. You may use this information only to identify properties you may be interested in investigating further. All uses except for personal, noncommercial use in accordance with the foregoing purpose are prohibited. Redistribution or copying of this information, any photographs or video tours is strictly\nprohibited. This information is derived from the Internet Data Exchange (IDX) service provided by San Diego MLS. Displayed property listings may be held by a brokerage firm other than the broker and/or agent responsible for this display. The information and any photographs and video tours and the compilation from which they are derived is protected by copyright. Compilation © 2025 San Diego MLS.",
+    "brokerPhoneNumber": "888-294-1415",
+    "lastChecked": "2025-08-26 21:11:24"
+  },
+  "priceChangeDateString": "2025-07-01",
+  "photoCount": 22,
+  "homeStatus": "FOR_SALE",
+  "homeFacts": null,
+  "resoFacts": {
+    "hasAttachedProperty": false,
+    "frontageType": null,
+    "poolFeatures": [
+      "Above Ground"
+    ],
+    "flooring": null,
+    "foundationDetails": {},
+    "accessibilityFeatures": null,
+    "hasGarage": true,
+    "hasPetsAllowed": null,
+    "bodyType": null,
+    "topography": null,
+    "landLeaseExpirationDate": null,
+    "hasAdditionalParcels": false,
+    "parkName": null,
+    "livingQuarters": {},
+    "taxAssessedValue": 301380,
+    "atAGlanceFacts": [
+      {
+        "factValue": "Single Family Residence",
+        "factLabel": "Type"
+      },
+      {
+        "factValue": "1979",
+        "factLabel": "Year Built"
+      },
+      {
+        "factValue": "N/K",
+        "factLabel": "Heating"
+      },
+      {
+        "factValue": "Central Forced Air",
+        "factLabel": "Cooling"
+      },
+      {
+        "factValue": "1 Garage space",
+        "factLabel": "Parking"
+      },
+      {
+        "factValue": "$498 monthly",
+        "factLabel": "HOA"
+      },
+      {
+        "factValue": null,
+        "factLabel": "Lot"
+      },
+      {
+        "factValue": "84 Days",
+        "factLabel": "Days on Zillow"
+      },
+      {
+        "factValue": "$622",
+        "factLabel": "Price/sqft"
+      },
+      {
+        "factValue": null,
+        "factLabel": "Offer Review Date"
+      }
+    ],
+    "offerReviewDate": null,
+    "horseYN": null,
+    "view": {},
+    "rooms": {},
+    "belowGradeFinishedArea": null,
+    "feesAndDues": [
+      {
+        "phone": null,
+        "name": "Mission Heights",
+        "fee": "$498 monthly",
+        "type": "HOA"
+      }
+    ],
+    "cityRegion": "San Diego",
+    "mainLevelBathrooms": null,
+    "hasPrivatePool": null,
+    "landLeaseAmount": null,
+    "waterSource": [
+      "Available",
+      "Meter on Property"
+    ],
+    "exteriorFeatures": {},
+    "inclusions": null,
+    "hasFireplace": null,
+    "gas": null,
+    "propertyCondition": null,
+    "elevationUnits": null,
+    "exclusions": null,
+    "mainLevelBedrooms": null,
+    "numberOfUnitsVacant": null,
+    "hasWaterfrontView": null,
+    "bathroomsOneQuarter": null,
+    "lotSize": null,
+    "entryLevel": null,
+    "media": [
+      {
+        "mediaCategory": "UnbrandedVirtualTour",
+        "mediaURL": "https://www.propertypanorama.com/instaview/snd/250029335"
+      }
+    ],
+    "greenWaterConservation": null,
+    "stories": 1,
+    "livingArea": "667 sqft",
+    "commonWalls": null,
+    "listingTerms": "Cash,Conventional,FHA,VA,Submit",
+    "otherParking": null,
+    "associationFee": "$498 monthly",
+    "marketingType": null,
+    "greenIndoorAirQuality": null,
+    "greenSustainability": null,
+    "livingAreaRangeUnits": null,
+    "associationPhone": null,
+    "greenBuildingVerificationType": null,
+    "hasAttachedGarage": null,
+    "bedrooms": 1,
+    "architecturalStyle": null,
+    "listingId": null,
+    "structureType": null,
+    "interiorFeatures": null,
+    "horseAmenities": null,
+    "garageParkingCapacity": 1,
+    "developmentStatus": null,
+    "lotFeatures": null,
+    "roofType": "Shingle",
+    "compensationBasedOn": null,
+    "greenEnergyGeneration": null,
+    "daysOnZillow": 84,
+    "listAOR": "San Diego Association of REALTOR",
+    "buildingAreaSource": null,
+    "elementarySchool": null,
+    "zoningDescription": null,
+    "irrigationWaterRightsAcres": null,
+    "yearBuiltEffective": null,
+    "greenEnergyEfficient": null,
+    "constructionMaterials": [
+      "Stucco"
+    ],
+    "fireplaceFeatures": null,
+    "hoaFeeTotal": "$498 monthly",
+    "appliances": [
+      "Dishwasher",
+      "Pool/Spa/Equipment",
+      "Built-In",
+      "Counter Top",
+      "Electric Cooking"
+    ],
+    "sewer": [
+      "Sewer Available"
+    ],
+    "bathroomsPartial": null,
+    "fencing": "N/K",
+    "spaFeatures": null,
+    "waterViewYN": null,
+    "buildingName": "Complex",
+    "attic": null,
+    "petsMaxWeight": null,
+    "cumulativeDaysOnMarket": null,
+    "waterfrontFeatures": null,
+    "additionalParcelsDescription": null,
+    "canRaiseHorses": false,
+    "hasLandLease": false,
+    "communityFeatures": null,
+    "waterBodyName": null,
+    "middleOrJuniorSchool": null,
+    "lotSizeDimensions": null,
+    "virtualTour": "https://www.propertypanorama.com/instaview/snd/250029335",
+    "contingency": null,
+    "yearBuilt": 1979,
+    "utilities": null,
+    "totalActualRent": null,
+    "bathroomsFull": 1,
+    "parcelNumber": "4340404105",
+    "incomeIncludes": null,
+    "highSchool": null,
+    "taxAnnualAmount": 3647,
+    "subdivisionName": "SAN DIEGO",
+    "storiesTotal": 1,
+    "storiesDecimal": 1,
+    "specialListingConditions": "Call Agent",
+    "windowFeatures": null,
+    "ownership": null,
+    "woodedArea": null,
+    "middleOrJuniorSchoolDistrict": null,
+    "associationPhone2": null,
+    "onMarketDate": 1748965997000,
+    "roomTypes": null,
+    "frontageLength": null,
+    "roadSurfaceType": null,
+    "associationAmenities": null,
+    "propertySubType": [
+      "Single Family Residence"
+    ],
+    "hasCooling": true,
+    "levels": "1 Story",
+    "coveredParkingCapacity": 1,
+    "foundationArea": null,
+    "zoning": null,
+    "hoaFee": "$498 monthly",
+    "livingAreaRange": null,
+    "parkingFeatures": [
+      "Assigned"
+    ],
+    "parkingCapacity": 2,
+    "cropsIncludedYN": null,
+    "tenantPays": null,
+    "builderModel": null,
+    "otherStructures": null,
+    "otherFacts": {},
+    "additionalFeeInfo": null,
+    "hasView": false,
+    "openParkingCapacity": null,
+    "securityFeatures": null,
+    "numberOfUnitsInCommunity": 200,
+    "hasHomeWarranty": false,
+    "basementYN": null,
+    "doorFeatures": null,
+    "ownershipType": null,
+    "aboveGradeFinishedArea": null,
+    "associations": [
+      {
+        "feeFrequency": "$498 monthly",
+        "name": "Mission Heights",
+        "phone": null
+      }
+    ],
+    "waterView": null,
+    "electric": null,
+    "buildingFeatures": null,
+    "hasOpenParking": null,
+    "hasCarport": null,
+    "bathroomsHalf": 0,
+    "homeType": "SingleFamily",
+    "isSeniorCommunity": null,
+    "municipality": null,
+    "bathroomsThreeQuarter": null,
+    "hasSpa": false,
+    "basement": null,
+    "associationFee2": null,
+    "cooling": [
+      "Central Forced Air"
+    ],
+    "hasHeating": true,
+    "associationName2": null,
+    "hasRentControl": null,
+    "elementarySchoolDistrict": null,
+    "otherEquipment": null,
+    "bathrooms": 1,
+    "buildingArea": "667",
+    "furnished": false,
+    "vegetation": null,
+    "patioAndPorchFeatures": null,
+    "bathroomsFloat": 1,
+    "builderName": null,
+    "highSchoolDistrict": null,
+    "hasElectricOnProperty": null,
+    "laundryFeatures": [
+      "Gas",
+      "Laundry Chute"
+    ],
+    "entryLocation": null,
+    "fireplaces": null,
+    "heating": [
+      "N/K"
+    ],
+    "availabilityDate": null,
+    "carportParkingCapacity": null,
+    "hasAssociation": null,
+    "irrigationWaterRightsYN": null,
+    "isNewConstruction": null,
+    "associationFeeIncludes": [
+      "Common Area Maintenance",
+      "Exterior (Landscaping)",
+      "Exterior Bldg Maintenance",
+      "Hot Water",
+      "Limited Insurance",
+      "Roof Maintenance",
+      "Sewer",
+      "Trash Pickup",
+      "Water"
+    ],
+    "leaseTerm": null,
+    "pricePerSquareFoot": 622,
+    "associationName": "Mission Heights",
+    "elevation": null
+  },
+  "datePosted": "2025-06-03",
+  "bedrooms": 1,
+  "propertyTypeDimension": "Single Family",
+  "mortgageZHLRates": {
+    "thirtyYearFixedBucket": {
+      "rate": 6.412,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756262251453
+    },
+    "fifteenYearFixedBucket": {
+      "rate": 5.631,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756262251453
+    },
+    "arm5Bucket": {
+      "rate": 6.63,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756262251453
+    }
+  },
+  "comingSoonOnMarketDate": null,
+  "favoriteCount": 24,
+  "livingArea": 667,
+  "zestimateHighPercent": "5",
+  "mlsid": "250029335",
+  "isListedByOwner": null,
+  "listingSubType": {
+    "is_comingSoon": false,
+    "is_pending": false,
+    "is_forAuction": false,
+    "is_bankOwned": false,
+    "is_FSBA": true,
+    "is_FSBO": false,
+    "is_newHome": false,
+    "is_foreclosure": false
+  },
+  "buildingId": "1003448948",
+  "country": "USA",
+  "price": 415000,
+  "priceChangeDate": 1751328000000,
+  "contingentListingType": null
+}

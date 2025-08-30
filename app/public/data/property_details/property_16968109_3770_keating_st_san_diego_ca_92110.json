@@ -1,0 +1,1501 @@
+{
+  "buildingPermits": null,
+  "contact_recipients": [
+    {
+      "agent_reason": 1,
+      "zpro": null,
+      "recent_sales": 0,
+      "review_count": 0,
+      "display_name": "Premier Broker Flex Atlanta GA",
+      "badge_type": "Premier Agent",
+      "business_name": "Zillow Group",
+      "rating_average": 0,
+      "phone": {
+        "prefix": "452",
+        "areacode": "206",
+        "number": "1030"
+      },
+      "zuid": "X1-ZUv2ktj4jt3nyh_98wrm",
+      "image_url": "https://www.zillowstatic.com/static/images/nophoto_h_g.png"
+    }
+  ],
+  "longitude": -117.17974,
+  "countyFIPS": "06073",
+  "imgSrc": "https://photos.zillowstatic.com/fp/0dae6f15f5a9fd7d3f9050a08245f42c-p_d.jpg",
+  "livingAreaValue": 1050,
+  "streetAddress": "3770 Keating St",
+  "county": "San Diego County",
+  "monthlyHoaFee": 250,
+  "timeZone": "America/Los_Angeles",
+  "taxHistory": [
+    {
+      "time": 1724733685399,
+      "valueIncreaseRate": 0.019996366,
+      "taxIncreaseRate": 0.022617,
+      "taxPaid": 2788.84,
+      "value": 224491
+    },
+    {
+      "time": 1693111285399,
+      "valueIncreaseRate": 0.019997682,
+      "taxIncreaseRate": 0.027194366,
+      "taxPaid": 2727.16,
+      "value": 220090
+    },
+    {
+      "time": 1661575285399,
+      "valueIncreaseRate": 0.019995745,
+      "taxIncreaseRate": 0.0068183984,
+      "taxPaid": 2654.96,
+      "value": 215775
+    },
+    {
+      "time": 1630039285399,
+      "valueIncreaseRate": 0.010354528,
+      "taxIncreaseRate": 0.012152024,
+      "taxPaid": 2636.98,
+      "value": 211545
+    },
+    {
+      "time": 1598503285399,
+      "valueIncreaseRate": 0.019992888,
+      "taxIncreaseRate": 0.030202428,
+      "taxPaid": 2605.32,
+      "value": 209377
+    },
+    {
+      "time": 1566880885399,
+      "valueIncreaseRate": 0.01999513,
+      "taxIncreaseRate": 0.05639681,
+      "taxPaid": 2528.94,
+      "value": 205273
+    },
+    {
+      "time": 1535344885399,
+      "valueIncreaseRate": 0.019994527,
+      "taxIncreaseRate": 0.02425508,
+      "taxPaid": 2393.93,
+      "value": 201249
+    },
+    {
+      "time": 1503808885399,
+      "valueIncreaseRate": 0.019996278,
+      "taxIncreaseRate": 0.016394561,
+      "taxPaid": 2337.24,
+      "value": 197304
+    },
+    {
+      "time": 1472272885399,
+      "valueIncreaseRate": 0.015246863,
+      "taxIncreaseRate": 0.014828327,
+      "taxPaid": 2299.54,
+      "value": 193436
+    },
+    {
+      "time": 1440650485399,
+      "valueIncreaseRate": 0.019973233,
+      "taxIncreaseRate": 0.015670227,
+      "taxPaid": 2265.94,
+      "value": 190531
+    },
+    {
+      "time": 1409114485399,
+      "valueIncreaseRate": 0.004533306,
+      "taxIncreaseRate": 0,
+      "taxPaid": 2230.98,
+      "value": 186800
+    },
+    {
+      "time": 1377578485399,
+      "valueIncreaseRate": 0.019993199,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 185957
+    },
+    {
+      "time": 1346042485399,
+      "valueIncreaseRate": 0.019995747,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 182312
+    },
+    {
+      "time": 1314420085399,
+      "valueIncreaseRate": 0.007525239,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 178738
+    },
+    {
+      "time": 1282884085399,
+      "valueIncreaseRate": -0.0023787299,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 177403
+    },
+    {
+      "time": 1251348085399,
+      "valueIncreaseRate": 0.019995412,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 177826
+    },
+    {
+      "time": 1219812085399,
+      "valueIncreaseRate": 0.019991457,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 174340
+    },
+    {
+      "time": 1188189685399,
+      "valueIncreaseRate": 0.019991288,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 170923
+    },
+    {
+      "time": 1156653685399,
+      "valueIncreaseRate": 0.019989165,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 167573
+    },
+    {
+      "time": 1125117685399,
+      "valueIncreaseRate": 0.019991431,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 164289
+    },
+    {
+      "time": 1093581685399,
+      "valueIncreaseRate": 0.018663276,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 161069
+    },
+    {
+      "time": 1061959285399,
+      "valueIncreaseRate": 0.019991098,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 158118
+    },
+    {
+      "time": 1030423285399,
+      "valueIncreaseRate": 0.019996053,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 155019
+    },
+    {
+      "time": 998887285399,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 151980
+    }
+  ],
+  "dateSold": null,
+  "annualHomeownersInsurance": 2936,
+  "state": "CA",
+  "listed_by": {
+    "agent_reason": 3,
+    "zpro": false,
+    "recent_sales": 1,
+    "zuid": "X1-ZUyx9o7llfmknd_9ej1i",
+    "review_count": 168,
+    "display_name": "Leo Gonzalez",
+    "profile_url": "https://www.zillow.com/profile/Leo-Gonzalez/",
+    "business_name": "FOSTER HAMILTON Real Estate",
+    "rating_average": 4.9,
+    "phone": {
+      "prefix": "709",
+      "areacode": "619",
+      "number": "2042"
+    },
+    "badge_type": "Listing Agent",
+    "image_url": "https://photos.zillowstatic.com/fp/688b5cb3831e0c705b60ff8657d91490-h_n.jpg"
+  },
+  "yearBuilt": 1981,
+  "brokerageName": "FOSTER HAMILTON Real Estate",
+  "description": "Located in the sought-after Mission Hills area, this charming condo at 3770 Keating Street offers a warm and inviting living space. The spacious living room features rich hardwood floors, a cozy fireplace, and large windows that bathe the room in natural light. The kitchen shines with bright yellow cabinets, a blue backsplash, and modern appliances. A convenient laundry area with a stacked washer and dryer is located near a stylish bathroom with a artsy sink and ample storage. This condo’s open layout, thoughtful design, and scenic views make it a perfect home in a prime location, conveniently close to Robyn's Egg Trail and Pioneer Park, as well as minutes from Hillcrest, Little Italy, Liberty Station, and Downtown San Diego.",
+  "climate": {
+    "windSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "probability": {},
+        "source": {
+          "url": "https://firststreet.org/property/3770-keating-st-san-diego-ca-92110/603580159_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 18
+      }
+    },
+    "floodSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "femaZone": "X_UNSHADED",
+        "source": {
+          "url": "https://firststreet.org/property/3770-keating-st-san-diego-ca-92110/603580159_fsid"
+        },
+        "probability": [
+          {
+            "relativeYear": 0,
+            "probability": 0
+          },
+          {
+            "relativeYear": 5,
+            "probability": 0
+          },
+          {
+            "relativeYear": 10,
+            "probability": 0
+          },
+          {
+            "relativeYear": 15,
+            "probability": 0
+          },
+          {
+            "relativeYear": 20,
+            "probability": 0
+          },
+          {
+            "relativeYear": 25,
+            "probability": 0
+          },
+          {
+            "relativeYear": 30,
+            "probability": 0
+          }
+        ],
+        "insuranceSeparatePolicy": "NOT_REQUIRED",
+        "historicCountPropertyAll": 0
+      }
+    },
+    "fireSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "probability": {},
+        "source": {
+          "url": "https://firststreet.org/property/3770-keating-st-san-diego-ca-92110/603580159_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 25
+      }
+    },
+    "heatSources": {
+      "primary": {
+        "percentile98Temp": 87,
+        "hotDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 7
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 9
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 11
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 14
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 16
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 18
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 20
+          }
+        ],
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 3
+        },
+        "source": {
+          "url": "https://firststreet.org/property/3770-keating-st-san-diego-ca-92110/603580159_fsid"
+        }
+      }
+    },
+    "airSources": {
+      "primary": {
+        "source": {
+          "url": "https://firststreet.org/property/3770-keating-st-san-diego-ca-92110/603580159_fsid"
+        },
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 4
+        },
+        "badAirDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 4
+          }
+        ]
+      }
+    }
+  },
+  "latitude": 32.746822,
+  "nearbyHomes": [
+    {
+      "bathrooms": 1.5,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "3766 Keating St"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/3766-Keating-St-San-Diego-CA-92110/16968107_zpid/",
+      "lotAreaValue": 5000,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "3766 Keating St",
+        "zipcode": "92110"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.74676,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 736800,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Townhouse",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 5000,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/0b11ecb817aeb1a9251262a134a491dd-p_c.jpg"
+        }
+      ],
+      "zpid": 16968107,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1050,
+      "longitude": -117.17967,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "TOWNHOUSE",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1050
+    },
+    {
+      "bathrooms": 1.5,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "3768 Keating St"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/3768-Keating-St-San-Diego-CA-92110/16968108_zpid/",
+      "lotAreaValue": 5000,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "3768 Keating St",
+        "zipcode": "92110"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.74676,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 700300,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 5000,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=3768+Keating+St%2C+San+Diego%2C+CA+92110&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=II23R2IMpkZj-r3n-nBICwqCsEY="
+        }
+      ],
+      "zpid": 16968108,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1050,
+      "longitude": -117.17967,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1050
+    },
+    {
+      "bathrooms": 1.5,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "3772 Keating St"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/3772-Keating-St-San-Diego-CA-92110/16968110_zpid/",
+      "lotAreaValue": 5000,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "3772 Keating St",
+        "zipcode": "92110"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.74676,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 680400,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 5000,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=3772+Keating+St%2C+San+Diego%2C+CA+92110&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=bD-kGWwMRz6kB1LOZVbuDYOM2Ys="
+        }
+      ],
+      "zpid": 16968110,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1050,
+      "longitude": -117.17967,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1050
+    },
+    {
+      "hdpTypeDimension": "ForSale",
+      "lotAreaUnits": "sqft",
+      "isShowcaseListing": false,
+      "longitude": -117.17967,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "3774 Keating St",
+        "zipcode": "92110"
+      },
+      "livingAreaValue": 1050,
+      "lotSize": null,
+      "zpid": 16968111,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 2,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "3774 Keating St"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "hdpUrl": "/homedetails/3774-Keating-St-San-Diego-CA-92110/16968111_zpid/",
+      "lotAreaValue": null,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "240024950",
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "FOR_SALE",
+      "latitude": 32.74675,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Condo",
+      "newConstructionType": null,
+      "yearBuilt": 1981,
+      "listingTypeDimension": "For Sale by Agent",
+      "livingArea": 1050,
+      "providerListingID": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/62394ff0dd19f47a9e74bf1d92e5c327-p_c.jpg"
+        }
+      ],
+      "currency": "USD",
+      "price": 790000,
+      "listing_sub_type": {
+        "is_FSBA": true,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "1769 Neale St"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/1769-Neale-St-San-Diego-CA-92103/16968106_zpid/",
+      "lotAreaValue": 4999,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "1769 Neale St",
+        "zipcode": "92103"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.746937,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 2324200,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 4999,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=1769+Neale+St%2C+San+Diego%2C+CA+92103&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=deDE47mbP0r3JnYKZh5seXFXWs0="
+        }
+      ],
+      "zpid": 16968106,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1962,
+      "longitude": -117.17982,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1962
+    },
+    {
+      "hdpTypeDimension": "ForRent",
+      "lotAreaUnits": "sqft",
+      "isShowcaseListing": false,
+      "longitude": -117.17959,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "3776-86 Keating St #3778",
+        "zipcode": "92110"
+      },
+      "livingAreaValue": 800,
+      "lotSize": null,
+      "zpid": 352618561,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "APARTMENT",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 1,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "3776-86 Keating St #3778"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "hdpUrl": "/homedetails/3776-86-Keating-St-3778-San-Diego-CA-92110/352618561_zpid/",
+      "lotAreaValue": null,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "FOR_RENT",
+      "latitude": 32.74688,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Apartment",
+      "newConstructionType": null,
+      "yearBuilt": null,
+      "listingTypeDimension": "For Rent",
+      "livingArea": 800,
+      "providerListingID": "4fv605rpc60hs",
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/37fd9f7975fa4885e29c02781a00c3d7-p_c.jpg"
+        }
+      ],
+      "currency": "USD",
+      "price": 3295,
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    },
+    {
+      "hdpTypeDimension": "ForRent",
+      "lotAreaUnits": "sqft",
+      "isShowcaseListing": false,
+      "longitude": -117.17958,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "3776-86 Keating St #3784",
+        "zipcode": "92110"
+      },
+      "livingAreaValue": 810,
+      "lotSize": null,
+      "zpid": 441773859,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "APARTMENT",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 1,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "3776-86 Keating St #3784"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "hdpUrl": "/homedetails/3776-86-Keating-St-3784-San-Diego-CA-92110/441773859_zpid/",
+      "lotAreaValue": null,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "FOR_RENT",
+      "latitude": 32.746872,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Apartment",
+      "newConstructionType": null,
+      "yearBuilt": null,
+      "listingTypeDimension": "For Rent",
+      "livingArea": 810,
+      "providerListingID": "29uqxuxwrbwbw",
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/6414b727116ec541271c336ff407f4e6-p_c.jpg"
+        }
+      ],
+      "currency": "USD",
+      "price": 3295,
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    },
+    {
+      "hdpTypeDimension": "NoZestimate",
+      "lotAreaUnits": "sqft",
+      "isShowcaseListing": false,
+      "longitude": -117.17958,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "3776-86 Keating St #3776",
+        "zipcode": "92110"
+      },
+      "livingAreaValue": 800,
+      "lotSize": null,
+      "zpid": 455822761,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "APARTMENT",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 1,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "3776-86 Keating St #3776"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "hdpUrl": "/homedetails/3776-86-Keating-St-3776-San-Diego-CA-92110/455822761_zpid/",
+      "lotAreaValue": null,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "OTHER",
+      "latitude": 32.746872,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Apartment",
+      "newConstructionType": null,
+      "yearBuilt": null,
+      "listingTypeDimension": "Unknown Listed By",
+      "livingArea": 800,
+      "providerListingID": "4f649vm1999rk",
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/c67dd9909a1d37f134729f9b351414ca-p_c.jpg"
+        }
+      ],
+      "currency": "USD",
+      "price": 0,
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "priceChangeRate": -0.035862068965517,
+      "date": "2025-08-21",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1755734400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "250034799"
+      },
+      "pricePerSquareFoot": 666,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 699000
+    },
+    {
+      "priceChangeRate": 3.8657718120805,
+      "date": "2025-07-30",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1753833600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "250034799"
+      },
+      "pricePerSquareFoot": 690,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 725000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "1999-09-08",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 936748800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 142,
+      "buyerAgent": null,
+      "event": "Sold",
+      "price": 149000
+    }
+  ],
+  "neighborhoodMapThumb": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/0dae6f15f5a9fd7d3f9050a08245f42c-p_c.jpg"
+    }
+  ],
+  "schools": [
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6151-Grant-K-8/",
+      "rating": 7,
+      "totalCount": null,
+      "distance": 0.3,
+      "assigned": null,
+      "name": "Grant K-8",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Elementary",
+      "grades": "K-8",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/14349-San-Diego-Science-And-Technology-School/",
+      "rating": 5,
+      "totalCount": null,
+      "distance": 2.4,
+      "assigned": null,
+      "name": "San Diego High School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "High",
+      "grades": "9-12",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6226-Roosevelt-International-Middle-School/",
+      "rating": 5,
+      "totalCount": null,
+      "distance": 1.9,
+      "assigned": null,
+      "name": "Roosevelt International Middle School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Middle",
+      "grades": "6-8",
+      "type": "Public"
+    }
+  ],
+  "rentZestimate": 3510,
+  "city": "San Diego",
+  "providerListingID": null,
+  "currency": "USD",
+  "listingProvider": null,
+  "propertyTaxRate": 1.17,
+  "isShowcaseListing": false,
+  "openHouseSchedule": {},
+  "mortgageRates": null,
+  "address": {
+    "community": null,
+    "city": "San Diego",
+    "state": "CA",
+    "neighborhood": null,
+    "subdivision": "MISSION HILLS",
+    "streetAddress": "3770 Keating St",
+    "zipcode": "92110"
+  },
+  "cityId": 54296,
+  "timeOnZillow": "27 days",
+  "priceChange": -26000,
+  "zestimate": 696500,
+  "zpid": 16968109,
+  "countyId": 2841,
+  "homeType": "SINGLE_FAMILY",
+  "livingAreaUnits": "sqft",
+  "pageViewCount": 4187,
+  "homeInsights": [
+    {
+      "insights": [
+        {
+          "treatmentId": "model_0",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Cozy fireplace",
+            "Thoughtful design",
+            "Open layout",
+            "Stylish bathroom",
+            "Scenic views",
+            "Large windows",
+            "Blue backsplash"
+          ]
+        },
+        {
+          "treatmentId": "model_1",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Cozy fireplace",
+            "Thoughtful design",
+            "Open layout",
+            "Stylish bathroom",
+            "Scenic views",
+            "Large windows",
+            "Blue backsplash"
+          ]
+        }
+      ]
+    }
+  ],
+  "bathrooms": 2,
+  "neighborhoodRegion": {
+    "name": "Mission Hills"
+  },
+  "zipcode": "92110",
+  "building": null,
+  "zestimateLowPercent": "5",
+  "brokerId": null,
+  "stateId": 9,
+  "url": "/homedetails/3770-Keating-St-San-Diego-CA-92110/16968109_zpid/",
+  "solarPotential": null,
+  "attributionInfo": {
+    "buyerAgentName": null,
+    "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_95_35.jpg",
+    "mlsName": "SDMLS",
+    "coAgentLicenseNumber": null,
+    "listingAgreement": null,
+    "listingOffices": [
+      {
+        "associatedOfficeType": "listOffice",
+        "officeName": "FOSTER HAMILTON Real Estate"
+      }
+    ],
+    "infoString10": "This information is deemed reliable but not guaranteed. You should rely on this information only to decide whether or not to further investigate a particular property.\nBEFORE MAKING ANY OTHER DECISION, YOU SHOULD PERSONALLY INVESTIGATE THE FACTS (e.g. square footage and lot size) with the assistance of an appropriate professional. You may use this information only to identify properties you may be interested in investigating further. All uses except for personal, noncommercial use in accordance with the foregoing purpose are prohibited. Redistribution or copying of this information, any photographs or video tours is strictly\nprohibited. This information is derived from the Internet Data Exchange (IDX) service provided by San Diego MLS. Displayed property listings may be held by a brokerage firm other than the broker and/or agent responsible for this display. The information and any photographs and video tours and the compilation from which they are derived is protected by copyright. Compilation © 2025 San Diego MLS.",
+    "buyerAgentMemberStateLicense": null,
+    "brokerName": "FOSTER HAMILTON Real Estate",
+    "listingAttributionContact": null,
+    "lastUpdated": "2025-08-21 13:43:56",
+    "trueStatus": null,
+    "listingAgentAttributionContact": null,
+    "agentEmail": null,
+    "agentName": "Leo Gonzalez",
+    "attributionTitle": null,
+    "mlsId": "250034799",
+    "coAgentName": null,
+    "coAgentNumber": null,
+    "infoString5": "619-709-2042",
+    "listingAgents": [
+      {
+        "memberStateLicense": "DRE #01708425",
+        "memberFullName": "Leo Gonzalez",
+        "associatedAgentType": "listAgent"
+      }
+    ],
+    "agentPhoneNumber": "619-709-2042",
+    "agentLicenseNumber": "DRE #01708425",
+    "providerLogo": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_95_35.jpg",
+    "infoString16": null,
+    "buyerBrokerageName": null,
+    "mlsDisclaimer": "This information is deemed reliable but not guaranteed. You should rely on this information only to decide whether or not to further investigate a particular property.\nBEFORE MAKING ANY OTHER DECISION, YOU SHOULD PERSONALLY INVESTIGATE THE FACTS (e.g. square footage and lot size) with the assistance of an appropriate professional. You may use this information only to identify properties you may be interested in investigating further. All uses except for personal, noncommercial use in accordance with the foregoing purpose are prohibited. Redistribution or copying of this information, any photographs or video tours is strictly\nprohibited. This information is derived from the Internet Data Exchange (IDX) service provided by San Diego MLS. Displayed property listings may be held by a brokerage firm other than the broker and/or agent responsible for this display. The information and any photographs and video tours and the compilation from which they are derived is protected by copyright. Compilation © 2025 San Diego MLS.",
+    "brokerPhoneNumber": "619-472-8000",
+    "lastChecked": "2025-08-26 21:11:24"
+  },
+  "priceChangeDateString": "2025-08-21",
+  "photoCount": 25,
+  "homeStatus": "FOR_SALE",
+  "homeFacts": null,
+  "resoFacts": {
+    "hasAttachedProperty": false,
+    "frontageType": null,
+    "poolFeatures": [
+      "N/K"
+    ],
+    "flooring": null,
+    "foundationDetails": {},
+    "accessibilityFeatures": null,
+    "hasGarage": true,
+    "hasPetsAllowed": true,
+    "bodyType": null,
+    "topography": null,
+    "landLeaseExpirationDate": null,
+    "hasAdditionalParcels": false,
+    "parkName": null,
+    "livingQuarters": {},
+    "taxAssessedValue": 224491,
+    "atAGlanceFacts": [
+      {
+        "factValue": "Single Family Residence",
+        "factLabel": "Type"
+      },
+      {
+        "factValue": "1981",
+        "factLabel": "Year Built"
+      },
+      {
+        "factValue": "Radiant",
+        "factLabel": "Heating"
+      },
+      {
+        "factValue": "N/K",
+        "factLabel": "Cooling"
+      },
+      {
+        "factValue": "2 Garage spaces",
+        "factLabel": "Parking"
+      },
+      {
+        "factValue": "$250 monthly",
+        "factLabel": "HOA"
+      },
+      {
+        "factValue": "5,227 sqft",
+        "factLabel": "Lot"
+      },
+      {
+        "factValue": "27 Days",
+        "factLabel": "Days on Zillow"
+      },
+      {
+        "factValue": "$666",
+        "factLabel": "Price/sqft"
+      },
+      {
+        "factValue": null,
+        "factLabel": "Offer Review Date"
+      }
+    ],
+    "offerReviewDate": null,
+    "horseYN": null,
+    "view": {},
+    "rooms": {},
+    "belowGradeFinishedArea": null,
+    "feesAndDues": [
+      {
+        "phone": null,
+        "name": "Terrace Gardens HOA",
+        "fee": "$250 monthly",
+        "type": "HOA"
+      }
+    ],
+    "cityRegion": "San Diego",
+    "mainLevelBathrooms": null,
+    "hasPrivatePool": null,
+    "landLeaseAmount": null,
+    "waterSource": [
+      "Meter on Property"
+    ],
+    "exteriorFeatures": {},
+    "inclusions": null,
+    "hasFireplace": null,
+    "gas": null,
+    "propertyCondition": null,
+    "elevationUnits": null,
+    "exclusions": null,
+    "mainLevelBedrooms": null,
+    "numberOfUnitsVacant": null,
+    "hasWaterfrontView": null,
+    "bathroomsOneQuarter": null,
+    "lotSize": "5,227 sqft",
+    "entryLevel": null,
+    "media": [
+      {
+        "mediaCategory": "UnbrandedVirtualTour",
+        "mediaURL": "https://www.propertypanorama.com/instaview/snd/250034799"
+      }
+    ],
+    "greenWaterConservation": null,
+    "stories": 2,
+    "livingArea": "1,050 sqft",
+    "commonWalls": null,
+    "listingTerms": "Conventional,VA,Cash To New Loan",
+    "otherParking": null,
+    "associationFee": "$250 monthly",
+    "marketingType": null,
+    "greenIndoorAirQuality": null,
+    "greenSustainability": null,
+    "livingAreaRangeUnits": null,
+    "associationPhone": null,
+    "greenBuildingVerificationType": null,
+    "hasAttachedGarage": null,
+    "bedrooms": 2,
+    "architecturalStyle": null,
+    "listingId": null,
+    "structureType": null,
+    "interiorFeatures": null,
+    "horseAmenities": null,
+    "garageParkingCapacity": 2,
+    "developmentStatus": null,
+    "lotFeatures": null,
+    "roofType": "Common Roof",
+    "compensationBasedOn": null,
+    "greenEnergyGeneration": null,
+    "daysOnZillow": 27,
+    "listAOR": "San Diego Association of REALTOR",
+    "buildingAreaSource": null,
+    "elementarySchool": null,
+    "zoningDescription": "R-1:SINGLE",
+    "irrigationWaterRightsAcres": null,
+    "yearBuiltEffective": null,
+    "greenEnergyEfficient": null,
+    "constructionMaterials": [
+      "Stucco"
+    ],
+    "fireplaceFeatures": null,
+    "hoaFeeTotal": "$250 monthly",
+    "appliances": [
+      "Dishwasher",
+      "Dryer",
+      "Refrigerator",
+      "Washer"
+    ],
+    "sewer": [
+      "Sewer Connected"
+    ],
+    "bathroomsPartial": null,
+    "fencing": "Partial",
+    "spaFeatures": null,
+    "waterViewYN": null,
+    "buildingName": "Terrance Garden",
+    "attic": null,
+    "petsMaxWeight": null,
+    "cumulativeDaysOnMarket": null,
+    "waterfrontFeatures": null,
+    "additionalParcelsDescription": null,
+    "canRaiseHorses": false,
+    "hasLandLease": false,
+    "communityFeatures": null,
+    "waterBodyName": null,
+    "middleOrJuniorSchool": null,
+    "lotSizeDimensions": null,
+    "virtualTour": "https://www.propertypanorama.com/instaview/snd/250034799",
+    "contingency": null,
+    "yearBuilt": 1981,
+    "utilities": null,
+    "totalActualRent": null,
+    "bathroomsFull": 1,
+    "parcelNumber": "4510150603",
+    "incomeIncludes": null,
+    "highSchool": null,
+    "taxAnnualAmount": 2789,
+    "subdivisionName": "MISSION HILLS",
+    "storiesTotal": 2,
+    "storiesDecimal": 2,
+    "specialListingConditions": null,
+    "windowFeatures": null,
+    "ownership": null,
+    "woodedArea": null,
+    "middleOrJuniorSchoolDistrict": null,
+    "associationPhone2": null,
+    "onMarketDate": 1753891311000,
+    "roomTypes": null,
+    "frontageLength": null,
+    "roadSurfaceType": null,
+    "associationAmenities": null,
+    "propertySubType": [
+      "Single Family Residence"
+    ],
+    "hasCooling": true,
+    "levels": "2 Story",
+    "coveredParkingCapacity": 2,
+    "foundationArea": null,
+    "zoning": "R-1:SINGLE",
+    "hoaFee": "$250 monthly",
+    "livingAreaRange": null,
+    "parkingFeatures": [
+      "Detached"
+    ],
+    "parkingCapacity": 2,
+    "cropsIncludedYN": null,
+    "tenantPays": null,
+    "builderModel": null,
+    "otherStructures": null,
+    "otherFacts": {},
+    "additionalFeeInfo": null,
+    "hasView": false,
+    "openParkingCapacity": null,
+    "securityFeatures": null,
+    "numberOfUnitsInCommunity": 5,
+    "hasHomeWarranty": false,
+    "basementYN": null,
+    "doorFeatures": null,
+    "ownershipType": null,
+    "aboveGradeFinishedArea": null,
+    "associations": [
+      {
+        "feeFrequency": "$250 monthly",
+        "name": "Terrace Gardens HOA",
+        "phone": null
+      }
+    ],
+    "waterView": null,
+    "electric": null,
+    "buildingFeatures": null,
+    "hasOpenParking": null,
+    "hasCarport": null,
+    "bathroomsHalf": 1,
+    "homeType": "SingleFamily",
+    "isSeniorCommunity": null,
+    "municipality": null,
+    "bathroomsThreeQuarter": null,
+    "hasSpa": false,
+    "basement": null,
+    "associationFee2": null,
+    "cooling": [
+      "N/K"
+    ],
+    "hasHeating": true,
+    "associationName2": null,
+    "hasRentControl": null,
+    "elementarySchoolDistrict": null,
+    "otherEquipment": null,
+    "bathrooms": 2,
+    "buildingArea": "1,050",
+    "furnished": false,
+    "vegetation": null,
+    "patioAndPorchFeatures": null,
+    "bathroomsFloat": 2,
+    "builderName": null,
+    "highSchoolDistrict": null,
+    "hasElectricOnProperty": null,
+    "laundryFeatures": [
+      "Electric"
+    ],
+    "entryLocation": null,
+    "fireplaces": null,
+    "heating": [
+      "Radiant"
+    ],
+    "availabilityDate": null,
+    "carportParkingCapacity": null,
+    "hasAssociation": null,
+    "irrigationWaterRightsYN": null,
+    "isNewConstruction": null,
+    "associationFeeIncludes": [
+      "Common Area Maintenance",
+      "Water"
+    ],
+    "leaseTerm": null,
+    "pricePerSquareFoot": 666,
+    "associationName": "Terrace Gardens HOA",
+    "elevation": null
+  },
+  "datePosted": "2025-07-30",
+  "bedrooms": 2,
+  "propertyTypeDimension": "Single Family",
+  "mortgageZHLRates": {
+    "thirtyYearFixedBucket": {
+      "rate": 6.306,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756269409823
+    },
+    "fifteenYearFixedBucket": {
+      "rate": 5.601,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756269409823
+    },
+    "arm5Bucket": {
+      "rate": 6.529,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756269409823
+    }
+  },
+  "comingSoonOnMarketDate": null,
+  "favoriteCount": 133,
+  "livingArea": 1050,
+  "zestimateHighPercent": "5",
+  "mlsid": "250034799",
+  "isListedByOwner": null,
+  "listingSubType": {
+    "is_comingSoon": false,
+    "is_pending": false,
+    "is_forAuction": false,
+    "is_bankOwned": false,
+    "is_FSBA": true,
+    "is_FSBO": false,
+    "is_newHome": false,
+    "is_foreclosure": false
+  },
+  "buildingId": null,
+  "country": "USA",
+  "price": 699000,
+  "priceChangeDate": 1755734400000,
+  "contingentListingType": null
+}

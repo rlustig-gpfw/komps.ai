@@ -1,0 +1,1406 @@
+{
+  "buildingPermits": null,
+  "contact_recipients": [
+    {
+      "agent_reason": 1,
+      "zpro": null,
+      "recent_sales": 0,
+      "review_count": 0,
+      "display_name": "Premier Broker Flex Atlanta GA",
+      "badge_type": "Premier Agent",
+      "business_name": "Zillow Group",
+      "rating_average": 0,
+      "phone": {
+        "prefix": "452",
+        "areacode": "206",
+        "number": "1030"
+      },
+      "zuid": "X1-ZUv2ktj4jt3nyh_98wrm",
+      "image_url": "https://www.zillowstatic.com/static/images/nophoto_h_g.png"
+    }
+  ],
+  "longitude": -117.142784,
+  "countyFIPS": "06073",
+  "imgSrc": "https://photos.zillowstatic.com/fp/5e23f6fb4c31786018daa6c5d8d6be64-p_d.jpg",
+  "livingAreaValue": 1853,
+  "streetAddress": "11313 Zapata Ave UNIT 6",
+  "county": "San Diego County",
+  "monthlyHoaFee": 360,
+  "timeZone": "America/Los_Angeles",
+  "taxHistory": [
+    {
+      "time": 1724734336185,
+      "valueIncreaseRate": 0.019998483,
+      "taxIncreaseRate": 0.022771241,
+      "taxPaid": 8051.46,
+      "value": 659020
+    },
+    {
+      "time": 1693111936185,
+      "valueIncreaseRate": 0.01999741,
+      "taxIncreaseRate": 0.027562859,
+      "taxPaid": 7872.2,
+      "value": 646099
+    },
+    {
+      "time": 1661575936185,
+      "valueIncreaseRate": 0.019999614,
+      "taxIncreaseRate": 0.0071701887,
+      "taxPaid": 7661.04,
+      "value": 633432
+    },
+    {
+      "time": 1630039936185,
+      "valueIncreaseRate": 0.010358825,
+      "taxIncreaseRate": 0.0123831155,
+      "taxPaid": 7606.5,
+      "value": 621012
+    },
+    {
+      "time": 1598503936185,
+      "valueIncreaseRate": 0.01999854,
+      "taxIncreaseRate": 0.023961358,
+      "taxPaid": 7513.46,
+      "value": 614645
+    },
+    {
+      "time": 1566881536185,
+      "valueIncreaseRate": 0.019999018,
+      "taxIncreaseRate": 0.051387,
+      "taxPaid": 7337.64,
+      "value": 602594
+    },
+    {
+      "time": 1535345536185,
+      "valueIncreaseRate": 0.6276473,
+      "taxIncreaseRate": 0.62987864,
+      "taxPaid": 6979.01,
+      "value": 590779
+    },
+    {
+      "time": 1503809536185,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": 4281.92,
+      "value": 362965
+    }
+  ],
+  "dateSold": null,
+  "annualHomeownersInsurance": 4120,
+  "state": "CA",
+  "listed_by": {
+    "agent_reason": 3,
+    "zpro": false,
+    "recent_sales": 0,
+    "zuid": "X1-ZUv3vv4mwza0p5_56tmi",
+    "review_count": 0,
+    "display_name": "Rakhi Batra",
+    "profile_url": "https://www.zillow.com/profile/zuser20181112173833382/",
+    "business_name": "Epique Realty",
+    "rating_average": 0,
+    "phone": {
+      "prefix": "829",
+      "areacode": "858",
+      "number": "7929"
+    },
+    "badge_type": "Listing Agent",
+    "image_url": "https://www.zillowstatic.com/static/images/nophoto_h_n.png"
+  },
+  "yearBuilt": 2016,
+  "brokerageName": "Epique Realty",
+  "description": "Motivated to sell!! Now accepting offers from 950,000 to 980,000.  Welcome to 11313 Zapata Ave, Unit 6, located in a desirable gated community in San Diego, CA.  This move-in ready home offers a fresh feel with new paint and freshly shampooed carpets.  The spacious interior is filled with natural light and offers stunning sunset views.  The kitchen features a large island, perfect for meal prep or entertaining.  With only one owner since 2016, this home has been meticulously maintained and is ready for its next chapter.",
+  "climate": {
+    "windSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "probability": {},
+        "source": {
+          "url": "https://firststreet.org/property/11313-zapata-ave-san-diego-ca-92126-4772/603361029_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 18
+      }
+    },
+    "floodSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "femaZone": "X_UNSHADED",
+        "source": {
+          "url": "https://firststreet.org/property/11313-zapata-ave-san-diego-ca-92126-4772/603361029_fsid"
+        },
+        "probability": [
+          {
+            "relativeYear": 0,
+            "probability": 0
+          },
+          {
+            "relativeYear": 5,
+            "probability": 0
+          },
+          {
+            "relativeYear": 10,
+            "probability": 0
+          },
+          {
+            "relativeYear": 15,
+            "probability": 0
+          },
+          {
+            "relativeYear": 20,
+            "probability": 0
+          },
+          {
+            "relativeYear": 25,
+            "probability": 0
+          },
+          {
+            "relativeYear": 30,
+            "probability": 0
+          }
+        ],
+        "insuranceSeparatePolicy": "NOT_REQUIRED",
+        "historicCountPropertyAll": 0
+      }
+    },
+    "fireSources": {
+      "primary": {
+        "insuranceRecommendation": "RECOMMENDED",
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 4
+        },
+        "probability": [
+          {
+            "relativeYear": 0,
+            "probability": 0.00050000002374873
+          },
+          {
+            "relativeYear": 5,
+            "probability": 0.003000000026077
+          },
+          {
+            "relativeYear": 10,
+            "probability": 0.0054999999701977
+          },
+          {
+            "relativeYear": 15,
+            "probability": 0.0080000003799796
+          },
+          {
+            "relativeYear": 20,
+            "probability": 0.010400000028312
+          },
+          {
+            "relativeYear": 25,
+            "probability": 0.012900000438094
+          },
+          {
+            "relativeYear": 30,
+            "probability": 0.015399999916553
+          }
+        ],
+        "source": {
+          "url": "https://firststreet.org/property/11313-zapata-ave-san-diego-ca-92126-4772/603361029_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 29
+      }
+    },
+    "heatSources": {
+      "primary": {
+        "percentile98Temp": 90,
+        "hotDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 7
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 9
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 11
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 14
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 16
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 18
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 20
+          }
+        ],
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 4
+        },
+        "source": {
+          "url": "https://firststreet.org/property/11313-zapata-ave-san-diego-ca-92126-4772/603361029_fsid"
+        }
+      }
+    },
+    "airSources": {
+      "primary": {
+        "source": {
+          "url": "https://firststreet.org/property/11313-zapata-ave-san-diego-ca-92126-4772/603361029_fsid"
+        },
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 3
+        },
+        "badAirDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 3
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 3
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 3
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 4
+          }
+        ]
+      }
+    }
+  },
+  "latitude": 32.92666,
+  "nearbyHomes": [
+    {
+      "bathrooms": 4,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "11309 Zapata Ave UNIT 2"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/11309-Zapata-Ave-UNIT-2-San-Diego-CA-92126/241607925_zpid/",
+      "lotAreaValue": 1.76,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "11309 Zapata Ave UNIT 2",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "240001340",
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.92666,
+      "homeStatus": "SOLD",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1050000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Townhouse",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 76665,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/489cdbbe2dd6016717e164175015ef92-p_c.jpg"
+        }
+      ],
+      "zpid": 241607925,
+      "hdpTypeDimension": "RecentlySold",
+      "livingArea": 1848,
+      "longitude": -117.142784,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "TOWNHOUSE",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1848
+    },
+    {
+      "bathrooms": 4,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "11317 Zapata Ave UNIT 9"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/11317-Zapata-Ave-UNIT-9-San-Diego-CA-92126/241607931_zpid/",
+      "lotAreaValue": 1.76,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "11317 Zapata Ave UNIT 9",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "240016855",
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.92666,
+      "homeStatus": "SOLD",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1081000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Townhouse",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 76665,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/2e0dc0074812f34178229df530f60491-p_c.jpg"
+        }
+      ],
+      "zpid": 241607931,
+      "hdpTypeDimension": "RecentlySold",
+      "livingArea": 2017,
+      "longitude": -117.142784,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "TOWNHOUSE",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 2017
+    },
+    {
+      "bathrooms": 4,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "11345 Zapata Ave #13"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/11345-Zapata-Ave-13-San-Diego-CA-92126/241609724_zpid/",
+      "lotAreaValue": 1.76,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "11345 Zapata Ave #13",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "230001236",
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.92666,
+      "homeStatus": "SOLD",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 940000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Townhouse",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 76665,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/91adf9853d6248fe42ae61d586b3b494-p_c.jpg"
+        }
+      ],
+      "zpid": 241609724,
+      "hdpTypeDimension": "RecentlySold",
+      "livingArea": 1853,
+      "longitude": -117.142784,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "TOWNHOUSE",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1853
+    },
+    {
+      "bathrooms": 4,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "11329 Zapata Ave UNIT 18"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/11329-Zapata-Ave-UNIT-18-San-Diego-CA-92126/241609727_zpid/",
+      "lotAreaValue": 1.76,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "11329 Zapata Ave UNIT 18",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "230018050",
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.92666,
+      "homeStatus": "SOLD",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1062000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Townhouse",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 76665,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/7699a8244590027f2ebc824e89170c15-p_c.jpg"
+        }
+      ],
+      "zpid": 241609727,
+      "hdpTypeDimension": "RecentlySold",
+      "livingArea": 2017,
+      "longitude": -117.142784,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "TOWNHOUSE",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 2017
+    },
+    {
+      "hdpTypeDimension": "Zestimate",
+      "lotAreaUnits": "Acres",
+      "isShowcaseListing": false,
+      "longitude": -117.142784,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "11309 Zapata Ave UNIT 1",
+        "zipcode": "92126"
+      },
+      "livingAreaValue": 2017,
+      "lotSize": 76427,
+      "zpid": 241607924,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 3.5,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "11309 Zapata Ave UNIT 1"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "hdpUrl": "/homedetails/11309-Zapata-Ave-UNIT-1-San-Diego-CA-92126/241607924_zpid/",
+      "lotAreaValue": 1.7545224977043,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "OTHER",
+      "latitude": 32.92668,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Condo",
+      "newConstructionType": null,
+      "yearBuilt": 2016,
+      "listingTypeDimension": "Unknown Listed By",
+      "livingArea": 2017,
+      "providerListingID": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=11309+Zapata+Ave%2C+San+Diego%2C+CA+92126&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=yrsEToT0N57ws2hofhyxLwDDRQg="
+        }
+      ],
+      "currency": "USD",
+      "price": 1039000,
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    },
+    {
+      "bathrooms": 3.5,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "11313 Zapata Ave UNIT 4"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/11313-Zapata-Ave-UNIT-4-San-Diego-CA-92126/241607927_zpid/",
+      "lotAreaValue": 1.7545224977043,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "11313 Zapata Ave UNIT 4",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.92668,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 995000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 76427,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/8e3206734cc16e609b24962534fd63c7-p_c.jpg"
+        }
+      ],
+      "zpid": 241607927,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1853,
+      "longitude": -117.142784,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1853
+    },
+    {
+      "bathrooms": 4,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "11313 Zapata Ave UNIT 5"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/11313-Zapata-Ave-UNIT-5-San-Diego-CA-92126/241607928_zpid/",
+      "lotAreaValue": 1.7545224977043,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "11313 Zapata Ave UNIT 5",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.92668,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 971100,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Townhouse",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 76427,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=11313+Zapata+Ave%2C+San+Diego%2C+CA+92126&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=dOXK6_Ni4GZ_wu_pDB3M-XXiA-Y="
+        }
+      ],
+      "zpid": 241607928,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1848,
+      "longitude": -117.142784,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "TOWNHOUSE",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1848
+    },
+    {
+      "bathrooms": 4,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "11317 Zapata Ave UNIT 8"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/11317-Zapata-Ave-UNIT-8-San-Diego-CA-92126/241607930_zpid/",
+      "lotAreaValue": 1.75,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "11317 Zapata Ave UNIT 8",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.92668,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 981800,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 76230,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/364335932e8fcf5f5002571cd81f3d56-p_c.jpg"
+        }
+      ],
+      "zpid": 241607930,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1814,
+      "longitude": -117.142784,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1814
+    }
+  ],
+  "priceHistory": [
+    {
+      "priceChangeRate": 0.69264538395168,
+      "date": "2025-06-01",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1748736000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "250029185"
+      },
+      "pricePerSquareFoot": 529,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 980888
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2016-12-09",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 1481241600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 313,
+      "buyerAgent": null,
+      "event": "Sold",
+      "price": 579500
+    }
+  ],
+  "neighborhoodMapThumb": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/5e23f6fb4c31786018daa6c5d8d6be64-p_c.jpg"
+    }
+  ],
+  "schools": [
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6137-Ericson-Elementary-School/",
+      "rating": 7,
+      "totalCount": null,
+      "distance": 0.4,
+      "assigned": null,
+      "name": "Ericson Elementary School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Elementary",
+      "grades": "K-5",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6252-Wangenheim-Middle-School/",
+      "rating": 6,
+      "totalCount": null,
+      "distance": 1.7,
+      "assigned": null,
+      "name": "Wangenheim Middle School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Middle",
+      "grades": "6-8",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6203-Mira-Mesa-High-School/",
+      "rating": 9,
+      "totalCount": null,
+      "distance": 1.1,
+      "assigned": null,
+      "name": "Mira Mesa High School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "High",
+      "grades": "9-12",
+      "type": "Public"
+    }
+  ],
+  "rentZestimate": 4522,
+  "city": "San Diego",
+  "providerListingID": null,
+  "currency": "USD",
+  "listingProvider": null,
+  "propertyTaxRate": 1.17,
+  "isShowcaseListing": false,
+  "openHouseSchedule": {},
+  "mortgageRates": null,
+  "address": {
+    "community": null,
+    "city": "San Diego",
+    "state": "CA",
+    "neighborhood": null,
+    "subdivision": "Aurora (AURO)",
+    "streetAddress": "11313 Zapata Ave UNIT 6",
+    "zipcode": "92126"
+  },
+  "cityId": 54296,
+  "timeOnZillow": "86 days",
+  "priceChange": null,
+  "zestimate": 974200,
+  "zpid": 241607929,
+  "countyId": 2841,
+  "homeType": "TOWNHOUSE",
+  "livingAreaUnits": "sqft",
+  "pageViewCount": 1017,
+  "homeInsights": [
+    {
+      "insights": [
+        {
+          "treatmentId": "model_0",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Large island",
+            "Natural light",
+            "Stunning sunset views",
+            "Freshly shampooed carpets",
+            "Spacious interior"
+          ]
+        },
+        {
+          "treatmentId": "model_1",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Large island",
+            "Filled with natural light",
+            "Stunning sunset views",
+            "Freshly shampooed carpets",
+            "Spacious interior"
+          ]
+        }
+      ]
+    }
+  ],
+  "bathrooms": 4,
+  "neighborhoodRegion": {
+    "name": "Mira Mesa"
+  },
+  "zipcode": "92126",
+  "building": null,
+  "zestimateLowPercent": "5",
+  "brokerId": null,
+  "stateId": 9,
+  "url": "/homedetails/11313-Zapata-Ave-UNIT-6-San-Diego-CA-92126/241607929_zpid/",
+  "solarPotential": null,
+  "attributionInfo": {
+    "buyerAgentName": null,
+    "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_95_35.jpg",
+    "mlsName": "SDMLS",
+    "coAgentLicenseNumber": null,
+    "listingAgreement": null,
+    "listingOffices": [
+      {
+        "associatedOfficeType": "listOffice",
+        "officeName": "Epique Realty"
+      }
+    ],
+    "infoString10": "This information is deemed reliable but not guaranteed. You should rely on this information only to decide whether or not to further investigate a particular property.\nBEFORE MAKING ANY OTHER DECISION, YOU SHOULD PERSONALLY INVESTIGATE THE FACTS (e.g. square footage and lot size) with the assistance of an appropriate professional. You may use this information only to identify properties you may be interested in investigating further. All uses except for personal, noncommercial use in accordance with the foregoing purpose are prohibited. Redistribution or copying of this information, any photographs or video tours is strictly\nprohibited. This information is derived from the Internet Data Exchange (IDX) service provided by San Diego MLS. Displayed property listings may be held by a brokerage firm other than the broker and/or agent responsible for this display. The information and any photographs and video tours and the compilation from which they are derived is protected by copyright. Compilation © 2025 San Diego MLS.",
+    "buyerAgentMemberStateLicense": null,
+    "brokerName": "Epique Realty",
+    "listingAttributionContact": null,
+    "lastUpdated": "2025-07-19 06:35:46",
+    "trueStatus": null,
+    "listingAgentAttributionContact": null,
+    "agentEmail": null,
+    "agentName": "Rakhi Batra",
+    "attributionTitle": null,
+    "mlsId": "250029185",
+    "coAgentName": null,
+    "coAgentNumber": null,
+    "infoString5": "858-829-7929",
+    "listingAgents": [
+      {
+        "memberStateLicense": "DRE #02074366",
+        "memberFullName": "Rakhi Batra",
+        "associatedAgentType": "listAgent"
+      }
+    ],
+    "agentPhoneNumber": "858-829-7929",
+    "agentLicenseNumber": "DRE #02074366",
+    "providerLogo": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_95_35.jpg",
+    "infoString16": null,
+    "buyerBrokerageName": null,
+    "mlsDisclaimer": "This information is deemed reliable but not guaranteed. You should rely on this information only to decide whether or not to further investigate a particular property.\nBEFORE MAKING ANY OTHER DECISION, YOU SHOULD PERSONALLY INVESTIGATE THE FACTS (e.g. square footage and lot size) with the assistance of an appropriate professional. You may use this information only to identify properties you may be interested in investigating further. All uses except for personal, noncommercial use in accordance with the foregoing purpose are prohibited. Redistribution or copying of this information, any photographs or video tours is strictly\nprohibited. This information is derived from the Internet Data Exchange (IDX) service provided by San Diego MLS. Displayed property listings may be held by a brokerage firm other than the broker and/or agent responsible for this display. The information and any photographs and video tours and the compilation from which they are derived is protected by copyright. Compilation © 2025 San Diego MLS.",
+    "brokerPhoneNumber": "888-893-3537",
+    "lastChecked": "2025-08-26 21:43:20"
+  },
+  "priceChangeDateString": null,
+  "photoCount": 17,
+  "homeStatus": "FOR_SALE",
+  "homeFacts": null,
+  "resoFacts": {
+    "hasAttachedProperty": false,
+    "frontageType": null,
+    "poolFeatures": [
+      "N/K"
+    ],
+    "flooring": null,
+    "foundationDetails": {},
+    "accessibilityFeatures": null,
+    "hasGarage": true,
+    "hasPetsAllowed": null,
+    "bodyType": null,
+    "topography": null,
+    "landLeaseExpirationDate": null,
+    "hasAdditionalParcels": false,
+    "parkName": null,
+    "livingQuarters": {},
+    "taxAssessedValue": 659020,
+    "atAGlanceFacts": [
+      {
+        "factValue": "Townhouse",
+        "factLabel": "Type"
+      },
+      {
+        "factValue": "2016",
+        "factLabel": "Year Built"
+      },
+      {
+        "factValue": "N/K",
+        "factLabel": "Heating"
+      },
+      {
+        "factValue": "Central Forced Air",
+        "factLabel": "Cooling"
+      },
+      {
+        "factValue": "2 Garage spaces",
+        "factLabel": "Parking"
+      },
+      {
+        "factValue": "$360 monthly",
+        "factLabel": "HOA"
+      },
+      {
+        "factValue": null,
+        "factLabel": "Lot"
+      },
+      {
+        "factValue": "86 Days",
+        "factLabel": "Days on Zillow"
+      },
+      {
+        "factValue": "$529",
+        "factLabel": "Price/sqft"
+      },
+      {
+        "factValue": null,
+        "factLabel": "Offer Review Date"
+      }
+    ],
+    "offerReviewDate": null,
+    "horseYN": null,
+    "view": {},
+    "rooms": {},
+    "belowGradeFinishedArea": null,
+    "feesAndDues": [
+      {
+        "phone": null,
+        "name": "Aurora",
+        "fee": "$360 monthly",
+        "type": "HOA"
+      }
+    ],
+    "cityRegion": "San Diego",
+    "mainLevelBathrooms": null,
+    "hasPrivatePool": null,
+    "landLeaseAmount": null,
+    "waterSource": [
+      "Meter on Property"
+    ],
+    "exteriorFeatures": {},
+    "inclusions": null,
+    "hasFireplace": null,
+    "gas": null,
+    "propertyCondition": null,
+    "elevationUnits": null,
+    "exclusions": null,
+    "mainLevelBedrooms": null,
+    "numberOfUnitsVacant": null,
+    "hasWaterfrontView": null,
+    "bathroomsOneQuarter": null,
+    "lotSize": null,
+    "entryLevel": null,
+    "media": [
+      {
+        "mediaCategory": "UnbrandedVirtualTour",
+        "mediaURL": "https://www.propertypanorama.com/instaview/snd/250029185"
+      }
+    ],
+    "greenWaterConservation": null,
+    "stories": 3,
+    "livingArea": "1,853 sqft",
+    "commonWalls": null,
+    "listingTerms": "VA,Other/Remarks",
+    "otherParking": null,
+    "associationFee": "$360 monthly",
+    "marketingType": null,
+    "greenIndoorAirQuality": null,
+    "greenSustainability": null,
+    "livingAreaRangeUnits": null,
+    "associationPhone": null,
+    "greenBuildingVerificationType": null,
+    "hasAttachedGarage": null,
+    "bedrooms": 4,
+    "architecturalStyle": null,
+    "listingId": null,
+    "structureType": null,
+    "interiorFeatures": null,
+    "horseAmenities": null,
+    "garageParkingCapacity": 2,
+    "developmentStatus": null,
+    "lotFeatures": null,
+    "roofType": "Tile/Clay",
+    "compensationBasedOn": null,
+    "greenEnergyGeneration": null,
+    "daysOnZillow": 86,
+    "listAOR": "San Diego Association of REALTOR",
+    "buildingAreaSource": null,
+    "elementarySchool": null,
+    "zoningDescription": null,
+    "irrigationWaterRightsAcres": null,
+    "yearBuiltEffective": null,
+    "greenEnergyEfficient": null,
+    "constructionMaterials": [
+      "Unknown"
+    ],
+    "fireplaceFeatures": null,
+    "hoaFeeTotal": "$360 monthly",
+    "appliances": [
+      "Dishwasher",
+      "Dryer",
+      "Fire Sprinklers",
+      "Microwave",
+      "Refrigerator",
+      "Washer",
+      "Convection Oven",
+      "Electric Stove",
+      "Ice Maker"
+    ],
+    "sewer": [
+      "Other/Remarks"
+    ],
+    "bathroomsPartial": null,
+    "fencing": "N/K",
+    "spaFeatures": null,
+    "waterViewYN": null,
+    "buildingName": "Townhome",
+    "attic": null,
+    "petsMaxWeight": null,
+    "cumulativeDaysOnMarket": null,
+    "waterfrontFeatures": null,
+    "additionalParcelsDescription": null,
+    "canRaiseHorses": false,
+    "hasLandLease": false,
+    "communityFeatures": [
+      "Gated Community"
+    ],
+    "waterBodyName": null,
+    "middleOrJuniorSchool": null,
+    "lotSizeDimensions": null,
+    "virtualTour": "https://www.propertypanorama.com/instaview/snd/250029185",
+    "contingency": null,
+    "yearBuilt": 2016,
+    "utilities": null,
+    "totalActualRent": null,
+    "bathroomsFull": 3,
+    "parcelNumber": "3092606206",
+    "incomeIncludes": null,
+    "highSchool": null,
+    "taxAnnualAmount": 8051,
+    "subdivisionName": "Aurora (AURO)",
+    "storiesTotal": 3,
+    "storiesDecimal": 3,
+    "specialListingConditions": null,
+    "windowFeatures": null,
+    "ownership": null,
+    "woodedArea": null,
+    "middleOrJuniorSchoolDistrict": null,
+    "associationPhone2": null,
+    "onMarketDate": 1748801720000,
+    "roomTypes": null,
+    "frontageLength": null,
+    "roadSurfaceType": null,
+    "associationAmenities": null,
+    "propertySubType": [
+      "Townhouse"
+    ],
+    "hasCooling": true,
+    "levels": "3 Story",
+    "coveredParkingCapacity": 2,
+    "foundationArea": null,
+    "zoning": null,
+    "hoaFee": "$360 monthly",
+    "livingAreaRange": null,
+    "parkingFeatures": [
+      "Garage",
+      "Garage Door Opener"
+    ],
+    "parkingCapacity": 2,
+    "cropsIncludedYN": null,
+    "tenantPays": null,
+    "builderModel": null,
+    "otherStructures": null,
+    "otherFacts": {},
+    "additionalFeeInfo": null,
+    "hasView": false,
+    "openParkingCapacity": null,
+    "securityFeatures": null,
+    "numberOfUnitsInCommunity": 30,
+    "hasHomeWarranty": false,
+    "basementYN": null,
+    "doorFeatures": null,
+    "ownershipType": null,
+    "aboveGradeFinishedArea": null,
+    "associations": [
+      {
+        "feeFrequency": "$360 monthly",
+        "name": "Aurora",
+        "phone": null
+      }
+    ],
+    "waterView": null,
+    "electric": null,
+    "buildingFeatures": null,
+    "hasOpenParking": null,
+    "hasCarport": null,
+    "bathroomsHalf": 1,
+    "homeType": "Townhouse",
+    "isSeniorCommunity": null,
+    "municipality": null,
+    "bathroomsThreeQuarter": null,
+    "hasSpa": false,
+    "basement": null,
+    "associationFee2": null,
+    "cooling": [
+      "Central Forced Air"
+    ],
+    "hasHeating": true,
+    "associationName2": null,
+    "hasRentControl": null,
+    "elementarySchoolDistrict": null,
+    "otherEquipment": null,
+    "bathrooms": 4,
+    "buildingArea": "1,853",
+    "furnished": false,
+    "vegetation": null,
+    "patioAndPorchFeatures": null,
+    "bathroomsFloat": 4,
+    "builderName": null,
+    "highSchoolDistrict": null,
+    "hasElectricOnProperty": null,
+    "laundryFeatures": [
+      "Electric",
+      "Gas"
+    ],
+    "entryLocation": null,
+    "fireplaces": null,
+    "heating": [
+      "N/K"
+    ],
+    "availabilityDate": null,
+    "carportParkingCapacity": null,
+    "hasAssociation": null,
+    "irrigationWaterRightsYN": null,
+    "isNewConstruction": null,
+    "associationFeeIncludes": [
+      "Common Area Maintenance",
+      "Exterior (Landscaping)",
+      "Exterior Bldg Maintenance",
+      "Gated Community",
+      "Roof Maintenance",
+      "Trash Pickup"
+    ],
+    "leaseTerm": null,
+    "pricePerSquareFoot": 529,
+    "associationName": "Aurora",
+    "elevation": null
+  },
+  "datePosted": "2025-06-01",
+  "bedrooms": 4,
+  "propertyTypeDimension": "Townhouse",
+  "mortgageZHLRates": {
+    "thirtyYearFixedBucket": {
+      "rate": 6.306,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756270336258
+    },
+    "fifteenYearFixedBucket": {
+      "rate": 5.601,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756270336258
+    },
+    "arm5Bucket": {
+      "rate": 6.529,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756270336258
+    }
+  },
+  "comingSoonOnMarketDate": null,
+  "favoriteCount": 41,
+  "livingArea": 1853,
+  "zestimateHighPercent": "5",
+  "mlsid": "250029185",
+  "isListedByOwner": null,
+  "listingSubType": {
+    "is_comingSoon": false,
+    "is_pending": false,
+    "is_forAuction": false,
+    "is_bankOwned": false,
+    "is_FSBA": true,
+    "is_FSBO": false,
+    "is_newHome": false,
+    "is_foreclosure": false
+  },
+  "buildingId": "2287514513",
+  "country": "USA",
+  "price": 980888,
+  "priceChangeDate": null,
+  "contingentListingType": null
+}

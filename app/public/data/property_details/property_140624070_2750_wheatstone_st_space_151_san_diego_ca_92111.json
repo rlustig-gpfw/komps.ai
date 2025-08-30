@@ -1,0 +1,1568 @@
+{
+  "buildingPermits": null,
+  "contact_recipients": [
+    {
+      "agent_reason": 3,
+      "zpro": null,
+      "recent_sales": null,
+      "review_count": null,
+      "display_name": "Rosemary Aljundi",
+      "badge_type": "Agent",
+      "business_name": "Mobile Home Connection",
+      "rating_average": null,
+      "phone": {
+        "prefix": "596",
+        "areacode": "619",
+        "number": "0333"
+      },
+      "zuid": "X1-ZUz1ci99gqj409_uwi3",
+      "image_url": null
+    }
+  ],
+  "longitude": -117.181595,
+  "countyFIPS": "06073",
+  "imgSrc": "https://photos.zillowstatic.com/fp/a514663443b7c4775fa212c7cf8c14fb-p_d.jpg",
+  "livingAreaValue": 1040,
+  "streetAddress": "2750 Wheatstone St SPACE 151",
+  "county": "San Diego County",
+  "monthlyHoaFee": null,
+  "timeZone": "America/Los_Angeles",
+  "taxHistory": [
+    {
+      "time": 1724732173762,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": null
+    },
+    {
+      "time": 1693109773762,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": null
+    },
+    {
+      "time": 1661573773762,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": null
+    },
+    {
+      "time": 1630037773762,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": null
+    },
+    {
+      "time": 1598501773762,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": null
+    },
+    {
+      "time": 1566879373762,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": null
+    },
+    {
+      "time": 1535343373762,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 0
+    },
+    {
+      "time": 1503807373762,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": null
+    },
+    {
+      "time": 1472271373763,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": null
+    },
+    {
+      "time": 1440648973763,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": null
+    },
+    {
+      "time": 1409112973763,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": null
+    },
+    {
+      "time": 1377576973763,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": null
+    },
+    {
+      "time": 1346040973763,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": null
+    },
+    {
+      "time": 1314418573763,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": null
+    },
+    {
+      "time": 1282882573763,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": null
+    },
+    {
+      "time": 1251346573763,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": null
+    },
+    {
+      "time": 1219810573763,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": null
+    },
+    {
+      "time": 1188188173763,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": null
+    },
+    {
+      "time": 1156652173763,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": null
+    },
+    {
+      "time": 1125116173763,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": null
+    }
+  ],
+  "dateSold": null,
+  "annualHomeownersInsurance": 798,
+  "state": "CA",
+  "listed_by": {
+    "agent_reason": null,
+    "zpro": null,
+    "recent_sales": null,
+    "review_count": null,
+    "display_name": null,
+    "badge_type": null,
+    "business_name": null,
+    "rating_average": null,
+    "phone": null,
+    "zuid": null,
+    "image_url": null
+  },
+  "yearBuilt": 1964,
+  "brokerageName": "Mobile Home Connection",
+  "description": "This cute and cozy home is located in a highly sought after, All Age community in the heart of San Diego's Linda Vista neighborhood. The prefect blend of comfort and convenience, the home features newer stainless steel appliances, including a refrigerator and cooktop stove. The spacious interior boasts vinyl plank flooring throughout, some newer windows, and fresh paint in the living room, dining room and bedrooms. A large living room for relaxing and a generous California room for additional flexible living space. Washer/dryer are included. Outside enjoy an easy care yard with rock pavers and mature plants. The exterior was painted a little over a year ago, and Best of all, No property tax, home is on annual registration. This home is move-in ready so don't wait, Call Today!  (AAP1345)",
+  "climate": {
+    "windSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "probability": {},
+        "source": {
+          "url": "https://firststreet.org/property/2750-wheatstone-st-space-151-san-diego-ca-92111/603530199_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 18
+      }
+    },
+    "floodSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "femaZone": "X_UNSHADED",
+        "source": {
+          "url": "https://firststreet.org/property/2750-wheatstone-st-space-151-san-diego-ca-92111/603530199_fsid"
+        },
+        "probability": [
+          {
+            "relativeYear": 0,
+            "probability": 0
+          },
+          {
+            "relativeYear": 5,
+            "probability": 0
+          },
+          {
+            "relativeYear": 10,
+            "probability": 0
+          },
+          {
+            "relativeYear": 15,
+            "probability": 0
+          },
+          {
+            "relativeYear": 20,
+            "probability": 0
+          },
+          {
+            "relativeYear": 25,
+            "probability": 0
+          },
+          {
+            "relativeYear": 30,
+            "probability": 0
+          }
+        ],
+        "insuranceSeparatePolicy": "NOT_REQUIRED",
+        "historicCountPropertyAll": 0
+      }
+    },
+    "fireSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "probability": {},
+        "source": {
+          "url": "https://firststreet.org/property/2750-wheatstone-st-space-151-san-diego-ca-92111/603530199_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 27
+      }
+    },
+    "heatSources": {
+      "primary": {
+        "percentile98Temp": 88,
+        "hotDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 5
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 7
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 8
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 10
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 11
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 13
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 14
+          }
+        ],
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 3
+        },
+        "source": {
+          "url": "https://firststreet.org/property/2750-wheatstone-st-space-151-san-diego-ca-92111/603530199_fsid"
+        }
+      }
+    },
+    "airSources": {
+      "primary": {
+        "source": {
+          "url": "https://firststreet.org/property/2750-wheatstone-st-space-151-san-diego-ca-92111/603530199_fsid"
+        },
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 3
+        },
+        "badAirDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 4
+          }
+        ]
+      }
+    }
+  },
+  "latitude": 32.79604,
+  "nearbyHomes": [
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "2750 Wheatstone St SPC 176"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/2750-Wheatstone-St-SPC-176-San-Diego-CA-92111/120796329_zpid/",
+      "lotAreaValue": 7.0744,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "2750 Wheatstone St SPC 176",
+        "zipcode": "92111"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "IV24250439",
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.79524,
+      "homeStatus": "RECENTLY_SOLD",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 329000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Manufactured",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 308160,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/18ed7d77becd29ed03bf6cd2cc6a8c1e-p_c.jpg"
+        }
+      ],
+      "zpid": 120796329,
+      "hdpTypeDimension": "RecentlySold",
+      "livingArea": 1512,
+      "longitude": -117.182655,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "MANUFACTURED",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1512
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "2750 Wheatstone St SPC 80"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/2750-Wheatstone-St-SPC-80-San-Diego-CA-92111/140624000_zpid/",
+      "lotAreaValue": 30.816666666667,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "2750 Wheatstone St SPC 80",
+        "zipcode": "92111"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.79461,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 290700,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Manufactured",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 1342374,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/459808949938290f3216b7c3c205dd5f-p_c.jpg"
+        }
+      ],
+      "zpid": 140624000,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1382,
+      "longitude": -117.18176,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "MANUFACTURED",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1382
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "6405 High Knoll Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/6405-High-Knoll-Rd-San-Diego-CA-92111/16928541_zpid/",
+      "lotAreaValue": 7352,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "6405 High Knoll Rd",
+        "zipcode": "92111"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.796703,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1059400,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 7352,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=6405+High+Knoll+Rd%2C+San+Diego%2C+CA+92111&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=I5y8gbDvBMVJRwJkQHkRW7cpLTM="
+        }
+      ],
+      "zpid": 16928541,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1389,
+      "longitude": -117.179886,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1389
+    },
+    {
+      "bathrooms": 2.5,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "6415 High Knoll Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/6415-High-Knoll-Rd-San-Diego-CA-92111/16928540_zpid/",
+      "lotAreaValue": 7861,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "6415 High Knoll Rd",
+        "zipcode": "92111"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.79654,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1133300,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 7861,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=6415+High+Knoll+Rd%2C+San+Diego%2C+CA+92111&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=QAMqEuA2AZxR85h01kj9ihvdhEU="
+        }
+      ],
+      "zpid": 16928540,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1687,
+      "longitude": -117.17973,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1687
+    },
+    {
+      "hdpTypeDimension": "ForSale",
+      "lotAreaUnits": "sqft",
+      "isShowcaseListing": false,
+      "longitude": -117.181984,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "2750 Wheatstone St SPACE 89",
+        "zipcode": "92111"
+      },
+      "livingAreaValue": 552,
+      "lotSize": null,
+      "zpid": 140624009,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "MANUFACTURED",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 1,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "2750 Wheatstone St SPACE 89"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "hdpUrl": "/homedetails/2750-Wheatstone-St-SPACE-89-San-Diego-CA-92111/140624009_zpid/",
+      "lotAreaValue": null,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "11559890",
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "FOR_SALE",
+      "latitude": 32.79442,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Manufactured",
+      "newConstructionType": null,
+      "yearBuilt": 1968,
+      "listingTypeDimension": "For Sale by Agent",
+      "livingArea": 552,
+      "providerListingID": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/64a3094a11d6b996371cdcf8fd450eb7-p_c.jpg"
+        }
+      ],
+      "currency": "USD",
+      "price": 115000,
+      "listing_sub_type": {
+        "is_FSBA": true,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    },
+    {
+      "bathrooms": 2.5,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "6404 High Knoll Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/6404-High-Knoll-Rd-San-Diego-CA-92111/111434765_zpid/",
+      "lotAreaValue": 7986,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "6404 High Knoll Rd",
+        "zipcode": "92111"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.79691,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1064000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 7986,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=6404+High+Knoll+Rd%2C+San+Diego%2C+CA+92111&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=t8eu-PXKJAO7rc-tS6Wl4arEASM="
+        }
+      ],
+      "zpid": 111434765,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1687,
+      "longitude": -117.17985,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1687
+    },
+    {
+      "bathrooms": null,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "Mt Carol Dr"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/Mt-Carol-Dr-San-Diego-CA-92111/295350124_zpid/",
+      "lotAreaValue": 36.409986225895,
+      "parentRegion": null,
+      "address": {
+        "city": "San diego",
+        "state": "CA",
+        "streetAddress": "Mt Carol Dr",
+        "zipcode": "92111"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.79739,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 0,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": null,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 1586019,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=32.79738998413086,-117.18021392822266&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=a9YG9cHskkONP4cWj7nIWxLkEl8="
+        }
+      ],
+      "zpid": 295350124,
+      "hdpTypeDimension": "NoZestimate",
+      "livingArea": null,
+      "longitude": -117.180214,
+      "livingAreaUnitsShort": null,
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": null,
+      "currency": "USD",
+      "livingAreaValue": null
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "6425 High Knoll Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/6425-High-Knoll-Rd-San-Diego-CA-92111/16928539_zpid/",
+      "lotAreaValue": 6140,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "6425 High Knoll Rd",
+        "zipcode": "92111"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.7965,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1024500,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 6140,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=6425+High+Knoll+Rd%2C+San+Diego%2C+CA+92111&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=UTueeC5JE4GuMAhrkAgiLqagf-w="
+        }
+      ],
+      "zpid": 16928539,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1651,
+      "longitude": -117.17951,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1651
+    }
+  ],
+  "priceHistory": [
+    {
+      "priceChangeRate": -0.049524762381191,
+      "date": "2025-07-29",
+      "source": "My State MLS",
+      "postingIsRental": false,
+      "time": 1753747200000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "My State MLS",
+        "infoString3": null,
+        "infoString1": "11529082"
+      },
+      "pricePerSquareFoot": 183,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 190000
+    },
+    {
+      "priceChangeRate": -0.048095238095238,
+      "date": "2025-07-19",
+      "source": "My State MLS",
+      "postingIsRental": false,
+      "time": 1752883200000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "My State MLS",
+        "infoString3": null,
+        "infoString1": "11529082"
+      },
+      "pricePerSquareFoot": 192,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 199900
+    },
+    {
+      "priceChangeRate": -0.045454545454545,
+      "date": "2025-07-09",
+      "source": "My State MLS",
+      "postingIsRental": false,
+      "time": 1752019200000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "My State MLS",
+        "infoString3": null,
+        "infoString1": "11529082"
+      },
+      "pricePerSquareFoot": 202,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 210000
+    },
+    {
+      "priceChangeRate": 0.29793510324484,
+      "date": "2025-07-02",
+      "source": "My State MLS",
+      "postingIsRental": false,
+      "time": 1751414400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "My State MLS",
+        "infoString3": null,
+        "infoString1": "11529082"
+      },
+      "pricePerSquareFoot": 212,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 220000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2023-10-17",
+      "source": "My State MLS",
+      "postingIsRental": false,
+      "time": 1697500800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "My State MLS",
+        "infoString3": null,
+        "infoString1": "11187479"
+      },
+      "pricePerSquareFoot": null,
+      "buyerAgent": null,
+      "event": "Listing removed",
+      "price": null
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2023-06-28",
+      "source": "My State MLS",
+      "postingIsRental": false,
+      "time": 1687910400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "My State MLS",
+        "infoString3": null,
+        "infoString1": "11187479"
+      },
+      "pricePerSquareFoot": 163,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 169500
+    }
+  ],
+  "neighborhoodMapThumb": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/a514663443b7c4775fa212c7cf8c14fb-p_c.jpg"
+    }
+  ],
+  "schools": [
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6186-Linda-Vista-Elementary-School/",
+      "rating": 4,
+      "totalCount": null,
+      "distance": 0.5,
+      "assigned": null,
+      "name": "Linda Vista Elementary School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Elementary",
+      "grades": "K-5",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6206-Montgomery-Middle-School/",
+      "rating": 5,
+      "totalCount": null,
+      "distance": 0.8,
+      "assigned": null,
+      "name": "Montgomery Middle School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Middle",
+      "grades": "6-8",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/14170-Kearny-SCT-School/",
+      "rating": 9,
+      "totalCount": null,
+      "distance": 1.3,
+      "assigned": null,
+      "name": "Kearny School of Biomedical Science and Technology",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "High",
+      "grades": "9-12",
+      "type": "Public"
+    }
+  ],
+  "rentZestimate": 4709,
+  "city": "San Diego",
+  "providerListingID": null,
+  "currency": "USD",
+  "listingProvider": null,
+  "propertyTaxRate": 1.17,
+  "isShowcaseListing": false,
+  "openHouseSchedule": {},
+  "mortgageRates": null,
+  "address": {
+    "community": null,
+    "city": "San Diego",
+    "state": "CA",
+    "neighborhood": null,
+    "subdivision": "Linda Vista",
+    "streetAddress": "2750 Wheatstone St SPACE 151",
+    "zipcode": "92111"
+  },
+  "cityId": 54296,
+  "timeOnZillow": "55 days",
+  "priceChange": -9900,
+  "zestimate": null,
+  "zpid": 140624070,
+  "countyId": 2841,
+  "homeType": "MANUFACTURED",
+  "livingAreaUnits": "sqft",
+  "pageViewCount": 5183,
+  "homeInsights": [
+    {
+      "insights": [
+        {
+          "treatmentId": "model_0",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Mature plants",
+            "Generous california room",
+            "Easy care yard",
+            "Fresh paint",
+            "Rock pavers",
+            "Newer stainless steel appliances",
+            "Vinyl plank flooring"
+          ]
+        },
+        {
+          "treatmentId": "model_1",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Mature plants",
+            "Generous california room",
+            "Easy care yard",
+            "Fresh paint",
+            "Rock pavers",
+            "Newer stainless steel appliances",
+            "Vinyl plank flooring"
+          ]
+        }
+      ]
+    }
+  ],
+  "bathrooms": 2,
+  "neighborhoodRegion": {
+    "name": "Linda Vista"
+  },
+  "zipcode": "92111",
+  "building": null,
+  "zestimateLowPercent": null,
+  "brokerId": null,
+  "stateId": 9,
+  "url": "/homedetails/2750-Wheatstone-St-SPACE-151-San-Diego-CA-92111/140624070_zpid/",
+  "solarPotential": null,
+  "attributionInfo": {
+    "buyerAgentName": null,
+    "infoString3": null,
+    "mlsName": "My State MLS",
+    "coAgentLicenseNumber": null,
+    "listingAgreement": "Exclusive",
+    "listingOffices": [
+      {
+        "associatedOfficeType": "listOffice",
+        "officeName": "Mobile Home Connection"
+      },
+      {
+        "associatedOfficeType": "buyerOffice",
+        "officeName": null
+      }
+    ],
+    "infoString10": "",
+    "buyerAgentMemberStateLicense": null,
+    "brokerName": "Mobile Home Connection",
+    "listingAttributionContact": null,
+    "lastUpdated": "2025-08-10 10:14:03",
+    "trueStatus": null,
+    "listingAgentAttributionContact": null,
+    "agentEmail": null,
+    "agentName": "Rosemary Aljundi",
+    "attributionTitle": null,
+    "mlsId": "11529082",
+    "coAgentName": null,
+    "coAgentNumber": null,
+    "infoString5": "619-596-0333",
+    "listingAgents": [
+      {
+        "memberStateLicense": null,
+        "memberFullName": "Rosemary Aljundi",
+        "associatedAgentType": "listAgent"
+      },
+      {
+        "memberStateLicense": null,
+        "memberFullName": null,
+        "associatedAgentType": "coListAgent"
+      },
+      {
+        "memberStateLicense": null,
+        "memberFullName": null,
+        "associatedAgentType": "buyerAgent"
+      }
+    ],
+    "agentPhoneNumber": "619-596-0333",
+    "agentLicenseNumber": null,
+    "providerLogo": null,
+    "infoString16": null,
+    "buyerBrokerageName": null,
+    "mlsDisclaimer": "",
+    "brokerPhoneNumber": "619-596-0333",
+    "lastChecked": "2025-08-26 21:03:18"
+  },
+  "priceChangeDateString": "2025-07-29",
+  "photoCount": 24,
+  "homeStatus": "FOR_SALE",
+  "homeFacts": null,
+  "resoFacts": {
+    "hasAttachedProperty": false,
+    "frontageType": null,
+    "poolFeatures": null,
+    "flooring": null,
+    "foundationDetails": {},
+    "accessibilityFeatures": null,
+    "hasGarage": false,
+    "hasPetsAllowed": null,
+    "bodyType": null,
+    "topography": null,
+    "landLeaseExpirationDate": null,
+    "hasAdditionalParcels": false,
+    "parkName": null,
+    "livingQuarters": {},
+    "taxAssessedValue": null,
+    "atAGlanceFacts": [
+      {
+        "factValue": "Manufactured Home",
+        "factLabel": "Type"
+      },
+      {
+        "factValue": "1964",
+        "factLabel": "Year Built"
+      },
+      {
+        "factValue": "Gas, Forced Air",
+        "factLabel": "Heating"
+      },
+      {
+        "factValue": "Central",
+        "factLabel": "Cooling"
+      },
+      {
+        "factValue": "Carport",
+        "factLabel": "Parking"
+      },
+      {
+        "factValue": "55 Days",
+        "factLabel": "Days on Zillow"
+      },
+      {
+        "factValue": "$183",
+        "factLabel": "Price/sqft"
+      },
+      {
+        "factValue": null,
+        "factLabel": "Offer Review Date"
+      }
+    ],
+    "offerReviewDate": null,
+    "horseYN": null,
+    "view": {},
+    "rooms": [
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "Kitchen",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": [
+          "Open"
+        ],
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": "0",
+        "roomAreaSource": null,
+        "roomType": "Basement",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": null,
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      }
+    ],
+    "belowGradeFinishedArea": null,
+    "feesAndDues": [
+      {
+        "phone": null,
+        "name": null,
+        "fee": null,
+        "type": "HOA"
+      }
+    ],
+    "cityRegion": "San Diego",
+    "mainLevelBathrooms": null,
+    "hasPrivatePool": null,
+    "landLeaseAmount": "1651",
+    "waterSource": null,
+    "exteriorFeatures": {},
+    "inclusions": null,
+    "hasFireplace": false,
+    "gas": null,
+    "propertyCondition": null,
+    "elevationUnits": null,
+    "exclusions": null,
+    "mainLevelBedrooms": null,
+    "numberOfUnitsVacant": null,
+    "hasWaterfrontView": null,
+    "bathroomsOneQuarter": null,
+    "lotSize": null,
+    "entryLevel": null,
+    "media": [
+      {
+        "mediaCategory": "UnbrandedVirtualTour",
+        "mediaURL": "https://www.mobilehomeconnection.com"
+      }
+    ],
+    "greenWaterConservation": null,
+    "stories": 1,
+    "livingArea": "1,040 sqft",
+    "commonWalls": null,
+    "listingTerms": null,
+    "otherParking": null,
+    "associationFee": null,
+    "marketingType": null,
+    "greenIndoorAirQuality": null,
+    "greenSustainability": null,
+    "livingAreaRangeUnits": null,
+    "associationPhone": null,
+    "greenBuildingVerificationType": null,
+    "hasAttachedGarage": null,
+    "bedrooms": 2,
+    "architecturalStyle": null,
+    "listingId": null,
+    "structureType": null,
+    "interiorFeatures": null,
+    "horseAmenities": null,
+    "garageParkingCapacity": 0,
+    "developmentStatus": null,
+    "lotFeatures": [
+      "Near Bus"
+    ],
+    "roofType": null,
+    "compensationBasedOn": null,
+    "greenEnergyGeneration": null,
+    "daysOnZillow": 55,
+    "listAOR": null,
+    "buildingAreaSource": null,
+    "elementarySchool": null,
+    "zoningDescription": null,
+    "irrigationWaterRightsAcres": null,
+    "yearBuiltEffective": 2024,
+    "greenEnergyEfficient": null,
+    "constructionMaterials": [
+      "Aluminum Siding"
+    ],
+    "fireplaceFeatures": null,
+    "hoaFeeTotal": null,
+    "appliances": [
+      "Dryer",
+      "Refrigerator",
+      "Microwave",
+      "Oven",
+      "Washer"
+    ],
+    "sewer": null,
+    "bathroomsPartial": null,
+    "fencing": null,
+    "spaFeatures": null,
+    "waterViewYN": false,
+    "buildingName": null,
+    "attic": null,
+    "petsMaxWeight": null,
+    "cumulativeDaysOnMarket": null,
+    "waterfrontFeatures": null,
+    "additionalParcelsDescription": null,
+    "canRaiseHorses": false,
+    "hasLandLease": true,
+    "communityFeatures": null,
+    "waterBodyName": null,
+    "middleOrJuniorSchool": null,
+    "lotSizeDimensions": null,
+    "virtualTour": "https://www.mobilehomeconnection.com",
+    "contingency": null,
+    "yearBuilt": 1964,
+    "utilities": null,
+    "totalActualRent": null,
+    "bathroomsFull": 2,
+    "parcelNumber": "7742654456",
+    "incomeIncludes": null,
+    "highSchool": null,
+    "taxAnnualAmount": 2223,
+    "subdivisionName": "Linda Vista",
+    "storiesTotal": null,
+    "storiesDecimal": 1,
+    "specialListingConditions": null,
+    "windowFeatures": null,
+    "ownership": null,
+    "woodedArea": null,
+    "middleOrJuniorSchoolDistrict": null,
+    "associationPhone2": null,
+    "onMarketDate": 1751497092000,
+    "roomTypes": [
+      "Dining Room",
+      "First Floor Bathroom",
+      "First Floor Master Bedroom",
+      "Kitchen",
+      "Living Room",
+      "Master Bedroom",
+      "Private Guest Room"
+    ],
+    "frontageLength": null,
+    "roadSurfaceType": null,
+    "associationAmenities": null,
+    "propertySubType": [
+      "Manufactured Home"
+    ],
+    "hasCooling": true,
+    "levels": null,
+    "coveredParkingCapacity": 0,
+    "foundationArea": null,
+    "zoning": null,
+    "hoaFee": null,
+    "livingAreaRange": null,
+    "parkingFeatures": [
+      "Carport"
+    ],
+    "parkingCapacity": 0,
+    "cropsIncludedYN": null,
+    "tenantPays": null,
+    "builderModel": null,
+    "otherStructures": [
+      "Shed(s)",
+      "Carport"
+    ],
+    "otherFacts": {},
+    "additionalFeeInfo": null,
+    "hasView": false,
+    "openParkingCapacity": null,
+    "securityFeatures": null,
+    "numberOfUnitsInCommunity": null,
+    "hasHomeWarranty": false,
+    "basementYN": false,
+    "doorFeatures": null,
+    "ownershipType": null,
+    "aboveGradeFinishedArea": "1,040",
+    "associations": {},
+    "waterView": null,
+    "electric": [
+      "Amps(0)"
+    ],
+    "buildingFeatures": null,
+    "hasOpenParking": null,
+    "hasCarport": true,
+    "bathroomsHalf": 0,
+    "homeType": "MobileManufactured",
+    "isSeniorCommunity": null,
+    "municipality": null,
+    "bathroomsThreeQuarter": null,
+    "hasSpa": false,
+    "basement": null,
+    "associationFee2": null,
+    "cooling": [
+      "Central"
+    ],
+    "hasHeating": true,
+    "associationName2": null,
+    "hasRentControl": null,
+    "elementarySchoolDistrict": null,
+    "otherEquipment": null,
+    "bathrooms": 2,
+    "buildingArea": "1,040",
+    "furnished": false,
+    "vegetation": null,
+    "patioAndPorchFeatures": [
+      "Patio"
+    ],
+    "bathroomsFloat": 2,
+    "builderName": null,
+    "highSchoolDistrict": null,
+    "hasElectricOnProperty": null,
+    "laundryFeatures": null,
+    "entryLocation": null,
+    "fireplaces": 0,
+    "heating": [
+      "Gas",
+      "Forced Air"
+    ],
+    "availabilityDate": 1751414400000,
+    "carportParkingCapacity": null,
+    "hasAssociation": false,
+    "irrigationWaterRightsYN": null,
+    "isNewConstruction": false,
+    "associationFeeIncludes": null,
+    "leaseTerm": null,
+    "pricePerSquareFoot": 183,
+    "associationName": null,
+    "elevation": null
+  },
+  "datePosted": "2025-07-02",
+  "bedrooms": 2,
+  "propertyTypeDimension": "Manufactured",
+  "mortgageZHLRates": {
+    "thirtyYearFixedBucket": {
+      "rate": 6.299,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756264526920
+    },
+    "fifteenYearFixedBucket": {
+      "rate": 5.624,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756264526920
+    },
+    "arm5Bucket": {
+      "rate": null,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756264526920
+    }
+  },
+  "comingSoonOnMarketDate": null,
+  "favoriteCount": 267,
+  "livingArea": 1040,
+  "zestimateHighPercent": null,
+  "mlsid": "11529082",
+  "isListedByOwner": null,
+  "listingSubType": {
+    "is_comingSoon": false,
+    "is_pending": false,
+    "is_forAuction": false,
+    "is_bankOwned": false,
+    "is_FSBA": true,
+    "is_FSBO": false,
+    "is_newHome": false,
+    "is_foreclosure": false
+  },
+  "buildingId": "1002267443",
+  "country": "USA",
+  "price": 190000,
+  "priceChangeDate": 1753747200000,
+  "contingentListingType": null
+}

@@ -1,0 +1,1718 @@
+{
+  "buildingPermits": null,
+  "contact_recipients": [
+    {
+      "agent_reason": 1,
+      "zpro": null,
+      "recent_sales": 0,
+      "review_count": 0,
+      "display_name": "Premier Broker Flex Atlanta GA",
+      "badge_type": "Premier Agent",
+      "business_name": "Zillow Group",
+      "rating_average": 0,
+      "phone": {
+        "prefix": "452",
+        "areacode": "206",
+        "number": "1030"
+      },
+      "zuid": "X1-ZUv2ktj4jt3nyh_98wrm",
+      "image_url": "https://www.zillowstatic.com/static/images/nophoto_h_g.png"
+    }
+  ],
+  "longitude": -117.152306,
+  "countyFIPS": "06073",
+  "imgSrc": "https://photos.zillowstatic.com/fp/70601ac5afb973b8ec4e61c4a7155f34-p_d.jpg",
+  "livingAreaValue": 1320,
+  "streetAddress": "7971 Jade Coast Rd",
+  "county": "San Diego County",
+  "monthlyHoaFee": null,
+  "timeZone": "America/Los_Angeles",
+  "taxHistory": [
+    {
+      "time": 1724734159972,
+      "valueIncreaseRate": 0.5083378,
+      "taxIncreaseRate": 0.5145251,
+      "taxPaid": 12054.56,
+      "value": 984299
+    },
+    {
+      "time": 1693111759972,
+      "valueIncreaseRate": 0.019999156,
+      "taxIncreaseRate": 0.027611068,
+      "taxPaid": 7959.3,
+      "value": 652572
+    },
+    {
+      "time": 1661575759972,
+      "valueIncreaseRate": 0.019998947,
+      "taxIncreaseRate": 0.007196245,
+      "taxPaid": 7745.44,
+      "value": 639777
+    },
+    {
+      "time": 1630039759972,
+      "valueIncreaseRate": 0.010357553,
+      "taxIncreaseRate": 0.012380107,
+      "taxPaid": 7690.1,
+      "value": 627233
+    },
+    {
+      "time": 1598503759972,
+      "valueIncreaseRate": 0.019997306,
+      "taxIncreaseRate": 0.024827175,
+      "taxPaid": 7596.06,
+      "value": 620803
+    },
+    {
+      "time": 1566881359972,
+      "valueIncreaseRate": 0.019998357,
+      "taxIncreaseRate": 0.050597686,
+      "taxPaid": 7412.04,
+      "value": 608632
+    },
+    {
+      "time": 1535345359972,
+      "valueIncreaseRate": 0.42480993,
+      "taxIncreaseRate": 0.45221022,
+      "taxPaid": 7055.07,
+      "value": 596699
+    },
+    {
+      "time": 1503809359972,
+      "valueIncreaseRate": 0.019996006,
+      "taxIncreaseRate": 0.016598236,
+      "taxPaid": 4858.16,
+      "value": 418792
+    },
+    {
+      "time": 1472273359972,
+      "valueIncreaseRate": 0.015249187,
+      "taxIncreaseRate": 0.015158825,
+      "taxPaid": 4778.84,
+      "value": 410582
+    },
+    {
+      "time": 1440650959972,
+      "valueIncreaseRate": 0.019977603,
+      "taxIncreaseRate": 0.01618125,
+      "taxPaid": 4707.48,
+      "value": 404415
+    },
+    {
+      "time": 1409114959972,
+      "valueIncreaseRate": 0.004537589,
+      "taxIncreaseRate": 0,
+      "taxPaid": 4632.52,
+      "value": 396494
+    },
+    {
+      "time": 1377578959972,
+      "valueIncreaseRate": 0.019996641,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 394703
+    },
+    {
+      "time": 1346042959972,
+      "valueIncreaseRate": 0.019998524,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 386965
+    },
+    {
+      "time": 1314420559972,
+      "valueIncreaseRate": 0.007526345,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 379378
+    },
+    {
+      "time": 1282884559972,
+      "valueIncreaseRate": -0.0023712441,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 376544
+    },
+    {
+      "time": 1251348559972,
+      "valueIncreaseRate": 0.019997893,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 377439
+    },
+    {
+      "time": 1219812559972,
+      "valueIncreaseRate": 0.019998126,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 370039
+    },
+    {
+      "time": 1188190159972,
+      "valueIncreaseRate": 0.019998819,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 362784
+    },
+    {
+      "time": 1156654159972,
+      "valueIncreaseRate": 0.019997247,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 355671
+    },
+    {
+      "time": 1125118159972,
+      "valueIncreaseRate": 0.7774481,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 348698
+    },
+    {
+      "time": 1093582159972,
+      "valueIncreaseRate": 0.01866189,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 196179
+    },
+    {
+      "time": 1061959759972,
+      "valueIncreaseRate": 0.019993644,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 192585
+    },
+    {
+      "time": 1030423759972,
+      "valueIncreaseRate": 0.019993626,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 188810
+    },
+    {
+      "time": 998887759972,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 185109
+    }
+  ],
+  "dateSold": null,
+  "annualHomeownersInsurance": 4620,
+  "state": "CA",
+  "listed_by": {
+    "agent_reason": 3,
+    "zpro": false,
+    "recent_sales": 0,
+    "zuid": "X1-ZUsi2dmgk0xatl_9vdv6",
+    "review_count": 22,
+    "display_name": "Delta Sivonsay",
+    "profile_url": "https://www.zillow.com/profile/deltasivonsay/",
+    "business_name": "ShoppingSDHouses",
+    "rating_average": 5,
+    "phone": {
+      "prefix": "494",
+      "areacode": "619",
+      "number": "0605"
+    },
+    "badge_type": "Listing Agent",
+    "image_url": "https://photos.zillowstatic.com/fp/01b99c838584f38aae9c002de99774ee-h_n.jpg"
+  },
+  "yearBuilt": 1973,
+  "brokerageName": "ShoppingSDHouses",
+  "description": "Welcome to this beautifully updated home in the heart of Mira Mesa. This bright and spacious residence features an open floor plan with modern finishes throughout, including a remodeled kitchen with quartz countertops and stainless steel appliances. Enjoy indoor-outdoor living with sliding doors leading to a newly added outdoor sunroom with a private pool — perfect for relaxing or entertaining. All bedrooms include new flooring, and the primary suite has an added wardrobe. New central AC installed.   PAID OFF 6.6?kW solar system with Tesla battery backup and a new roof—both installed in 2024—offer energy efficiency and peace of mind with long-term warranties. Located on a quiet street just minutes from top-rated schools, parks, shopping, and dining, this home offers comfort, style, and convenience in one of San Diego’s most desirable neighborhoods.",
+  "climate": {
+    "windSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "probability": {},
+        "source": {
+          "url": "https://firststreet.org/property/7971-jade-coast-rd-san-diego-ca-92126/603401993_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 18
+      }
+    },
+    "floodSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "femaZone": "X_UNSHADED",
+        "source": {
+          "url": "https://firststreet.org/property/7971-jade-coast-rd-san-diego-ca-92126/603401993_fsid"
+        },
+        "probability": [
+          {
+            "relativeYear": 0,
+            "probability": 0
+          },
+          {
+            "relativeYear": 5,
+            "probability": 0
+          },
+          {
+            "relativeYear": 10,
+            "probability": 0
+          },
+          {
+            "relativeYear": 15,
+            "probability": 0
+          },
+          {
+            "relativeYear": 20,
+            "probability": 0
+          },
+          {
+            "relativeYear": 25,
+            "probability": 0
+          },
+          {
+            "relativeYear": 30,
+            "probability": 0
+          }
+        ],
+        "insuranceSeparatePolicy": "NOT_REQUIRED",
+        "historicCountPropertyAll": 0
+      }
+    },
+    "fireSources": {
+      "primary": {
+        "insuranceRecommendation": "RECOMMENDED",
+        "riskScore": {
+          "label": "MINOR",
+          "max": 10,
+          "value": 2
+        },
+        "probability": [
+          {
+            "relativeYear": 0,
+            "probability": 0
+          },
+          {
+            "relativeYear": 5,
+            "probability": 0
+          },
+          {
+            "relativeYear": 10,
+            "probability": 0
+          },
+          {
+            "relativeYear": 15,
+            "probability": 0
+          },
+          {
+            "relativeYear": 20,
+            "probability": 0
+          },
+          {
+            "relativeYear": 25,
+            "probability": 0
+          },
+          {
+            "relativeYear": 30,
+            "probability": 0
+          }
+        ],
+        "source": {
+          "url": "https://firststreet.org/property/7971-jade-coast-rd-san-diego-ca-92126/603401993_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 32
+      }
+    },
+    "heatSources": {
+      "primary": {
+        "percentile98Temp": 90,
+        "hotDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 7
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 9
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 11
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 14
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 16
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 18
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 20
+          }
+        ],
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 4
+        },
+        "source": {
+          "url": "https://firststreet.org/property/7971-jade-coast-rd-san-diego-ca-92126/603401993_fsid"
+        }
+      }
+    },
+    "airSources": {
+      "primary": {
+        "source": {
+          "url": "https://firststreet.org/property/7971-jade-coast-rd-san-diego-ca-92126/603401993_fsid"
+        },
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 3
+        },
+        "badAirDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 4
+          }
+        ]
+      }
+    }
+  },
+  "latitude": 32.901817,
+  "nearbyHomes": [
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "7963 Jade Coast Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/7963-Jade-Coast-Rd-San-Diego-CA-92126/16831472_zpid/",
+      "lotAreaValue": 5500,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "7963 Jade Coast Rd",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.90179,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 921600,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 5500,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=7963+Jade+Coast+Rd%2C+San+Diego%2C+CA+92126&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=11amdbylSHR8A3aLKvKafu4u_80="
+        }
+      ],
+      "zpid": 16831472,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1121,
+      "longitude": -117.15248,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1121
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "7979 Jade Coast Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/7979-Jade-Coast-Rd-San-Diego-CA-92126/16831474_zpid/",
+      "lotAreaValue": 5500,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "7979 Jade Coast Rd",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.901794,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 919900,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 5500,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=7979+Jade+Coast+Rd%2C+San+Diego%2C+CA+92126&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=CpcPY5BgUg0yZVgkXeCVEkj3okY="
+        }
+      ],
+      "zpid": 16831474,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1408,
+      "longitude": -117.15213,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1408
+    },
+    {
+      "bathrooms": 3,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "7987 Jade Coast Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/7987-Jade-Coast-Rd-San-Diego-CA-92126/16831475_zpid/",
+      "lotAreaValue": 5500,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "7987 Jade Coast Rd",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.901794,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1153900,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 5500,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=7987+Jade+Coast+Rd%2C+San+Diego%2C+CA+92126&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=3mKr_lwPrxdGxlxwigLvfVMFeng="
+        }
+      ],
+      "zpid": 16831475,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 2007,
+      "longitude": -117.151955,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 2007
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "sqft",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "7955 Jade Coast Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/7955-Jade-Coast-Rd-San-Diego-CA-92126/16831471_zpid/",
+      "lotAreaValue": null,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "7955 Jade Coast Rd",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.901783,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 867700,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/28546d3edd788891d730b74a23650591-p_c.jpg"
+        }
+      ],
+      "zpid": 16831471,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1008,
+      "longitude": -117.15267,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1008
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "7962 Jade Coast Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/7962-Jade-Coast-Rd-San-Diego-CA-92126/16831469_zpid/",
+      "lotAreaValue": 5200,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "7962 Jade Coast Rd",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "PTP2301085",
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.902218,
+      "homeStatus": "SOLD",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 760000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 5200,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/f156534fd38c5774e0d29b865e24e073-p_c.jpg"
+        }
+      ],
+      "zpid": 16831469,
+      "hdpTypeDimension": "RecentlySold",
+      "livingArea": 1008,
+      "longitude": -117.15243,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1008
+    },
+    {
+      "bathrooms": 1,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "7970 Jade Coast Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/7970-Jade-Coast-Rd-San-Diego-CA-92126/16831468_zpid/",
+      "lotAreaValue": 5200,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "7970 Jade Coast Rd",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.90223,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 740800,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 5200,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=7970+Jade+Coast+Rd%2C+San+Diego%2C+CA+92126&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=yAFdywq_SiAU7_XEJpYz1Nz_wUg="
+        }
+      ],
+      "zpid": 16831468,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 744,
+      "longitude": -117.15224,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 744
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "7995 Jade Coast Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/7995-Jade-Coast-Rd-San-Diego-CA-92126/16831476_zpid/",
+      "lotAreaValue": 5500,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "7995 Jade Coast Rd",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.9018,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1043100,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 5500,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=7995+Jade+Coast+Rd%2C+San+Diego%2C+CA+92126&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=UJljMpVFYFe69B9WKj8iv4O6x_w="
+        }
+      ],
+      "zpid": 16831476,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1592,
+      "longitude": -117.15178,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1592
+    },
+    {
+      "bathrooms": 3,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "7978 Jade Coast Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/7978-Jade-Coast-Rd-San-Diego-CA-92126/16831467_zpid/",
+      "lotAreaValue": 5200,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "7978 Jade Coast Rd",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.90223,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1266000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 5,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 5200,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=7978+Jade+Coast+Rd%2C+San+Diego%2C+CA+92126&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ZbVXxz6yagRS2ImFWiDo2xbVH9w="
+        }
+      ],
+      "zpid": 16831467,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 2390,
+      "longitude": -117.15206,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 2390
+    }
+  ],
+  "priceHistory": [
+    {
+      "priceChangeRate": -0.043482041916688,
+      "date": "2025-08-12",
+      "source": "CRMLS",
+      "postingIsRental": false,
+      "time": 1754956800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "CRMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/cb8caaa629c0af2058e60add67b2f2ee-zillow_web_logo_inf_11.jpg",
+        "infoString1": "PTP2505183"
+      },
+      "pricePerSquareFoot": 833,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 1099900
+    },
+    {
+      "priceChangeRate": 0.19160621761658,
+      "date": "2025-07-10",
+      "source": "CRMLS",
+      "postingIsRental": false,
+      "time": 1752105600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "CRMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/cb8caaa629c0af2058e60add67b2f2ee-zillow_web_logo_inf_11.jpg",
+        "infoString1": "PTP2505183"
+      },
+      "pricePerSquareFoot": 871,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 1149900
+    },
+    {
+      "priceChangeRate": -0.080952380952381,
+      "date": "2023-04-07",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1680825600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "230003345"
+      },
+      "pricePerSquareFoot": 731,
+      "buyerAgent": null,
+      "event": "Sold",
+      "price": 965000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2023-03-21",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1679356800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "230003345"
+      },
+      "pricePerSquareFoot": 795,
+      "buyerAgent": null,
+      "event": "Pending sale",
+      "price": 1050000
+    },
+    {
+      "priceChangeRate": 0.79487179487179,
+      "date": "2023-02-21",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1676937600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "230003345"
+      },
+      "pricePerSquareFoot": 795,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 1050000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2017-06-29",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 1498694400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 443,
+      "buyerAgent": null,
+      "event": "Sold",
+      "price": 585000
+    },
+    {
+      "priceChangeRate": 0.23157894736842,
+      "date": "2017-05-08",
+      "source": "RC Realty of San Diego",
+      "postingIsRental": false,
+      "time": 1494201600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "RC Realty of San Diego",
+        "infoString3": null,
+        "infoString1": "170023512"
+      },
+      "pricePerSquareFoot": 443,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 585000
+    },
+    {
+      "priceChangeRate": -0.15026833631485,
+      "date": "2017-04-04",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 1491264000000,
+      "sellerAgent": {
+        "name": "Ricardo Riley",
+        "photo": null,
+        "profileUrl": "/profile/ricardoriley777/"
+      },
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 360,
+      "buyerAgent": null,
+      "event": "Sold",
+      "price": 475000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2017-03-18",
+      "source": "Renovation Realty",
+      "postingIsRental": false,
+      "time": 1489795200000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Renovation Realty",
+        "infoString3": null,
+        "infoString1": "170013527"
+      },
+      "pricePerSquareFoot": 423,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 559000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2013-03-06",
+      "source": "New House Hunters LLC",
+      "postingIsRental": true,
+      "time": 1362528000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "New House Hunters LLC",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 1,
+      "buyerAgent": null,
+      "event": "Listing removed",
+      "price": 1930
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2013-03-02",
+      "source": "New House Hunters LLC",
+      "postingIsRental": true,
+      "time": 1362182400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "New House Hunters LLC",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 1,
+      "buyerAgent": null,
+      "event": "Listed for rent",
+      "price": 1930
+    }
+  ],
+  "neighborhoodMapThumb": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/70601ac5afb973b8ec4e61c4a7155f34-p_c.jpg"
+    }
+  ],
+  "schools": [
+    {
+      "link": "https://www.greatschools.org/california/san-diego/32177-Jonas-Salk-Elementary-School/",
+      "rating": 7,
+      "totalCount": null,
+      "distance": 0.3,
+      "assigned": null,
+      "name": "Jonas Salk Elementary School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Elementary",
+      "grades": "K-5",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6115-Challenger-Middle-School/",
+      "rating": 7,
+      "totalCount": null,
+      "distance": 0.8,
+      "assigned": null,
+      "name": "Challenger Middle School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Middle",
+      "grades": "6-8",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6203-Mira-Mesa-High-School/",
+      "rating": 9,
+      "totalCount": null,
+      "distance": 0.9,
+      "assigned": null,
+      "name": "Mira Mesa High School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "High",
+      "grades": "9-12",
+      "type": "Public"
+    }
+  ],
+  "rentZestimate": 4593,
+  "city": "San Diego",
+  "providerListingID": null,
+  "currency": "USD",
+  "listingProvider": null,
+  "propertyTaxRate": 1.17,
+  "isShowcaseListing": true,
+  "openHouseSchedule": [
+    {
+      "startTime": "2025-08-27 15:00:00",
+      "endTime": "2025-08-27 18:00:00"
+    },
+    {
+      "startTime": "2025-08-30 11:00:00",
+      "endTime": "2025-08-30 15:00:00"
+    },
+    {
+      "startTime": "2025-08-31 13:00:00",
+      "endTime": "2025-08-31 16:00:00"
+    }
+  ],
+  "mortgageRates": null,
+  "address": {
+    "community": null,
+    "city": "San Diego",
+    "state": "CA",
+    "neighborhood": null,
+    "subdivision": null,
+    "streetAddress": "7971 Jade Coast Rd",
+    "zipcode": "92126"
+  },
+  "cityId": 54296,
+  "timeOnZillow": "47 days",
+  "priceChange": -50000,
+  "zestimate": null,
+  "zpid": 16831473,
+  "countyId": 2841,
+  "homeType": "SINGLE_FAMILY",
+  "livingAreaUnits": "sqft",
+  "pageViewCount": 3638,
+  "homeInsights": [
+    {
+      "insights": [
+        {
+          "treatmentId": "model_0",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Private pool",
+            "New flooring",
+            "Added wardrobe",
+            "Quartz countertops",
+            "Open floor plan",
+            "Stainless steel appliances",
+            "Central ac"
+          ]
+        },
+        {
+          "treatmentId": "model_1",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Private pool",
+            "New flooring",
+            "Added wardrobe",
+            "Quartz countertops",
+            "Open floor plan",
+            "Stainless steel appliances",
+            "Central ac"
+          ]
+        }
+      ]
+    }
+  ],
+  "bathrooms": 2,
+  "neighborhoodRegion": {
+    "name": "Mira Mesa"
+  },
+  "zipcode": "92126",
+  "building": null,
+  "zestimateLowPercent": null,
+  "brokerId": null,
+  "stateId": 9,
+  "url": "/homedetails/7971-Jade-Coast-Rd-San-Diego-CA-92126/16831473_zpid/",
+  "solarPotential": null,
+  "attributionInfo": {
+    "buyerAgentName": null,
+    "infoString3": "https://photos.zillowstatic.com/fp/cb8caaa629c0af2058e60add67b2f2ee-zillow_web_95_35.jpg",
+    "mlsName": "CRMLS",
+    "coAgentLicenseNumber": "DRE #02066903",
+    "listingAgreement": null,
+    "listingOffices": [
+      {
+        "associatedOfficeType": "listOffice",
+        "officeName": "ShoppingSDHouses"
+      },
+      {
+        "associatedOfficeType": "coListOffice",
+        "officeName": "ShoppingSDHouses"
+      }
+    ],
+    "infoString10": "The multiple listing data appearing on this website, or contained in reports produced therefrom, is owned and copyrighted by California Regional Multiple Listing Service, Inc. (\"CRMLS\") and is protected by all applicable copyright laws. Information provided is for viewer's personal, non-commercial use and may not be used for any purpose other than to identify prospective properties the viewer may be interested in purchasing. All listing data, including but not limited to square footage and lot size is believed to be accurate, but the listing Agent, listing Broker and CRMLS and its affiliates do not warrant or guarantee such accuracy. The viewer should independently verify the listed data prior to making any decisions based on such information by personal inspection and/or contacting a real estate professional.\n\nBased on information from California Regional Multiple Listing Service, Inc. as of 2025-08-26 21:25:46 PDT and /or other sources. All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy. Properties may or may not be listed by the office/agent presenting the information",
+    "buyerAgentMemberStateLicense": null,
+    "brokerName": "ShoppingSDHouses",
+    "listingAttributionContact": "760-216-8505",
+    "lastUpdated": "2025-08-20 16:08:04",
+    "trueStatus": null,
+    "listingAgentAttributionContact": null,
+    "agentEmail": null,
+    "agentName": "Delta Sivonsay",
+    "attributionTitle": "Listing Provided by:",
+    "mlsId": "PTP2505183",
+    "coAgentName": "Carlos Elizondo",
+    "coAgentNumber": "619-992-9150",
+    "infoString5": "619-992-9150",
+    "listingAgents": [
+      {
+        "memberStateLicense": "DRE #02130191",
+        "memberFullName": "Delta Sivonsay",
+        "associatedAgentType": "listAgent"
+      },
+      {
+        "memberStateLicense": "DRE #02066903",
+        "memberFullName": "Carlos Elizondo",
+        "associatedAgentType": "coListAgent"
+      }
+    ],
+    "agentPhoneNumber": "619-992-9150",
+    "agentLicenseNumber": "DRE #02130191",
+    "providerLogo": "https://photos.zillowstatic.com/fp/cb8caaa629c0af2058e60add67b2f2ee-zillow_web_95_35.jpg",
+    "infoString16": null,
+    "buyerBrokerageName": null,
+    "mlsDisclaimer": "The multiple listing data appearing on this website, or contained in reports produced therefrom, is owned and copyrighted by California Regional Multiple Listing Service, Inc. (\"CRMLS\") and is protected by all applicable copyright laws. Information provided is for viewer's personal, non-commercial use and may not be used for any purpose other than to identify prospective properties the viewer may be interested in purchasing. All listing data, including but not limited to square footage and lot size is believed to be accurate, but the listing Agent, listing Broker and CRMLS and its affiliates do not warrant or guarantee such accuracy. The viewer should independently verify the listed data prior to making any decisions based on such information by personal inspection and/or contacting a real estate professional.\n\nBased on information from California Regional Multiple Listing Service, Inc. as of 2025-08-26 21:25:46 PDT and /or other sources. All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy. Properties may or may not be listed by the office/agent presenting the information",
+    "brokerPhoneNumber": "619-992-9150",
+    "lastChecked": "2025-08-26 21:25:46"
+  },
+  "priceChangeDateString": "2025-08-12",
+  "photoCount": 38,
+  "homeStatus": "FOR_SALE",
+  "homeFacts": null,
+  "resoFacts": {
+    "hasAttachedProperty": false,
+    "frontageType": null,
+    "poolFeatures": [
+      "Fenced",
+      "Filtered",
+      "In Ground"
+    ],
+    "flooring": null,
+    "foundationDetails": {},
+    "accessibilityFeatures": null,
+    "hasGarage": true,
+    "hasPetsAllowed": null,
+    "bodyType": null,
+    "topography": null,
+    "landLeaseExpirationDate": null,
+    "hasAdditionalParcels": false,
+    "parkName": null,
+    "livingQuarters": {},
+    "taxAssessedValue": 984299,
+    "atAGlanceFacts": [
+      {
+        "factValue": "Single Family Residence",
+        "factLabel": "Type"
+      },
+      {
+        "factValue": "1973",
+        "factLabel": "Year Built"
+      },
+      {
+        "factValue": null,
+        "factLabel": "Heating"
+      },
+      {
+        "factValue": "Central Air, Gas",
+        "factLabel": "Cooling"
+      },
+      {
+        "factValue": "2 Attached Garage spaces",
+        "factLabel": "Parking"
+      },
+      {
+        "factValue": "5,662 sqft",
+        "factLabel": "Lot"
+      },
+      {
+        "factValue": "47 Days",
+        "factLabel": "Days on Zillow"
+      },
+      {
+        "factValue": "$833",
+        "factLabel": "Price/sqft"
+      },
+      {
+        "factValue": null,
+        "factLabel": "Offer Review Date"
+      }
+    ],
+    "offerReviewDate": null,
+    "horseYN": null,
+    "view": [
+      "Neighborhood"
+    ],
+    "rooms": [
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "Bedroom",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": [
+          "All Bedrooms Down"
+        ],
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      }
+    ],
+    "belowGradeFinishedArea": null,
+    "feesAndDues": [
+      {
+        "phone": null,
+        "name": null,
+        "fee": null,
+        "type": "HOA"
+      }
+    ],
+    "cityRegion": "San Diego",
+    "mainLevelBathrooms": null,
+    "hasPrivatePool": true,
+    "landLeaseAmount": null,
+    "waterSource": null,
+    "exteriorFeatures": {},
+    "inclusions": null,
+    "hasFireplace": false,
+    "gas": null,
+    "propertyCondition": null,
+    "elevationUnits": null,
+    "exclusions": null,
+    "mainLevelBedrooms": null,
+    "numberOfUnitsVacant": null,
+    "hasWaterfrontView": null,
+    "bathroomsOneQuarter": null,
+    "lotSize": "5,662 sqft",
+    "entryLevel": null,
+    "media": [
+      {
+        "mediaCategory": "BrandedVirtualTour",
+        "mediaURL": "https://www.zillow.com/view-imx/aef40c60-0587-46e3-b89c-963dc82288d8/?utm_source=captureapp"
+      },
+      {
+        "mediaCategory": "UnbrandedVirtualTour",
+        "mediaURL": "https://www.propertypanorama.com/instaview/crmls/PTP2505183"
+      },
+      {
+        "mediaCategory": "UnbrandedVirtualTour",
+        "mediaURL": "https://www.zillow.com/view-imx/aef40c60-0587-46e3-b89c-963dc82288d8/?utm_source=captureapp"
+      }
+    ],
+    "greenWaterConservation": null,
+    "stories": 1,
+    "livingArea": "1,320 sqft",
+    "commonWalls": "No Common Walls",
+    "listingTerms": "Cash,Conventional,FHA,VA Loan",
+    "otherParking": null,
+    "associationFee": null,
+    "marketingType": null,
+    "greenIndoorAirQuality": null,
+    "greenSustainability": null,
+    "livingAreaRangeUnits": "Square Feet",
+    "associationPhone": null,
+    "greenBuildingVerificationType": null,
+    "hasAttachedGarage": true,
+    "bedrooms": 4,
+    "architecturalStyle": null,
+    "listingId": null,
+    "structureType": null,
+    "interiorFeatures": [
+      "All Bedrooms Down"
+    ],
+    "horseAmenities": null,
+    "garageParkingCapacity": 2,
+    "developmentStatus": null,
+    "lotFeatures": [
+      "0-1 Unit/Acre"
+    ],
+    "roofType": null,
+    "compensationBasedOn": null,
+    "greenEnergyGeneration": null,
+    "daysOnZillow": 47,
+    "listAOR": "California Regional MLS (North San Diego County & Pacific Southwest AORs)",
+    "buildingAreaSource": null,
+    "elementarySchool": null,
+    "zoningDescription": null,
+    "irrigationWaterRightsAcres": null,
+    "yearBuiltEffective": null,
+    "greenEnergyEfficient": null,
+    "constructionMaterials": {},
+    "fireplaceFeatures": [
+      "None"
+    ],
+    "hoaFeeTotal": null,
+    "appliances": null,
+    "sewer": [
+      "Public Sewer"
+    ],
+    "bathroomsPartial": null,
+    "fencing": null,
+    "spaFeatures": null,
+    "waterViewYN": false,
+    "buildingName": null,
+    "attic": null,
+    "petsMaxWeight": null,
+    "cumulativeDaysOnMarket": null,
+    "waterfrontFeatures": null,
+    "additionalParcelsDescription": null,
+    "canRaiseHorses": false,
+    "hasLandLease": false,
+    "communityFeatures": [
+      "Curbs"
+    ],
+    "waterBodyName": null,
+    "middleOrJuniorSchool": null,
+    "lotSizeDimensions": null,
+    "virtualTour": "https://www.zillow.com/view-imx/aef40c60-0587-46e3-b89c-963dc82288d8/?utm_source=captureapp",
+    "contingency": null,
+    "yearBuilt": 1973,
+    "utilities": null,
+    "totalActualRent": null,
+    "bathroomsFull": 2,
+    "parcelNumber": "3411320300",
+    "incomeIncludes": null,
+    "highSchool": null,
+    "taxAnnualAmount": 12055,
+    "subdivisionName": null,
+    "storiesTotal": 1,
+    "storiesDecimal": 1,
+    "specialListingConditions": "Standard",
+    "windowFeatures": null,
+    "ownership": null,
+    "woodedArea": null,
+    "middleOrJuniorSchoolDistrict": null,
+    "associationPhone2": null,
+    "onMarketDate": 1752105600000,
+    "roomTypes": [
+      "Bedroom"
+    ],
+    "frontageLength": null,
+    "roadSurfaceType": null,
+    "associationAmenities": null,
+    "propertySubType": [
+      "Single Family Residence"
+    ],
+    "hasCooling": true,
+    "levels": "One",
+    "coveredParkingCapacity": 2,
+    "foundationArea": null,
+    "zoning": "R-1:SINGLE FAM-RES",
+    "hoaFee": null,
+    "livingAreaRange": null,
+    "parkingFeatures": [
+      "Garage - Attached"
+    ],
+    "parkingCapacity": 4,
+    "cropsIncludedYN": null,
+    "tenantPays": null,
+    "builderModel": null,
+    "otherStructures": null,
+    "otherFacts": {},
+    "additionalFeeInfo": null,
+    "hasView": true,
+    "openParkingCapacity": 2,
+    "securityFeatures": null,
+    "numberOfUnitsInCommunity": 2,
+    "hasHomeWarranty": false,
+    "basementYN": null,
+    "doorFeatures": null,
+    "ownershipType": null,
+    "aboveGradeFinishedArea": null,
+    "associations": {},
+    "waterView": null,
+    "electric": null,
+    "buildingFeatures": null,
+    "hasOpenParking": null,
+    "hasCarport": null,
+    "bathroomsHalf": null,
+    "homeType": "SingleFamily",
+    "isSeniorCommunity": null,
+    "municipality": null,
+    "bathroomsThreeQuarter": null,
+    "hasSpa": false,
+    "basement": null,
+    "associationFee2": null,
+    "cooling": [
+      "Central Air",
+      "Gas"
+    ],
+    "hasHeating": null,
+    "associationName2": null,
+    "hasRentControl": null,
+    "elementarySchoolDistrict": null,
+    "otherEquipment": null,
+    "bathrooms": 2,
+    "buildingArea": null,
+    "furnished": false,
+    "vegetation": null,
+    "patioAndPorchFeatures": null,
+    "bathroomsFloat": 2,
+    "builderName": null,
+    "highSchoolDistrict": "Other",
+    "hasElectricOnProperty": null,
+    "laundryFeatures": [
+      "Gas Dryer Hookup",
+      "In Garage"
+    ],
+    "entryLocation": "Front",
+    "fireplaces": null,
+    "heating": null,
+    "availabilityDate": null,
+    "carportParkingCapacity": null,
+    "hasAssociation": null,
+    "irrigationWaterRightsYN": null,
+    "isNewConstruction": null,
+    "associationFeeIncludes": null,
+    "leaseTerm": null,
+    "pricePerSquareFoot": 833,
+    "associationName": null,
+    "elevation": null
+  },
+  "datePosted": "2025-07-10",
+  "bedrooms": 4,
+  "propertyTypeDimension": "Single Family",
+  "mortgageZHLRates": {
+    "thirtyYearFixedBucket": {
+      "rate": 6.306,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756268757140
+    },
+    "fifteenYearFixedBucket": {
+      "rate": 5.601,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756268757140
+    },
+    "arm5Bucket": {
+      "rate": 6.529,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756268757140
+    }
+  },
+  "comingSoonOnMarketDate": null,
+  "favoriteCount": 162,
+  "livingArea": 1320,
+  "zestimateHighPercent": null,
+  "mlsid": "PTP2505183",
+  "isListedByOwner": null,
+  "listingSubType": {
+    "is_comingSoon": false,
+    "is_pending": false,
+    "is_forAuction": false,
+    "is_bankOwned": false,
+    "is_FSBA": true,
+    "is_FSBO": false,
+    "is_newHome": false,
+    "is_foreclosure": false
+  },
+  "buildingId": null,
+  "country": "USA",
+  "price": 1099900,
+  "priceChangeDate": 1754956800000,
+  "contingentListingType": null
+}

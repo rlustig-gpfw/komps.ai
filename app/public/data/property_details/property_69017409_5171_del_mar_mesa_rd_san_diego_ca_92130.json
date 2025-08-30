@@ -1,0 +1,1993 @@
+{
+  "buildingPermits": null,
+  "contact_recipients": [
+    {
+      "agent_reason": 1,
+      "zpro": null,
+      "recent_sales": 0,
+      "review_count": 0,
+      "display_name": "Premier Broker Flex Atlanta GA",
+      "badge_type": "Premier Agent",
+      "business_name": "Zillow Group",
+      "rating_average": 0,
+      "phone": {
+        "prefix": "452",
+        "areacode": "206",
+        "number": "1030"
+      },
+      "zuid": "X1-ZUv2ktj4jt3nyh_98wrm",
+      "image_url": "https://www.zillowstatic.com/static/images/nophoto_h_g.png"
+    }
+  ],
+  "longitude": -117.207016,
+  "countyFIPS": "06073",
+  "imgSrc": "https://photos.zillowstatic.com/fp/99ebb8959e6da6a8db3588e8f1906bc8-p_d.jpg",
+  "livingAreaValue": 8186,
+  "streetAddress": "5171 Del Mar Mesa Rd",
+  "county": "San Diego County",
+  "monthlyHoaFee": null,
+  "timeZone": "America/Los_Angeles",
+  "taxHistory": [
+    {
+      "time": 1724734041947,
+      "valueIncreaseRate": 0.02,
+      "taxIncreaseRate": 0.022465866,
+      "taxPaid": 54295.78,
+      "value": 5077152
+    },
+    {
+      "time": 1693111641947,
+      "valueIncreaseRate": 0.02,
+      "taxIncreaseRate": 0.016229775,
+      "taxPaid": 53102.78,
+      "value": 4977600
+    },
+    {
+      "time": 1661575641947,
+      "valueIncreaseRate": 0.14823529,
+      "taxIncreaseRate": 0.16876626,
+      "taxPaid": 52254.7,
+      "value": 4880000
+    },
+    {
+      "time": 1630039641947,
+      "valueIncreaseRate": 0.14864865,
+      "taxIncreaseRate": 0.12677151,
+      "taxPaid": 44709.28,
+      "value": 4250000
+    },
+    {
+      "time": 1598503641947,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0.0009318717,
+      "taxPaid": 39679.1,
+      "value": 3700000
+    },
+    {
+      "time": 1566881241947,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0.024981907,
+      "taxPaid": 39642.16,
+      "value": 3700000
+    },
+    {
+      "time": 1535345241947,
+      "valueIncreaseRate": 0.027777778,
+      "taxIncreaseRate": 0.026991356,
+      "taxPaid": 38675.96,
+      "value": 3700000
+    },
+    {
+      "time": 1503809241947,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0.013591368,
+      "taxPaid": 37659.48,
+      "value": 3600000
+    },
+    {
+      "time": 1472273241947,
+      "valueIncreaseRate": 0.05882353,
+      "taxIncreaseRate": 0.05880484,
+      "taxPaid": 37154.5,
+      "value": 3600000
+    },
+    {
+      "time": 1440650841947,
+      "valueIncreaseRate": 0.0625,
+      "taxIncreaseRate": 0.06370477,
+      "taxPaid": 35090.98,
+      "value": 3400000
+    },
+    {
+      "time": 1409114841947,
+      "valueIncreaseRate": 0.06666667,
+      "taxIncreaseRate": 0,
+      "taxPaid": 32989.4,
+      "value": 3200000
+    },
+    {
+      "time": 1377578841947,
+      "valueIncreaseRate": -0.16666667,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 3000000
+    },
+    {
+      "time": 1346042841947,
+      "valueIncreaseRate": -0.17048015,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 3600000
+    },
+    {
+      "time": 1314420441947,
+      "valueIncreaseRate": 0.007529787,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 4339860
+    },
+    {
+      "time": 1282884441947,
+      "valueIncreaseRate": -0.0023702653,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 4307426
+    },
+    {
+      "time": 1251348441947,
+      "valueIncreaseRate": 0.02,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 4317660
+    },
+    {
+      "time": 1219812441947,
+      "valueIncreaseRate": 0.02,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 4233000
+    },
+    {
+      "time": 1188190041947,
+      "valueIncreaseRate": 0.29481786,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 4150000
+    },
+    {
+      "time": 1156654041947,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 3205084
+    }
+  ],
+  "dateSold": null,
+  "annualHomeownersInsurance": 27279,
+  "state": "CA",
+  "listed_by": {
+    "agent_reason": 3,
+    "zpro": false,
+    "recent_sales": 0,
+    "zuid": "X1-ZUykn34rjaqia1_22g4q",
+    "review_count": 66,
+    "display_name": "Jose A Hernandez",
+    "profile_url": "https://www.zillow.com/profile/HRGhome/",
+    "business_name": "Coldwell Banker West",
+    "rating_average": 5,
+    "phone": {
+      "prefix": "928",
+      "areacode": "619",
+      "number": "2325"
+    },
+    "badge_type": "Listing Agent",
+    "image_url": "https://photos.zillowstatic.com/fp/67d2b35b1557cd2b91658f0f140bbd5b-h_n.jpg"
+  },
+  "yearBuilt": 2006,
+  "brokerageName": "Coldwell Banker West",
+  "description": "Welcome to The Bacara House on Del Mar Mesa a one-acre estate with sunrise views over the canyon and The Grand Golf Club. Offering more than 8,100 sq. ft. of thoughtfully designed living space for both everyday comfort and effortless entertaining. This residence includes seven bedrooms, nine bathrooms, an executive office, maid’s quarters, and detached guest quarters with a private ensuite. The executive office overlooks the resort-style backyard, complete with a pool and spa, outdoor bar, fireplace, multiple lounge and dining areas, and a spacious greenbelt for kids and pets. Car enthusiasts will appreciate the attached 4+ car garage, along with a detached RV-sized garage ideal for boats, trailers, or a car collection. Just minutes from One Paseo, The Grand, and the three-Michelin-star Addison. Secure gated entry, a long private driveway, and a quiet road provide exclusivity. Owned solar included.",
+  "climate": {
+    "windSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "probability": {},
+        "source": {
+          "url": "https://firststreet.org/property/5171-del-mar-mesa-rd-san-diego-ca-92130/603339306_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 18
+      }
+    },
+    "floodSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "femaZone": "X_UNSHADED",
+        "source": {
+          "url": "https://firststreet.org/property/5171-del-mar-mesa-rd-san-diego-ca-92130/603339306_fsid"
+        },
+        "probability": [
+          {
+            "relativeYear": 0,
+            "probability": 0
+          },
+          {
+            "relativeYear": 5,
+            "probability": 0
+          },
+          {
+            "relativeYear": 10,
+            "probability": 0
+          },
+          {
+            "relativeYear": 15,
+            "probability": 0
+          },
+          {
+            "relativeYear": 20,
+            "probability": 0
+          },
+          {
+            "relativeYear": 25,
+            "probability": 0
+          },
+          {
+            "relativeYear": 30,
+            "probability": 0
+          }
+        ],
+        "insuranceSeparatePolicy": "NOT_REQUIRED",
+        "historicCountPropertyAll": 0
+      }
+    },
+    "fireSources": {
+      "primary": {
+        "insuranceRecommendation": "RECOMMENDED",
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 4
+        },
+        "probability": [
+          {
+            "relativeYear": 0,
+            "probability": 0.00030000001424924
+          },
+          {
+            "relativeYear": 5,
+            "probability": 0.0017999999690801
+          },
+          {
+            "relativeYear": 10,
+            "probability": 0.0035000001080334
+          },
+          {
+            "relativeYear": 15,
+            "probability": 0.0052000000141561
+          },
+          {
+            "relativeYear": 20,
+            "probability": 0.0070000002160668
+          },
+          {
+            "relativeYear": 25,
+            "probability": 0.0087999999523163
+          },
+          {
+            "relativeYear": 30,
+            "probability": 0.010800000280142
+          }
+        ],
+        "source": {
+          "url": "https://firststreet.org/property/5171-del-mar-mesa-rd-san-diego-ca-92130/603339306_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 26
+      }
+    },
+    "heatSources": {
+      "primary": {
+        "percentile98Temp": 89,
+        "hotDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 7
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 9
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 11
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 14
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 16
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 18
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 20
+          }
+        ],
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 4
+        },
+        "source": {
+          "url": "https://firststreet.org/property/5171-del-mar-mesa-rd-san-diego-ca-92130/603339306_fsid"
+        }
+      }
+    },
+    "airSources": {
+      "primary": {
+        "source": {
+          "url": "https://firststreet.org/property/5171-del-mar-mesa-rd-san-diego-ca-92130/603339306_fsid"
+        },
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 3
+        },
+        "badAirDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 4
+          }
+        ]
+      }
+    }
+  },
+  "latitude": 32.93974,
+  "nearbyHomes": [
+    {
+      "hdpTypeDimension": "Zestimate",
+      "lotAreaUnits": "Acres",
+      "isShowcaseListing": false,
+      "longitude": -117.20676,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "5191 Del Mar Mesa Rd",
+        "zipcode": "92130"
+      },
+      "livingAreaValue": 1656,
+      "lotSize": 43560,
+      "zpid": 16775307,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 2,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "5191 Del Mar Mesa Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "hdpUrl": "/homedetails/5191-Del-Mar-Mesa-Rd-San-Diego-CA-92130/16775307_zpid/",
+      "lotAreaValue": 1,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "OTHER",
+      "latitude": 32.939384,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "newConstructionType": null,
+      "yearBuilt": 1970,
+      "listingTypeDimension": "Unknown Listed By",
+      "livingArea": 1656,
+      "providerListingID": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/47f5b2b9000d099b1f27bcbffc142639-p_c.jpg"
+        }
+      ],
+      "currency": "USD",
+      "price": 2345900,
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    },
+    {
+      "bathrooms": 1.5,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "5121 Del Mar Mesa Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/5121-Del-Mar-Mesa-Rd-San-Diego-CA-92130/16775304_zpid/",
+      "lotAreaValue": 1.2,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "5121 Del Mar Mesa Rd",
+        "zipcode": "92130"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.939697,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1596200,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 52272,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=32.939697265625,-117.2078628540039&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=aPKQvRJUmdn-DU0vVFNkbSU6kbI="
+        }
+      ],
+      "zpid": 16775304,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1767,
+      "longitude": -117.20786,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1767
+    },
+    {
+      "hdpTypeDimension": "Zestimate",
+      "lotAreaUnits": "Acres",
+      "isShowcaseListing": false,
+      "longitude": -117.20678,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "5193 Del Mar Mesa Rd",
+        "zipcode": "92130"
+      },
+      "livingAreaValue": 7200,
+      "lotSize": 43560,
+      "zpid": 52511560,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 6,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "5193 Del Mar Mesa Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "hdpUrl": "/homedetails/5193-Del-Mar-Mesa-Rd-San-Diego-CA-92130/52511560_zpid/",
+      "lotAreaValue": 1,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "OTHER",
+      "latitude": 32.93898,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 7,
+      "propertyTypeDimension": "Single Family",
+      "newConstructionType": null,
+      "yearBuilt": 2005,
+      "listingTypeDimension": "Unknown Listed By",
+      "livingArea": 7200,
+      "providerListingID": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/a66315824bfb229539a35697e5b6e03e-p_c.jpg"
+        }
+      ],
+      "currency": "USD",
+      "price": 5720800,
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "5131 Del Mar Mesa Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/5131-Del-Mar-Mesa-Rd-San-Diego-CA-92130/16775303_zpid/",
+      "lotAreaValue": 1.0099862258953,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "5131 Del Mar Mesa Rd",
+        "zipcode": "92130"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.93929,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1849700,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 43995,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=32.93928909301758,-117.20787048339844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=OH0cdqm3hq9g1l32WQxu0U5F0b8="
+        }
+      ],
+      "zpid": 16775303,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 2698,
+      "longitude": -117.20787,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 2698
+    },
+    {
+      "hdpTypeDimension": "Zestimate",
+      "lotAreaUnits": "Acres",
+      "isShowcaseListing": false,
+      "longitude": -117.207436,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "5175 Del Mar Mesa Rd",
+        "zipcode": "92130"
+      },
+      "livingAreaValue": 2140,
+      "lotSize": 348480,
+      "zpid": 16775305,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 2,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "5175 Del Mar Mesa Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "hdpUrl": "/homedetails/5175-Del-Mar-Mesa-Rd-San-Diego-CA-92130/16775305_zpid/",
+      "lotAreaValue": 8,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "OTHER",
+      "latitude": 32.940685,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "newConstructionType": null,
+      "yearBuilt": 1980,
+      "listingTypeDimension": "Unknown Listed By",
+      "livingArea": 2140,
+      "providerListingID": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/65018073c0a7c0756af845ee7e58d1f0-p_c.jpg"
+        }
+      ],
+      "currency": "USD",
+      "price": 7730100,
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    },
+    {
+      "bathrooms": 0,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "5175 Del Mar Mesa Rd #0"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/5175-Del-Mar-Mesa-Rd-0-San-Diego-CA-92130/2082917159_zpid/",
+      "lotAreaValue": 8,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "5175 Del Mar Mesa Rd #0",
+        "zipcode": "92130"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.940685,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 0,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 0,
+      "propertyTypeDimension": "Lot",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 348480,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/28147998d7554ccc68cf2e7eb65ee441-p_c.jpg"
+        }
+      ],
+      "zpid": 2082917159,
+      "hdpTypeDimension": "NoZestimate",
+      "livingArea": null,
+      "longitude": -117.207436,
+      "livingAreaUnitsShort": null,
+      "providerListingID": null,
+      "homeType": "LOT",
+      "livingAreaUnits": null,
+      "currency": "USD",
+      "livingAreaValue": null
+    },
+    {
+      "bathrooms": 4.5,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "5189 Del Mar Mesa Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/5189-Del-Mar-Mesa-Rd-San-Diego-CA-92130/250196001_zpid/",
+      "lotAreaValue": 1,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "5189 Del Mar Mesa Rd",
+        "zipcode": "92130"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.94008,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 4023200,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 5,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 43560,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=32.94007873535156,-117.20574951171875&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=lFO3GCx_lAmq0n8LYgDMPqg9qZU="
+        }
+      ],
+      "zpid": 250196001,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 5530,
+      "longitude": -117.20575,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 5530
+    },
+    {
+      "bathrooms": 5.5,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "5141 Del Mar Mesa Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/5141-Del-Mar-Mesa-Rd-San-Diego-CA-92130/16775312_zpid/",
+      "lotAreaValue": 1.3399908172635,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "5141 Del Mar Mesa Rd",
+        "zipcode": "92130"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.938774,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 4098200,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 5,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 58370,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=32.93877410888672,-117.20789337158203&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=xBaGH_vT5yIj95UKTyrSEx9RV8c="
+        }
+      ],
+      "zpid": 16775312,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 5206,
+      "longitude": -117.20789,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 5206
+    }
+  ],
+  "priceHistory": [
+    {
+      "priceChangeRate": 0.33094262295082,
+      "date": "2025-08-26",
+      "source": "CRMLS",
+      "postingIsRental": false,
+      "time": 1756166400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "CRMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/cb8caaa629c0af2058e60add67b2f2ee-zillow_web_logo_inf_11.jpg",
+        "infoString1": "PTP2506508"
+      },
+      "pricePerSquareFoot": 793,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 6495000
+    },
+    {
+      "priceChangeRate": -0.023023023023023,
+      "date": "2021-09-21",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1632182400000,
+      "sellerAgent": {
+        "name": "Manuel Sanchez",
+        "photo": null,
+        "profileUrl": "/profile/sellwithmanuel/"
+      },
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "210007404"
+      },
+      "pricePerSquareFoot": 596,
+      "buyerAgent": {
+        "name": "Jose A Hernandez",
+        "photo": null,
+        "profileUrl": "/profile/HRGhome/"
+      },
+      "event": "Sold",
+      "price": 4880000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2021-07-19",
+      "source": "Glendale AOR ZDD",
+      "postingIsRental": false,
+      "time": 1626652800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Glendale AOR ZDD",
+        "infoString3": "https://photos.zillowstatic.com/fp/d6de69e573dd2afaeff53b2e86683093-zillow_web_logo_inf_11.jpg",
+        "infoString1": "210007404"
+      },
+      "pricePerSquareFoot": 610,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 4995000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2021-06-11",
+      "source": "Local MLS",
+      "postingIsRental": false,
+      "time": 1623369600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Local MLS",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": null,
+      "buyerAgent": null,
+      "event": "Listing removed",
+      "price": null
+    },
+    {
+      "priceChangeRate": -0.090991810737034,
+      "date": "2021-05-12",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1620777600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": null,
+        "infoString1": "210007404"
+      },
+      "pricePerSquareFoot": 610,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 4995000
+    },
+    {
+      "priceChangeRate": -0.00090909090909091,
+      "date": "2021-03-23",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1616457600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": null,
+        "infoString1": "210007404"
+      },
+      "pricePerSquareFoot": 671,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 5495000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2021-01-15",
+      "source": "CRMLS",
+      "postingIsRental": false,
+      "time": 1610668800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "CRMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/1a692386d3d47d3e5db959d0fe1c228c-zillow_web_logo_inf_11.jpg",
+        "infoString1": "NDP2001890"
+      },
+      "pricePerSquareFoot": 672,
+      "buyerAgent": null,
+      "event": "Listing removed",
+      "price": 5500000
+    },
+    {
+      "priceChangeRate": 0.32530120481928,
+      "date": "2020-10-27",
+      "source": "Coldwell Banker Realty",
+      "postingIsRental": false,
+      "time": 1603756800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Coldwell Banker Realty",
+        "infoString3": null,
+        "infoString1": "NDP2001890"
+      },
+      "pricePerSquareFoot": 672,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 5500000
+    },
+    {
+      "priceChangeRate": 121.05882352941,
+      "date": "2006-08-29",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 1156809600000,
+      "sellerAgent": {
+        "name": "Daniel Greer",
+        "photo": null,
+        "profileUrl": "/profile/Daniel-Greer/"
+      },
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 507,
+      "buyerAgent": {
+        "name": "Daniel Greer",
+        "photo": null,
+        "profileUrl": "/profile/Daniel-Greer/"
+      },
+      "event": "Sold",
+      "price": 4150000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "1997-11-14",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 879465600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 4,
+      "buyerAgent": null,
+      "event": "Sold",
+      "price": 34000
+    }
+  ],
+  "neighborhoodMapThumb": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/99ebb8959e6da6a8db3588e8f1906bc8-p_c.jpg"
+    }
+  ],
+  "schools": [
+    {
+      "link": "https://www.greatschools.org/california/san-diego/11832-Sage-Canyon-School/",
+      "rating": 8,
+      "totalCount": null,
+      "distance": 1,
+      "assigned": null,
+      "name": "Sage Canyon School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Elementary",
+      "grades": "K-6",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/11118-Carmel-Valley-Middle-School/",
+      "rating": 8,
+      "totalCount": null,
+      "distance": 1.5,
+      "assigned": null,
+      "name": "Carmel Valley Middle School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Middle",
+      "grades": "7-8",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6091-Torrey-Pines-High-School/",
+      "rating": 10,
+      "totalCount": null,
+      "distance": 1.6,
+      "assigned": null,
+      "name": "Torrey Pines High School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "High",
+      "grades": "9-12",
+      "type": "Public"
+    }
+  ],
+  "rentZestimate": 6037,
+  "city": "San Diego",
+  "providerListingID": null,
+  "currency": "USD",
+  "listingProvider": null,
+  "propertyTaxRate": 1.17,
+  "isShowcaseListing": false,
+  "openHouseSchedule": {},
+  "mortgageRates": null,
+  "address": {
+    "community": null,
+    "city": "San Diego",
+    "state": "CA",
+    "neighborhood": null,
+    "subdivision": null,
+    "streetAddress": "5171 Del Mar Mesa Rd",
+    "zipcode": "92130"
+  },
+  "cityId": 54296,
+  "timeOnZillow": "12 hours",
+  "priceChange": null,
+  "zestimate": 6264000,
+  "zpid": 69017409,
+  "countyId": 2841,
+  "homeType": "SINGLE_FAMILY",
+  "livingAreaUnits": "sqft",
+  "pageViewCount": 425,
+  "homeInsights": [
+    {
+      "insights": [
+        {
+          "treatmentId": "model_0",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Pool and spa",
+            "Detached guest quarters",
+            "Resort-style backyard",
+            "Detached rv-sized garage",
+            "Spacious greenbelt",
+            "Outdoor bar",
+            "Seven bedrooms"
+          ]
+        },
+        {
+          "treatmentId": "model_1",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Pool and spa",
+            "Detached guest quarters",
+            "Resort-style backyard",
+            "Detached rv-sized garage",
+            "Spacious greenbelt",
+            "Outdoor bar",
+            "Seven bedrooms"
+          ]
+        }
+      ]
+    }
+  ],
+  "bathrooms": 9,
+  "neighborhoodRegion": {
+    "name": "Carmel Valley"
+  },
+  "zipcode": "92130",
+  "building": null,
+  "zestimateLowPercent": "5",
+  "brokerId": null,
+  "stateId": 9,
+  "url": "/homedetails/5171-Del-Mar-Mesa-Rd-San-Diego-CA-92130/69017409_zpid/",
+  "solarPotential": null,
+  "attributionInfo": {
+    "buyerAgentName": null,
+    "infoString3": "https://photos.zillowstatic.com/fp/cb8caaa629c0af2058e60add67b2f2ee-zillow_web_95_35.jpg",
+    "mlsName": "CRMLS",
+    "coAgentLicenseNumber": null,
+    "listingAgreement": null,
+    "listingOffices": [
+      {
+        "associatedOfficeType": "listOffice",
+        "officeName": "Coldwell Banker West"
+      }
+    ],
+    "infoString10": "The multiple listing data appearing on this website, or contained in reports produced therefrom, is owned and copyrighted by California Regional Multiple Listing Service, Inc. (\"CRMLS\") and is protected by all applicable copyright laws. Information provided is for viewer's personal, non-commercial use and may not be used for any purpose other than to identify prospective properties the viewer may be interested in purchasing. All listing data, including but not limited to square footage and lot size is believed to be accurate, but the listing Agent, listing Broker and CRMLS and its affiliates do not warrant or guarantee such accuracy. The viewer should independently verify the listed data prior to making any decisions based on such information by personal inspection and/or contacting a real estate professional.\n\nBased on information from California Regional Multiple Listing Service, Inc. as of 2025-08-26 21:25:46 PDT and /or other sources. All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy. Properties may or may not be listed by the office/agent presenting the information",
+    "buyerAgentMemberStateLicense": null,
+    "brokerName": "Coldwell Banker West",
+    "listingAttributionContact": "jose@hrghome.com",
+    "lastUpdated": "2025-08-26 11:01:32",
+    "trueStatus": null,
+    "listingAgentAttributionContact": null,
+    "agentEmail": "jose@hrghome.com",
+    "agentName": "Jose Hernandez",
+    "attributionTitle": "Listing Provided by:",
+    "mlsId": "PTP2506508",
+    "coAgentName": null,
+    "coAgentNumber": null,
+    "infoString5": "619-271-9500",
+    "listingAgents": [
+      {
+        "memberStateLicense": "DRE #01398219",
+        "memberFullName": "Jose Hernandez",
+        "associatedAgentType": "listAgent"
+      }
+    ],
+    "agentPhoneNumber": "619-271-9500",
+    "agentLicenseNumber": "DRE #01398219",
+    "providerLogo": "https://photos.zillowstatic.com/fp/cb8caaa629c0af2058e60add67b2f2ee-zillow_web_95_35.jpg",
+    "infoString16": null,
+    "buyerBrokerageName": null,
+    "mlsDisclaimer": "The multiple listing data appearing on this website, or contained in reports produced therefrom, is owned and copyrighted by California Regional Multiple Listing Service, Inc. (\"CRMLS\") and is protected by all applicable copyright laws. Information provided is for viewer's personal, non-commercial use and may not be used for any purpose other than to identify prospective properties the viewer may be interested in purchasing. All listing data, including but not limited to square footage and lot size is believed to be accurate, but the listing Agent, listing Broker and CRMLS and its affiliates do not warrant or guarantee such accuracy. The viewer should independently verify the listed data prior to making any decisions based on such information by personal inspection and/or contacting a real estate professional.\n\nBased on information from California Regional Multiple Listing Service, Inc. as of 2025-08-26 21:25:46 PDT and /or other sources. All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy. Properties may or may not be listed by the office/agent presenting the information",
+    "brokerPhoneNumber": "619-271-9500",
+    "lastChecked": "2025-08-26 21:25:46"
+  },
+  "priceChangeDateString": null,
+  "photoCount": 75,
+  "homeStatus": "FOR_SALE",
+  "homeFacts": null,
+  "resoFacts": {
+    "hasAttachedProperty": false,
+    "frontageType": null,
+    "poolFeatures": [
+      "Heated",
+      "In Ground",
+      "Private"
+    ],
+    "flooring": [
+      "Carpet",
+      "Stone",
+      "Tile",
+      "Wood"
+    ],
+    "foundationDetails": [
+      "Concrete Perimeter"
+    ],
+    "accessibilityFeatures": [
+      "None"
+    ],
+    "hasGarage": true,
+    "hasPetsAllowed": null,
+    "bodyType": null,
+    "topography": null,
+    "landLeaseExpirationDate": null,
+    "hasAdditionalParcels": false,
+    "parkName": null,
+    "livingQuarters": {},
+    "taxAssessedValue": 5077152,
+    "atAGlanceFacts": [
+      {
+        "factValue": "Single Family Residence",
+        "factLabel": "Type"
+      },
+      {
+        "factValue": "2006",
+        "factLabel": "Year Built"
+      },
+      {
+        "factValue": "Central, Forced Air, Fireplace(s), Zoned",
+        "factLabel": "Heating"
+      },
+      {
+        "factValue": "Central Air, Zoned",
+        "factLabel": "Cooling"
+      },
+      {
+        "factValue": "7 Attached Garage spaces",
+        "factLabel": "Parking"
+      },
+      {
+        "factValue": "1 Acres",
+        "factLabel": "Lot"
+      },
+      {
+        "factValue": "0",
+        "factLabel": "Days on Zillow"
+      },
+      {
+        "factValue": "$793",
+        "factLabel": "Price/sqft"
+      },
+      {
+        "factValue": null,
+        "factLabel": "Offer Review Date"
+      }
+    ],
+    "offerReviewDate": null,
+    "horseYN": true,
+    "view": [
+      "City Lights",
+      "Canyon",
+      "Golf Course",
+      "Panoramic",
+      "Trees/Woods"
+    ],
+    "rooms": [
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "Bathroom",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": [
+          "Bathtub",
+          "Jetted Tub",
+          "Separate Shower",
+          "Walk-In Shower"
+        ],
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "Bathroom",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": [
+          "Jack and Jill Bath"
+        ],
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "BonusRoom",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": null,
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "Den",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": null,
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "DiningRoom",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": null,
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "EntryFoyer",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": null,
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "EntryFoyer",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": null,
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "FamilyRoom",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": null,
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "GreatRoom",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": null,
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "Kitchen",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": [
+          "Kitchen Island",
+          "Stone Counters",
+          "Walk-In Pantry"
+        ],
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "Kitchen",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": null,
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "Laundry",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": null,
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "LivingRoom",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": null,
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      }
+    ],
+    "belowGradeFinishedArea": "0",
+    "feesAndDues": [
+      {
+        "phone": null,
+        "name": null,
+        "fee": null,
+        "type": "HOA"
+      }
+    ],
+    "cityRegion": "San Diego",
+    "mainLevelBathrooms": 4,
+    "hasPrivatePool": true,
+    "landLeaseAmount": null,
+    "waterSource": null,
+    "exteriorFeatures": [
+      "Balcony",
+      "Barbecue",
+      "Lighting"
+    ],
+    "inclusions": null,
+    "hasFireplace": true,
+    "gas": null,
+    "propertyCondition": "Turnkey",
+    "elevationUnits": null,
+    "exclusions": null,
+    "mainLevelBedrooms": 2,
+    "numberOfUnitsVacant": null,
+    "hasWaterfrontView": null,
+    "bathroomsOneQuarter": null,
+    "lotSize": "1 Acres",
+    "entryLevel": null,
+    "media": [
+      {
+        "mediaCategory": "UnbrandedVirtualTour",
+        "mediaURL": "https://www.propertypanorama.com/instaview/crmls/PTP2506508"
+      }
+    ],
+    "greenWaterConservation": null,
+    "stories": 2,
+    "livingArea": "8,186 sqft",
+    "commonWalls": "No Common Walls",
+    "listingTerms": "Cash,Conventional",
+    "otherParking": null,
+    "associationFee": null,
+    "marketingType": null,
+    "greenIndoorAirQuality": null,
+    "greenSustainability": null,
+    "livingAreaRangeUnits": "Square Feet",
+    "associationPhone": null,
+    "greenBuildingVerificationType": null,
+    "hasAttachedGarage": true,
+    "bedrooms": 8,
+    "architecturalStyle": "Custom,Spanish",
+    "listingId": null,
+    "structureType": "House",
+    "interiorFeatures": [
+      "Wet Bar",
+      "Breakfast Area",
+      "Separate/Formal Dining Room",
+      "Granite Counters",
+      "High Ceilings",
+      "Pantry",
+      "Bar",
+      "Bedroom on Main Level",
+      "Jack and Jill Bath",
+      "Main Level Primary",
+      "Primary Suite",
+      "Walk-In Pantry",
+      "Walk-In Closet(s)"
+    ],
+    "horseAmenities": [
+      "Riding Trail"
+    ],
+    "garageParkingCapacity": 7,
+    "developmentStatus": null,
+    "lotFeatures": [
+      "Gentle Sloping",
+      "Horse Property",
+      "Landscaped",
+      "Secluded",
+      "Sprinkler System"
+    ],
+    "roofType": "Tile",
+    "compensationBasedOn": null,
+    "greenEnergyGeneration": null,
+    "daysOnZillow": 0,
+    "listAOR": "California Regional MLS (North San Diego County & Pacific Southwest AORs)",
+    "buildingAreaSource": null,
+    "elementarySchool": "Ashley Falls",
+    "zoningDescription": null,
+    "irrigationWaterRightsAcres": null,
+    "yearBuiltEffective": null,
+    "greenEnergyEfficient": null,
+    "constructionMaterials": [
+      "Stone",
+      "Stucco"
+    ],
+    "fireplaceFeatures": [
+      "Family Room",
+      "Guest Accommodations",
+      "Living Room",
+      "Primary Bedroom",
+      "Outside"
+    ],
+    "hoaFeeTotal": null,
+    "appliances": [
+      "Double Oven",
+      "Dishwasher",
+      "Gas Cooking",
+      "Disposal",
+      "Microwave",
+      "Refrigerator",
+      "Range Hood",
+      "Water Softener"
+    ],
+    "sewer": [
+      "Public Sewer"
+    ],
+    "bathroomsPartial": null,
+    "fencing": "Wrought Iron",
+    "spaFeatures": [
+      "Heated",
+      "In Ground",
+      "Private"
+    ],
+    "waterViewYN": false,
+    "buildingName": null,
+    "attic": null,
+    "petsMaxWeight": null,
+    "cumulativeDaysOnMarket": null,
+    "waterfrontFeatures": null,
+    "additionalParcelsDescription": null,
+    "canRaiseHorses": true,
+    "hasLandLease": false,
+    "communityFeatures": [
+      "Biking",
+      "Hiking",
+      "Horse Trails",
+      "Preserve/Public Land"
+    ],
+    "waterBodyName": null,
+    "middleOrJuniorSchool": "Carmel Valley",
+    "lotSizeDimensions": "330 x 128",
+    "virtualTour": "https://www.propertypanorama.com/instaview/crmls/PTP2506508",
+    "contingency": null,
+    "yearBuilt": 2006,
+    "utilities": [
+      "Cable Available",
+      "Electricity Connected"
+    ],
+    "totalActualRent": null,
+    "bathroomsFull": 7,
+    "parcelNumber": "3070411400",
+    "incomeIncludes": null,
+    "highSchool": "Torrey Pines",
+    "taxAnnualAmount": 54296,
+    "subdivisionName": null,
+    "storiesTotal": 2,
+    "storiesDecimal": 2,
+    "specialListingConditions": "Standard",
+    "windowFeatures": [
+      "Custom Covering(s)",
+      "Double Pane Windows"
+    ],
+    "ownership": null,
+    "woodedArea": null,
+    "middleOrJuniorSchoolDistrict": null,
+    "associationPhone2": null,
+    "onMarketDate": 1756166400000,
+    "roomTypes": [
+      "Bathroom",
+      "Bonus Room",
+      "Bedroom",
+      "Den",
+      "Entry/Foyer",
+      "Family Room",
+      "Great Room",
+      "Kitchen",
+      "Laundry",
+      "Living Room",
+      "Primary Bathroom",
+      "Primary Bedroom",
+      "Office",
+      "Other",
+      "Pantry",
+      "Dining Room"
+    ],
+    "frontageLength": null,
+    "roadSurfaceType": [
+      "Paved"
+    ],
+    "associationAmenities": null,
+    "propertySubType": [
+      "Single Family Residence"
+    ],
+    "hasCooling": true,
+    "levels": "Two",
+    "coveredParkingCapacity": 7,
+    "foundationArea": null,
+    "zoning": "R-1:SINGLE FAM-RES",
+    "hoaFee": null,
+    "livingAreaRange": null,
+    "parkingFeatures": [
+      "Boat",
+      "Door-Multi",
+      "Direct Access",
+      "Driveway",
+      "Garage",
+      "Gated",
+      "Oversized",
+      "RV Garage"
+    ],
+    "parkingCapacity": 12,
+    "cropsIncludedYN": null,
+    "tenantPays": null,
+    "builderModel": null,
+    "otherStructures": [
+      "Guest House"
+    ],
+    "otherFacts": {},
+    "additionalFeeInfo": null,
+    "hasView": true,
+    "openParkingCapacity": 5,
+    "securityFeatures": [
+      "Security System",
+      "Carbon Monoxide Detector(s)",
+      "Fire Sprinkler System",
+      "Security Gate",
+      "Smoke Detector(s)"
+    ],
+    "numberOfUnitsInCommunity": 1,
+    "hasHomeWarranty": false,
+    "basementYN": null,
+    "doorFeatures": null,
+    "ownershipType": null,
+    "aboveGradeFinishedArea": null,
+    "associations": {},
+    "waterView": null,
+    "electric": null,
+    "buildingFeatures": null,
+    "hasOpenParking": null,
+    "hasCarport": null,
+    "bathroomsHalf": 2,
+    "homeType": "SingleFamily",
+    "isSeniorCommunity": null,
+    "municipality": null,
+    "bathroomsThreeQuarter": null,
+    "hasSpa": true,
+    "basement": null,
+    "associationFee2": null,
+    "cooling": [
+      "Central Air",
+      "Zoned"
+    ],
+    "hasHeating": true,
+    "associationName2": null,
+    "hasRentControl": null,
+    "elementarySchoolDistrict": null,
+    "otherEquipment": null,
+    "bathrooms": 9,
+    "buildingArea": null,
+    "furnished": false,
+    "vegetation": null,
+    "patioAndPorchFeatures": [
+      "Covered",
+      "Deck",
+      "Patio",
+      "Balcony"
+    ],
+    "bathroomsFloat": 9,
+    "builderName": null,
+    "highSchoolDistrict": "San Dieguito Union",
+    "hasElectricOnProperty": null,
+    "laundryFeatures": [
+      "Inside",
+      "Laundry Room"
+    ],
+    "entryLocation": "Main",
+    "fireplaces": null,
+    "heating": [
+      "Central",
+      "Forced Air",
+      "Fireplace(s)",
+      "Zoned"
+    ],
+    "availabilityDate": null,
+    "carportParkingCapacity": 0,
+    "hasAssociation": null,
+    "irrigationWaterRightsYN": null,
+    "isNewConstruction": false,
+    "associationFeeIncludes": null,
+    "leaseTerm": null,
+    "pricePerSquareFoot": 793,
+    "associationName": null,
+    "elevation": null
+  },
+  "datePosted": "2025-08-26",
+  "bedrooms": 8,
+  "propertyTypeDimension": "Single Family",
+  "mortgageZHLRates": {
+    "thirtyYearFixedBucket": {
+      "rate": 6.402,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756269659067
+    },
+    "fifteenYearFixedBucket": {
+      "rate": 6.303,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756269659067
+    },
+    "arm5Bucket": {
+      "rate": 6.423,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756269659067
+    }
+  },
+  "comingSoonOnMarketDate": null,
+  "favoriteCount": 22,
+  "livingArea": 8186,
+  "zestimateHighPercent": "5",
+  "mlsid": "PTP2506508",
+  "isListedByOwner": null,
+  "listingSubType": {
+    "is_comingSoon": false,
+    "is_pending": false,
+    "is_forAuction": false,
+    "is_bankOwned": false,
+    "is_FSBA": true,
+    "is_FSBO": false,
+    "is_newHome": false,
+    "is_foreclosure": false
+  },
+  "buildingId": null,
+  "country": "USA",
+  "price": 6495000,
+  "priceChangeDate": null,
+  "contingentListingType": null
+}

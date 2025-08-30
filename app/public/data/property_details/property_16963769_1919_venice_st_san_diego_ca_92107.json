@@ -1,0 +1,1566 @@
+{
+  "buildingPermits": null,
+  "contact_recipients": [
+    {
+      "agent_reason": 1,
+      "zpro": null,
+      "recent_sales": 0,
+      "review_count": 0,
+      "display_name": "Premier Broker Flex Atlanta GA",
+      "badge_type": "Premier Agent",
+      "business_name": "Zillow Group",
+      "rating_average": 0,
+      "phone": {
+        "prefix": "452",
+        "areacode": "206",
+        "number": "1030"
+      },
+      "zuid": "X1-ZUv2ktj4jt3nyh_98wrm",
+      "image_url": "https://www.zillowstatic.com/static/images/nophoto_h_g.png"
+    }
+  ],
+  "longitude": -117.238525,
+  "countyFIPS": "06073",
+  "imgSrc": "https://photos.zillowstatic.com/fp/bcd1fdcdc6ad05c06feebfd1ec6ff614-p_d.jpg",
+  "livingAreaValue": 1468,
+  "streetAddress": "1919 Venice St",
+  "county": "San Diego County",
+  "monthlyHoaFee": null,
+  "timeZone": "America/Los_Angeles",
+  "taxHistory": [
+    {
+      "time": 1724733916650,
+      "valueIncreaseRate": 0.019999038,
+      "taxIncreaseRate": 0.022661684,
+      "taxPaid": 12981.34,
+      "value": 1061207
+    },
+    {
+      "time": 1693111516650,
+      "valueIncreaseRate": 0.02,
+      "taxIncreaseRate": 0.02744728,
+      "taxPaid": 12693.68,
+      "value": 1040400
+    },
+    {
+      "time": 1661575516650,
+      "valueIncreaseRate": 1.2358468,
+      "taxIncreaseRate": 1.1850502,
+      "taxPaid": 12354.58,
+      "value": 1020000
+    },
+    {
+      "time": 1630039516650,
+      "valueIncreaseRate": 0.010358208,
+      "taxIncreaseRate": 0.028077777,
+      "taxPaid": 5654.14,
+      "value": 456203
+    },
+    {
+      "time": 1598503516650,
+      "valueIncreaseRate": 0.01999896,
+      "taxIncreaseRate": 0.024644947,
+      "taxPaid": 5499.72,
+      "value": 451526
+    },
+    {
+      "time": 1566881116650,
+      "valueIncreaseRate": 0.019995622,
+      "taxIncreaseRate": 0.06329098,
+      "taxPaid": 5367.44,
+      "value": 442673
+    },
+    {
+      "time": 1535345116650,
+      "valueIncreaseRate": 0.019998308,
+      "taxIncreaseRate": 0.024660757,
+      "taxPaid": 5047.95,
+      "value": 433995
+    },
+    {
+      "time": 1503809116650,
+      "valueIncreaseRate": 0.019997891,
+      "taxIncreaseRate": 0.016624376,
+      "taxPaid": 4926.46,
+      "value": 425486
+    },
+    {
+      "time": 1472273116650,
+      "valueIncreaseRate": 0.015247798,
+      "taxIncreaseRate": 0.015184078,
+      "taxPaid": 4845.9,
+      "value": 417144
+    },
+    {
+      "time": 1440650716650,
+      "valueIncreaseRate": 0.019978601,
+      "taxIncreaseRate": 0.016217967,
+      "taxPaid": 4773.42,
+      "value": 410879
+    },
+    {
+      "time": 1409114716650,
+      "valueIncreaseRate": 0.004536024,
+      "taxIncreaseRate": 0,
+      "taxPaid": 4697.24,
+      "value": 402831
+    },
+    {
+      "time": 1377578716650,
+      "valueIncreaseRate": 0.019997457,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 401012
+    },
+    {
+      "time": 1346042716650,
+      "valueIncreaseRate": 0.01999782,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 393150
+    },
+    {
+      "time": 1314420316650,
+      "valueIncreaseRate": 0.0075281914,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 385442
+    },
+    {
+      "time": 1282884316650,
+      "valueIncreaseRate": -0.0023730546,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 382562
+    },
+    {
+      "time": 1251348316650,
+      "valueIncreaseRate": 0.019997127,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 383472
+    },
+    {
+      "time": 1219812316650,
+      "valueIncreaseRate": 0.01999821,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 375954
+    },
+    {
+      "time": 1188189916650,
+      "valueIncreaseRate": 0.019996846,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 368583
+    },
+    {
+      "time": 1156653916650,
+      "valueIncreaseRate": 0.01999588,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 361357
+    },
+    {
+      "time": 1125117916650,
+      "valueIncreaseRate": 0.019998446,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 354273
+    },
+    {
+      "time": 1093581916650,
+      "valueIncreaseRate": 0.018664781,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 347327
+    },
+    {
+      "time": 1061959516650,
+      "valueIncreaseRate": 0.019998325,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 340963
+    },
+    {
+      "time": 1030423516650,
+      "valueIncreaseRate": 0.019998536,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 334278
+    },
+    {
+      "time": 998887516650,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 327724
+    }
+  ],
+  "dateSold": null,
+  "annualHomeownersInsurance": 7556,
+  "state": "CA",
+  "listed_by": {
+    "agent_reason": 3,
+    "zpro": false,
+    "recent_sales": 0,
+    "zuid": "X1-ZU10fsj1mlmh05l_8clor",
+    "review_count": 43,
+    "display_name": "Sylvia Lange",
+    "profile_url": "https://www.zillow.com/profile/SylviaLange/",
+    "business_name": "Coldwell Banker West",
+    "rating_average": 5,
+    "phone": {
+      "prefix": "226",
+      "areacode": "619",
+      "number": "6622"
+    },
+    "badge_type": "Listing Agent",
+    "image_url": "https://photos.zillowstatic.com/fp/d209cebadffb39738484c077833d2842-h_n.jpg"
+  },
+  "yearBuilt": 1949,
+  "brokerageName": "Coldwell Banker West",
+  "description": "WOW! Perched high on the hillside in Point Loma Heights between the Ocean Beach village and Point Loma itself, this tastefully remodeled 3-bedroom, 2-bath single-level home showcases sweeping VIEWS of the downtown skyline and the surrounding hills. Bathed in natural light, the open-concept floor plan is enhanced by oak flooring, dual-paned windows, and central A/C! The heart of the home is the thoughtfully designed kitchen, complete with a viewpoint when working at the sink, and a cleverly concealed full-size washer and dryer tucked behind matching cabinetry. A bright dining area invites you in, while the spacious primary suite offers its own stunning views and a brick fireplace for cozy evenings. A stunning bonus room offers a lovely retreat with its floor-to-ceiling windows that frame the breathtaking panorama beyond. Outdoor living is equally impressive with its huge multi-use backyard w/ a beautiful xeriscape section with firepit, and another section that feels like a private orchard, boasting avocado, lemon, orange, mango trees, and rosemary & olive bushes, and lawn beyond. The bonus backyard studio/shed for yoga, work, or hobbies will delight you, and the whimsical chicken coop with its automatic door will warm your heart. You'll love the attached one-car garage for convenience, and an additional workshop that lies beneath the home. Just blocks from beloved neighborhood favorites such as Cesarina, Cotija’s, The Venetian, and Elvira’s, and with quick access to freeways, downtown, and the airport, this home offers the perfect blend of serenity, style, and convenience. **NOTE: Tax Assessor's Record shows 1,268 square feet, but with the Bonus Room (200sf; permits unknown), living space is 1,468sf.",
+  "climate": {
+    "windSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "probability": {},
+        "source": {
+          "url": "https://firststreet.org/property/1919-venice-st-san-diego-ca-92107/603570522_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 18
+      }
+    },
+    "floodSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "femaZone": "X_UNSHADED",
+        "source": {
+          "url": "https://firststreet.org/property/1919-venice-st-san-diego-ca-92107/603570522_fsid"
+        },
+        "probability": [
+          {
+            "relativeYear": 0,
+            "probability": 0
+          },
+          {
+            "relativeYear": 5,
+            "probability": 0
+          },
+          {
+            "relativeYear": 10,
+            "probability": 0
+          },
+          {
+            "relativeYear": 15,
+            "probability": 0
+          },
+          {
+            "relativeYear": 20,
+            "probability": 0
+          },
+          {
+            "relativeYear": 25,
+            "probability": 0
+          },
+          {
+            "relativeYear": 30,
+            "probability": 0
+          }
+        ],
+        "insuranceSeparatePolicy": "NOT_REQUIRED",
+        "historicCountPropertyAll": 0
+      }
+    },
+    "fireSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "probability": {},
+        "source": {
+          "url": "https://firststreet.org/property/1919-venice-st-san-diego-ca-92107/603570522_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 17
+      }
+    },
+    "heatSources": {
+      "primary": {
+        "percentile98Temp": 84,
+        "hotDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 7
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 9
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 11
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 14
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 16
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 18
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 20
+          }
+        ],
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 3
+        },
+        "source": {
+          "url": "https://firststreet.org/property/1919-venice-st-san-diego-ca-92107/603570522_fsid"
+        }
+      }
+    },
+    "airSources": {
+      "primary": {
+        "source": {
+          "url": "https://firststreet.org/property/1919-venice-st-san-diego-ca-92107/603570522_fsid"
+        },
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 4
+        },
+        "badAirDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 4
+          }
+        ]
+      }
+    }
+  },
+  "latitude": 32.739853,
+  "nearbyHomes": [
+    {
+      "bathrooms": 1,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "1925 Venice St"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/1925-Venice-St-San-Diego-CA-92107/16963770_zpid/",
+      "lotAreaValue": 7000,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "1925 Venice St",
+        "zipcode": "92107"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.739956,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1301700,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 7000,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/b9ae8cea384a185f906a1504d17d9170-p_c.jpg"
+        }
+      ],
+      "zpid": 16963770,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 924,
+      "longitude": -117.23838,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 924
+    },
+    {
+      "bathrooms": 3,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "1915 Venice St"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/1915-Venice-St-San-Diego-CA-92107/16963768_zpid/",
+      "lotAreaValue": 7000,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "1915 Venice St",
+        "zipcode": "92107"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.739685,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 2388000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 7000,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=1915+Venice+St%2C+San+Diego%2C+CA+92107&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=_Hsz-yD0NYLkbmq57gTEJ3IuPHQ="
+        }
+      ],
+      "zpid": 16963768,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 3283,
+      "longitude": -117.23844,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 3283
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "1931 Venice St"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/1931-Venice-St-San-Diego-CA-92107/16963771_zpid/",
+      "lotAreaValue": 7000,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "1931 Venice St",
+        "zipcode": "92107"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.74009,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1847400,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 7000,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=1931+Venice+St%2C+San+Diego%2C+CA+92107&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=oJs2lI_G3JBlvnL8oxC0TOBbh6U="
+        }
+      ],
+      "zpid": 16963771,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 2323,
+      "longitude": -117.23834,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 2323
+    },
+    {
+      "bathrooms": 3,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "1909 Venice St"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/1909-Venice-St-San-Diego-CA-92107/16963767_zpid/",
+      "lotAreaValue": 7000,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "1909 Venice St",
+        "zipcode": "92107"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.73955,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 2322000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 7000,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=1909+Venice+St%2C+San+Diego%2C+CA+92107&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=xgZVt5YyZ72po2mE0MJUoTXcYzQ="
+        }
+      ],
+      "zpid": 16963767,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 2365,
+      "longitude": -117.23848,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 2365
+    },
+    {
+      "bathrooms": 3.5,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "4306 Newport Ave"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/4306-Newport-Ave-San-Diego-CA-92107/16963740_zpid/",
+      "lotAreaValue": 9700,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "4306 Newport Ave",
+        "zipcode": "92107"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.73977,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 2391300,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 9700,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=4306+Newport+Ave%2C+San+Diego%2C+CA+92107&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Hd3Aeo41BQChU8VI-D6M5BzzVgg="
+        }
+      ],
+      "zpid": 16963740,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 3320,
+      "longitude": -117.239,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 3320
+    },
+    {
+      "bathrooms": 3,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "1937 Venice St"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/1937-Venice-St-San-Diego-CA-92107/16963772_zpid/",
+      "lotAreaValue": 7000,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "1937 Venice St",
+        "zipcode": "92107"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.740227,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1759100,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 7000,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=1937+Venice+St%2C+San+Diego%2C+CA+92107&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Ngy-z30fnE6rxsNLHdJgBo1ddYU="
+        }
+      ],
+      "zpid": 16963772,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1709,
+      "longitude": -117.23831,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1709
+    },
+    {
+      "bathrooms": 1,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "1903 Venice St"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/1903-Venice-St-San-Diego-CA-92107/16963765_zpid/",
+      "lotAreaValue": 5500,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "1903 Venice St",
+        "zipcode": "92107"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.739426,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1353800,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 5500,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=1903+Venice+St%2C+San+Diego%2C+CA+92107&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=iNLBkhTIAXkq0nev6QlUqfdtzhk="
+        }
+      ],
+      "zpid": 16963765,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1262,
+      "longitude": -117.23859,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1262
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "4301 Santa Monica Ave"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/4301-Santa-Monica-Ave-San-Diego-CA-92107/16963741_zpid/",
+      "lotAreaValue": 6600,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "4301 Santa Monica Ave",
+        "zipcode": "92107"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.740215,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1737100,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Apartment",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 6600,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/f149e931b8256badb7d269fb5f9b2980-p_c.jpg"
+        }
+      ],
+      "zpid": 16963741,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1636,
+      "longitude": -117.23886,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "APARTMENT",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1636
+    }
+  ],
+  "priceHistory": [
+    {
+      "priceChangeRate": 0.799,
+      "date": "2025-08-26",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1756166400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "250037224"
+      },
+      "pricePerSquareFoot": 1225,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 1799000
+    },
+    {
+      "priceChangeRate": 0.052631578947368,
+      "date": "2021-01-06",
+      "source": "CRMLS",
+      "postingIsRental": false,
+      "time": 1609891200000,
+      "sellerAgent": {
+        "name": "Doug Rains",
+        "photo": null,
+        "profileUrl": "/profile/Doug-Rains/"
+      },
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "CRMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/1a692386d3d47d3e5db959d0fe1c228c-zillow_web_logo_inf_11.jpg",
+        "infoString1": "PTP2001277"
+      },
+      "pricePerSquareFoot": 681,
+      "buyerAgent": {
+        "name": "Sustainable Realty Group - KW La Jolla",
+        "photo": null,
+        "profileUrl": "/profile/erinjames/"
+      },
+      "event": "Sold",
+      "price": 1000000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2020-11-11",
+      "source": "Keller Williams Realty",
+      "postingIsRental": false,
+      "time": 1605052800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Keller Williams Realty",
+        "infoString3": null,
+        "infoString1": "PTP2001277"
+      },
+      "pricePerSquareFoot": 647,
+      "buyerAgent": null,
+      "event": "Pending sale",
+      "price": 950000
+    },
+    {
+      "priceChangeRate": 2.015873015873,
+      "date": "2020-11-06",
+      "source": "Keller Williams Realty",
+      "postingIsRental": false,
+      "time": 1604620800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Keller Williams Realty",
+        "infoString3": null,
+        "infoString1": "PTP2001277"
+      },
+      "pricePerSquareFoot": 647,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 950000
+    },
+    {
+      "priceChangeRate": 0.34042553191489,
+      "date": "1998-10-20",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 908841600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 215,
+      "buyerAgent": null,
+      "event": "Sold",
+      "price": 315000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "1996-06-28",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 835920000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 160,
+      "buyerAgent": null,
+      "event": "Sold",
+      "price": 235000
+    }
+  ],
+  "neighborhoodMapThumb": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/bcd1fdcdc6ad05c06feebfd1ec6ff614-p_c.jpg"
+    }
+  ],
+  "schools": [
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6128-Dana/",
+      "rating": 9,
+      "totalCount": null,
+      "distance": 0.6,
+      "assigned": null,
+      "name": "Dana Middle School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Elementary",
+      "grades": "5-6",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6122-Correia-Middle-School/",
+      "rating": 7,
+      "totalCount": null,
+      "distance": 0.7,
+      "assigned": null,
+      "name": "Correia Middle School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Middle",
+      "grades": "7-8",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6224-Point-Loma-High-School/",
+      "rating": 8,
+      "totalCount": null,
+      "distance": 0.7,
+      "assigned": null,
+      "name": "Point Loma High School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "High",
+      "grades": "9-12",
+      "type": "Public"
+    }
+  ],
+  "rentZestimate": 5729,
+  "city": "San Diego",
+  "providerListingID": null,
+  "currency": "USD",
+  "listingProvider": null,
+  "propertyTaxRate": 1.17,
+  "isShowcaseListing": false,
+  "openHouseSchedule": [
+    {
+      "startTime": "2025-08-30 12:00:00",
+      "endTime": "2025-08-30 15:00:00"
+    },
+    {
+      "startTime": "2025-08-31 12:00:00",
+      "endTime": "2025-08-31 15:00:00"
+    }
+  ],
+  "mortgageRates": null,
+  "address": {
+    "community": null,
+    "city": "San Diego",
+    "state": "CA",
+    "neighborhood": null,
+    "subdivision": "POINT LOMA",
+    "streetAddress": "1919 Venice St",
+    "zipcode": "92107"
+  },
+  "cityId": 54296,
+  "timeOnZillow": "11 hours",
+  "priceChange": null,
+  "zestimate": 1767400,
+  "zpid": 16963769,
+  "countyId": 2841,
+  "homeType": "SINGLE_FAMILY",
+  "livingAreaUnits": "sqft",
+  "pageViewCount": 554,
+  "homeInsights": [
+    {
+      "insights": [
+        {
+          "treatmentId": "model_0",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Brick fireplace",
+            "Whimsical chicken coop",
+            "Bathed in natural light",
+            "Spacious primary suite",
+            "Huge multi-use backyard",
+            "Oak flooring",
+            "Open-concept floor plan"
+          ]
+        },
+        {
+          "treatmentId": "model_1",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Brick fireplace",
+            "Whimsical chicken coop",
+            "Bathed in natural light",
+            "Spacious primary suite",
+            "Huge multi-use backyard",
+            "Oak flooring",
+            "Open-concept floor plan"
+          ]
+        }
+      ]
+    }
+  ],
+  "bathrooms": 2,
+  "neighborhoodRegion": {
+    "name": "Point Loma Heights"
+  },
+  "zipcode": "92107",
+  "building": null,
+  "zestimateLowPercent": "5",
+  "brokerId": null,
+  "stateId": 9,
+  "url": "/homedetails/1919-Venice-St-San-Diego-CA-92107/16963769_zpid/",
+  "solarPotential": null,
+  "attributionInfo": {
+    "buyerAgentName": null,
+    "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_95_35.jpg",
+    "mlsName": "SDMLS",
+    "coAgentLicenseNumber": "DRE #01241609",
+    "listingAgreement": null,
+    "listingOffices": [
+      {
+        "associatedOfficeType": "listOffice",
+        "officeName": "Coldwell Banker West"
+      },
+      {
+        "associatedOfficeType": "coListOffice",
+        "officeName": "Coldwell Banker West"
+      }
+    ],
+    "infoString10": "This information is deemed reliable but not guaranteed. You should rely on this information only to decide whether or not to further investigate a particular property.\nBEFORE MAKING ANY OTHER DECISION, YOU SHOULD PERSONALLY INVESTIGATE THE FACTS (e.g. square footage and lot size) with the assistance of an appropriate professional. You may use this information only to identify properties you may be interested in investigating further. All uses except for personal, noncommercial use in accordance with the foregoing purpose are prohibited. Redistribution or copying of this information, any photographs or video tours is strictly\nprohibited. This information is derived from the Internet Data Exchange (IDX) service provided by San Diego MLS. Displayed property listings may be held by a brokerage firm other than the broker and/or agent responsible for this display. The information and any photographs and video tours and the compilation from which they are derived is protected by copyright. Compilation © 2025 San Diego MLS.",
+    "buyerAgentMemberStateLicense": null,
+    "brokerName": "Coldwell Banker West",
+    "listingAttributionContact": null,
+    "lastUpdated": "2025-08-26 20:46:36",
+    "trueStatus": null,
+    "listingAgentAttributionContact": null,
+    "agentEmail": null,
+    "agentName": "Sylvia L Lange",
+    "attributionTitle": null,
+    "mlsId": "250037224",
+    "coAgentName": "Darren Schneider",
+    "coAgentNumber": "619-987-3113",
+    "infoString5": "619-226-6622",
+    "listingAgents": [
+      {
+        "memberStateLicense": "DRE #02022390",
+        "memberFullName": "Sylvia L Lange",
+        "associatedAgentType": "listAgent"
+      },
+      {
+        "memberStateLicense": "DRE #01241609",
+        "memberFullName": "Darren Schneider",
+        "associatedAgentType": "coListAgent"
+      }
+    ],
+    "agentPhoneNumber": "619-226-6622",
+    "agentLicenseNumber": "DRE #02022390",
+    "providerLogo": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_95_35.jpg",
+    "infoString16": null,
+    "buyerBrokerageName": null,
+    "mlsDisclaimer": "This information is deemed reliable but not guaranteed. You should rely on this information only to decide whether or not to further investigate a particular property.\nBEFORE MAKING ANY OTHER DECISION, YOU SHOULD PERSONALLY INVESTIGATE THE FACTS (e.g. square footage and lot size) with the assistance of an appropriate professional. You may use this information only to identify properties you may be interested in investigating further. All uses except for personal, noncommercial use in accordance with the foregoing purpose are prohibited. Redistribution or copying of this information, any photographs or video tours is strictly\nprohibited. This information is derived from the Internet Data Exchange (IDX) service provided by San Diego MLS. Displayed property listings may be held by a brokerage firm other than the broker and/or agent responsible for this display. The information and any photographs and video tours and the compilation from which they are derived is protected by copyright. Compilation © 2025 San Diego MLS.",
+    "brokerPhoneNumber": "619-222-6800",
+    "lastChecked": "2025-08-26 21:11:24"
+  },
+  "priceChangeDateString": null,
+  "photoCount": 43,
+  "homeStatus": "FOR_SALE",
+  "homeFacts": null,
+  "resoFacts": {
+    "hasAttachedProperty": false,
+    "frontageType": null,
+    "poolFeatures": [
+      "N/K"
+    ],
+    "flooring": null,
+    "foundationDetails": {},
+    "accessibilityFeatures": null,
+    "hasGarage": true,
+    "hasPetsAllowed": null,
+    "bodyType": null,
+    "topography": null,
+    "landLeaseExpirationDate": null,
+    "hasAdditionalParcels": false,
+    "parkName": null,
+    "livingQuarters": {},
+    "taxAssessedValue": 1061207,
+    "atAGlanceFacts": [
+      {
+        "factValue": "Single Family Residence",
+        "factLabel": "Type"
+      },
+      {
+        "factValue": "1949",
+        "factLabel": "Year Built"
+      },
+      {
+        "factValue": "Forced Air Unit",
+        "factLabel": "Heating"
+      },
+      {
+        "factValue": "Central Forced Air",
+        "factLabel": "Cooling"
+      },
+      {
+        "factValue": "1 Garage space",
+        "factLabel": "Parking"
+      },
+      {
+        "factValue": null,
+        "factLabel": "Lot"
+      },
+      {
+        "factValue": "0",
+        "factLabel": "Days on Zillow"
+      },
+      {
+        "factValue": "$1,225",
+        "factLabel": "Price/sqft"
+      },
+      {
+        "factValue": null,
+        "factLabel": "Offer Review Date"
+      }
+    ],
+    "offerReviewDate": null,
+    "horseYN": null,
+    "view": {},
+    "rooms": {},
+    "belowGradeFinishedArea": null,
+    "feesAndDues": [
+      {
+        "phone": null,
+        "name": null,
+        "fee": null,
+        "type": "HOA"
+      }
+    ],
+    "cityRegion": "San Diego",
+    "mainLevelBathrooms": null,
+    "hasPrivatePool": null,
+    "landLeaseAmount": null,
+    "waterSource": [
+      "Meter on Property"
+    ],
+    "exteriorFeatures": {},
+    "inclusions": null,
+    "hasFireplace": null,
+    "gas": null,
+    "propertyCondition": null,
+    "elevationUnits": null,
+    "exclusions": null,
+    "mainLevelBedrooms": null,
+    "numberOfUnitsVacant": null,
+    "hasWaterfrontView": null,
+    "bathroomsOneQuarter": null,
+    "lotSize": null,
+    "entryLevel": null,
+    "media": {},
+    "greenWaterConservation": null,
+    "stories": null,
+    "livingArea": "1,468 sqft",
+    "commonWalls": null,
+    "listingTerms": "Cash,Conventional",
+    "otherParking": null,
+    "associationFee": null,
+    "marketingType": null,
+    "greenIndoorAirQuality": null,
+    "greenSustainability": null,
+    "livingAreaRangeUnits": null,
+    "associationPhone": null,
+    "greenBuildingVerificationType": null,
+    "hasAttachedGarage": null,
+    "bedrooms": 3,
+    "architecturalStyle": null,
+    "listingId": null,
+    "structureType": null,
+    "interiorFeatures": null,
+    "horseAmenities": null,
+    "garageParkingCapacity": 1,
+    "developmentStatus": null,
+    "lotFeatures": null,
+    "roofType": "Composition,Rolled/Hot Mop",
+    "compensationBasedOn": null,
+    "greenEnergyGeneration": null,
+    "daysOnZillow": 0,
+    "listAOR": "San Diego Association of REALTOR",
+    "buildingAreaSource": null,
+    "elementarySchool": null,
+    "zoningDescription": null,
+    "irrigationWaterRightsAcres": null,
+    "yearBuiltEffective": null,
+    "greenEnergyEfficient": null,
+    "constructionMaterials": [
+      "Stucco",
+      "Wood"
+    ],
+    "fireplaceFeatures": [
+      "FP in Primary BR"
+    ],
+    "hoaFeeTotal": null,
+    "appliances": [
+      "Dishwasher",
+      "Disposal",
+      "Dryer",
+      "Refrigerator",
+      "Shed(s)",
+      "Washer",
+      "Gas &amp; Electric Range"
+    ],
+    "sewer": [
+      "Sewer Connected"
+    ],
+    "bathroomsPartial": null,
+    "fencing": "Blockwall,Wood",
+    "spaFeatures": null,
+    "waterViewYN": null,
+    "buildingName": null,
+    "attic": null,
+    "petsMaxWeight": null,
+    "cumulativeDaysOnMarket": null,
+    "waterfrontFeatures": null,
+    "additionalParcelsDescription": null,
+    "canRaiseHorses": false,
+    "hasLandLease": false,
+    "communityFeatures": null,
+    "waterBodyName": null,
+    "middleOrJuniorSchool": null,
+    "lotSizeDimensions": null,
+    "virtualTour": null,
+    "contingency": null,
+    "yearBuilt": 1949,
+    "utilities": null,
+    "totalActualRent": null,
+    "bathroomsFull": 2,
+    "parcelNumber": "4490530500",
+    "incomeIncludes": null,
+    "highSchool": null,
+    "taxAnnualAmount": 12981,
+    "subdivisionName": "POINT LOMA",
+    "storiesTotal": 1,
+    "storiesDecimal": null,
+    "specialListingConditions": null,
+    "windowFeatures": null,
+    "ownership": null,
+    "woodedArea": null,
+    "middleOrJuniorSchoolDistrict": "San Diego Unified School Distric",
+    "associationPhone2": null,
+    "onMarketDate": 1756227415000,
+    "roomTypes": null,
+    "frontageLength": null,
+    "roadSurfaceType": null,
+    "associationAmenities": null,
+    "propertySubType": [
+      "Single Family Residence"
+    ],
+    "hasCooling": true,
+    "levels": "1 Story",
+    "coveredParkingCapacity": 1,
+    "foundationArea": null,
+    "zoning": null,
+    "hoaFee": null,
+    "livingAreaRange": null,
+    "parkingFeatures": [
+      "Attached"
+    ],
+    "parkingCapacity": 2,
+    "cropsIncludedYN": null,
+    "tenantPays": null,
+    "builderModel": null,
+    "otherStructures": null,
+    "otherFacts": {},
+    "additionalFeeInfo": null,
+    "hasView": false,
+    "openParkingCapacity": null,
+    "securityFeatures": null,
+    "numberOfUnitsInCommunity": null,
+    "hasHomeWarranty": false,
+    "basementYN": null,
+    "doorFeatures": null,
+    "ownershipType": null,
+    "aboveGradeFinishedArea": null,
+    "associations": {},
+    "waterView": null,
+    "electric": null,
+    "buildingFeatures": null,
+    "hasOpenParking": null,
+    "hasCarport": null,
+    "bathroomsHalf": 0,
+    "homeType": "SingleFamily",
+    "isSeniorCommunity": null,
+    "municipality": null,
+    "bathroomsThreeQuarter": null,
+    "hasSpa": false,
+    "basement": null,
+    "associationFee2": null,
+    "cooling": [
+      "Central Forced Air"
+    ],
+    "hasHeating": true,
+    "associationName2": null,
+    "hasRentControl": null,
+    "elementarySchoolDistrict": "San Diego Unified School Distric",
+    "otherEquipment": null,
+    "bathrooms": 2,
+    "buildingArea": "1,468",
+    "furnished": false,
+    "vegetation": null,
+    "patioAndPorchFeatures": null,
+    "bathroomsFloat": 2,
+    "builderName": null,
+    "highSchoolDistrict": "San Diego Unified School Distric",
+    "hasElectricOnProperty": null,
+    "laundryFeatures": [
+      "Electric",
+      "Gas"
+    ],
+    "entryLocation": null,
+    "fireplaces": 1,
+    "heating": [
+      "Forced Air Unit"
+    ],
+    "availabilityDate": null,
+    "carportParkingCapacity": null,
+    "hasAssociation": null,
+    "irrigationWaterRightsYN": null,
+    "isNewConstruction": null,
+    "associationFeeIncludes": null,
+    "leaseTerm": null,
+    "pricePerSquareFoot": 1225,
+    "associationName": null,
+    "elevation": null
+  },
+  "datePosted": "2025-08-26",
+  "bedrooms": 3,
+  "propertyTypeDimension": "Single Family",
+  "mortgageZHLRates": {
+    "thirtyYearFixedBucket": {
+      "rate": 6.402,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756268923089
+    },
+    "fifteenYearFixedBucket": {
+      "rate": 6.303,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756268923089
+    },
+    "arm5Bucket": {
+      "rate": 6.423,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756268923089
+    }
+  },
+  "comingSoonOnMarketDate": null,
+  "favoriteCount": 63,
+  "livingArea": 1468,
+  "zestimateHighPercent": "5",
+  "mlsid": "250037224",
+  "isListedByOwner": null,
+  "listingSubType": {
+    "is_comingSoon": false,
+    "is_pending": false,
+    "is_forAuction": false,
+    "is_bankOwned": false,
+    "is_FSBA": true,
+    "is_FSBO": false,
+    "is_newHome": false,
+    "is_foreclosure": false
+  },
+  "buildingId": null,
+  "country": "USA",
+  "price": 1799000,
+  "priceChangeDate": null,
+  "contingentListingType": null
+}

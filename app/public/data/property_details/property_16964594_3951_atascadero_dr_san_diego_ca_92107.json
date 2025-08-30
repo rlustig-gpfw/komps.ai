@@ -1,0 +1,1921 @@
+{
+  "buildingPermits": null,
+  "contact_recipients": [
+    {
+      "agent_reason": 1,
+      "zpro": null,
+      "recent_sales": 0,
+      "review_count": 0,
+      "display_name": "Premier Broker Flex Atlanta GA",
+      "badge_type": "Premier Agent",
+      "business_name": "Zillow Group",
+      "rating_average": 0,
+      "phone": {
+        "prefix": "452",
+        "areacode": "206",
+        "number": "1030"
+      },
+      "zuid": "X1-ZUv2ktj4jt3nyh_98wrm",
+      "image_url": "https://www.zillowstatic.com/static/images/nophoto_h_g.png"
+    }
+  ],
+  "longitude": -117.23453,
+  "countyFIPS": "06073",
+  "imgSrc": "https://photos.zillowstatic.com/fp/8ca72de4ca6515a9dd7722f7b775c329-p_d.jpg",
+  "livingAreaValue": 2797,
+  "streetAddress": "3951 Atascadero Dr",
+  "county": "San Diego County",
+  "monthlyHoaFee": null,
+  "timeZone": "America/Los_Angeles",
+  "taxHistory": [
+    {
+      "time": 1724733894420,
+      "valueIncreaseRate": 0.01999869,
+      "taxIncreaseRate": 0.02272001,
+      "taxPaid": 10090.36,
+      "value": 825794
+    },
+    {
+      "time": 1693111494420,
+      "valueIncreaseRate": 0.01999927,
+      "taxIncreaseRate": 0.02748304,
+      "taxPaid": 9866.2,
+      "value": 809603
+    },
+    {
+      "time": 1661575494420,
+      "valueIncreaseRate": 0.019999588,
+      "taxIncreaseRate": 0.0070497287,
+      "taxPaid": 9602.3,
+      "value": 793729
+    },
+    {
+      "time": 1630039494420,
+      "valueIncreaseRate": 0.010359822,
+      "taxIncreaseRate": 0.0123584615,
+      "taxPaid": 9535.08,
+      "value": 778166
+    },
+    {
+      "time": 1598503494420,
+      "valueIncreaseRate": 0.019999046,
+      "taxIncreaseRate": 0.02195447,
+      "taxPaid": 9418.68,
+      "value": 770187
+    },
+    {
+      "time": 1566881094420,
+      "valueIncreaseRate": 0.019997785,
+      "taxIncreaseRate": 0.06601258,
+      "taxPaid": 9216.34,
+      "value": 755086
+    },
+    {
+      "time": 1535345094420,
+      "valueIncreaseRate": 0.019998126,
+      "taxIncreaseRate": 0.024513122,
+      "taxPaid": 8645.62,
+      "value": 740282
+    },
+    {
+      "time": 1503809094420,
+      "valueIncreaseRate": 0.019998932,
+      "taxIncreaseRate": 0.016348297,
+      "taxPaid": 8438.76,
+      "value": 725768
+    },
+    {
+      "time": 1472273094420,
+      "valueIncreaseRate": 0.015248605,
+      "taxIncreaseRate": 0.015113533,
+      "taxPaid": 8303.02,
+      "value": 711538
+    },
+    {
+      "time": 1440650694420,
+      "valueIncreaseRate": 0.019978955,
+      "taxIncreaseRate": 0.016193176,
+      "taxPaid": 8179.4,
+      "value": 700851
+    },
+    {
+      "time": 1409114694420,
+      "valueIncreaseRate": 0.0045378855,
+      "taxIncreaseRate": 0,
+      "taxPaid": 8049.06,
+      "value": 687123
+    },
+    {
+      "time": 1377578694420,
+      "valueIncreaseRate": 0.019998271,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 684019
+    },
+    {
+      "time": 1346042694420,
+      "valueIncreaseRate": 0.019998174,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 670608
+    },
+    {
+      "time": 1314420294420,
+      "valueIncreaseRate": 0.00752896,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 657460
+    },
+    {
+      "time": 1282884294420,
+      "valueIncreaseRate": -0.0023712043,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 652547
+    },
+    {
+      "time": 1251348294420,
+      "valueIncreaseRate": 0.019999282,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 654098
+    },
+    {
+      "time": 1219812294420,
+      "valueIncreaseRate": 0.019998409,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 641273
+    },
+    {
+      "time": 1188189894420,
+      "valueIncreaseRate": 0.019999254,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 628700
+    },
+    {
+      "time": 1156653894420,
+      "valueIncreaseRate": 0.019998742,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 616373
+    },
+    {
+      "time": 1125117894420,
+      "valueIncreaseRate": 0.01999865,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 604288
+    },
+    {
+      "time": 1093581894420,
+      "valueIncreaseRate": 0.018668015,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 592440
+    },
+    {
+      "time": 1061959494420,
+      "valueIncreaseRate": 0.019998947,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 581583
+    },
+    {
+      "time": 1030423494420,
+      "valueIncreaseRate": 0.44448835,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 570180
+    },
+    {
+      "time": 998887494420,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 394728
+    }
+  ],
+  "dateSold": null,
+  "annualHomeownersInsurance": 11760,
+  "state": "CA",
+  "listed_by": {
+    "agent_reason": 3,
+    "zpro": false,
+    "recent_sales": 0,
+    "zuid": "X1-ZU12rh08br8s3k9_aroy1",
+    "review_count": 0,
+    "display_name": "Mitch Smith",
+    "profile_url": "https://www.zillow.com/profile/mitch3858/",
+    "business_name": "eXp Realty of Southern CA",
+    "rating_average": 0,
+    "phone": {
+      "prefix": "361",
+      "areacode": "858",
+      "number": "0585"
+    },
+    "badge_type": "Listing Agent",
+    "image_url": "https://photos.zillowstatic.com/fp/b10641331ecf79ae650f3a83976f5723-h_n.jpg"
+  },
+  "yearBuilt": 1927,
+  "brokerageName": "eXp Realty of Southern CA",
+  "description": "Welcome to 3951 Atascadero Drive, a beautifully reimagined Tudor residence in Point Loma offering 2,794 sq. ft. of timeless charm and modern comfort. Distinguished by its striking roof lines, this two-story home has been fully redone from top to bottom with thoughtful upgrades including all-new windows, HVAC, roof, engineered hardwood flooring, upgraded electrical, and upgraded plumbing. The inviting floor plan features four spacious bedrooms and three full bathrooms, including a downstairs primary suite with an oversized double shower that feels like a private retreat. The heart of the home is the entertainer’s kitchen, highlighted by warm wood ceilings, sleek finishes, and a seamless flow into the dining and living spaces. Natural light fills the home, creating an airy, open feel that enhances both everyday living and special gatherings. A charming oversized laundry room adds convenience while reflecting the home’s attention to detail. Upstairs, two additional bedrooms and a versatile loft/game room provide flexible living options for family, guests, or a home office. The upstairs deck is the perfect spot to unwind, offering refreshing coastal breezes and views toward the surrounding neighborhood and SeaWorld in the distance — where summer evenings are illuminated by seasonal fireworks. Equally impressive outdoors, the home features a stone façade and an entertainer’s backyard designed for gatherings. A large pergola with built-in bench seating and an outdoor fireplace creates the perfect setting for evenings with friends and family under the San Diego sky. Located in one of Point Loma’s most walkable and sought-after communities, this home combines historic charm with modern design. Stroll to neighborhood cafés, enjoy dining and entertainment at Liberty Station, or take in breathtaking sunsets at nearby Sunset Cliffs. Local beaches, downtown San Diego, and the airport are just minutes away, making this an ideal location for convenience and lifestyle. Families will also appreciate access to highly rated schools including Silver Gate Elementary, Dana Middle, and Point Loma High. From rich neighborhood history to upgraded interiors, a stunning backyard, and coastal living, 3951 Atascadero offers a rare blend of elegance, comfort, and location that truly has it all.",
+  "climate": {
+    "windSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "probability": {},
+        "source": {
+          "url": "https://firststreet.org/property/3951-atascadero-dr-san-diego-ca-92107/603571369_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 18
+      }
+    },
+    "floodSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "femaZone": "X_UNSHADED",
+        "source": {
+          "url": "https://firststreet.org/property/3951-atascadero-dr-san-diego-ca-92107/603571369_fsid"
+        },
+        "probability": [
+          {
+            "relativeYear": 0,
+            "probability": 0
+          },
+          {
+            "relativeYear": 5,
+            "probability": 0
+          },
+          {
+            "relativeYear": 10,
+            "probability": 0
+          },
+          {
+            "relativeYear": 15,
+            "probability": 0
+          },
+          {
+            "relativeYear": 20,
+            "probability": 0
+          },
+          {
+            "relativeYear": 25,
+            "probability": 0
+          },
+          {
+            "relativeYear": 30,
+            "probability": 0
+          }
+        ],
+        "insuranceSeparatePolicy": "NOT_REQUIRED",
+        "historicCountPropertyAll": 0
+      }
+    },
+    "fireSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "probability": {},
+        "source": {
+          "url": "https://firststreet.org/property/3951-atascadero-dr-san-diego-ca-92107/603571369_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 17
+      }
+    },
+    "heatSources": {
+      "primary": {
+        "percentile98Temp": 84,
+        "hotDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 7
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 9
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 11
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 14
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 16
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 18
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 20
+          }
+        ],
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 3
+        },
+        "source": {
+          "url": "https://firststreet.org/property/3951-atascadero-dr-san-diego-ca-92107/603571369_fsid"
+        }
+      }
+    },
+    "airSources": {
+      "primary": {
+        "source": {
+          "url": "https://firststreet.org/property/3951-atascadero-dr-san-diego-ca-92107/603571369_fsid"
+        },
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 4
+        },
+        "badAirDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 4
+          }
+        ]
+      }
+    }
+  },
+  "latitude": 32.73858,
+  "nearbyHomes": [
+    {
+      "bathrooms": 3,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "3955 Atascadero Dr"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/3955-Atascadero-Dr-San-Diego-CA-92107/16964595_zpid/",
+      "lotAreaValue": 6499,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "3955 Atascadero Dr",
+        "zipcode": "92107"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.73869,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1659600,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 6499,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/06c45701dce7e9b8220eaebdd0cc3a25-p_c.jpg"
+        }
+      ],
+      "zpid": 16964595,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1805,
+      "longitude": -117.23465,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1805
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "sqft",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "3943 Atascadero Dr"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/3943-Atascadero-Dr-San-Diego-CA-92107/16964593_zpid/",
+      "lotAreaValue": null,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "3943 Atascadero Dr",
+        "zipcode": "92107"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "240016338",
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.73859,
+      "homeStatus": "RECENTLY_SOLD",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1795000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/dd3d788f82f2aea12bd298b3f6592c40-p_c.jpg"
+        }
+      ],
+      "zpid": 16964593,
+      "hdpTypeDimension": "RecentlySold",
+      "livingArea": 1622,
+      "longitude": -117.23425,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1622
+    },
+    {
+      "hdpTypeDimension": "Zestimate",
+      "lotAreaUnits": "Square Feet",
+      "isShowcaseListing": false,
+      "longitude": -117.23478,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "3959 Atascadero Dr",
+        "zipcode": "92107"
+      },
+      "livingAreaValue": 1400,
+      "lotSize": 6500,
+      "zpid": 16964596,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 1,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "3959 Atascadero Dr"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "hdpUrl": "/homedetails/3959-Atascadero-Dr-San-Diego-CA-92107/16964596_zpid/",
+      "lotAreaValue": 6500,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "OTHER",
+      "latitude": 32.73877,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Single Family",
+      "newConstructionType": null,
+      "yearBuilt": 1953,
+      "listingTypeDimension": "Unknown Listed By",
+      "livingArea": 1400,
+      "providerListingID": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=3959+Atascadero+Dr%2C+San+Diego%2C+CA+92107&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=9AaTFDe2JF0EcrlaHVxXw1CzrLI="
+        }
+      ],
+      "currency": "USD",
+      "price": 1382100,
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    },
+    {
+      "bathrooms": 2.5,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "3918 La Cresta Dr"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/3918-La-Cresta-Dr-San-Diego-CA-92107/16964599_zpid/",
+      "lotAreaValue": 8000,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "3918 La Cresta Dr",
+        "zipcode": "92107"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.73828,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1555800,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 8000,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=3918+La+Cresta+Dr%2C+San+Diego%2C+CA+92107&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=A0F9OtiXcWDl71aMIbJF7DrbQl8="
+        }
+      ],
+      "zpid": 16964599,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1922,
+      "longitude": -117.234695,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1922
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "4004 Bernice Dr"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/4004-Bernice-Dr-San-Diego-CA-92107/16964598_zpid/",
+      "lotAreaValue": 6900,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "4004 Bernice Dr",
+        "zipcode": "92107"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.738342,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1353400,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 6900,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=4004+Bernice+Dr%2C+San+Diego%2C+CA+92107&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=nsbe_mZK0_zHDemCxZPxWPKO0Rc="
+        }
+      ],
+      "zpid": 16964598,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1468,
+      "longitude": -117.2349,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1468
+    },
+    {
+      "bathrooms": 4,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "3908 La Cresta Dr"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/3908-La-Cresta-Dr-San-Diego-CA-92107/16964600_zpid/",
+      "lotAreaValue": 6899,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "3908 La Cresta Dr",
+        "zipcode": "92107"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.738186,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1995600,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 6899,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/5defd6ee89e2aacf65f9b985cc2c6cb2-p_c.jpg"
+        }
+      ],
+      "zpid": 16964600,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 2218,
+      "longitude": -117.234474,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 2218
+    },
+    {
+      "bathrooms": 3,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "3960 Bernice Dr"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/3960-Bernice-Dr-San-Diego-CA-92107/16964601_zpid/",
+      "lotAreaValue": 7000,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "3960 Bernice Dr",
+        "zipcode": "92107"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.738213,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1657100,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 7000,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=3960+Bernice+Dr%2C+San+Diego%2C+CA+92107&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=nsF0Q-t-8HfMIMecQGbuJa-u0p4="
+        }
+      ],
+      "zpid": 16964601,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 2053,
+      "longitude": -117.2343,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 2053
+    },
+    {
+      "bathrooms": 1,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "3935 Atascadero Dr"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/3935-Atascadero-Dr-San-Diego-CA-92107/16964592_zpid/",
+      "lotAreaValue": 6300,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "3935 Atascadero Dr",
+        "zipcode": "92107"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.73861,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1126400,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 6300,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=3935+Atascadero+Dr%2C+San+Diego%2C+CA+92107&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=P0w_nUjtqjVmhnvhuvZGKKxVCCc="
+        }
+      ],
+      "zpid": 16964592,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 972,
+      "longitude": -117.234024,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 972
+    }
+  ],
+  "priceHistory": [
+    {
+      "priceChangeRate": 0.64705705882353,
+      "date": "2025-08-21",
+      "source": "CRMLS",
+      "postingIsRental": false,
+      "time": 1755734400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "CRMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/cb8caaa629c0af2058e60add67b2f2ee-zillow_web_logo_inf_11.jpg",
+        "infoString1": "NDP2508165"
+      },
+      "pricePerSquareFoot": 1001,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 2799997
+    },
+    {
+      "priceChangeRate": -0.13924050632911,
+      "date": "2024-12-09",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 1733702400000,
+      "sellerAgent": {
+        "name": "Dominic Jabro",
+        "photo": null,
+        "profileUrl": "/profile/Dominic-Jabro/"
+      },
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 608,
+      "buyerAgent": {
+        "name": "Dominic Jabro",
+        "photo": null,
+        "profileUrl": "/profile/Dominic-Jabro/"
+      },
+      "event": "Sold",
+      "price": 1700000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2024-08-26",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1724630400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "240013884"
+      },
+      "pricePerSquareFoot": 706,
+      "buyerAgent": null,
+      "event": "Listing removed",
+      "price": 1975000
+    },
+    {
+      "priceChangeRate": -0.05727923627685,
+      "date": "2024-06-18",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1718668800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "240013884"
+      },
+      "pricePerSquareFoot": 706,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 1975000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2024-05-01",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1714521600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "240005416"
+      },
+      "pricePerSquareFoot": null,
+      "buyerAgent": null,
+      "event": "Listing removed",
+      "price": null
+    },
+    {
+      "priceChangeRate": 0.050125313283208,
+      "date": "2024-03-13",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1710288000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "240005416"
+      },
+      "pricePerSquareFoot": 749,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 2095000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2024-02-27",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1708992000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "240000304"
+      },
+      "pricePerSquareFoot": null,
+      "buyerAgent": null,
+      "event": "Listing removed",
+      "price": null
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2024-02-09",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1707436800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "240000304"
+      },
+      "pricePerSquareFoot": 713,
+      "buyerAgent": null,
+      "event": "Pending sale",
+      "price": 1995000
+    },
+    {
+      "priceChangeRate": -0.072093023255814,
+      "date": "2024-01-04",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1704326400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "240000304"
+      },
+      "pricePerSquareFoot": 713,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 1995000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2024-01-01",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1704067200000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "230022313"
+      },
+      "pricePerSquareFoot": null,
+      "buyerAgent": null,
+      "event": "Listing removed",
+      "price": null
+    },
+    {
+      "priceChangeRate": 1.5323910482921,
+      "date": "2023-11-13",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1699833600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "230022313"
+      },
+      "pricePerSquareFoot": 769,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 2150000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2021-03-24",
+      "source": "Owner",
+      "postingIsRental": false,
+      "time": 1616544000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Owner",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": null,
+      "buyerAgent": null,
+      "event": "Listing removed",
+      "price": null
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2013-01-08",
+      "source": "Owner",
+      "postingIsRental": false,
+      "time": 1357603200000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Owner",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 304,
+      "buyerAgent": null,
+      "event": "Listing removed",
+      "price": 849000
+    },
+    {
+      "priceChangeRate": 0.51607142857143,
+      "date": "2012-07-12",
+      "source": "Owner",
+      "postingIsRental": false,
+      "time": 1342051200000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Owner",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 304,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 849000
+    },
+    {
+      "priceChangeRate": 0.50335570469799,
+      "date": "2001-04-04",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 986342400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 200,
+      "buyerAgent": null,
+      "event": "Sold",
+      "price": 560000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "1997-09-12",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 874022400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 133,
+      "buyerAgent": null,
+      "event": "Sold",
+      "price": 372500
+    }
+  ],
+  "neighborhoodMapThumb": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/8ca72de4ca6515a9dd7722f7b775c329-p_c.jpg"
+    }
+  ],
+  "schools": [
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6128-Dana/",
+      "rating": 9,
+      "totalCount": null,
+      "distance": 0.4,
+      "assigned": null,
+      "name": "Dana Middle School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Elementary",
+      "grades": "5-6",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6122-Correia-Middle-School/",
+      "rating": 7,
+      "totalCount": null,
+      "distance": 0.7,
+      "assigned": null,
+      "name": "Correia Middle School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Middle",
+      "grades": "7-8",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6224-Point-Loma-High-School/",
+      "rating": 8,
+      "totalCount": null,
+      "distance": 0.5,
+      "assigned": null,
+      "name": "Point Loma High School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "High",
+      "grades": "9-12",
+      "type": "Public"
+    }
+  ],
+  "rentZestimate": null,
+  "city": "San Diego",
+  "providerListingID": null,
+  "currency": "USD",
+  "listingProvider": null,
+  "propertyTaxRate": 1.17,
+  "isShowcaseListing": false,
+  "openHouseSchedule": {},
+  "mortgageRates": null,
+  "address": {
+    "community": null,
+    "city": "San Diego",
+    "state": "CA",
+    "neighborhood": null,
+    "subdivision": null,
+    "streetAddress": "3951 Atascadero Dr",
+    "zipcode": "92107"
+  },
+  "cityId": 54296,
+  "timeOnZillow": "7 days",
+  "priceChange": null,
+  "zestimate": null,
+  "zpid": 16964594,
+  "countyId": 2841,
+  "homeType": "SINGLE_FAMILY",
+  "livingAreaUnits": "sqft",
+  "pageViewCount": 1973,
+  "homeInsights": {},
+  "bathrooms": 3,
+  "neighborhoodRegion": {
+    "name": "Point Loma Heights"
+  },
+  "zipcode": "92107",
+  "building": null,
+  "zestimateLowPercent": null,
+  "brokerId": null,
+  "stateId": 9,
+  "url": "/homedetails/3951-Atascadero-Dr-San-Diego-CA-92107/16964594_zpid/",
+  "solarPotential": null,
+  "attributionInfo": {
+    "buyerAgentName": null,
+    "infoString3": "https://photos.zillowstatic.com/fp/cb8caaa629c0af2058e60add67b2f2ee-zillow_web_95_35.jpg",
+    "mlsName": "CRMLS",
+    "coAgentLicenseNumber": null,
+    "listingAgreement": null,
+    "listingOffices": [
+      {
+        "associatedOfficeType": "listOffice",
+        "officeName": "eXp Realty of Southern CA"
+      }
+    ],
+    "infoString10": "The multiple listing data appearing on this website, or contained in reports produced therefrom, is owned and copyrighted by California Regional Multiple Listing Service, Inc. (\"CRMLS\") and is protected by all applicable copyright laws. Information provided is for viewer's personal, non-commercial use and may not be used for any purpose other than to identify prospective properties the viewer may be interested in purchasing. All listing data, including but not limited to square footage and lot size is believed to be accurate, but the listing Agent, listing Broker and CRMLS and its affiliates do not warrant or guarantee such accuracy. The viewer should independently verify the listed data prior to making any decisions based on such information by personal inspection and/or contacting a real estate professional.\n\nBased on information from California Regional Multiple Listing Service, Inc. as of 2025-08-26 21:25:46 PDT and /or other sources. All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy. Properties may or may not be listed by the office/agent presenting the information",
+    "buyerAgentMemberStateLicense": null,
+    "brokerName": "eXp Realty of Southern CA",
+    "listingAttributionContact": "mitch@URBNproperties.com",
+    "lastUpdated": "2025-08-21 18:03:38",
+    "trueStatus": null,
+    "listingAgentAttributionContact": null,
+    "agentEmail": "mitch@URBNproperties.com",
+    "agentName": "Mitch Smith",
+    "attributionTitle": "Listing Provided by:",
+    "mlsId": "NDP2508165",
+    "coAgentName": null,
+    "coAgentNumber": null,
+    "infoString5": "888-294-1415",
+    "listingAgents": [
+      {
+        "memberStateLicense": "DRE #01929243",
+        "memberFullName": "Mitch Smith",
+        "associatedAgentType": "listAgent"
+      }
+    ],
+    "agentPhoneNumber": "888-294-1415",
+    "agentLicenseNumber": "DRE #01929243",
+    "providerLogo": "https://photos.zillowstatic.com/fp/cb8caaa629c0af2058e60add67b2f2ee-zillow_web_95_35.jpg",
+    "infoString16": null,
+    "buyerBrokerageName": null,
+    "mlsDisclaimer": "The multiple listing data appearing on this website, or contained in reports produced therefrom, is owned and copyrighted by California Regional Multiple Listing Service, Inc. (\"CRMLS\") and is protected by all applicable copyright laws. Information provided is for viewer's personal, non-commercial use and may not be used for any purpose other than to identify prospective properties the viewer may be interested in purchasing. All listing data, including but not limited to square footage and lot size is believed to be accurate, but the listing Agent, listing Broker and CRMLS and its affiliates do not warrant or guarantee such accuracy. The viewer should independently verify the listed data prior to making any decisions based on such information by personal inspection and/or contacting a real estate professional.\n\nBased on information from California Regional Multiple Listing Service, Inc. as of 2025-08-26 21:25:46 PDT and /or other sources. All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy. Properties may or may not be listed by the office/agent presenting the information",
+    "brokerPhoneNumber": "888-294-1415",
+    "lastChecked": "2025-08-26 21:25:46"
+  },
+  "priceChangeDateString": null,
+  "photoCount": 64,
+  "homeStatus": "FOR_SALE",
+  "homeFacts": null,
+  "resoFacts": {
+    "hasAttachedProperty": false,
+    "frontageType": null,
+    "poolFeatures": [
+      "None"
+    ],
+    "flooring": null,
+    "foundationDetails": {},
+    "accessibilityFeatures": null,
+    "hasGarage": true,
+    "hasPetsAllowed": null,
+    "bodyType": null,
+    "topography": null,
+    "landLeaseExpirationDate": null,
+    "hasAdditionalParcels": false,
+    "parkName": null,
+    "livingQuarters": {},
+    "taxAssessedValue": 825794,
+    "atAGlanceFacts": [
+      {
+        "factValue": "Single Family Residence",
+        "factLabel": "Type"
+      },
+      {
+        "factValue": "1927",
+        "factLabel": "Year Built"
+      },
+      {
+        "factValue": null,
+        "factLabel": "Heating"
+      },
+      {
+        "factValue": "Central Air",
+        "factLabel": "Cooling"
+      },
+      {
+        "factValue": "1 Attached Garage space",
+        "factLabel": "Parking"
+      },
+      {
+        "factValue": "9,100 sqft",
+        "factLabel": "Lot"
+      },
+      {
+        "factValue": "7 Days",
+        "factLabel": "Days on Zillow"
+      },
+      {
+        "factValue": "$1,001",
+        "factLabel": "Price/sqft"
+      },
+      {
+        "factValue": null,
+        "factLabel": "Offer Review Date"
+      }
+    ],
+    "offerReviewDate": null,
+    "horseYN": null,
+    "view": [
+      "Harbor",
+      "Landmark"
+    ],
+    "rooms": [
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "MasterBedroom",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": [
+          "Main Level Primary"
+        ],
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "Bedroom",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": [
+          "Bedroom on Main Level"
+        ],
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "MasterBathroom",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": null,
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "Other",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": null,
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "BonusRoom",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": null,
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "Den",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": null,
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "EntryFoyer",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": null,
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "Kitchen",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": null,
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "Laundry",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": null,
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "LivingRoom",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": null,
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      }
+    ],
+    "belowGradeFinishedArea": null,
+    "feesAndDues": [
+      {
+        "phone": null,
+        "name": null,
+        "fee": null,
+        "type": "HOA"
+      }
+    ],
+    "cityRegion": "San Diego",
+    "mainLevelBathrooms": 2,
+    "hasPrivatePool": null,
+    "landLeaseAmount": null,
+    "waterSource": null,
+    "exteriorFeatures": {},
+    "inclusions": null,
+    "hasFireplace": true,
+    "gas": null,
+    "propertyCondition": "Turnkey",
+    "elevationUnits": null,
+    "exclusions": null,
+    "mainLevelBedrooms": 2,
+    "numberOfUnitsVacant": null,
+    "hasWaterfrontView": null,
+    "bathroomsOneQuarter": null,
+    "lotSize": "9,100 sqft",
+    "entryLevel": null,
+    "media": [
+      {
+        "mediaCategory": "UnbrandedVirtualTour",
+        "mediaURL": "https://www.propertypanorama.com/instaview/crmls/NDP2508165"
+      }
+    ],
+    "greenWaterConservation": null,
+    "stories": 2,
+    "livingArea": "2,797 sqft",
+    "commonWalls": "No Common Walls",
+    "listingTerms": "Cash,Conventional,VA Loan",
+    "otherParking": null,
+    "associationFee": null,
+    "marketingType": null,
+    "greenIndoorAirQuality": null,
+    "greenSustainability": null,
+    "livingAreaRangeUnits": "Square Feet",
+    "associationPhone": null,
+    "greenBuildingVerificationType": null,
+    "hasAttachedGarage": true,
+    "bedrooms": 4,
+    "architecturalStyle": null,
+    "listingId": null,
+    "structureType": "House",
+    "interiorFeatures": [
+      "Attic",
+      "Bedroom on Main Level",
+      "Main Level Primary"
+    ],
+    "horseAmenities": null,
+    "garageParkingCapacity": 1.5,
+    "developmentStatus": null,
+    "lotFeatures": [
+      "Back Yard",
+      "Drip Irrigation/Bubblers",
+      "Front Yard",
+      "Garden",
+      "Sprinklers In Rear",
+      "Sprinklers In Front",
+      "Lawn",
+      "Landscaped",
+      "Level",
+      "Sprinklers Timer",
+      "Sprinklers On Side",
+      "Sprinkler System"
+    ],
+    "roofType": "Asphalt",
+    "compensationBasedOn": null,
+    "greenEnergyGeneration": null,
+    "daysOnZillow": 7,
+    "listAOR": "California Regional MLS (North San Diego County & Pacific Southwest AORs)",
+    "buildingAreaSource": null,
+    "elementarySchool": null,
+    "zoningDescription": null,
+    "irrigationWaterRightsAcres": null,
+    "yearBuiltEffective": null,
+    "greenEnergyEfficient": null,
+    "constructionMaterials": {},
+    "fireplaceFeatures": [
+      "Family Room"
+    ],
+    "hoaFeeTotal": null,
+    "appliances": null,
+    "sewer": [
+      "Public Sewer"
+    ],
+    "bathroomsPartial": null,
+    "fencing": null,
+    "spaFeatures": null,
+    "waterViewYN": true,
+    "buildingName": null,
+    "attic": null,
+    "petsMaxWeight": null,
+    "cumulativeDaysOnMarket": null,
+    "waterfrontFeatures": null,
+    "additionalParcelsDescription": null,
+    "canRaiseHorses": false,
+    "hasLandLease": false,
+    "communityFeatures": [
+      "Biking",
+      "Curbs",
+      "Foothills",
+      "Street Lights",
+      "Suburban",
+      "Sidewalks"
+    ],
+    "waterBodyName": null,
+    "middleOrJuniorSchool": null,
+    "lotSizeDimensions": null,
+    "virtualTour": "https://www.propertypanorama.com/instaview/crmls/NDP2508165",
+    "contingency": null,
+    "yearBuilt": 1927,
+    "utilities": null,
+    "totalActualRent": null,
+    "bathroomsFull": 3,
+    "parcelNumber": "4493701500",
+    "incomeIncludes": null,
+    "highSchool": null,
+    "taxAnnualAmount": 10090,
+    "subdivisionName": null,
+    "storiesTotal": 2,
+    "storiesDecimal": 2,
+    "specialListingConditions": "Standard",
+    "windowFeatures": null,
+    "ownership": null,
+    "woodedArea": null,
+    "middleOrJuniorSchoolDistrict": null,
+    "associationPhone2": null,
+    "onMarketDate": 1755734400000,
+    "roomTypes": [
+      "Attic",
+      "Bonus Room",
+      "Bedroom",
+      "Den",
+      "Entry/Foyer",
+      "Kitchen",
+      "Laundry",
+      "Living Room",
+      "Primary Bathroom",
+      "Primary Bedroom",
+      "Office"
+    ],
+    "frontageLength": null,
+    "roadSurfaceType": null,
+    "associationAmenities": null,
+    "propertySubType": [
+      "Single Family Residence"
+    ],
+    "hasCooling": true,
+    "levels": "Two",
+    "coveredParkingCapacity": 1.5,
+    "foundationArea": null,
+    "zoning": "R-1:Single Fam-Res",
+    "hoaFee": null,
+    "livingAreaRange": null,
+    "parkingFeatures": [
+      "Garage - Attached"
+    ],
+    "parkingCapacity": 1.5,
+    "cropsIncludedYN": null,
+    "tenantPays": null,
+    "builderModel": null,
+    "otherStructures": null,
+    "otherFacts": {},
+    "additionalFeeInfo": null,
+    "hasView": true,
+    "openParkingCapacity": null,
+    "securityFeatures": null,
+    "numberOfUnitsInCommunity": 20,
+    "hasHomeWarranty": false,
+    "basementYN": null,
+    "doorFeatures": null,
+    "ownershipType": null,
+    "aboveGradeFinishedArea": null,
+    "associations": {},
+    "waterView": "Harbor",
+    "electric": null,
+    "buildingFeatures": null,
+    "hasOpenParking": null,
+    "hasCarport": null,
+    "bathroomsHalf": null,
+    "homeType": "SingleFamily",
+    "isSeniorCommunity": null,
+    "municipality": null,
+    "bathroomsThreeQuarter": null,
+    "hasSpa": false,
+    "basement": null,
+    "associationFee2": null,
+    "cooling": [
+      "Central Air"
+    ],
+    "hasHeating": null,
+    "associationName2": null,
+    "hasRentControl": null,
+    "elementarySchoolDistrict": null,
+    "otherEquipment": null,
+    "bathrooms": 3,
+    "buildingArea": null,
+    "furnished": false,
+    "vegetation": null,
+    "patioAndPorchFeatures": null,
+    "bathroomsFloat": 3,
+    "builderName": null,
+    "highSchoolDistrict": "San Diego Unified",
+    "hasElectricOnProperty": null,
+    "laundryFeatures": [
+      "Laundry Room"
+    ],
+    "entryLocation": "front of house",
+    "fireplaces": null,
+    "heating": null,
+    "availabilityDate": null,
+    "carportParkingCapacity": null,
+    "hasAssociation": null,
+    "irrigationWaterRightsYN": null,
+    "isNewConstruction": false,
+    "associationFeeIncludes": null,
+    "leaseTerm": null,
+    "pricePerSquareFoot": 1001,
+    "associationName": null,
+    "elevation": null
+  },
+  "datePosted": "2025-08-20",
+  "bedrooms": 4,
+  "propertyTypeDimension": "Single Family",
+  "mortgageZHLRates": {
+    "thirtyYearFixedBucket": {
+      "rate": 6.402,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756269394547
+    },
+    "fifteenYearFixedBucket": {
+      "rate": 6.303,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756269394547
+    },
+    "arm5Bucket": {
+      "rate": 6.423,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756269394547
+    }
+  },
+  "comingSoonOnMarketDate": null,
+  "favoriteCount": 187,
+  "livingArea": 2797,
+  "zestimateHighPercent": null,
+  "mlsid": "NDP2508165",
+  "isListedByOwner": null,
+  "listingSubType": {
+    "is_comingSoon": false,
+    "is_pending": false,
+    "is_forAuction": false,
+    "is_bankOwned": false,
+    "is_FSBA": true,
+    "is_FSBO": false,
+    "is_newHome": false,
+    "is_foreclosure": false
+  },
+  "buildingId": null,
+  "country": "USA",
+  "price": 2799997,
+  "priceChangeDate": null,
+  "contingentListingType": null
+}

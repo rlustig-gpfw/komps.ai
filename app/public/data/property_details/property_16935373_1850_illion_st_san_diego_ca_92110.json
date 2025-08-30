@@ -1,0 +1,1767 @@
+{
+  "buildingPermits": null,
+  "contact_recipients": [
+    {
+      "agent_reason": 1,
+      "zpro": null,
+      "recent_sales": 0,
+      "review_count": 0,
+      "display_name": "Premier Broker Flex Atlanta GA",
+      "badge_type": "Premier Agent",
+      "business_name": "Zillow Group",
+      "rating_average": 0,
+      "phone": {
+        "prefix": "452",
+        "areacode": "206",
+        "number": "1030"
+      },
+      "zuid": "X1-ZUv2ktj4jt3nyh_98wrm",
+      "image_url": "https://www.zillowstatic.com/static/images/nophoto_h_g.png"
+    }
+  ],
+  "longitude": -117.19981,
+  "countyFIPS": "06073",
+  "imgSrc": "https://photos.zillowstatic.com/fp/987854bc36f8aab909e41185f665905a-p_d.jpg",
+  "livingAreaValue": 3008,
+  "streetAddress": "1850 Illion St",
+  "county": "San Diego County",
+  "monthlyHoaFee": null,
+  "timeZone": "America/Los_Angeles",
+  "taxHistory": [
+    {
+      "time": 1724733680153,
+      "valueIncreaseRate": 0.019999176,
+      "taxIncreaseRate": 0.022431824,
+      "taxPaid": 9149.6,
+      "value": 742845
+    },
+    {
+      "time": 1693111280153,
+      "valueIncreaseRate": -0.20666666,
+      "taxIncreaseRate": -0.20092613,
+      "taxPaid": 8948.86,
+      "value": 728280
+    },
+    {
+      "time": 1661575280153,
+      "valueIncreaseRate": -0.18761063,
+      "taxIncreaseRate": -0.19758105,
+      "taxPaid": 11199.04,
+      "value": 918000
+    },
+    {
+      "time": 1630039280153,
+      "valueIncreaseRate": 0.086120725,
+      "taxIncreaseRate": 0.08798784,
+      "taxPaid": 13956.6,
+      "value": 1130000
+    },
+    {
+      "time": 1598503280153,
+      "valueIncreaseRate": 0.02,
+      "taxIncreaseRate": 0.020819217,
+      "taxPaid": 12827.9,
+      "value": 1040400
+    },
+    {
+      "time": 1566880880153,
+      "valueIncreaseRate": 10.008699,
+      "taxIncreaseRate": 11.100181,
+      "taxPaid": 12566.28,
+      "value": 1020000
+    },
+    {
+      "time": 1535344880153,
+      "valueIncreaseRate": 0.019991633,
+      "taxIncreaseRate": 0.026023066,
+      "taxPaid": 1038.52,
+      "value": 92654
+    },
+    {
+      "time": 1503808880153,
+      "valueIncreaseRate": 0.019986974,
+      "taxIncreaseRate": 0.019192038,
+      "taxPaid": 1012.18,
+      "value": 90838
+    },
+    {
+      "time": 1472272880153,
+      "valueIncreaseRate": 0.015229931,
+      "taxIncreaseRate": 0.01583403,
+      "taxPaid": 993.12,
+      "value": 89058
+    },
+    {
+      "time": 1440650480153,
+      "valueIncreaseRate": 0.019963956,
+      "taxIncreaseRate": 0.016447991,
+      "taxPaid": 977.64,
+      "value": 87722
+    },
+    {
+      "time": 1409114480153,
+      "valueIncreaseRate": 0.00453181,
+      "taxIncreaseRate": 0,
+      "taxPaid": 961.82,
+      "value": 86005
+    },
+    {
+      "time": 1377578480153,
+      "valueIncreaseRate": 0.019978557,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 85617
+    },
+    {
+      "time": 1346042480153,
+      "valueIncreaseRate": 0.019989064,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 83940
+    },
+    {
+      "time": 1314420080153,
+      "valueIncreaseRate": 0.007517048,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 82295
+    },
+    {
+      "time": 1282884080153,
+      "valueIncreaseRate": -0.0023938348,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 81681
+    },
+    {
+      "time": 1251348080153,
+      "valueIncreaseRate": 0.019981813,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 81877
+    },
+    {
+      "time": 1219812080153,
+      "valueIncreaseRate": 0.019987294,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 80273
+    },
+    {
+      "time": 1188189680153,
+      "valueIncreaseRate": 0.019984966,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 78700
+    },
+    {
+      "time": 1156653680153,
+      "valueIncreaseRate": 0.019987838,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 77158
+    },
+    {
+      "time": 1125117680153,
+      "valueIncreaseRate": 0.019996494,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 75646
+    },
+    {
+      "time": 1093581680153,
+      "valueIncreaseRate": 0.018652566,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 74163
+    },
+    {
+      "time": 1061959280153,
+      "valueIncreaseRate": 0.019992154,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 72805
+    },
+    {
+      "time": 1030423280153,
+      "valueIncreaseRate": 0.019991713,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 71378
+    },
+    {
+      "time": 998887280153,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 69979
+    }
+  ],
+  "dateSold": null,
+  "annualHomeownersInsurance": 13646,
+  "state": "CA",
+  "listed_by": {
+    "agent_reason": 3,
+    "zpro": false,
+    "recent_sales": 0,
+    "zuid": "X1-ZUyvpysoo6651l_40okc",
+    "review_count": 112,
+    "display_name": "Christopher Folkers",
+    "profile_url": "https://www.zillow.com/profile/San-Diego-Home/",
+    "business_name": "RE/MAX Pacific",
+    "rating_average": 5,
+    "phone": {
+      "prefix": "977",
+      "areacode": "619",
+      "number": "8364"
+    },
+    "badge_type": "Listing Agent",
+    "image_url": "https://photos.zillowstatic.com/fp/b15d767983cd1c0680b356da2c64e320-h_n.jpg"
+  },
+  "yearBuilt": 2025,
+  "brokerageName": "RE/MAX Pacific",
+  "description": "NEW CONSTRUCTION!!  Beautiful Bay Park \"Beach Chic\" Home featuring panoramic views & warm, contemporary styling!  Welcome to this stunning 3,008 sq. ft. residence that blends luxury, comfort, and spectacular views. Perched in a premier location, the expansive rooftop deck showcases sweeping vistas stretching from USD, Point Loma, the Bay and Ocean, all the way to Mount Soledad—an entertainer’s dream setting.  The primary suite is a true retreat, featuring a spacious walk-in closet, sunset-centric patio, spa-like soaking tub, and an oversized shower. Upstairs, you’ll also find three additional bedrooms, including another with its own en-suite bath, plus a generous laundry room for convenience.  At the heart of the home, the chef’s kitchen shines with an 48\" Z-line cooktop and double oven with elegant gold accents. Built in double wide refrigerator, a walk-in pantry, crisp white cabinetry, wine fridge, and huge island with beautiful quartz counters—designed for both style and function. Accordion doors off the living and dining areas seamlessly blend the indoor and outdoor covered patio and private backyard.  Thoughtful details throughout include soft close cabinets, wine fridge, epoxy garage floors, OWNED SOLAR, 10' high ceilings, and a spacious, open floor plan.  This residence offers a rare combination of indoor-outdoor living, upscale amenities, and panoramic San Diego views—making it the perfect place to call home.",
+  "climate": {
+    "windSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "probability": {},
+        "source": {
+          "url": "https://firststreet.org/property/1850-illion-st-san-diego-ca-92110-1313/612885046_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 18
+      }
+    },
+    "floodSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "femaZone": "X_UNSHADED",
+        "source": {
+          "url": "https://firststreet.org/property/1850-illion-st-san-diego-ca-92110-1313/612885046_fsid"
+        },
+        "probability": [
+          {
+            "relativeYear": 0,
+            "probability": 0
+          },
+          {
+            "relativeYear": 5,
+            "probability": 0
+          },
+          {
+            "relativeYear": 10,
+            "probability": 0
+          },
+          {
+            "relativeYear": 15,
+            "probability": 0
+          },
+          {
+            "relativeYear": 20,
+            "probability": 0
+          },
+          {
+            "relativeYear": 25,
+            "probability": 0
+          },
+          {
+            "relativeYear": 30,
+            "probability": 0
+          }
+        ],
+        "insuranceSeparatePolicy": "NOT_REQUIRED",
+        "historicCountPropertyAll": 0
+      }
+    },
+    "fireSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "probability": {},
+        "source": {
+          "url": "https://firststreet.org/property/1850-illion-st-san-diego-ca-92110-1313/612885046_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 25
+      }
+    },
+    "heatSources": {
+      "primary": {
+        "percentile98Temp": 86,
+        "hotDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 7
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 9
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 11
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 14
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 16
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 18
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 20
+          }
+        ],
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 4
+        },
+        "source": {
+          "url": "https://firststreet.org/property/1850-illion-st-san-diego-ca-92110-1313/612885046_fsid"
+        }
+      }
+    },
+    "airSources": {
+      "primary": {
+        "source": {
+          "url": "https://firststreet.org/property/1850-illion-st-san-diego-ca-92110-1313/612885046_fsid"
+        },
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 3
+        },
+        "badAirDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 4
+          }
+        ]
+      }
+    }
+  },
+  "latitude": 32.779133,
+  "nearbyHomes": [
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "1876 Illion St"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/1876-Illion-St-San-Diego-CA-92110/16935383_zpid/",
+      "lotAreaValue": 1,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "1876 Illion St",
+        "zipcode": "92110"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.779354,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1917000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 1,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=32.779354095458984,-117.19979095458984&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=sDdh9lF0KJgDIvTBPKtnKmumPHs="
+        }
+      ],
+      "zpid": 16935383,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1,
+      "longitude": -117.19979,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "1842 Illion St"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/1842-Illion-St-San-Diego-CA-92110/16935372_zpid/",
+      "lotAreaValue": 7800,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "1842 Illion St",
+        "zipcode": "92110"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.77885,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1372700,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 7800,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=1842+Illion+St%2C+San+Diego%2C+CA+92110&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=tl4mBq6ShYh_6Ei0IVFEe-lcEnk="
+        }
+      ],
+      "zpid": 16935372,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1680,
+      "longitude": -117.19988,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1680
+    },
+    {
+      "hdpTypeDimension": "Zestimate",
+      "lotAreaUnits": "Square Feet",
+      "isShowcaseListing": false,
+      "longitude": -117.20026,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "1865 Magdalene Way",
+        "zipcode": "92110"
+      },
+      "livingAreaValue": 1574,
+      "lotSize": 7800,
+      "zpid": 16935361,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 2,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "1865 Magdalene Way"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "hdpUrl": "/homedetails/1865-Magdalene-Way-San-Diego-CA-92110/16935361_zpid/",
+      "lotAreaValue": 7800,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "OTHER",
+      "latitude": 32.779194,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "newConstructionType": null,
+      "yearBuilt": 1962,
+      "listingTypeDimension": "Unknown Listed By",
+      "livingArea": 1574,
+      "providerListingID": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=1865+Magdalene+Way%2C+San+Diego%2C+CA+92110&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=qR87Wj0_X1clQbMmKBoAjfF9kvo="
+        }
+      ],
+      "currency": "USD",
+      "price": 1302100,
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "1873 Magdalene Way"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/1873-Magdalene-Way-San-Diego-CA-92110/16935374_zpid/",
+      "lotAreaValue": 10600,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "1873 Magdalene Way",
+        "zipcode": "92110"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.779366,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1474300,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 10600,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=1873+Magdalene+Way%2C+San+Diego%2C+CA+92110&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ISeHyHeO5W2fPO3SIwzAZsf_NOA="
+        }
+      ],
+      "zpid": 16935374,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1915,
+      "longitude": -117.20026,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1915
+    },
+    {
+      "bathrooms": 3,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "1904 Illion St"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/1904-Illion-St-San-Diego-CA-92110/16935384_zpid/",
+      "lotAreaValue": 7200,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "1904 Illion St",
+        "zipcode": "92110"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.779575,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1619400,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 7200,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=1904+Illion+St%2C+San+Diego%2C+CA+92110&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=7kniB9EHftVRFRtgkiutyve5BbE="
+        }
+      ],
+      "zpid": 16935384,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1811,
+      "longitude": -117.19975,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1811
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "sqft",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "1830 Illion St"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/1830-Illion-St-San-Diego-CA-92110/16935371_zpid/",
+      "lotAreaValue": null,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "1830 Illion St",
+        "zipcode": "92110"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.778687,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1374600,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/ffe8871052c5c7c35bc1228cc33c49f0-p_c.jpg"
+        }
+      ],
+      "zpid": 16935371,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1680,
+      "longitude": -117.19991,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": "p2sjk0jwvj54",
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1680
+    },
+    {
+      "hdpTypeDimension": "ForSale",
+      "lotAreaUnits": "Square Feet",
+      "isShowcaseListing": false,
+      "longitude": -117.20036,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "1855 Magdalene Way",
+        "zipcode": "92110"
+      },
+      "livingAreaValue": 2341,
+      "lotSize": 7840,
+      "zpid": 16935362,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 2,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "1855 Magdalene Way"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "hdpUrl": "/homedetails/1855-Magdalene-Way-San-Diego-CA-92110/16935362_zpid/",
+      "lotAreaValue": 7840.8,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "NDP2506979",
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "FOR_SALE",
+      "latitude": 32.779068,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Single Family",
+      "newConstructionType": null,
+      "yearBuilt": 1962,
+      "listingTypeDimension": "For Sale by Agent",
+      "livingArea": 2341,
+      "providerListingID": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/80db899bb54245eff0fb28c9ffad8403-p_c.jpg"
+        }
+      ],
+      "currency": "USD",
+      "price": 1749000,
+      "listing_sub_type": {
+        "is_FSBA": true,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "1845 Magdalene Way"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/1845-Magdalene-Way-San-Diego-CA-92110/16935363_zpid/",
+      "lotAreaValue": 6600,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "1845 Magdalene Way",
+        "zipcode": "92110"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.778893,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1289000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 6600,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=1845+Magdalene+Way%2C+San+Diego%2C+CA+92110&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=dMqJcCoR97_rwgAiLT3XDrfmPw8="
+        }
+      ],
+      "zpid": 16935363,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1648,
+      "longitude": -117.20029,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1648
+    }
+  ],
+  "priceHistory": [
+    {
+      "priceChangeRate": 1.030625,
+      "date": "2025-08-23",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1755907200000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "250036975"
+      },
+      "pricePerSquareFoot": 1080,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 3249000
+    },
+    {
+      "priceChangeRate": 0.41592920353982,
+      "date": "2021-04-30",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 1619740800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 532,
+      "buyerAgent": null,
+      "event": "Sold",
+      "price": 1600000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2020-10-20",
+      "source": "Scofield Homes, Inc.",
+      "postingIsRental": true,
+      "time": 1603152000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Scofield Homes, Inc.",
+        "infoString3": null,
+        "infoString1": "200048812"
+      },
+      "pricePerSquareFoot": 1,
+      "buyerAgent": null,
+      "event": "Listing removed",
+      "price": 3750
+    },
+    {
+      "priceChangeRate": -0.24242424242424,
+      "date": "2020-10-16",
+      "source": "Scofield Homes, Inc.",
+      "postingIsRental": true,
+      "time": 1602806400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Scofield Homes, Inc.",
+        "infoString3": null,
+        "infoString1": "200048812"
+      },
+      "pricePerSquareFoot": 1,
+      "buyerAgent": null,
+      "event": "Listed for rent",
+      "price": 3750
+    },
+    {
+      "priceChangeRate": -0.12741312741313,
+      "date": "2020-07-24",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1595548800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "200023985"
+      },
+      "pricePerSquareFoot": 376,
+      "buyerAgent": null,
+      "event": "Sold",
+      "price": 1130000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2020-06-14",
+      "source": "Big Block Realty, Inc.",
+      "postingIsRental": false,
+      "time": 1592092800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Big Block Realty, Inc.",
+        "infoString3": null,
+        "infoString1": "200023985"
+      },
+      "pricePerSquareFoot": 431,
+      "buyerAgent": null,
+      "event": "Pending sale",
+      "price": 1295000
+    },
+    {
+      "priceChangeRate": -0.067674586033117,
+      "date": "2020-06-07",
+      "source": "Big Block Realty, Inc.",
+      "postingIsRental": false,
+      "time": 1591488000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Big Block Realty, Inc.",
+        "infoString3": null,
+        "infoString1": "200023985"
+      },
+      "pricePerSquareFoot": 431,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 1295000
+    },
+    {
+      "priceChangeRate": 0.037341299477222,
+      "date": "2020-05-27",
+      "source": "Big Block Realty, Inc.",
+      "postingIsRental": false,
+      "time": 1590537600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Big Block Realty, Inc.",
+        "infoString3": null,
+        "infoString1": "200023985"
+      },
+      "pricePerSquareFoot": 462,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 1389000
+    },
+    {
+      "priceChangeRate": 0.31274509803922,
+      "date": "2020-05-15",
+      "source": "Owner",
+      "postingIsRental": false,
+      "time": 1589500800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Owner",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 445,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 1339000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2020-05-14",
+      "source": "Owner",
+      "postingIsRental": true,
+      "time": 1589414400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Owner",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 2,
+      "buyerAgent": null,
+      "event": "Listing removed",
+      "price": 4950
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2020-05-11",
+      "source": "Owner",
+      "postingIsRental": true,
+      "time": 1589155200000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Owner",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 2,
+      "buyerAgent": null,
+      "event": "Listed for rent",
+      "price": 4950
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2020-04-01",
+      "source": "Owner",
+      "postingIsRental": true,
+      "time": 1585699200000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Owner",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 2,
+      "buyerAgent": null,
+      "event": "Listing removed",
+      "price": 4950
+    },
+    {
+      "priceChangeRate": -0.16101694915254,
+      "date": "2020-03-18",
+      "source": "Owner",
+      "postingIsRental": true,
+      "time": 1584489600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Owner",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 2,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 4950
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2020-03-11",
+      "source": "Big Block Realty",
+      "postingIsRental": true,
+      "time": 1583884800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Big Block Realty",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 2,
+      "buyerAgent": null,
+      "event": "Listed for rent",
+      "price": 5900
+    },
+    {
+      "priceChangeRate": -0.028571428571429,
+      "date": "2018-12-31",
+      "source": "Glendale AOR ZDD",
+      "postingIsRental": false,
+      "time": 1546214400000,
+      "sellerAgent": {
+        "name": "Willis Allen Real Estate",
+        "photo": null,
+        "profileUrl": "/profile/Willis-Allen/"
+      },
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Glendale AOR ZDD",
+        "infoString3": "https://photos.zillowstatic.com/fp/d6de69e573dd2afaeff53b2e86683093-zillow_web_logo_inf_11.jpg",
+        "infoString1": "180060780"
+      },
+      "pricePerSquareFoot": 339,
+      "buyerAgent": {
+        "name": "Aracely Rosenheim",
+        "photo": null,
+        "profileUrl": "/profile/Cely001/"
+      },
+      "event": "Sold",
+      "price": 1020000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2018-11-24",
+      "source": "Willis Allen Real Estate",
+      "postingIsRental": false,
+      "time": 1543017600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Willis Allen Real Estate",
+        "infoString3": null,
+        "infoString1": "180060780"
+      },
+      "pricePerSquareFoot": 349,
+      "buyerAgent": null,
+      "event": "Pending sale",
+      "price": 1050000
+    },
+    {
+      "priceChangeRate": -0.125,
+      "date": "2018-11-13",
+      "source": "Willis Allen Real Estate",
+      "postingIsRental": false,
+      "time": 1542067200000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Willis Allen Real Estate",
+        "infoString3": null,
+        "infoString1": "180060780"
+      },
+      "pricePerSquareFoot": 349,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 1050000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2018-11-09",
+      "source": "Willis Allen Real Estate",
+      "postingIsRental": false,
+      "time": 1541721600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Willis Allen Real Estate",
+        "infoString3": null,
+        "infoString1": "180060780"
+      },
+      "pricePerSquareFoot": 399,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 1200000
+    }
+  ],
+  "neighborhoodMapThumb": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/987854bc36f8aab909e41185f665905a-p_c.jpg"
+    }
+  ],
+  "schools": [
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6100-Bay-Park-Elementary-School/",
+      "rating": 8,
+      "totalCount": null,
+      "distance": 0.6,
+      "assigned": null,
+      "name": "Bay Park Elementary School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Elementary",
+      "grades": "K-5",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6196-Marston-Middle-School/",
+      "rating": 7,
+      "totalCount": null,
+      "distance": 2,
+      "assigned": null,
+      "name": "Marston Middle School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Middle",
+      "grades": "6-8",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6119-Clairemont-High-School/",
+      "rating": 6,
+      "totalCount": null,
+      "distance": 2,
+      "assigned": null,
+      "name": "Clairemont High School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "High",
+      "grades": "9-12",
+      "type": "Public"
+    }
+  ],
+  "rentZestimate": 5939,
+  "city": "San Diego",
+  "providerListingID": null,
+  "currency": "USD",
+  "listingProvider": null,
+  "propertyTaxRate": 1.17,
+  "isShowcaseListing": true,
+  "openHouseSchedule": {},
+  "mortgageRates": null,
+  "address": {
+    "community": null,
+    "city": "San Diego",
+    "state": "CA",
+    "neighborhood": null,
+    "subdivision": "BAY PARK",
+    "streetAddress": "1850 Illion St",
+    "zipcode": "92110"
+  },
+  "cityId": 54296,
+  "timeOnZillow": "3 days",
+  "priceChange": null,
+  "zestimate": 3164400,
+  "zpid": 16935373,
+  "countyId": 2841,
+  "homeType": "SINGLE_FAMILY",
+  "livingAreaUnits": "sqft",
+  "pageViewCount": 817,
+  "homeInsights": [
+    {
+      "insights": [
+        {
+          "treatmentId": "model_0",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Private backyard",
+            "Epoxy garage floors",
+            "Panoramic views",
+            "Wine fridge",
+            "Expansive rooftop deck",
+            "Quartz counters",
+            "Open floor plan"
+          ]
+        },
+        {
+          "treatmentId": "model_1",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Private backyard",
+            "Epoxy garage floors",
+            "Panoramic views",
+            "Wine fridge",
+            "Expansive rooftop deck",
+            "Marble counters",
+            "Crisp white cabinetry"
+          ]
+        }
+      ]
+    }
+  ],
+  "bathrooms": 4,
+  "neighborhoodRegion": {
+    "name": "Bay Park"
+  },
+  "zipcode": "92110",
+  "building": null,
+  "zestimateLowPercent": "5",
+  "brokerId": null,
+  "stateId": 9,
+  "url": "/homedetails/1850-Illion-St-San-Diego-CA-92110/16935373_zpid/",
+  "solarPotential": null,
+  "attributionInfo": {
+    "buyerAgentName": null,
+    "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_95_35.jpg",
+    "mlsName": "SDMLS",
+    "coAgentLicenseNumber": null,
+    "listingAgreement": null,
+    "listingOffices": [
+      {
+        "associatedOfficeType": "listOffice",
+        "officeName": "RE/MAX Pacific"
+      }
+    ],
+    "infoString10": "This information is deemed reliable but not guaranteed. You should rely on this information only to decide whether or not to further investigate a particular property.\nBEFORE MAKING ANY OTHER DECISION, YOU SHOULD PERSONALLY INVESTIGATE THE FACTS (e.g. square footage and lot size) with the assistance of an appropriate professional. You may use this information only to identify properties you may be interested in investigating further. All uses except for personal, noncommercial use in accordance with the foregoing purpose are prohibited. Redistribution or copying of this information, any photographs or video tours is strictly\nprohibited. This information is derived from the Internet Data Exchange (IDX) service provided by San Diego MLS. Displayed property listings may be held by a brokerage firm other than the broker and/or agent responsible for this display. The information and any photographs and video tours and the compilation from which they are derived is protected by copyright. Compilation © 2025 San Diego MLS.",
+    "buyerAgentMemberStateLicense": null,
+    "brokerName": "RE/MAX Pacific",
+    "listingAttributionContact": null,
+    "lastUpdated": "2025-08-24 12:11:57",
+    "trueStatus": null,
+    "listingAgentAttributionContact": null,
+    "agentEmail": null,
+    "agentName": "Max Folkers",
+    "attributionTitle": null,
+    "mlsId": "250036975",
+    "coAgentName": null,
+    "coAgentNumber": null,
+    "infoString5": "619-977-8364",
+    "listingAgents": [
+      {
+        "memberStateLicense": "DRE #01466910",
+        "memberFullName": "Max Folkers",
+        "associatedAgentType": "listAgent"
+      }
+    ],
+    "agentPhoneNumber": "619-977-8364",
+    "agentLicenseNumber": "DRE #01466910",
+    "providerLogo": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_95_35.jpg",
+    "infoString16": null,
+    "buyerBrokerageName": null,
+    "mlsDisclaimer": "This information is deemed reliable but not guaranteed. You should rely on this information only to decide whether or not to further investigate a particular property.\nBEFORE MAKING ANY OTHER DECISION, YOU SHOULD PERSONALLY INVESTIGATE THE FACTS (e.g. square footage and lot size) with the assistance of an appropriate professional. You may use this information only to identify properties you may be interested in investigating further. All uses except for personal, noncommercial use in accordance with the foregoing purpose are prohibited. Redistribution or copying of this information, any photographs or video tours is strictly\nprohibited. This information is derived from the Internet Data Exchange (IDX) service provided by San Diego MLS. Displayed property listings may be held by a brokerage firm other than the broker and/or agent responsible for this display. The information and any photographs and video tours and the compilation from which they are derived is protected by copyright. Compilation © 2025 San Diego MLS.",
+    "brokerPhoneNumber": "619-320-8583",
+    "lastChecked": "2025-08-26 21:11:24"
+  },
+  "priceChangeDateString": null,
+  "photoCount": 75,
+  "homeStatus": "FOR_SALE",
+  "homeFacts": null,
+  "resoFacts": {
+    "hasAttachedProperty": false,
+    "frontageType": null,
+    "poolFeatures": [
+      "N/K"
+    ],
+    "flooring": null,
+    "foundationDetails": {},
+    "accessibilityFeatures": null,
+    "hasGarage": true,
+    "hasPetsAllowed": null,
+    "bodyType": null,
+    "topography": null,
+    "landLeaseExpirationDate": null,
+    "hasAdditionalParcels": false,
+    "parkName": null,
+    "livingQuarters": {},
+    "taxAssessedValue": 742845,
+    "atAGlanceFacts": [
+      {
+        "factValue": "Single Family Residence",
+        "factLabel": "Type"
+      },
+      {
+        "factValue": "2025",
+        "factLabel": "Year Built"
+      },
+      {
+        "factValue": "Forced Air Unit",
+        "factLabel": "Heating"
+      },
+      {
+        "factValue": "Central Forced Air",
+        "factLabel": "Cooling"
+      },
+      {
+        "factValue": "2 Garage spaces",
+        "factLabel": "Parking"
+      },
+      {
+        "factValue": null,
+        "factLabel": "Lot"
+      },
+      {
+        "factValue": "3 Days",
+        "factLabel": "Days on Zillow"
+      },
+      {
+        "factValue": "$1,080",
+        "factLabel": "Price/sqft"
+      },
+      {
+        "factValue": null,
+        "factLabel": "Offer Review Date"
+      }
+    ],
+    "offerReviewDate": null,
+    "horseYN": null,
+    "view": {},
+    "rooms": {},
+    "belowGradeFinishedArea": null,
+    "feesAndDues": [
+      {
+        "phone": null,
+        "name": null,
+        "fee": null,
+        "type": "HOA"
+      }
+    ],
+    "cityRegion": "San Diego",
+    "mainLevelBathrooms": null,
+    "hasPrivatePool": null,
+    "landLeaseAmount": null,
+    "waterSource": [
+      "Meter on Property"
+    ],
+    "exteriorFeatures": {},
+    "inclusions": null,
+    "hasFireplace": null,
+    "gas": null,
+    "propertyCondition": null,
+    "elevationUnits": null,
+    "exclusions": null,
+    "mainLevelBedrooms": null,
+    "numberOfUnitsVacant": null,
+    "hasWaterfrontView": null,
+    "bathroomsOneQuarter": null,
+    "lotSize": null,
+    "entryLevel": null,
+    "media": [
+      {
+        "mediaCategory": "UnbrandedVirtualTour",
+        "mediaURL": "https://www.propertypanorama.com/instaview/snd/250036975"
+      }
+    ],
+    "greenWaterConservation": null,
+    "stories": null,
+    "livingArea": "3,008 sqft",
+    "commonWalls": null,
+    "listingTerms": "Cash,Conventional,FHA,VA",
+    "otherParking": null,
+    "associationFee": null,
+    "marketingType": null,
+    "greenIndoorAirQuality": null,
+    "greenSustainability": null,
+    "livingAreaRangeUnits": null,
+    "associationPhone": null,
+    "greenBuildingVerificationType": null,
+    "hasAttachedGarage": null,
+    "bedrooms": 4,
+    "architecturalStyle": null,
+    "listingId": null,
+    "structureType": null,
+    "interiorFeatures": null,
+    "horseAmenities": null,
+    "garageParkingCapacity": 2,
+    "developmentStatus": null,
+    "lotFeatures": null,
+    "roofType": "Composition",
+    "compensationBasedOn": null,
+    "greenEnergyGeneration": null,
+    "daysOnZillow": 3,
+    "listAOR": "San Diego Association of REALTOR",
+    "buildingAreaSource": null,
+    "elementarySchool": null,
+    "zoningDescription": "R-1:SINGLE",
+    "irrigationWaterRightsAcres": null,
+    "yearBuiltEffective": null,
+    "greenEnergyEfficient": null,
+    "constructionMaterials": [
+      "Wood/Stucco"
+    ],
+    "fireplaceFeatures": null,
+    "hoaFeeTotal": null,
+    "appliances": [
+      "Dishwasher",
+      "Disposal",
+      "Dryer",
+      "Microwave",
+      "Range/Oven",
+      "Refrigerator",
+      "Washer"
+    ],
+    "sewer": [
+      "Sewer Connected"
+    ],
+    "bathroomsPartial": null,
+    "fencing": "Partial",
+    "spaFeatures": null,
+    "waterViewYN": null,
+    "buildingName": null,
+    "attic": null,
+    "petsMaxWeight": null,
+    "cumulativeDaysOnMarket": null,
+    "waterfrontFeatures": null,
+    "additionalParcelsDescription": null,
+    "canRaiseHorses": false,
+    "hasLandLease": false,
+    "communityFeatures": null,
+    "waterBodyName": null,
+    "middleOrJuniorSchool": null,
+    "lotSizeDimensions": null,
+    "virtualTour": "https://www.propertypanorama.com/instaview/snd/250036975",
+    "contingency": null,
+    "yearBuilt": 2025,
+    "utilities": null,
+    "totalActualRent": null,
+    "bathroomsFull": 3,
+    "parcelNumber": "4308304400",
+    "incomeIncludes": null,
+    "highSchool": null,
+    "taxAnnualAmount": 9150,
+    "subdivisionName": "BAY PARK",
+    "storiesTotal": 2,
+    "storiesDecimal": null,
+    "specialListingConditions": null,
+    "windowFeatures": null,
+    "ownership": null,
+    "woodedArea": null,
+    "middleOrJuniorSchoolDistrict": null,
+    "associationPhone2": null,
+    "onMarketDate": 1755977474000,
+    "roomTypes": null,
+    "frontageLength": null,
+    "roadSurfaceType": null,
+    "associationAmenities": null,
+    "propertySubType": [
+      "Single Family Residence"
+    ],
+    "hasCooling": true,
+    "levels": "2 Story",
+    "coveredParkingCapacity": 2,
+    "foundationArea": null,
+    "zoning": "R-1:SINGLE",
+    "hoaFee": null,
+    "livingAreaRange": null,
+    "parkingFeatures": [
+      "Attached"
+    ],
+    "parkingCapacity": 4,
+    "cropsIncludedYN": null,
+    "tenantPays": null,
+    "builderModel": null,
+    "otherStructures": null,
+    "otherFacts": {},
+    "additionalFeeInfo": null,
+    "hasView": false,
+    "openParkingCapacity": null,
+    "securityFeatures": null,
+    "numberOfUnitsInCommunity": null,
+    "hasHomeWarranty": false,
+    "basementYN": null,
+    "doorFeatures": null,
+    "ownershipType": null,
+    "aboveGradeFinishedArea": null,
+    "associations": {},
+    "waterView": null,
+    "electric": null,
+    "buildingFeatures": null,
+    "hasOpenParking": null,
+    "hasCarport": null,
+    "bathroomsHalf": 1,
+    "homeType": "SingleFamily",
+    "isSeniorCommunity": null,
+    "municipality": null,
+    "bathroomsThreeQuarter": null,
+    "hasSpa": false,
+    "basement": null,
+    "associationFee2": null,
+    "cooling": [
+      "Central Forced Air"
+    ],
+    "hasHeating": true,
+    "associationName2": null,
+    "hasRentControl": null,
+    "elementarySchoolDistrict": null,
+    "otherEquipment": null,
+    "bathrooms": 4,
+    "buildingArea": "3,008",
+    "furnished": false,
+    "vegetation": null,
+    "patioAndPorchFeatures": null,
+    "bathroomsFloat": 4,
+    "builderName": null,
+    "highSchoolDistrict": null,
+    "hasElectricOnProperty": null,
+    "laundryFeatures": [
+      "Gas &amp; Electric Dryer HU"
+    ],
+    "entryLocation": null,
+    "fireplaces": null,
+    "heating": [
+      "Forced Air Unit"
+    ],
+    "availabilityDate": null,
+    "carportParkingCapacity": null,
+    "hasAssociation": null,
+    "irrigationWaterRightsYN": null,
+    "isNewConstruction": null,
+    "associationFeeIncludes": null,
+    "leaseTerm": null,
+    "pricePerSquareFoot": 1080,
+    "associationName": null,
+    "elevation": null
+  },
+  "datePosted": "2025-08-23",
+  "bedrooms": 4,
+  "propertyTypeDimension": "Single Family",
+  "mortgageZHLRates": {
+    "thirtyYearFixedBucket": {
+      "rate": 6.402,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756266847930
+    },
+    "fifteenYearFixedBucket": {
+      "rate": 6.303,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756266847930
+    },
+    "arm5Bucket": {
+      "rate": 6.423,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756266847930
+    }
+  },
+  "comingSoonOnMarketDate": null,
+  "favoriteCount": 27,
+  "livingArea": 3008,
+  "zestimateHighPercent": "5",
+  "mlsid": "250036975",
+  "isListedByOwner": null,
+  "listingSubType": {
+    "is_comingSoon": false,
+    "is_pending": false,
+    "is_forAuction": false,
+    "is_bankOwned": false,
+    "is_FSBA": true,
+    "is_FSBO": false,
+    "is_newHome": false,
+    "is_foreclosure": false
+  },
+  "buildingId": null,
+  "country": "USA",
+  "price": 3249000,
+  "priceChangeDate": null,
+  "contingentListingType": null
+}

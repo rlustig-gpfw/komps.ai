@@ -1,0 +1,1678 @@
+{
+  "buildingPermits": null,
+  "contact_recipients": [
+    {
+      "agent_reason": 1,
+      "zpro": null,
+      "recent_sales": 0,
+      "review_count": 0,
+      "display_name": "Premier Broker Flex Atlanta GA",
+      "badge_type": "Premier Agent",
+      "business_name": "Zillow Group",
+      "rating_average": 0,
+      "phone": {
+        "prefix": "452",
+        "areacode": "206",
+        "number": "1030"
+      },
+      "zuid": "X1-ZUv2ktj4jt3nyh_98wrm",
+      "image_url": "https://www.zillowstatic.com/static/images/nophoto_h_g.png"
+    }
+  ],
+  "longitude": -117.23565,
+  "countyFIPS": "06073",
+  "imgSrc": "https://photos.zillowstatic.com/fp/211977d5220f0df7d059672a05244587-p_d.jpg",
+  "livingAreaValue": 944,
+  "streetAddress": "3575 Caminito El Rincon UNIT 214",
+  "county": "San Diego County",
+  "monthlyHoaFee": 375,
+  "timeZone": "America/Los_Angeles",
+  "taxHistory": [
+    {
+      "time": 1724734049888,
+      "valueIncreaseRate": 0.08994228,
+      "taxIncreaseRate": 0.078784265,
+      "taxPaid": 8552.58,
+      "value": 755330
+    },
+    {
+      "time": 1693111649888,
+      "valueIncreaseRate": 2.4083364,
+      "taxIncreaseRate": 1.9258212,
+      "taxPaid": 7927.98,
+      "value": 693000
+    },
+    {
+      "time": 1661575649888,
+      "valueIncreaseRate": 0.019996088,
+      "taxIncreaseRate": 0.030563215,
+      "taxPaid": 2709.66,
+      "value": 203325
+    },
+    {
+      "time": 1630039649888,
+      "valueIncreaseRate": 0.010354999,
+      "taxIncreaseRate": -0.0070243794,
+      "taxPaid": 2629.3,
+      "value": 199339
+    },
+    {
+      "time": 1598503649888,
+      "valueIncreaseRate": 0.019997105,
+      "taxIncreaseRate": 0.27769735,
+      "taxPaid": 2647.9,
+      "value": 197296
+    },
+    {
+      "time": 1566881249888,
+      "valueIncreaseRate": 0.019990824,
+      "taxIncreaseRate": -0.17569895,
+      "taxPaid": 2072.4,
+      "value": 193428
+    },
+    {
+      "time": 1535345249888,
+      "valueIncreaseRate": 0.019997956,
+      "taxIncreaseRate": 0.015326007,
+      "taxPaid": 2514.13,
+      "value": 189637
+    },
+    {
+      "time": 1503809249888,
+      "valueIncreaseRate": 0.01999177,
+      "taxIncreaseRate": 0.026957756,
+      "taxPaid": 2476.18,
+      "value": 185919
+    },
+    {
+      "time": 1472273249888,
+      "valueIncreaseRate": 0.015244683,
+      "taxIncreaseRate": 0.011867905,
+      "taxPaid": 2411.18,
+      "value": 182275
+    },
+    {
+      "time": 1440650849888,
+      "valueIncreaseRate": 0.019974776,
+      "taxIncreaseRate": 0.016144656,
+      "taxPaid": 2382.9,
+      "value": 179538
+    },
+    {
+      "time": 1409114849888,
+      "valueIncreaseRate": 0.004531239,
+      "taxIncreaseRate": 0,
+      "taxPaid": 2345.04,
+      "value": 176022
+    },
+    {
+      "time": 1377578849888,
+      "valueIncreaseRate": 0.019994995,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 175228
+    },
+    {
+      "time": 1346042849888,
+      "valueIncreaseRate": 0.019990975,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 171793
+    },
+    {
+      "time": 1314420449888,
+      "valueIncreaseRate": 0.007525364,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 168426
+    },
+    {
+      "time": 1282884449888,
+      "valueIncreaseRate": -0.0023751834,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 167168
+    },
+    {
+      "time": 1251348449888,
+      "valueIncreaseRate": 0.019996226,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 167566
+    },
+    {
+      "time": 1219812449888,
+      "valueIncreaseRate": 0.019992426,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 164281
+    },
+    {
+      "time": 1188190049888,
+      "valueIncreaseRate": 0.01999962,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 161061
+    },
+    {
+      "time": 1156654049888,
+      "valueIncreaseRate": 0.019992506,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 157903
+    },
+    {
+      "time": 1125118049888,
+      "valueIncreaseRate": 0.019990249,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 154808
+    },
+    {
+      "time": 1093582049888,
+      "valueIncreaseRate": 0.018665306,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 151774
+    },
+    {
+      "time": 1061959649888,
+      "valueIncreaseRate": 0.019996988,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 148993
+    },
+    {
+      "time": 1030423649888,
+      "valueIncreaseRate": 0.019991761,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 146072
+    },
+    {
+      "time": 998887649888,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 143209
+    }
+  ],
+  "dateSold": null,
+  "annualHomeownersInsurance": 3129,
+  "state": "CA",
+  "listed_by": {
+    "agent_reason": 3,
+    "zpro": false,
+    "recent_sales": 0,
+    "zuid": "X1-ZUsh7m1cj9v5zd_85kue",
+    "review_count": 0,
+    "display_name": "Brandon Williams",
+    "profile_url": "https://www.zillow.com/profile/Brandon-williams47/",
+    "business_name": "eXp Realty of California, Inc.",
+    "rating_average": 0,
+    "phone": {
+      "prefix": "371",
+      "areacode": "858",
+      "number": "5452"
+    },
+    "badge_type": "Listing Agent",
+    "image_url": "https://photos.zillowstatic.com/fp/3a4a6cbc11cad1c669055f3a3f4ac537-h_n.jpg"
+  },
+  "yearBuilt": 1996,
+  "brokerageName": "eXp Realty of California, Inc.",
+  "description": "Resort-style living blends seamlessly with coastal charm in this ideally located home, offering the perfect balance of relaxation and convenience. Situated just minutes from the golden sands of Del Mar and the scenic trails of Torrey Pines, you’ll enjoy effortless access to some of Southern California’s most iconic beaches, nature preserves, and dining destinations. Spend your mornings walking along the shoreline, your afternoons exploring coastal trails, and your evenings savoring fresh cuisine at nearby restaurants. Within the community, every day feels like a getaway. Take a refreshing dip in the sparkling pool, challenge friends to a match on the tennis court, or maintain your active lifestyle in the private fitness center. Beautifully landscaped grounds provide peaceful green spaces to unwind, while the welcoming neighborhood atmosphere fosters a true sense of community. Whether you’re relaxing in the sun, staying active, or catching breathtaking sunsets over the Pacific, this prime coastal retreat offers more than just a home—it’s a lifestyle.",
+  "climate": {
+    "windSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "probability": {},
+        "source": {
+          "url": "https://firststreet.org/property/3575-caminito-el-rincon-unit-214-san-diego-ca-92130/603332603_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 18
+      }
+    },
+    "floodSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "femaZone": "X_UNSHADED",
+        "source": {
+          "url": "https://firststreet.org/property/3575-caminito-el-rincon-unit-214-san-diego-ca-92130/603332603_fsid"
+        },
+        "probability": [
+          {
+            "relativeYear": 0,
+            "probability": 0
+          },
+          {
+            "relativeYear": 5,
+            "probability": 0
+          },
+          {
+            "relativeYear": 10,
+            "probability": 0
+          },
+          {
+            "relativeYear": 15,
+            "probability": 0
+          },
+          {
+            "relativeYear": 20,
+            "probability": 0
+          },
+          {
+            "relativeYear": 25,
+            "probability": 0
+          },
+          {
+            "relativeYear": 30,
+            "probability": 0
+          }
+        ],
+        "insuranceSeparatePolicy": "NOT_REQUIRED",
+        "historicCountPropertyAll": 0
+      }
+    },
+    "fireSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "probability": {},
+        "source": {
+          "url": "https://firststreet.org/property/3575-caminito-el-rincon-unit-214-san-diego-ca-92130/603332603_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 18
+      }
+    },
+    "heatSources": {
+      "primary": {
+        "percentile98Temp": 86,
+        "hotDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 7
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 9
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 11
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 13
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 15
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 17
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 19
+          }
+        ],
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 3
+        },
+        "source": {
+          "url": "https://firststreet.org/property/3575-caminito-el-rincon-unit-214-san-diego-ca-92130/603332603_fsid"
+        }
+      }
+    },
+    "airSources": {
+      "primary": {
+        "source": {
+          "url": "https://firststreet.org/property/3575-caminito-el-rincon-unit-214-san-diego-ca-92130/603332603_fsid"
+        },
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 3
+        },
+        "badAirDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 4
+          }
+        ]
+      }
+    }
+  },
+  "latitude": 32.94459,
+  "nearbyHomes": [
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "sqft",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "3585 Caminito El Rincon UNIT 198"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/3585-Caminito-El-Rincon-UNIT-198-San-Diego-CA-92130/16777544_zpid/",
+      "lotAreaValue": null,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "3585 Caminito El Rincon UNIT 198",
+        "zipcode": "92130"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.944576,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 789700,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Apartment",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/5f1a10dc2a4c2981036880dbe3430780-p_c.jpg"
+        }
+      ],
+      "zpid": 16777544,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 944,
+      "longitude": -117.23566,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": "2kf8sqcda44yz",
+      "homeType": "APARTMENT",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 944
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "3585 Caminito El Rincon UNIT 199"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/3585-Caminito-El-Rincon-UNIT-199-San-Diego-CA-92130/16777545_zpid/",
+      "lotAreaValue": 1.628650137741,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "3585 Caminito El Rincon UNIT 199",
+        "zipcode": "92130"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.944576,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 752400,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 70944,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/c5b15b0ded07d6bab18be6d27a1448e2-p_c.jpg"
+        }
+      ],
+      "zpid": 16777545,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 944,
+      "longitude": -117.23566,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 944
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "3585 Caminito El Rincon UNIT 200"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/3585-Caminito-El-Rincon-UNIT-200-San-Diego-CA-92130/16777546_zpid/",
+      "lotAreaValue": 1.63,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "3585 Caminito El Rincon UNIT 200",
+        "zipcode": "92130"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.944576,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 795700,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Apartment",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 71002,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/e982fda6a2dd4284ca9e820bd1176cf3-p_c.jpg"
+        }
+      ],
+      "zpid": 16777546,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 944,
+      "longitude": -117.23566,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": "207fj8v6epr5y",
+      "homeType": "APARTMENT",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 944
+    },
+    {
+      "hdpTypeDimension": "Zestimate",
+      "lotAreaUnits": "sqft",
+      "isShowcaseListing": false,
+      "longitude": -117.23566,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "3585 Caminito El Rincon UNIT 201",
+        "zipcode": "92130"
+      },
+      "livingAreaValue": 944,
+      "lotSize": null,
+      "zpid": 16777547,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "APARTMENT",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 2,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "3585 Caminito El Rincon UNIT 201"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "hdpUrl": "/homedetails/3585-Caminito-El-Rincon-UNIT-201-San-Diego-CA-92130/16777547_zpid/",
+      "lotAreaValue": null,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "OTHER",
+      "latitude": 32.944576,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Apartment",
+      "newConstructionType": null,
+      "yearBuilt": null,
+      "listingTypeDimension": "Unknown Listed By",
+      "livingArea": 944,
+      "providerListingID": "4mrqvdspj6uws",
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/6366d04a69585570cc39a9099bb40526-p_c.jpg"
+        }
+      ],
+      "currency": "USD",
+      "price": 792600,
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "3585 Caminito El Rincon UNIT 202"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/3585-Caminito-El-Rincon-UNIT-202-San-Diego-CA-92130/16777548_zpid/",
+      "lotAreaValue": 1.628650137741,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "3585 Caminito El Rincon UNIT 202",
+        "zipcode": "92130"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.944576,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 783400,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Apartment",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 70944,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/3a34b2ccd8c39138eb3114c3b725e714-p_c.jpg"
+        }
+      ],
+      "zpid": 16777548,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 944,
+      "longitude": -117.23566,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "APARTMENT",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 944
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "3565 Caminito El Rincon UNIT 205"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/3565-Caminito-El-Rincon-UNIT-205-San-Diego-CA-92130/16777550_zpid/",
+      "lotAreaValue": 1.628650137741,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "3565 Caminito El Rincon UNIT 205",
+        "zipcode": "92130"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.944576,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 721200,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 70944,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=3565+Caminito+El+Rincon%2C+San+Diego%2C+CA+92130&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=nLouQsHRDVeLgolGLwk9WNEauyA="
+        }
+      ],
+      "zpid": 16777550,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 944,
+      "longitude": -117.23566,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 944
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "3565 Caminito El Rincon UNIT 206"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/3565-Caminito-El-Rincon-UNIT-206-San-Diego-CA-92130/16777551_zpid/",
+      "lotAreaValue": 1.628650137741,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "3565 Caminito El Rincon UNIT 206",
+        "zipcode": "92130"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.944576,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 786300,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Multi Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 70944,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/65e9531d606b495495aad722026ab5db-p_c.jpg"
+        }
+      ],
+      "zpid": 16777551,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 944,
+      "longitude": -117.23566,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "MULTI_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 944
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "3565 Caminito El Rincon UNIT 207"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/3565-Caminito-El-Rincon-UNIT-207-San-Diego-CA-92130/16777552_zpid/",
+      "lotAreaValue": 1.628650137741,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "3565 Caminito El Rincon UNIT 207",
+        "zipcode": "92130"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.944576,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 782400,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 70944,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/88261f7bdab9dc2b671cfbb0841aa886-p_c.jpg"
+        }
+      ],
+      "zpid": 16777552,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 944,
+      "longitude": -117.23566,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 944
+    }
+  ],
+  "priceHistory": [
+    {
+      "priceChangeRate": 0.026170798898072,
+      "date": "2025-08-20",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1755648000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "250036316"
+      },
+      "pricePerSquareFoot": 789,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 745000
+    },
+    {
+      "priceChangeRate": 4.5846153846154,
+      "date": "2022-02-04",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 1643932800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 769,
+      "buyerAgent": {
+        "name": "Brandon Williams",
+        "photo": null,
+        "profileUrl": "/profile/Brandon-williams47/"
+      },
+      "event": "Sold",
+      "price": 726000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2020-05-30",
+      "source": "North County Property Group",
+      "postingIsRental": true,
+      "time": 1590796800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "North County Property Group",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 4,
+      "buyerAgent": null,
+      "event": "Listing removed",
+      "price": 3750
+    },
+    {
+      "priceChangeRate": 0.076040172166428,
+      "date": "2020-02-26",
+      "source": "North County Property Group",
+      "postingIsRental": true,
+      "time": 1582675200000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "North County Property Group",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 4,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 3750
+    },
+    {
+      "priceChangeRate": 0.034124629080119,
+      "date": "2019-05-31",
+      "source": "North County Property Group",
+      "postingIsRental": true,
+      "time": 1559260800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "North County Property Group",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 4,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 3485
+    },
+    {
+      "priceChangeRate": 0.053125,
+      "date": "2019-02-20",
+      "source": "North County Property Group",
+      "postingIsRental": true,
+      "time": 1550620800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "North County Property Group",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 4,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 3370
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2018-06-07",
+      "source": "North County Property Group",
+      "postingIsRental": true,
+      "time": 1528329600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "North County Property Group",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 3,
+      "buyerAgent": null,
+      "event": "Listed for rent",
+      "price": 3200
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2018-05-07",
+      "source": "North County Property Group",
+      "postingIsRental": true,
+      "time": 1525651200000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "North County Property Group",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 3,
+      "buyerAgent": null,
+      "event": "Listing removed",
+      "price": 3200
+    },
+    {
+      "priceChangeRate": -0.058823529411765,
+      "date": "2018-01-20",
+      "source": "North County Property Group",
+      "postingIsRental": true,
+      "time": 1516406400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "North County Property Group",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 3,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 3200
+    },
+    {
+      "priceChangeRate": -0.055555555555556,
+      "date": "2017-11-16",
+      "source": "North County Property Group",
+      "postingIsRental": true,
+      "time": 1510790400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "North County Property Group",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 4,
+      "buyerAgent": null,
+      "event": "Listed for rent",
+      "price": 3400
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2017-08-22",
+      "source": "North County Property Group",
+      "postingIsRental": true,
+      "time": 1503360000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "North County Property Group",
+        "infoString3": null,
+        "infoString1": "170038736"
+      },
+      "pricePerSquareFoot": 4,
+      "buyerAgent": null,
+      "event": "Listing removed",
+      "price": 3600
+    },
+    {
+      "priceChangeRate": -0.052631578947368,
+      "date": "2017-08-18",
+      "source": "North County Property Group",
+      "postingIsRental": true,
+      "time": 1503014400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "North County Property Group",
+        "infoString3": null,
+        "infoString1": "170038736"
+      },
+      "pricePerSquareFoot": 4,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 3600
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2017-07-25",
+      "source": "North County Property Group",
+      "postingIsRental": true,
+      "time": 1500940800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "North County Property Group",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 4,
+      "buyerAgent": null,
+      "event": "Listed for rent",
+      "price": 3800
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "1995-11-01",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 815184000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 138,
+      "buyerAgent": null,
+      "event": "Sold",
+      "price": 130000
+    }
+  ],
+  "neighborhoodMapThumb": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/211977d5220f0df7d059672a05244587-p_c.jpg"
+    }
+  ],
+  "schools": [
+    {
+      "link": "https://www.greatschools.org/california/san-diego/5876-Carmel-Del-Mar-Elementary-School/",
+      "rating": 8,
+      "totalCount": null,
+      "distance": 0.5,
+      "assigned": null,
+      "name": "Carmel Del Mar Elementary School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Elementary",
+      "grades": "K-6",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/11118-Carmel-Valley-Middle-School/",
+      "rating": 8,
+      "totalCount": null,
+      "distance": 0.3,
+      "assigned": null,
+      "name": "Carmel Valley Middle School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Middle",
+      "grades": "7-8",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6091-Torrey-Pines-High-School/",
+      "rating": 10,
+      "totalCount": null,
+      "distance": 1.1,
+      "assigned": null,
+      "name": "Torrey Pines High School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "High",
+      "grades": "9-12",
+      "type": "Public"
+    }
+  ],
+  "rentZestimate": 3452,
+  "city": "San Diego",
+  "providerListingID": null,
+  "currency": "USD",
+  "listingProvider": null,
+  "propertyTaxRate": 1.17,
+  "isShowcaseListing": false,
+  "openHouseSchedule": {},
+  "mortgageRates": null,
+  "address": {
+    "community": null,
+    "city": "San Diego",
+    "state": "CA",
+    "neighborhood": null,
+    "subdivision": "CARMEL VALLEY",
+    "streetAddress": "3575 Caminito El Rincon UNIT 214",
+    "zipcode": "92130"
+  },
+  "cityId": 54296,
+  "timeOnZillow": "12 days",
+  "priceChange": null,
+  "zestimate": 749100,
+  "zpid": 16777559,
+  "countyId": 2841,
+  "homeType": "SINGLE_FAMILY",
+  "livingAreaUnits": "sqft",
+  "pageViewCount": 1449,
+  "homeInsights": null,
+  "bathrooms": 2,
+  "neighborhoodRegion": {
+    "name": "Carmel Valley"
+  },
+  "zipcode": "92130",
+  "building": null,
+  "zestimateLowPercent": "5",
+  "brokerId": null,
+  "stateId": 9,
+  "url": "/homedetails/3575-Caminito-El-Rincon-UNIT-214-San-Diego-CA-92130/16777559_zpid/",
+  "solarPotential": null,
+  "attributionInfo": {
+    "buyerAgentName": null,
+    "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_95_35.jpg",
+    "mlsName": "SDMLS",
+    "coAgentLicenseNumber": null,
+    "listingAgreement": null,
+    "listingOffices": [
+      {
+        "associatedOfficeType": "listOffice",
+        "officeName": "eXp Realty of California, Inc."
+      }
+    ],
+    "infoString10": "This information is deemed reliable but not guaranteed. You should rely on this information only to decide whether or not to further investigate a particular property.\nBEFORE MAKING ANY OTHER DECISION, YOU SHOULD PERSONALLY INVESTIGATE THE FACTS (e.g. square footage and lot size) with the assistance of an appropriate professional. You may use this information only to identify properties you may be interested in investigating further. All uses except for personal, noncommercial use in accordance with the foregoing purpose are prohibited. Redistribution or copying of this information, any photographs or video tours is strictly\nprohibited. This information is derived from the Internet Data Exchange (IDX) service provided by San Diego MLS. Displayed property listings may be held by a brokerage firm other than the broker and/or agent responsible for this display. The information and any photographs and video tours and the compilation from which they are derived is protected by copyright. Compilation © 2025 San Diego MLS.",
+    "buyerAgentMemberStateLicense": null,
+    "brokerName": "eXp Realty of California, Inc.",
+    "listingAttributionContact": null,
+    "lastUpdated": "2025-08-20 09:03:15",
+    "trueStatus": null,
+    "listingAgentAttributionContact": null,
+    "agentEmail": null,
+    "agentName": "Brandon Williams",
+    "attributionTitle": null,
+    "mlsId": "250036316",
+    "coAgentName": null,
+    "coAgentNumber": null,
+    "infoString5": "760-717-7631",
+    "listingAgents": [
+      {
+        "memberStateLicense": "DRE #02143226",
+        "memberFullName": "Brandon Williams",
+        "associatedAgentType": "listAgent"
+      }
+    ],
+    "agentPhoneNumber": "760-717-7631",
+    "agentLicenseNumber": "DRE #02143226",
+    "providerLogo": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_95_35.jpg",
+    "infoString16": null,
+    "buyerBrokerageName": null,
+    "mlsDisclaimer": "This information is deemed reliable but not guaranteed. You should rely on this information only to decide whether or not to further investigate a particular property.\nBEFORE MAKING ANY OTHER DECISION, YOU SHOULD PERSONALLY INVESTIGATE THE FACTS (e.g. square footage and lot size) with the assistance of an appropriate professional. You may use this information only to identify properties you may be interested in investigating further. All uses except for personal, noncommercial use in accordance with the foregoing purpose are prohibited. Redistribution or copying of this information, any photographs or video tours is strictly\nprohibited. This information is derived from the Internet Data Exchange (IDX) service provided by San Diego MLS. Displayed property listings may be held by a brokerage firm other than the broker and/or agent responsible for this display. The information and any photographs and video tours and the compilation from which they are derived is protected by copyright. Compilation © 2025 San Diego MLS.",
+    "brokerPhoneNumber": "888-584-9427",
+    "lastChecked": "2025-08-26 21:43:20"
+  },
+  "priceChangeDateString": null,
+  "photoCount": 23,
+  "homeStatus": "FOR_SALE",
+  "homeFacts": null,
+  "resoFacts": {
+    "hasAttachedProperty": false,
+    "frontageType": null,
+    "poolFeatures": [
+      "Community/Common"
+    ],
+    "flooring": null,
+    "foundationDetails": {},
+    "accessibilityFeatures": null,
+    "hasGarage": true,
+    "hasPetsAllowed": null,
+    "bodyType": null,
+    "topography": null,
+    "landLeaseExpirationDate": null,
+    "hasAdditionalParcels": false,
+    "parkName": null,
+    "livingQuarters": {},
+    "taxAssessedValue": 755330,
+    "atAGlanceFacts": [
+      {
+        "factValue": "Single Family Residence",
+        "factLabel": "Type"
+      },
+      {
+        "factValue": "1996",
+        "factLabel": "Year Built"
+      },
+      {
+        "factValue": "Forced Air Unit",
+        "factLabel": "Heating"
+      },
+      {
+        "factValue": "Central Forced Air",
+        "factLabel": "Cooling"
+      },
+      {
+        "factValue": "1 Garage space",
+        "factLabel": "Parking"
+      },
+      {
+        "factValue": "$375 monthly",
+        "factLabel": "HOA"
+      },
+      {
+        "factValue": "1.63 Acres",
+        "factLabel": "Lot"
+      },
+      {
+        "factValue": "12 Days",
+        "factLabel": "Days on Zillow"
+      },
+      {
+        "factValue": "$789",
+        "factLabel": "Price/sqft"
+      },
+      {
+        "factValue": null,
+        "factLabel": "Offer Review Date"
+      }
+    ],
+    "offerReviewDate": null,
+    "horseYN": null,
+    "view": {},
+    "rooms": {},
+    "belowGradeFinishedArea": null,
+    "feesAndDues": [
+      {
+        "phone": null,
+        "name": "Camino Villas II Homeowne",
+        "fee": "$375 monthly",
+        "type": "HOA"
+      }
+    ],
+    "cityRegion": "San Diego",
+    "mainLevelBathrooms": null,
+    "hasPrivatePool": null,
+    "landLeaseAmount": null,
+    "waterSource": [
+      "Meter on Property"
+    ],
+    "exteriorFeatures": {},
+    "inclusions": null,
+    "hasFireplace": null,
+    "gas": null,
+    "propertyCondition": null,
+    "elevationUnits": null,
+    "exclusions": null,
+    "mainLevelBedrooms": null,
+    "numberOfUnitsVacant": null,
+    "hasWaterfrontView": null,
+    "bathroomsOneQuarter": null,
+    "lotSize": "1.63 Acres",
+    "entryLevel": null,
+    "media": {},
+    "greenWaterConservation": null,
+    "stories": 2,
+    "livingArea": "944 sqft",
+    "commonWalls": null,
+    "listingTerms": "Cash,Conventional",
+    "otherParking": null,
+    "associationFee": "$375 monthly",
+    "marketingType": null,
+    "greenIndoorAirQuality": null,
+    "greenSustainability": null,
+    "livingAreaRangeUnits": null,
+    "associationPhone": null,
+    "greenBuildingVerificationType": null,
+    "hasAttachedGarage": null,
+    "bedrooms": 2,
+    "architecturalStyle": null,
+    "listingId": null,
+    "structureType": null,
+    "interiorFeatures": null,
+    "horseAmenities": null,
+    "garageParkingCapacity": 1,
+    "developmentStatus": null,
+    "lotFeatures": null,
+    "roofType": "Composition",
+    "compensationBasedOn": null,
+    "greenEnergyGeneration": null,
+    "daysOnZillow": 12,
+    "listAOR": "San Diego Association of REALTOR",
+    "buildingAreaSource": null,
+    "elementarySchool": null,
+    "zoningDescription": "R-1:SINGLE",
+    "irrigationWaterRightsAcres": null,
+    "yearBuiltEffective": null,
+    "greenEnergyEfficient": null,
+    "constructionMaterials": [
+      "Stucco"
+    ],
+    "fireplaceFeatures": [
+      "FP in Family Room"
+    ],
+    "hoaFeeTotal": "$375 monthly",
+    "appliances": [
+      "Dishwasher",
+      "Disposal",
+      "Dryer",
+      "Microwave",
+      "Pool/Spa/Equipment",
+      "Range/Oven",
+      "Refrigerator",
+      "Washer",
+      "Gas Water Heater"
+    ],
+    "sewer": [
+      "Sewer Connected"
+    ],
+    "bathroomsPartial": null,
+    "fencing": "Partial,Other/Remarks",
+    "spaFeatures": null,
+    "waterViewYN": null,
+    "buildingName": "Camino Villas II",
+    "attic": null,
+    "petsMaxWeight": null,
+    "cumulativeDaysOnMarket": null,
+    "waterfrontFeatures": null,
+    "additionalParcelsDescription": null,
+    "canRaiseHorses": false,
+    "hasLandLease": false,
+    "communityFeatures": [
+      "Clubhouse/Rec Room",
+      "Exercise Room",
+      "Pool"
+    ],
+    "waterBodyName": null,
+    "middleOrJuniorSchool": null,
+    "lotSizeDimensions": null,
+    "virtualTour": null,
+    "contingency": null,
+    "yearBuilt": 1996,
+    "utilities": null,
+    "totalActualRent": null,
+    "bathroomsFull": 2,
+    "parcelNumber": "3073102726",
+    "incomeIncludes": null,
+    "highSchool": null,
+    "taxAnnualAmount": 8553,
+    "subdivisionName": "CARMEL VALLEY",
+    "storiesTotal": null,
+    "storiesDecimal": 2,
+    "specialListingConditions": null,
+    "windowFeatures": null,
+    "ownership": null,
+    "woodedArea": null,
+    "middleOrJuniorSchoolDistrict": "San Dieguito High School Distric",
+    "associationPhone2": null,
+    "onMarketDate": 1755213876000,
+    "roomTypes": null,
+    "frontageLength": null,
+    "roadSurfaceType": null,
+    "associationAmenities": null,
+    "propertySubType": [
+      "Single Family Residence"
+    ],
+    "hasCooling": true,
+    "levels": "Other/Remarks",
+    "coveredParkingCapacity": 1,
+    "foundationArea": null,
+    "zoning": "R-1:SINGLE",
+    "hoaFee": "$375 monthly",
+    "livingAreaRange": null,
+    "parkingFeatures": [
+      "Assigned"
+    ],
+    "parkingCapacity": 1,
+    "cropsIncludedYN": null,
+    "tenantPays": null,
+    "builderModel": null,
+    "otherStructures": null,
+    "otherFacts": {},
+    "additionalFeeInfo": null,
+    "hasView": false,
+    "openParkingCapacity": null,
+    "securityFeatures": null,
+    "numberOfUnitsInCommunity": 180,
+    "hasHomeWarranty": false,
+    "basementYN": null,
+    "doorFeatures": null,
+    "ownershipType": null,
+    "aboveGradeFinishedArea": null,
+    "associations": [
+      {
+        "feeFrequency": "$375 monthly",
+        "name": "Camino Villas II Homeowne",
+        "phone": null
+      }
+    ],
+    "waterView": null,
+    "electric": null,
+    "buildingFeatures": null,
+    "hasOpenParking": null,
+    "hasCarport": null,
+    "bathroomsHalf": 0,
+    "homeType": "SingleFamily",
+    "isSeniorCommunity": null,
+    "municipality": null,
+    "bathroomsThreeQuarter": null,
+    "hasSpa": false,
+    "basement": null,
+    "associationFee2": null,
+    "cooling": [
+      "Central Forced Air"
+    ],
+    "hasHeating": true,
+    "associationName2": null,
+    "hasRentControl": null,
+    "elementarySchoolDistrict": "Del Mar Union School District",
+    "otherEquipment": null,
+    "bathrooms": 2,
+    "buildingArea": "944",
+    "furnished": false,
+    "vegetation": null,
+    "patioAndPorchFeatures": null,
+    "bathroomsFloat": 2,
+    "builderName": null,
+    "highSchoolDistrict": "San Dieguito High School Distric",
+    "hasElectricOnProperty": null,
+    "laundryFeatures": [
+      "Gas"
+    ],
+    "entryLocation": null,
+    "fireplaces": 1,
+    "heating": [
+      "Forced Air Unit"
+    ],
+    "availabilityDate": null,
+    "carportParkingCapacity": null,
+    "hasAssociation": null,
+    "irrigationWaterRightsYN": null,
+    "isNewConstruction": null,
+    "associationFeeIncludes": [
+      "Exterior (Landscaping)",
+      "Limited Insurance",
+      "Roof Maintenance",
+      "Trash Pickup",
+      "Water"
+    ],
+    "leaseTerm": null,
+    "pricePerSquareFoot": 789,
+    "associationName": "Camino Villas II Homeowne",
+    "elevation": null
+  },
+  "datePosted": "2025-08-14",
+  "bedrooms": 2,
+  "propertyTypeDimension": "Single Family",
+  "mortgageZHLRates": {
+    "thirtyYearFixedBucket": {
+      "rate": 6.286,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756264058261
+    },
+    "fifteenYearFixedBucket": {
+      "rate": 5.578,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756264058261
+    },
+    "arm5Bucket": {
+      "rate": 6.502,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756264058261
+    }
+  },
+  "comingSoonOnMarketDate": null,
+  "favoriteCount": 73,
+  "livingArea": 944,
+  "zestimateHighPercent": "5",
+  "mlsid": "250036316",
+  "isListedByOwner": null,
+  "listingSubType": {
+    "is_comingSoon": false,
+    "is_pending": false,
+    "is_forAuction": false,
+    "is_bankOwned": false,
+    "is_FSBA": true,
+    "is_FSBO": false,
+    "is_newHome": false,
+    "is_foreclosure": false
+  },
+  "buildingId": "1001724091",
+  "country": "USA",
+  "price": 745000,
+  "priceChangeDate": null,
+  "contingentListingType": null
+}

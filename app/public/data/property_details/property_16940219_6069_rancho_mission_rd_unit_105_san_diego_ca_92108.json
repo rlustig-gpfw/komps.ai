@@ -1,0 +1,1851 @@
+{
+  "buildingPermits": null,
+  "contact_recipients": [
+    {
+      "agent_reason": 1,
+      "zpro": null,
+      "recent_sales": 0,
+      "review_count": 0,
+      "display_name": "Premier Broker Flex Atlanta GA",
+      "badge_type": "Premier Agent",
+      "business_name": "Zillow Group",
+      "rating_average": 0,
+      "phone": {
+        "prefix": "452",
+        "areacode": "206",
+        "number": "1030"
+      },
+      "zuid": "X1-ZUv2ktj4jt3nyh_98wrm",
+      "image_url": "https://www.zillowstatic.com/static/images/nophoto_h_g.png"
+    }
+  ],
+  "longitude": -117.10969,
+  "countyFIPS": "06073",
+  "imgSrc": "https://photos.zillowstatic.com/fp/11f798626ffd2df81e5524c77a75c9c5-p_d.jpg",
+  "livingAreaValue": 834,
+  "streetAddress": "6069 Rancho Mission Rd UNIT 105",
+  "county": "San Diego County",
+  "monthlyHoaFee": 448,
+  "timeZone": "America/Los_Angeles",
+  "taxHistory": [
+    {
+      "time": 1724733798330,
+      "valueIncreaseRate": 0.01999543,
+      "taxIncreaseRate": 0.023025319,
+      "taxPaid": 3893.88,
+      "value": 321474
+    },
+    {
+      "time": 1693111398330,
+      "valueIncreaseRate": 0.019997217,
+      "taxIncreaseRate": 0.027691394,
+      "taxPaid": 3806.24,
+      "value": 315172
+    },
+    {
+      "time": 1661575398330,
+      "valueIncreaseRate": 0.01999769,
+      "taxIncreaseRate": -0.01578498,
+      "taxPaid": 3703.68,
+      "value": 308993
+    },
+    {
+      "time": 1630039398330,
+      "valueIncreaseRate": 0.010359238,
+      "taxIncreaseRate": 0.012206506,
+      "taxPaid": 3763.08,
+      "value": 302935
+    },
+    {
+      "time": 1598503398330,
+      "valueIncreaseRate": 0.02,
+      "taxIncreaseRate": 0.026586264,
+      "taxPaid": 3717.7,
+      "value": 299829
+    },
+    {
+      "time": 1566880998330,
+      "valueIncreaseRate": 0.019993894,
+      "taxIncreaseRate": 0.06040474,
+      "taxPaid": 3621.42,
+      "value": 293950
+    },
+    {
+      "time": 1535344998330,
+      "valueIncreaseRate": 0.0199937,
+      "taxIncreaseRate": 0.02427267,
+      "taxPaid": 3415.13,
+      "value": 288188
+    },
+    {
+      "time": 1503808998330,
+      "valueIncreaseRate": 0.01999639,
+      "taxIncreaseRate": 0.016257884,
+      "taxPaid": 3334.2,
+      "value": 282539
+    },
+    {
+      "time": 1472272998330,
+      "valueIncreaseRate": 0.15416667,
+      "taxIncreaseRate": 0.15239203,
+      "taxPaid": 3280.86,
+      "value": 277000
+    },
+    {
+      "time": 1440650598330,
+      "valueIncreaseRate": 0.06666667,
+      "taxIncreaseRate": 0.061774578,
+      "taxPaid": 2847,
+      "value": 240000
+    },
+    {
+      "time": 1409114598330,
+      "valueIncreaseRate": 0.25,
+      "taxIncreaseRate": 0,
+      "taxPaid": 2681.36,
+      "value": 225000
+    },
+    {
+      "time": 1377578598330,
+      "valueIncreaseRate": 0.125,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 180000
+    },
+    {
+      "time": 1346042598330,
+      "valueIncreaseRate": -0.23809524,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 160000
+    },
+    {
+      "time": 1314420198330,
+      "valueIncreaseRate": 0.10526316,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 210000
+    },
+    {
+      "time": 1282884198330,
+      "valueIncreaseRate": -0.0952381,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 190000
+    },
+    {
+      "time": 1251348198330,
+      "valueIncreaseRate": -0.33816576,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 210000
+    },
+    {
+      "time": 1219812198330,
+      "valueIncreaseRate": 0.019998135,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 317300
+    },
+    {
+      "time": 1188189798330,
+      "valueIncreaseRate": 0.019998033,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 311079
+    },
+    {
+      "time": 1156653798330,
+      "valueIncreaseRate": 1.8117049,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 304980
+    },
+    {
+      "time": 1125117798330,
+      "valueIncreaseRate": 0.0199921,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 108468
+    },
+    {
+      "time": 1093581798330,
+      "valueIncreaseRate": 0.018660076,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 106342
+    },
+    {
+      "time": 1061959398330,
+      "valueIncreaseRate": 0.019990621,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 104394
+    },
+    {
+      "time": 1030423398330,
+      "valueIncreaseRate": 0.019991629,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 102348
+    },
+    {
+      "time": 998887398330,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 100342
+    }
+  ],
+  "dateSold": null,
+  "annualHomeownersInsurance": 2390,
+  "state": "CA",
+  "listed_by": {
+    "agent_reason": null,
+    "zpro": null,
+    "recent_sales": null,
+    "review_count": null,
+    "display_name": null,
+    "badge_type": null,
+    "business_name": null,
+    "rating_average": null,
+    "phone": null,
+    "zuid": null,
+    "image_url": null
+  },
+  "yearBuilt": 1981,
+  "brokerageName": "Keller Williams La Jolla",
+  "description": "$20K PRICE REDUCTION!! -MOTIVATED SELLER. Sleek, stylish, and fully renovated, this ground-floor condo in the highly sought-after Mission Plaza community offers modern design and everyday convenience in one perfect package. Step inside to a bright, open-concept layout featuring fresh paint, new flooring throughout, recessed lighting, and clean contemporary lines that create a welcoming and functional space.  The remodeled kitchen is a standout with updated cabinetry, stainless steel appliances, and plenty of counter space, ideal for cooking, entertaining, or simply enjoying your morning routine. Both bathrooms have been completely transformed with spa-like finishes, while the bedrooms offer peaceful retreats with generous closet space and natural light.  Enjoy your own private patio, perfect for sipping coffee in the morning or unwinding in the evening. Additional features include a covered carport with storage, a private storage room, and convenient access to the community laundry area.  Mission Plaza provides resort-style amenities including swimming pools, tennis courts, a fitness center, clubhouse, dog run, and BBQ areas, all just steps from your front door. Located in the heart of Mission Valley, this home is minutes from the Trolley Station, Snapdragon Stadium, premier shopping, dining, and major freeways.",
+  "climate": {
+    "windSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "probability": {},
+        "source": {
+          "url": "https://firststreet.org/property/6069-rancho-mission-rd-unit-105-san-diego-ca-92108/603562384_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 18
+      }
+    },
+    "floodSources": {
+      "primary": {
+        "insuranceRecommendation": "CRITICAL",
+        "riskScore": {
+          "label": "MAJOR",
+          "max": 10,
+          "value": 6
+        },
+        "femaZone": "X_SHADED",
+        "source": {
+          "url": "https://firststreet.org/property/6069-rancho-mission-rd-unit-105-san-diego-ca-92108/603562384_fsid"
+        },
+        "probability": [
+          {
+            "relativeYear": 0,
+            "probability": 0.03999999910593
+          },
+          {
+            "relativeYear": 5,
+            "probability": 0.23000000417233
+          },
+          {
+            "relativeYear": 10,
+            "probability": 0.37999999523163
+          },
+          {
+            "relativeYear": 15,
+            "probability": 0.50999999046326
+          },
+          {
+            "relativeYear": 20,
+            "probability": 0.60000002384186
+          },
+          {
+            "relativeYear": 25,
+            "probability": 0.68000000715256
+          },
+          {
+            "relativeYear": 30,
+            "probability": 0.74000000953674
+          }
+        ],
+        "insuranceSeparatePolicy": "STRONGLY_RECOMMENDED",
+        "historicCountPropertyAll": 0
+      }
+    },
+    "fireSources": {
+      "primary": {
+        "insuranceRecommendation": "RECOMMENDED",
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 3
+        },
+        "probability": [
+          {
+            "relativeYear": 0,
+            "probability": 9.9999997473788e-05
+          },
+          {
+            "relativeYear": 5,
+            "probability": 0.00069999997504056
+          },
+          {
+            "relativeYear": 10,
+            "probability": 0.0015000000130385
+          },
+          {
+            "relativeYear": 15,
+            "probability": 0.0024000001139939
+          },
+          {
+            "relativeYear": 20,
+            "probability": 0.0035000001080334
+          },
+          {
+            "relativeYear": 25,
+            "probability": 0.0048000002279878
+          },
+          {
+            "relativeYear": 30,
+            "probability": 0.0062000001780689
+          }
+        ],
+        "source": {
+          "url": "https://firststreet.org/property/6069-rancho-mission-rd-unit-105-san-diego-ca-92108/603562384_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 36
+      }
+    },
+    "heatSources": {
+      "primary": {
+        "percentile98Temp": 90,
+        "hotDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 7
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 10
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 12
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 15
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 17
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 20
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 22
+          }
+        ],
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 4
+        },
+        "source": {
+          "url": "https://firststreet.org/property/6069-rancho-mission-rd-unit-105-san-diego-ca-92108/603562384_fsid"
+        }
+      }
+    },
+    "airSources": {
+      "primary": {
+        "source": {
+          "url": "https://firststreet.org/property/6069-rancho-mission-rd-unit-105-san-diego-ca-92108/603562384_fsid"
+        },
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 3
+        },
+        "badAirDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 4
+          }
+        ]
+      }
+    }
+  },
+  "latitude": 32.784042,
+  "nearbyHomes": [
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "6069 Rancho Mission Rd UNIT 101"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/6069-Rancho-Mission-Rd-UNIT-101-San-Diego-CA-92108/16940215_zpid/",
+      "lotAreaValue": 8.1362718089991,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "6069 Rancho Mission Rd UNIT 101",
+        "zipcode": "92108"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.784058,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 584500,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 354416,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=6069+Rancho+Mission+Rd%2C+San+Diego%2C+CA+92108&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=9Eeqzg02GBn1K-vUxUqkB5eCwAc="
+        }
+      ],
+      "zpid": 16940215,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1039,
+      "longitude": -117.1096,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1039
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "6069 Rancho Mission Rd UNIT 102"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/6069-Rancho-Mission-Rd-UNIT-102-San-Diego-CA-92108/16940216_zpid/",
+      "lotAreaValue": 8.1362718089991,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "6069 Rancho Mission Rd UNIT 102",
+        "zipcode": "92108"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.784058,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 506900,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 354416,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=6069+Rancho+Mission+Rd%2C+San+Diego%2C+CA+92108&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=9Eeqzg02GBn1K-vUxUqkB5eCwAc="
+        }
+      ],
+      "zpid": 16940216,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 834,
+      "longitude": -117.1096,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 834
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "6069 Rancho Mission Rd UNIT 103"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/6069-Rancho-Mission-Rd-UNIT-103-San-Diego-CA-92108/16940217_zpid/",
+      "lotAreaValue": 8.1362718089991,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "6069 Rancho Mission Rd UNIT 103",
+        "zipcode": "92108"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.784058,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 508000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 354416,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/cb491c5778ec0e6ec62fbf79bb7216cb-p_c.jpg"
+        }
+      ],
+      "zpid": 16940217,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 834,
+      "longitude": -117.1096,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 834
+    },
+    {
+      "hdpTypeDimension": "Zestimate",
+      "lotAreaUnits": "sqft",
+      "isShowcaseListing": false,
+      "longitude": -117.1096,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "6069 Rancho Mission Rd UNIT 104",
+        "zipcode": "92108"
+      },
+      "livingAreaValue": 834,
+      "lotSize": null,
+      "zpid": 16940218,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "APARTMENT",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 2,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "6069 Rancho Mission Rd UNIT 104"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "hdpUrl": "/homedetails/6069-Rancho-Mission-Rd-UNIT-104-San-Diego-CA-92108/16940218_zpid/",
+      "lotAreaValue": null,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "OTHER",
+      "latitude": 32.784058,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Apartment",
+      "newConstructionType": null,
+      "yearBuilt": null,
+      "listingTypeDimension": "Unknown Listed By",
+      "livingArea": 834,
+      "providerListingID": "10wupxmp3uhcx",
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/59db4576ff3e8b0c3f8120d636036301-p_c.jpg"
+        }
+      ],
+      "currency": "USD",
+      "price": 502300,
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "6069 Rancho Mission Rd UNIT 106"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/6069-Rancho-Mission-Rd-UNIT-106-San-Diego-CA-92108/16940220_zpid/",
+      "lotAreaValue": 8.1362718089991,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "6069 Rancho Mission Rd UNIT 106",
+        "zipcode": "92108"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.784058,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 653800,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Multi Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 354416,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=6069+Rancho+Mission+Rd%2C+San+Diego%2C+CA+92108&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=9Eeqzg02GBn1K-vUxUqkB5eCwAc="
+        }
+      ],
+      "zpid": 16940220,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1039,
+      "longitude": -117.1096,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "MULTI_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1039
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "6069 Rancho Mission Rd UNIT 201"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/6069-Rancho-Mission-Rd-UNIT-201-San-Diego-CA-92108/16940221_zpid/",
+      "lotAreaValue": 8.1362718089991,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "6069 Rancho Mission Rd UNIT 201",
+        "zipcode": "92108"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.784058,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 598000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Apartment",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 354416,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/1ccf37744027e8e0d6631c23ff2b98ec-p_c.jpg"
+        }
+      ],
+      "zpid": 16940221,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1100,
+      "longitude": -117.1096,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "APARTMENT",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1100
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "sqft",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "6069 Rancho Mission Rd UNIT 202"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/6069-Rancho-Mission-Rd-UNIT-202-San-Diego-CA-92108/16940222_zpid/",
+      "lotAreaValue": null,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "6069 Rancho Mission Rd UNIT 202",
+        "zipcode": "92108"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.784058,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 516700,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Multi Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/f8a6b132f3e4b263b1bea58cf29289af-p_c.jpg"
+        }
+      ],
+      "zpid": 16940222,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 834,
+      "longitude": -117.1096,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "MULTI_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 834
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "6069 Rancho Mission Rd UNIT 203"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/6069-Rancho-Mission-Rd-UNIT-203-San-Diego-CA-92108/16940223_zpid/",
+      "lotAreaValue": 8.1362718089991,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "6069 Rancho Mission Rd UNIT 203",
+        "zipcode": "92108"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.784058,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 520000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 354416,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/f1b25d8b68cdf06299c110aa768edfee-p_c.jpg"
+        }
+      ],
+      "zpid": 16940223,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 834,
+      "longitude": -117.1096,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 834
+    }
+  ],
+  "priceHistory": [
+    {
+      "priceChangeRate": -0.01727115716753,
+      "date": "2025-08-13",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1755043200000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "250031446"
+      },
+      "pricePerSquareFoot": 682,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 569000
+    },
+    {
+      "priceChangeRate": -0.016977928692699,
+      "date": "2025-07-16",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1752624000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "250031446"
+      },
+      "pricePerSquareFoot": 694,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 579000
+    },
+    {
+      "priceChangeRate": 0.22708333333333,
+      "date": "2025-06-25",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1750809600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "250031446"
+      },
+      "pricePerSquareFoot": 706,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 589000
+    },
+    {
+      "priceChangeRate": -0.04,
+      "date": "2025-05-02",
+      "source": "CRMLS",
+      "postingIsRental": false,
+      "time": 1746144000000,
+      "sellerAgent": {
+        "name": "Lucas Morse",
+        "photo": null,
+        "profileUrl": "/profile/lmorse98/"
+      },
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "CRMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/cb8caaa629c0af2058e60add67b2f2ee-zillow_web_logo_inf_11.jpg",
+        "infoString1": "PTP2500030"
+      },
+      "pricePerSquareFoot": 576,
+      "buyerAgent": null,
+      "event": "Sold",
+      "price": 480000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2025-04-21",
+      "source": "CRMLS",
+      "postingIsRental": false,
+      "time": 1745193600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "CRMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/cb8caaa629c0af2058e60add67b2f2ee-zillow_web_logo_inf_11.jpg",
+        "infoString1": "PTP2500030"
+      },
+      "pricePerSquareFoot": 600,
+      "buyerAgent": null,
+      "event": "Pending sale",
+      "price": 500000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2025-03-25",
+      "source": "Zillow Rentals",
+      "postingIsRental": true,
+      "time": 1742860800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Zillow Rentals",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 3,
+      "buyerAgent": null,
+      "event": "Listing removed",
+      "price": 2700
+    },
+    {
+      "priceChangeRate": -0.018181818181818,
+      "date": "2025-03-22",
+      "source": "Zillow Rentals",
+      "postingIsRental": true,
+      "time": 1742601600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Zillow Rentals",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 3,
+      "buyerAgent": null,
+      "event": "Listed for rent",
+      "price": 2700
+    },
+    {
+      "priceChangeRate": -0.019607843137255,
+      "date": "2025-03-18",
+      "source": "CRMLS",
+      "postingIsRental": false,
+      "time": 1742256000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "CRMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/cb8caaa629c0af2058e60add67b2f2ee-zillow_web_logo_inf_11.jpg",
+        "infoString1": "PTP2500030"
+      },
+      "pricePerSquareFoot": 600,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 500000
+    },
+    {
+      "priceChangeRate": -0.028571428571429,
+      "date": "2025-02-26",
+      "source": "CRMLS",
+      "postingIsRental": false,
+      "time": 1740528000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "CRMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/cb8caaa629c0af2058e60add67b2f2ee-zillow_web_logo_inf_11.jpg",
+        "infoString1": "PTP2500030"
+      },
+      "pricePerSquareFoot": 612,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 510000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2025-01-27",
+      "source": "CRMLS",
+      "postingIsRental": false,
+      "time": 1737936000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "CRMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/cb8caaa629c0af2058e60add67b2f2ee-zillow_web_logo_inf_11.jpg",
+        "infoString1": "PTP2500030"
+      },
+      "pricePerSquareFoot": 629,
+      "buyerAgent": null,
+      "event": "Pending sale",
+      "price": 525000
+    },
+    {
+      "priceChangeRate": -0.018691588785047,
+      "date": "2025-01-14",
+      "source": "CRMLS",
+      "postingIsRental": false,
+      "time": 1736812800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "CRMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/cb8caaa629c0af2058e60add67b2f2ee-zillow_web_logo_inf_11.jpg",
+        "infoString1": "PTP2500030"
+      },
+      "pricePerSquareFoot": 629,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 525000
+    },
+    {
+      "priceChangeRate": 0.93140794223827,
+      "date": "2025-01-02",
+      "source": "CRMLS",
+      "postingIsRental": false,
+      "time": 1735776000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "CRMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/cb8caaa629c0af2058e60add67b2f2ee-zillow_web_logo_inf_11.jpg",
+        "infoString1": "PTP2500030"
+      },
+      "pricePerSquareFoot": 641,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 535000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2024-08-28",
+      "source": "Zillow Rentals",
+      "postingIsRental": true,
+      "time": 1724803200000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Zillow Rentals",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 3,
+      "buyerAgent": null,
+      "event": "Listing removed",
+      "price": 2750
+    },
+    {
+      "priceChangeRate": -0.067796610169492,
+      "date": "2024-08-22",
+      "source": "Zillow Rentals",
+      "postingIsRental": true,
+      "time": 1724284800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Zillow Rentals",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 3,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 2750
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2024-08-13",
+      "source": "Zillow Rentals",
+      "postingIsRental": true,
+      "time": 1723507200000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Zillow Rentals",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 4,
+      "buyerAgent": null,
+      "event": "Listed for rent",
+      "price": 2950
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2024-08-10",
+      "source": "Zillow Rentals",
+      "postingIsRental": true,
+      "time": 1723248000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Zillow Rentals",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": null,
+      "buyerAgent": null,
+      "event": "Listing removed",
+      "price": null
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2024-07-31",
+      "source": "Zillow Rentals",
+      "postingIsRental": true,
+      "time": 1722384000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Zillow Rentals",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 4,
+      "buyerAgent": null,
+      "event": "Listed for rent",
+      "price": 2950
+    },
+    {
+      "priceChangeRate": 0.0040306211216146,
+      "date": "2015-07-07",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 1436227200000,
+      "sellerAgent": {
+        "name": "Faith Wise",
+        "photo": null,
+        "profileUrl": "/profile/FaithWise1/"
+      },
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 332,
+      "buyerAgent": {
+        "name": "Robert Santangelo",
+        "photo": null,
+        "profileUrl": "/profile/robertsantangelo/"
+      },
+      "event": "Sold",
+      "price": 277000
+    },
+    {
+      "priceChangeRate": -0.080029877821053,
+      "date": "2015-05-02",
+      "source": "Coldwell Banker Residential Brokerage - Carmel Valley-Southern California",
+      "postingIsRental": false,
+      "time": 1430524800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Coldwell Banker Residential Brokerage - Carmel Valley-Southern California",
+        "infoString3": null,
+        "infoString1": "150023619"
+      },
+      "pricePerSquareFoot": 331,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 275888
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2014-07-04",
+      "source": "Coldwell Banker Residential Brokerage - Carmel Valley-Southern California",
+      "postingIsRental": false,
+      "time": 1404432000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Coldwell Banker Residential Brokerage - Carmel Valley-Southern California",
+        "infoString3": null,
+        "infoString1": "140030319"
+      },
+      "pricePerSquareFoot": 360,
+      "buyerAgent": null,
+      "event": "Listing removed",
+      "price": 299888
+    },
+    {
+      "priceChangeRate": 0.0029698996655518,
+      "date": "2014-06-06",
+      "source": "Coldwell Banker Residential Brokerage - Carmel Valley-Southern California",
+      "postingIsRental": false,
+      "time": 1402012800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Coldwell Banker Residential Brokerage - Carmel Valley-Southern California",
+        "infoString3": null,
+        "infoString1": "140030319"
+      },
+      "pricePerSquareFoot": 360,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 299888
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2005-06-24",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 1119571200000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 359,
+      "buyerAgent": null,
+      "event": "Sold",
+      "price": 299000
+    }
+  ],
+  "neighborhoodMapThumb": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/11f798626ffd2df81e5524c77a75c9c5-p_c.jpg"
+    }
+  ],
+  "schools": [
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6170-Juarez-Elementary-School/",
+      "rating": 6,
+      "totalCount": null,
+      "distance": 1,
+      "assigned": null,
+      "name": "Juarez Elementary School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Elementary",
+      "grades": "K-5",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6242-Taft-Middle-School/",
+      "rating": 7,
+      "totalCount": null,
+      "distance": 1.7,
+      "assigned": null,
+      "name": "Taft Middle School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Middle",
+      "grades": "6-8",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/14240-Kearny-Construction-Tech-School/",
+      "rating": 9,
+      "totalCount": null,
+      "distance": 3.1,
+      "assigned": null,
+      "name": "Kearny Engineering Innovation & Design",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "High",
+      "grades": "9-12",
+      "type": "Public"
+    }
+  ],
+  "rentZestimate": 2632,
+  "city": "San Diego",
+  "providerListingID": null,
+  "currency": "USD",
+  "listingProvider": null,
+  "propertyTaxRate": 1.17,
+  "isShowcaseListing": false,
+  "openHouseSchedule": {},
+  "mortgageRates": null,
+  "address": {
+    "community": null,
+    "city": "San Diego",
+    "state": "CA",
+    "neighborhood": null,
+    "subdivision": "MISSION VALLEY",
+    "streetAddress": "6069 Rancho Mission Rd UNIT 105",
+    "zipcode": "92108"
+  },
+  "cityId": 54296,
+  "timeOnZillow": "64 days",
+  "priceChange": -10000,
+  "zestimate": 568400,
+  "zpid": 16940219,
+  "countyId": 2841,
+  "homeType": "SINGLE_FAMILY",
+  "livingAreaUnits": "sqft",
+  "pageViewCount": 1101,
+  "homeInsights": {},
+  "bathrooms": 2,
+  "neighborhoodRegion": {
+    "name": "Grantville"
+  },
+  "zipcode": "92108",
+  "building": null,
+  "zestimateLowPercent": "5",
+  "brokerId": null,
+  "stateId": 9,
+  "url": "/homedetails/6069-Rancho-Mission-Rd-UNIT-105-San-Diego-CA-92108/16940219_zpid/",
+  "solarPotential": null,
+  "attributionInfo": {
+    "buyerAgentName": null,
+    "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_95_35.jpg",
+    "mlsName": "SDMLS",
+    "coAgentLicenseNumber": null,
+    "listingAgreement": null,
+    "listingOffices": [
+      {
+        "associatedOfficeType": "listOffice",
+        "officeName": "Keller Williams La Jolla"
+      }
+    ],
+    "infoString10": "This information is deemed reliable but not guaranteed. You should rely on this information only to decide whether or not to further investigate a particular property.\nBEFORE MAKING ANY OTHER DECISION, YOU SHOULD PERSONALLY INVESTIGATE THE FACTS (e.g. square footage and lot size) with the assistance of an appropriate professional. You may use this information only to identify properties you may be interested in investigating further. All uses except for personal, noncommercial use in accordance with the foregoing purpose are prohibited. Redistribution or copying of this information, any photographs or video tours is strictly\nprohibited. This information is derived from the Internet Data Exchange (IDX) service provided by San Diego MLS. Displayed property listings may be held by a brokerage firm other than the broker and/or agent responsible for this display. The information and any photographs and video tours and the compilation from which they are derived is protected by copyright. Compilation © 2025 San Diego MLS.",
+    "buyerAgentMemberStateLicense": null,
+    "brokerName": "Keller Williams La Jolla",
+    "listingAttributionContact": null,
+    "lastUpdated": "2025-08-12 17:53:40",
+    "trueStatus": null,
+    "listingAgentAttributionContact": null,
+    "agentEmail": null,
+    "agentName": "Gracee B Lybbert",
+    "attributionTitle": null,
+    "mlsId": "250031446",
+    "coAgentName": null,
+    "coAgentNumber": null,
+    "infoString5": "530-513-9989",
+    "listingAgents": [
+      {
+        "memberStateLicense": "DRE #02234476",
+        "memberFullName": "Gracee B Lybbert",
+        "associatedAgentType": "listAgent"
+      }
+    ],
+    "agentPhoneNumber": "530-513-9989",
+    "agentLicenseNumber": "DRE #02234476",
+    "providerLogo": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_95_35.jpg",
+    "infoString16": null,
+    "buyerBrokerageName": null,
+    "mlsDisclaimer": "This information is deemed reliable but not guaranteed. You should rely on this information only to decide whether or not to further investigate a particular property.\nBEFORE MAKING ANY OTHER DECISION, YOU SHOULD PERSONALLY INVESTIGATE THE FACTS (e.g. square footage and lot size) with the assistance of an appropriate professional. You may use this information only to identify properties you may be interested in investigating further. All uses except for personal, noncommercial use in accordance with the foregoing purpose are prohibited. Redistribution or copying of this information, any photographs or video tours is strictly\nprohibited. This information is derived from the Internet Data Exchange (IDX) service provided by San Diego MLS. Displayed property listings may be held by a brokerage firm other than the broker and/or agent responsible for this display. The information and any photographs and video tours and the compilation from which they are derived is protected by copyright. Compilation © 2025 San Diego MLS.",
+    "brokerPhoneNumber": "858-457-9400",
+    "lastChecked": "2025-08-26 21:11:24"
+  },
+  "priceChangeDateString": "2025-08-13",
+  "photoCount": 19,
+  "homeStatus": "FOR_SALE",
+  "homeFacts": null,
+  "resoFacts": {
+    "hasAttachedProperty": false,
+    "frontageType": null,
+    "poolFeatures": [
+      "Community/Common"
+    ],
+    "flooring": null,
+    "foundationDetails": {},
+    "accessibilityFeatures": null,
+    "hasGarage": false,
+    "hasPetsAllowed": null,
+    "bodyType": null,
+    "topography": null,
+    "landLeaseExpirationDate": null,
+    "hasAdditionalParcels": false,
+    "parkName": null,
+    "livingQuarters": {},
+    "taxAssessedValue": 321474,
+    "atAGlanceFacts": [
+      {
+        "factValue": "Single Family Residence",
+        "factLabel": "Type"
+      },
+      {
+        "factValue": "1981",
+        "factLabel": "Year Built"
+      },
+      {
+        "factValue": "Forced Air Unit",
+        "factLabel": "Heating"
+      },
+      {
+        "factValue": "Dual",
+        "factLabel": "Cooling"
+      },
+      {
+        "factValue": "1 Parking space",
+        "factLabel": "Parking"
+      },
+      {
+        "factValue": "$448 monthly",
+        "factLabel": "HOA"
+      },
+      {
+        "factValue": null,
+        "factLabel": "Lot"
+      },
+      {
+        "factValue": "64 Days",
+        "factLabel": "Days on Zillow"
+      },
+      {
+        "factValue": "$682",
+        "factLabel": "Price/sqft"
+      },
+      {
+        "factValue": null,
+        "factLabel": "Offer Review Date"
+      }
+    ],
+    "offerReviewDate": null,
+    "horseYN": null,
+    "view": {},
+    "rooms": {},
+    "belowGradeFinishedArea": null,
+    "feesAndDues": [
+      {
+        "phone": null,
+        "name": "Prime Plus Services, Inc.",
+        "fee": "$448 monthly",
+        "type": "HOA"
+      }
+    ],
+    "cityRegion": "San Diego",
+    "mainLevelBathrooms": null,
+    "hasPrivatePool": null,
+    "landLeaseAmount": null,
+    "waterSource": [
+      "Public"
+    ],
+    "exteriorFeatures": {},
+    "inclusions": null,
+    "hasFireplace": null,
+    "gas": null,
+    "propertyCondition": null,
+    "elevationUnits": null,
+    "exclusions": null,
+    "mainLevelBedrooms": null,
+    "numberOfUnitsVacant": null,
+    "hasWaterfrontView": null,
+    "bathroomsOneQuarter": null,
+    "lotSize": null,
+    "entryLevel": null,
+    "media": [
+      {
+        "mediaCategory": "UnbrandedVirtualTour",
+        "mediaURL": "https://www.propertypanorama.com/instaview/snd/250031446"
+      }
+    ],
+    "greenWaterConservation": null,
+    "stories": 2,
+    "livingArea": "834 sqft",
+    "commonWalls": null,
+    "listingTerms": "Cash,Conventional",
+    "otherParking": null,
+    "associationFee": "$448 monthly",
+    "marketingType": null,
+    "greenIndoorAirQuality": null,
+    "greenSustainability": null,
+    "livingAreaRangeUnits": null,
+    "associationPhone": null,
+    "greenBuildingVerificationType": null,
+    "hasAttachedGarage": null,
+    "bedrooms": 2,
+    "architecturalStyle": null,
+    "listingId": null,
+    "structureType": null,
+    "interiorFeatures": null,
+    "horseAmenities": null,
+    "garageParkingCapacity": 0,
+    "developmentStatus": null,
+    "lotFeatures": null,
+    "roofType": "Tile/Clay",
+    "compensationBasedOn": null,
+    "greenEnergyGeneration": null,
+    "daysOnZillow": 64,
+    "listAOR": "San Diego Association of REALTOR",
+    "buildingAreaSource": null,
+    "elementarySchool": null,
+    "zoningDescription": null,
+    "irrigationWaterRightsAcres": null,
+    "yearBuiltEffective": null,
+    "greenEnergyEfficient": null,
+    "constructionMaterials": [
+      "Stucco"
+    ],
+    "fireplaceFeatures": null,
+    "hoaFeeTotal": "$448 monthly",
+    "appliances": [
+      "Dishwasher",
+      "Electric Stove"
+    ],
+    "sewer": [
+      "Public Sewer"
+    ],
+    "bathroomsPartial": null,
+    "fencing": "N/K",
+    "spaFeatures": null,
+    "waterViewYN": null,
+    "buildingName": "Mission Plaza",
+    "attic": null,
+    "petsMaxWeight": null,
+    "cumulativeDaysOnMarket": null,
+    "waterfrontFeatures": null,
+    "additionalParcelsDescription": null,
+    "canRaiseHorses": false,
+    "hasLandLease": false,
+    "communityFeatures": [
+      "BBQ",
+      "Tennis Courts",
+      "Clubhouse/Rec Room",
+      "Exercise Room",
+      "Laundry Facilities",
+      "Pool"
+    ],
+    "waterBodyName": null,
+    "middleOrJuniorSchool": null,
+    "lotSizeDimensions": null,
+    "virtualTour": "https://www.propertypanorama.com/instaview/snd/250031446",
+    "contingency": null,
+    "yearBuilt": 1981,
+    "utilities": null,
+    "totalActualRent": null,
+    "bathroomsFull": 2,
+    "parcelNumber": "4340411905",
+    "incomeIncludes": null,
+    "highSchool": null,
+    "taxAnnualAmount": 3894,
+    "subdivisionName": "MISSION VALLEY",
+    "storiesTotal": 1,
+    "storiesDecimal": 2,
+    "specialListingConditions": null,
+    "windowFeatures": null,
+    "ownership": null,
+    "woodedArea": null,
+    "middleOrJuniorSchoolDistrict": null,
+    "associationPhone2": null,
+    "onMarketDate": 1750727014000,
+    "roomTypes": null,
+    "frontageLength": null,
+    "roadSurfaceType": null,
+    "associationAmenities": null,
+    "propertySubType": [
+      "Single Family Residence"
+    ],
+    "hasCooling": true,
+    "levels": "1 Story",
+    "coveredParkingCapacity": null,
+    "foundationArea": null,
+    "zoning": null,
+    "hoaFee": "$448 monthly",
+    "livingAreaRange": null,
+    "parkingFeatures": [
+      "Assigned"
+    ],
+    "parkingCapacity": 1,
+    "cropsIncludedYN": null,
+    "tenantPays": null,
+    "builderModel": null,
+    "otherStructures": null,
+    "otherFacts": {},
+    "additionalFeeInfo": null,
+    "hasView": false,
+    "openParkingCapacity": null,
+    "securityFeatures": null,
+    "numberOfUnitsInCommunity": 353,
+    "hasHomeWarranty": false,
+    "basementYN": null,
+    "doorFeatures": null,
+    "ownershipType": null,
+    "aboveGradeFinishedArea": null,
+    "associations": [
+      {
+        "feeFrequency": "$448 monthly",
+        "name": "Prime Plus Services, Inc.",
+        "phone": null
+      }
+    ],
+    "waterView": null,
+    "electric": null,
+    "buildingFeatures": null,
+    "hasOpenParking": null,
+    "hasCarport": null,
+    "bathroomsHalf": 0,
+    "homeType": "SingleFamily",
+    "isSeniorCommunity": null,
+    "municipality": null,
+    "bathroomsThreeQuarter": null,
+    "hasSpa": false,
+    "basement": null,
+    "associationFee2": null,
+    "cooling": [
+      "Dual"
+    ],
+    "hasHeating": true,
+    "associationName2": null,
+    "hasRentControl": null,
+    "elementarySchoolDistrict": null,
+    "otherEquipment": null,
+    "bathrooms": 2,
+    "buildingArea": "834",
+    "furnished": false,
+    "vegetation": null,
+    "patioAndPorchFeatures": null,
+    "bathroomsFloat": 2,
+    "builderName": null,
+    "highSchoolDistrict": null,
+    "hasElectricOnProperty": null,
+    "laundryFeatures": [
+      "Other/Remarks"
+    ],
+    "entryLocation": null,
+    "fireplaces": null,
+    "heating": [
+      "Forced Air Unit"
+    ],
+    "availabilityDate": null,
+    "carportParkingCapacity": null,
+    "hasAssociation": null,
+    "irrigationWaterRightsYN": null,
+    "isNewConstruction": null,
+    "associationFeeIncludes": [
+      "Trash Pickup",
+      "Water",
+      "Pest Control"
+    ],
+    "leaseTerm": null,
+    "pricePerSquareFoot": 682,
+    "associationName": "Prime Plus Services, Inc.",
+    "elevation": null
+  },
+  "datePosted": "2025-06-24",
+  "bedrooms": 2,
+  "propertyTypeDimension": "Single Family",
+  "mortgageZHLRates": {
+    "thirtyYearFixedBucket": {
+      "rate": 6.306,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756268783094
+    },
+    "fifteenYearFixedBucket": {
+      "rate": 5.601,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756268783094
+    },
+    "arm5Bucket": {
+      "rate": 6.529,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756268783094
+    }
+  },
+  "comingSoonOnMarketDate": null,
+  "favoriteCount": 48,
+  "livingArea": 834,
+  "zestimateHighPercent": "5",
+  "mlsid": "250031446",
+  "isListedByOwner": null,
+  "listingSubType": {
+    "is_comingSoon": false,
+    "is_pending": false,
+    "is_forAuction": false,
+    "is_bankOwned": false,
+    "is_FSBA": true,
+    "is_FSBO": false,
+    "is_newHome": false,
+    "is_foreclosure": false
+  },
+  "buildingId": "1001864690",
+  "country": "USA",
+  "price": 569000,
+  "priceChangeDate": 1755043200000,
+  "contingentListingType": null
+}

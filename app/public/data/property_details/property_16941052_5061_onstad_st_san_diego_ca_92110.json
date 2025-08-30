@@ -1,0 +1,1571 @@
+{
+  "buildingPermits": null,
+  "contact_recipients": [
+    {
+      "agent_reason": 1,
+      "zpro": null,
+      "recent_sales": 0,
+      "review_count": 0,
+      "display_name": "Premier Broker Flex Atlanta GA",
+      "badge_type": "Premier Agent",
+      "business_name": "Zillow Group",
+      "rating_average": 0,
+      "phone": {
+        "prefix": "452",
+        "areacode": "206",
+        "number": "1030"
+      },
+      "zuid": "X1-ZUv2ktj4jt3nyh_98wrm",
+      "image_url": "https://www.zillowstatic.com/static/images/nophoto_h_g.png"
+    }
+  ],
+  "longitude": -117.19736,
+  "countyFIPS": "06073",
+  "imgSrc": "https://photos.zillowstatic.com/fp/e76655d592aaec544c27ae7dfcc474c7-p_d.jpg",
+  "livingAreaValue": 2094,
+  "streetAddress": "5061 Onstad St",
+  "county": "San Diego County",
+  "monthlyHoaFee": null,
+  "timeZone": "America/Los_Angeles",
+  "taxHistory": [
+    {
+      "time": 1724733690964,
+      "valueIncreaseRate": 0.019974245,
+      "taxIncreaseRate": 0.025532015,
+      "taxPaid": 863.58,
+      "value": 74452
+    },
+    {
+      "time": 1693111290964,
+      "valueIncreaseRate": 0.019996367,
+      "taxIncreaseRate": 0.02923639,
+      "taxPaid": 842.08,
+      "value": 72994
+    },
+    {
+      "time": 1661575290964,
+      "valueIncreaseRate": 0.019982612,
+      "taxIncreaseRate": 0.00867933,
+      "taxPaid": 818.16,
+      "value": 71563
+    },
+    {
+      "time": 1630039290964,
+      "valueIncreaseRate": 0.010339415,
+      "taxIncreaseRate": 0.0129123675,
+      "taxPaid": 811.12,
+      "value": 70161
+    },
+    {
+      "time": 1598503290964,
+      "valueIncreaseRate": 0.019975618,
+      "taxIncreaseRate": 0.0641312,
+      "taxPaid": 800.78,
+      "value": 69443
+    },
+    {
+      "time": 1566880890964,
+      "valueIncreaseRate": 0.019985318,
+      "taxIncreaseRate": 0.024896532,
+      "taxPaid": 752.52,
+      "value": 68083
+    },
+    {
+      "time": 1535344890964,
+      "valueIncreaseRate": 0.01998747,
+      "taxIncreaseRate": 0.026736764,
+      "taxPaid": 734.24,
+      "value": 66749
+    },
+    {
+      "time": 1503808890964,
+      "valueIncreaseRate": 0.019981608,
+      "taxIncreaseRate": 0.020550327,
+      "taxPaid": 715.12,
+      "value": 65441
+    },
+    {
+      "time": 1472272890964,
+      "valueIncreaseRate": 0.0152383065,
+      "taxIncreaseRate": 0.016184194,
+      "taxPaid": 700.72,
+      "value": 64159
+    },
+    {
+      "time": 1440650490964,
+      "valueIncreaseRate": 0.019964816,
+      "taxIncreaseRate": 0.016570335,
+      "taxPaid": 689.56,
+      "value": 63196
+    },
+    {
+      "time": 1409114490964,
+      "valueIncreaseRate": 0.004523346,
+      "taxIncreaseRate": 0,
+      "taxPaid": 678.32,
+      "value": 61959
+    },
+    {
+      "time": 1377578490964,
+      "valueIncreaseRate": 0.019993054,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 61680
+    },
+    {
+      "time": 1346042490964,
+      "valueIncreaseRate": 0.019970652,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 60471
+    },
+    {
+      "time": 1314420090964,
+      "valueIncreaseRate": 0.0075112586,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 59287
+    },
+    {
+      "time": 1282884090964,
+      "valueIncreaseRate": -0.002373485,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 58845
+    },
+    {
+      "time": 1251348090964,
+      "valueIncreaseRate": 0.019972332,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 58985
+    },
+    {
+      "time": 1219812090964,
+      "valueIncreaseRate": 0.01998342,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 57830
+    },
+    {
+      "time": 1188189690964,
+      "valueIncreaseRate": 0.019987047,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 56697
+    },
+    {
+      "time": 1156653690964,
+      "valueIncreaseRate": 0.019982751,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 55586
+    },
+    {
+      "time": 1125117690964,
+      "valueIncreaseRate": 0.019970054,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 54497
+    },
+    {
+      "time": 1093581690964,
+      "valueIncreaseRate": 0.018645618,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 53430
+    },
+    {
+      "time": 1061959290964,
+      "valueIncreaseRate": 0.01997083,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 52452
+    },
+    {
+      "time": 1030423290964,
+      "valueIncreaseRate": 0.019973025,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 51425
+    },
+    {
+      "time": 998887290964,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 50418
+    }
+  ],
+  "dateSold": null,
+  "annualHomeownersInsurance": 6090,
+  "state": "CA",
+  "listed_by": {
+    "agent_reason": 3,
+    "zpro": false,
+    "recent_sales": 0,
+    "zuid": "X1-ZUz3yi5gk2ov0p_4aijn",
+    "review_count": 87,
+    "display_name": "Brian Cane",
+    "profile_url": "https://www.zillow.com/profile/BrianCaneSanDiego/",
+    "business_name": "Keller Williams La Jolla",
+    "rating_average": 5,
+    "phone": {
+      "prefix": "502",
+      "areacode": "858",
+      "number": "9800"
+    },
+    "badge_type": "Listing Agent",
+    "image_url": "https://photos.zillowstatic.com/fp/43b0a9a758f3e9ff8d3dbe8cdb6a2083-h_n.jpg"
+  },
+  "yearBuilt": 1956,
+  "brokerageName": "Keller Williams La Jolla",
+  "description": "Welcome to this beautifully remodeled turnkey home where modern elegance meets timeless design. Thoughtfully curated to create a home that is both stylish and functional. Wide-plank wood-look vinyl flooring flows throughout, setting a warm yet sophisticated tone. Crisp, neutral walls are complemented by bright white baseboards, while recessed lighting and sleek modern fixtures elevate the ambiance. The open layout kitchen features a central island with built-in storage and seating, perfect for entertaining. The space is finished with beautiful tile backsplash, stainless steel appliances, and contemporary hardware — all blending form and function.  Custom touches throughout the home, including decorative wood beams, barn-style closet doors, designer tilework in the bathrooms, and frameless glass shower enclosures provide a high-end, cohesive aesthetic. Each element has been intentionally selected, giving the home character and comfort. A large wood deck extends directly off the living room, creating a seamless indoor-outdoor living experience and westerly views of the water. Abundant natural light pours through large windows, enhancing the home's open, airy feel. Additional features that make this home move-in ready include cost saving solar panels, composite roof shingles and an automatic sprinkler system. The exterior of the home offers excellent curb appeal, featuring a clean, modern façade with fresh landscaping and a welcoming front entry. Centrally located, Bay Park offers access to amazing food, breweries, and entertainment. Residents enjoy close proximity to Sea World and Mission Bay Park, one of the largest man-made aquatic parks in the U.S., offering opportunities for boating, biking, and picnicking.",
+  "climate": {
+    "windSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "probability": {},
+        "source": {
+          "url": "https://firststreet.org/property/5061-onstad-st-san-diego-ca-92110/603536296_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 18
+      }
+    },
+    "floodSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "femaZone": "X_UNSHADED",
+        "source": {
+          "url": "https://firststreet.org/property/5061-onstad-st-san-diego-ca-92110/603536296_fsid"
+        },
+        "probability": [
+          {
+            "relativeYear": 0,
+            "probability": 0
+          },
+          {
+            "relativeYear": 5,
+            "probability": 0
+          },
+          {
+            "relativeYear": 10,
+            "probability": 0
+          },
+          {
+            "relativeYear": 15,
+            "probability": 0
+          },
+          {
+            "relativeYear": 20,
+            "probability": 0
+          },
+          {
+            "relativeYear": 25,
+            "probability": 0
+          },
+          {
+            "relativeYear": 30,
+            "probability": 0
+          }
+        ],
+        "insuranceSeparatePolicy": "NOT_REQUIRED",
+        "historicCountPropertyAll": 0
+      }
+    },
+    "fireSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "probability": {},
+        "source": {
+          "url": "https://firststreet.org/property/5061-onstad-st-san-diego-ca-92110/603536296_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 24
+      }
+    },
+    "heatSources": {
+      "primary": {
+        "percentile98Temp": 85,
+        "hotDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 7
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 9
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 11
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 13
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 15
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 17
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 19
+          }
+        ],
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 3
+        },
+        "source": {
+          "url": "https://firststreet.org/property/5061-onstad-st-san-diego-ca-92110/603536296_fsid"
+        }
+      }
+    },
+    "airSources": {
+      "primary": {
+        "source": {
+          "url": "https://firststreet.org/property/5061-onstad-st-san-diego-ca-92110/603536296_fsid"
+        },
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 3
+        },
+        "badAirDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 4
+          }
+        ]
+      }
+    }
+  },
+  "latitude": 32.772808,
+  "nearbyHomes": [
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "1450 Monitor Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/1450-Monitor-Rd-San-Diego-CA-92110/16941053_zpid/",
+      "lotAreaValue": 5000,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "1450 Monitor Rd",
+        "zipcode": "92110"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.77266,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1244800,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 5000,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/e5e38cc0793dc403b253870d4cd0a9ee-p_c.jpg"
+        }
+      ],
+      "zpid": 16941053,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1600,
+      "longitude": -117.19735,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1600
+    },
+    {
+      "hdpTypeDimension": "Zestimate",
+      "lotAreaUnits": "Square Feet",
+      "isShowcaseListing": false,
+      "longitude": -117.19762,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "1481 Everview Rd",
+        "zipcode": "92110"
+      },
+      "livingAreaValue": 1085,
+      "lotSize": 4791,
+      "zpid": 16941051,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 3,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "1481 Everview Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "hdpUrl": "/homedetails/1481-Everview-Rd-San-Diego-CA-92110/16941051_zpid/",
+      "lotAreaValue": 4791.6,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "OTHER",
+      "latitude": 32.772846,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Single Family",
+      "newConstructionType": null,
+      "yearBuilt": 1938,
+      "listingTypeDimension": "Unknown Listed By",
+      "livingArea": 1085,
+      "providerListingID": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/21240e37d322b16ce452fc64f11f2226-p_c.jpg"
+        }
+      ],
+      "currency": "USD",
+      "price": 1438300,
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    },
+    {
+      "hdpTypeDimension": "Zestimate",
+      "lotAreaUnits": "Square Feet",
+      "isShowcaseListing": false,
+      "longitude": -117.19724,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "1502 Monitor Rd",
+        "zipcode": "92110"
+      },
+      "livingAreaValue": 1418,
+      "lotSize": 5000,
+      "zpid": 16941159,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 2,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "1502 Monitor Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "hdpUrl": "/homedetails/1502-Monitor-Rd-San-Diego-CA-92110/16941159_zpid/",
+      "lotAreaValue": 5000,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "OTHER",
+      "latitude": 32.773037,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "newConstructionType": null,
+      "yearBuilt": 1942,
+      "listingTypeDimension": "Unknown Listed By",
+      "livingArea": 1418,
+      "providerListingID": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=1502+Monitor+Rd%2C+San+Diego%2C+CA+92110&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=clPl0BYvrqkX0U2JZhhWhAx0nn4="
+        }
+      ],
+      "currency": "USD",
+      "price": 1343600,
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    },
+    {
+      "hdpTypeDimension": "Zestimate",
+      "lotAreaUnits": "Square Feet",
+      "isShowcaseListing": false,
+      "longitude": -117.19766,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "1475 Everview Rd",
+        "zipcode": "92110"
+      },
+      "livingAreaValue": 3157,
+      "lotSize": 5000,
+      "zpid": 16941050,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 5,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "1475 Everview Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "hdpUrl": "/homedetails/1475-Everview-Rd-San-Diego-CA-92110/16941050_zpid/",
+      "lotAreaValue": 5000,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "OTHER",
+      "latitude": 32.772724,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 5,
+      "propertyTypeDimension": "Single Family",
+      "newConstructionType": null,
+      "yearBuilt": 1972,
+      "listingTypeDimension": "Unknown Listed By",
+      "livingArea": 3157,
+      "providerListingID": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=1475+Everview+Rd%2C+San+Diego%2C+CA+92110&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=l91arhvmjA-qKEj3to1CJFaFpzA="
+        }
+      ],
+      "currency": "USD",
+      "price": 1510000,
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "1440 Monitor Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/1440-Monitor-Rd-San-Diego-CA-92110/16941054_zpid/",
+      "lotAreaValue": 4399,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "1440 Monitor Rd",
+        "zipcode": "92110"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.772537,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1341800,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 4399,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/0defab47886a736b92eb9c679d98a7df-p_c.jpg"
+        }
+      ],
+      "zpid": 16941054,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1326,
+      "longitude": -117.19738,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1326
+    },
+    {
+      "bathrooms": 3,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "1467 Everview Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/1467-Everview-Rd-San-Diego-CA-92110/16941049_zpid/",
+      "lotAreaValue": 6300,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "1467 Everview Rd",
+        "zipcode": "92110"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.772575,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1577800,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 6300,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/e32ac112e68622932dada083090e0830-p_c.jpg"
+        }
+      ],
+      "zpid": 16941049,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 2388,
+      "longitude": -117.19771,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 2388
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "1512 Monitor Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/1512-Monitor-Rd-San-Diego-CA-92110/16941158_zpid/",
+      "lotAreaValue": 4600,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "1512 Monitor Rd",
+        "zipcode": "92110"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.773163,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1203500,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 4600,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=1512+Monitor+Rd%2C+San+Diego%2C+CA+92110&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=DYt6plUKYOshxNLMR07b_xJprZI="
+        }
+      ],
+      "zpid": 16941158,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1435,
+      "longitude": -117.1972,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1435
+    },
+    {
+      "hdpTypeDimension": "RecentlySold",
+      "lotAreaUnits": "Square Feet",
+      "isShowcaseListing": false,
+      "longitude": -117.1976,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "5044 Onstad St",
+        "zipcode": "92110"
+      },
+      "livingAreaValue": 2355,
+      "lotSize": 4791,
+      "zpid": 16941144,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 3,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "5044 Onstad St"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "hdpUrl": "/homedetails/5044-Onstad-St-San-Diego-CA-92110/16941144_zpid/",
+      "lotAreaValue": 4791.6,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "250021392",
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "RECENTLY_SOLD",
+      "latitude": 32.773132,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "newConstructionType": null,
+      "yearBuilt": 1974,
+      "listingTypeDimension": "Unknown Listed By",
+      "livingArea": 2355,
+      "providerListingID": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/3b1ad3fe2ca797133c7ecbdd3b9efc23-p_c.jpg"
+        }
+      ],
+      "currency": "USD",
+      "price": 1550000,
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "priceChangeRate": 0,
+      "date": "2025-08-20",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1755648000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "250028848"
+      },
+      "pricePerSquareFoot": 692,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 1449990
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2025-08-09",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1754697600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "250028848"
+      },
+      "pricePerSquareFoot": 692,
+      "buyerAgent": null,
+      "event": "Pending sale",
+      "price": 1449990
+    },
+    {
+      "priceChangeRate": -0.033333555557037,
+      "date": "2025-07-24",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1753315200000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "250028848"
+      },
+      "pricePerSquareFoot": 692,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 1449990
+    },
+    {
+      "priceChangeRate": -0.032202077553391,
+      "date": "2025-07-09",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1752019200000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "250028848"
+      },
+      "pricePerSquareFoot": 716,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 1499990
+    },
+    {
+      "priceChangeRate": -0.031251953247078,
+      "date": "2025-06-19",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1750291200000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "250028848"
+      },
+      "pricePerSquareFoot": 740,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 1549900
+    },
+    {
+      "priceChangeRate": 0.5999,
+      "date": "2025-05-29",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1748476800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "250028848"
+      },
+      "pricePerSquareFoot": 764,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 1599900
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2025-02-25",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 1740441600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 478,
+      "buyerAgent": null,
+      "event": "Sold",
+      "price": 1000000
+    }
+  ],
+  "neighborhoodMapThumb": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/e76655d592aaec544c27ae7dfcc474c7-p_c.jpg"
+    }
+  ],
+  "schools": [
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6100-Bay-Park-Elementary-School/",
+      "rating": 8,
+      "totalCount": null,
+      "distance": 1.1,
+      "assigned": null,
+      "name": "Bay Park Elementary School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Elementary",
+      "grades": "K-5",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6196-Marston-Middle-School/",
+      "rating": 7,
+      "totalCount": null,
+      "distance": 2.5,
+      "assigned": null,
+      "name": "Marston Middle School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Middle",
+      "grades": "6-8",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6119-Clairemont-High-School/",
+      "rating": 6,
+      "totalCount": null,
+      "distance": 2.5,
+      "assigned": null,
+      "name": "Clairemont High School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "High",
+      "grades": "9-12",
+      "type": "Public"
+    }
+  ],
+  "rentZestimate": 4992,
+  "city": "San Diego",
+  "providerListingID": null,
+  "currency": "USD",
+  "listingProvider": null,
+  "propertyTaxRate": 1.17,
+  "isShowcaseListing": false,
+  "openHouseSchedule": {},
+  "mortgageRates": null,
+  "address": {
+    "community": null,
+    "city": "San Diego",
+    "state": "CA",
+    "neighborhood": null,
+    "subdivision": "BAY PARK",
+    "streetAddress": "5061 Onstad St",
+    "zipcode": "92110"
+  },
+  "cityId": 54296,
+  "timeOnZillow": "89 days",
+  "priceChange": -50000,
+  "zestimate": 1448600,
+  "zpid": 16941052,
+  "countyId": 2841,
+  "homeType": "SINGLE_FAMILY",
+  "livingAreaUnits": "sqft",
+  "pageViewCount": 2384,
+  "homeInsights": [
+    {
+      "insights": [
+        {
+          "treatmentId": "model_0",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Contemporary hardware",
+            "Abundant natural light",
+            "Sleek modern fixtures",
+            "Frameless glass shower enclosures",
+            "Stainless steel appliances",
+            "Fresh landscaping",
+            "Beautiful tile backsplash"
+          ]
+        },
+        {
+          "treatmentId": "model_1",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Abundant natural light",
+            "Sleek modern fixtures",
+            "Frameless glass shower enclosures",
+            "Stainless steel appliances",
+            "Fresh landscaping",
+            "Beautiful tile backsplash",
+            "Recessed lighting"
+          ]
+        }
+      ]
+    }
+  ],
+  "bathrooms": 3,
+  "neighborhoodRegion": {
+    "name": "Morena"
+  },
+  "zipcode": "92110",
+  "building": null,
+  "zestimateLowPercent": "5",
+  "brokerId": null,
+  "stateId": 9,
+  "url": "/homedetails/5061-Onstad-St-San-Diego-CA-92110/16941052_zpid/",
+  "solarPotential": null,
+  "attributionInfo": {
+    "buyerAgentName": null,
+    "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_95_35.jpg",
+    "mlsName": "SDMLS",
+    "coAgentLicenseNumber": "DRE #01983007",
+    "listingAgreement": null,
+    "listingOffices": [
+      {
+        "associatedOfficeType": "listOffice",
+        "officeName": "Keller Williams La Jolla"
+      },
+      {
+        "associatedOfficeType": "coListOffice",
+        "officeName": "Keller Williams La Jolla"
+      }
+    ],
+    "infoString10": "This information is deemed reliable but not guaranteed. You should rely on this information only to decide whether or not to further investigate a particular property.\nBEFORE MAKING ANY OTHER DECISION, YOU SHOULD PERSONALLY INVESTIGATE THE FACTS (e.g. square footage and lot size) with the assistance of an appropriate professional. You may use this information only to identify properties you may be interested in investigating further. All uses except for personal, noncommercial use in accordance with the foregoing purpose are prohibited. Redistribution or copying of this information, any photographs or video tours is strictly\nprohibited. This information is derived from the Internet Data Exchange (IDX) service provided by San Diego MLS. Displayed property listings may be held by a brokerage firm other than the broker and/or agent responsible for this display. The information and any photographs and video tours and the compilation from which they are derived is protected by copyright. Compilation © 2025 San Diego MLS.",
+    "buyerAgentMemberStateLicense": null,
+    "brokerName": "Keller Williams La Jolla",
+    "listingAttributionContact": null,
+    "lastUpdated": "2025-08-20 16:00:34",
+    "trueStatus": null,
+    "listingAgentAttributionContact": null,
+    "agentEmail": null,
+    "agentName": "Brian P Cane",
+    "attributionTitle": null,
+    "mlsId": "250028848",
+    "coAgentName": "KYLE Thompson",
+    "coAgentNumber": "858-376-7402",
+    "infoString5": "858-731-7599",
+    "listingAgents": [
+      {
+        "memberStateLicense": "DRE #01423505",
+        "memberFullName": "Brian P Cane",
+        "associatedAgentType": "listAgent"
+      },
+      {
+        "memberStateLicense": "DRE #01983007",
+        "memberFullName": "KYLE Thompson",
+        "associatedAgentType": "coListAgent"
+      }
+    ],
+    "agentPhoneNumber": "858-731-7599",
+    "agentLicenseNumber": "DRE #01423505",
+    "providerLogo": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_95_35.jpg",
+    "infoString16": null,
+    "buyerBrokerageName": null,
+    "mlsDisclaimer": "This information is deemed reliable but not guaranteed. You should rely on this information only to decide whether or not to further investigate a particular property.\nBEFORE MAKING ANY OTHER DECISION, YOU SHOULD PERSONALLY INVESTIGATE THE FACTS (e.g. square footage and lot size) with the assistance of an appropriate professional. You may use this information only to identify properties you may be interested in investigating further. All uses except for personal, noncommercial use in accordance with the foregoing purpose are prohibited. Redistribution or copying of this information, any photographs or video tours is strictly\nprohibited. This information is derived from the Internet Data Exchange (IDX) service provided by San Diego MLS. Displayed property listings may be held by a brokerage firm other than the broker and/or agent responsible for this display. The information and any photographs and video tours and the compilation from which they are derived is protected by copyright. Compilation © 2025 San Diego MLS.",
+    "brokerPhoneNumber": "858-457-9400",
+    "lastChecked": "2025-08-26 21:11:24"
+  },
+  "priceChangeDateString": "2025-07-24",
+  "photoCount": 34,
+  "homeStatus": "FOR_SALE",
+  "homeFacts": null,
+  "resoFacts": {
+    "hasAttachedProperty": false,
+    "frontageType": null,
+    "poolFeatures": [
+      "N/K"
+    ],
+    "flooring": null,
+    "foundationDetails": {},
+    "accessibilityFeatures": null,
+    "hasGarage": true,
+    "hasPetsAllowed": null,
+    "bodyType": null,
+    "topography": null,
+    "landLeaseExpirationDate": null,
+    "hasAdditionalParcels": false,
+    "parkName": null,
+    "livingQuarters": {},
+    "taxAssessedValue": 74452,
+    "atAGlanceFacts": [
+      {
+        "factValue": "Single Family Residence",
+        "factLabel": "Type"
+      },
+      {
+        "factValue": "1956",
+        "factLabel": "Year Built"
+      },
+      {
+        "factValue": "Forced Air Unit",
+        "factLabel": "Heating"
+      },
+      {
+        "factValue": "N/K",
+        "factLabel": "Cooling"
+      },
+      {
+        "factValue": "2 Garage spaces",
+        "factLabel": "Parking"
+      },
+      {
+        "factValue": "4,791 sqft",
+        "factLabel": "Lot"
+      },
+      {
+        "factValue": "89 Days",
+        "factLabel": "Days on Zillow"
+      },
+      {
+        "factValue": "$692",
+        "factLabel": "Price/sqft"
+      },
+      {
+        "factValue": null,
+        "factLabel": "Offer Review Date"
+      }
+    ],
+    "offerReviewDate": null,
+    "horseYN": null,
+    "view": {},
+    "rooms": {},
+    "belowGradeFinishedArea": null,
+    "feesAndDues": [
+      {
+        "phone": null,
+        "name": null,
+        "fee": null,
+        "type": "HOA"
+      }
+    ],
+    "cityRegion": "San Diego",
+    "mainLevelBathrooms": null,
+    "hasPrivatePool": null,
+    "landLeaseAmount": null,
+    "waterSource": [
+      "Meter on Property"
+    ],
+    "exteriorFeatures": {},
+    "inclusions": null,
+    "hasFireplace": null,
+    "gas": null,
+    "propertyCondition": null,
+    "elevationUnits": null,
+    "exclusions": null,
+    "mainLevelBedrooms": null,
+    "numberOfUnitsVacant": null,
+    "hasWaterfrontView": null,
+    "bathroomsOneQuarter": null,
+    "lotSize": "4,791 sqft",
+    "entryLevel": null,
+    "media": [
+      {
+        "mediaCategory": "UnbrandedVirtualTour",
+        "mediaURL": "https://www.propertypanorama.com/instaview/snd/250028848"
+      }
+    ],
+    "greenWaterConservation": null,
+    "stories": null,
+    "livingArea": "2,094 sqft",
+    "commonWalls": null,
+    "listingTerms": "Cash,Conventional,FHA,VA",
+    "otherParking": null,
+    "associationFee": null,
+    "marketingType": null,
+    "greenIndoorAirQuality": null,
+    "greenSustainability": null,
+    "livingAreaRangeUnits": null,
+    "associationPhone": null,
+    "greenBuildingVerificationType": null,
+    "hasAttachedGarage": null,
+    "bedrooms": 4,
+    "architecturalStyle": null,
+    "listingId": null,
+    "structureType": null,
+    "interiorFeatures": null,
+    "horseAmenities": null,
+    "garageParkingCapacity": 2,
+    "developmentStatus": null,
+    "lotFeatures": null,
+    "roofType": "Flat Tile",
+    "compensationBasedOn": null,
+    "greenEnergyGeneration": null,
+    "daysOnZillow": 89,
+    "listAOR": "San Diego Association of REALTOR",
+    "buildingAreaSource": null,
+    "elementarySchool": null,
+    "zoningDescription": "R-1:SINGLE",
+    "irrigationWaterRightsAcres": null,
+    "yearBuiltEffective": null,
+    "greenEnergyEfficient": null,
+    "constructionMaterials": [
+      "Wood"
+    ],
+    "fireplaceFeatures": null,
+    "hoaFeeTotal": null,
+    "appliances": [
+      "Dishwasher",
+      "Disposal",
+      "Microwave",
+      "Range/Oven",
+      "Solar Panels",
+      "Counter Top"
+    ],
+    "sewer": [
+      "Sewer Connected"
+    ],
+    "bathroomsPartial": null,
+    "fencing": "Full",
+    "spaFeatures": null,
+    "waterViewYN": null,
+    "buildingName": null,
+    "attic": null,
+    "petsMaxWeight": null,
+    "cumulativeDaysOnMarket": null,
+    "waterfrontFeatures": null,
+    "additionalParcelsDescription": null,
+    "canRaiseHorses": false,
+    "hasLandLease": false,
+    "communityFeatures": null,
+    "waterBodyName": null,
+    "middleOrJuniorSchool": null,
+    "lotSizeDimensions": null,
+    "virtualTour": "https://www.propertypanorama.com/instaview/snd/250028848",
+    "contingency": null,
+    "yearBuilt": 1956,
+    "utilities": null,
+    "totalActualRent": null,
+    "bathroomsFull": 3,
+    "parcelNumber": "4362411700",
+    "incomeIncludes": null,
+    "highSchool": null,
+    "taxAnnualAmount": 864,
+    "subdivisionName": "BAY PARK",
+    "storiesTotal": 2,
+    "storiesDecimal": null,
+    "specialListingConditions": null,
+    "windowFeatures": null,
+    "ownership": null,
+    "woodedArea": null,
+    "middleOrJuniorSchoolDistrict": null,
+    "associationPhone2": null,
+    "onMarketDate": 1748541210000,
+    "roomTypes": null,
+    "frontageLength": null,
+    "roadSurfaceType": null,
+    "associationAmenities": null,
+    "propertySubType": [
+      "Single Family Residence"
+    ],
+    "hasCooling": true,
+    "levels": "2 Story",
+    "coveredParkingCapacity": 2,
+    "foundationArea": null,
+    "zoning": "R-1:SINGLE",
+    "hoaFee": null,
+    "livingAreaRange": null,
+    "parkingFeatures": [
+      "Attached"
+    ],
+    "parkingCapacity": 4,
+    "cropsIncludedYN": null,
+    "tenantPays": null,
+    "builderModel": null,
+    "otherStructures": null,
+    "otherFacts": {},
+    "additionalFeeInfo": null,
+    "hasView": false,
+    "openParkingCapacity": null,
+    "securityFeatures": null,
+    "numberOfUnitsInCommunity": null,
+    "hasHomeWarranty": false,
+    "basementYN": null,
+    "doorFeatures": null,
+    "ownershipType": null,
+    "aboveGradeFinishedArea": null,
+    "associations": {},
+    "waterView": null,
+    "electric": null,
+    "buildingFeatures": null,
+    "hasOpenParking": null,
+    "hasCarport": null,
+    "bathroomsHalf": 0,
+    "homeType": "SingleFamily",
+    "isSeniorCommunity": null,
+    "municipality": null,
+    "bathroomsThreeQuarter": null,
+    "hasSpa": false,
+    "basement": null,
+    "associationFee2": null,
+    "cooling": [
+      "N/K"
+    ],
+    "hasHeating": true,
+    "associationName2": null,
+    "hasRentControl": null,
+    "elementarySchoolDistrict": null,
+    "otherEquipment": null,
+    "bathrooms": 3,
+    "buildingArea": "2,094",
+    "furnished": false,
+    "vegetation": null,
+    "patioAndPorchFeatures": null,
+    "bathroomsFloat": 3,
+    "builderName": null,
+    "highSchoolDistrict": null,
+    "hasElectricOnProperty": null,
+    "laundryFeatures": [
+      "Washer Hookup"
+    ],
+    "entryLocation": null,
+    "fireplaces": null,
+    "heating": [
+      "Forced Air Unit"
+    ],
+    "availabilityDate": null,
+    "carportParkingCapacity": null,
+    "hasAssociation": null,
+    "irrigationWaterRightsYN": null,
+    "isNewConstruction": null,
+    "associationFeeIncludes": null,
+    "leaseTerm": null,
+    "pricePerSquareFoot": 692,
+    "associationName": null,
+    "elevation": null
+  },
+  "datePosted": "2025-05-29",
+  "bedrooms": 4,
+  "propertyTypeDimension": "Single Family",
+  "mortgageZHLRates": {
+    "thirtyYearFixedBucket": {
+      "rate": 6.306,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756269149457
+    },
+    "fifteenYearFixedBucket": {
+      "rate": 5.601,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756269149457
+    },
+    "arm5Bucket": {
+      "rate": 6.529,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756269149457
+    }
+  },
+  "comingSoonOnMarketDate": null,
+  "favoriteCount": 131,
+  "livingArea": 2094,
+  "zestimateHighPercent": "5",
+  "mlsid": "250028848",
+  "isListedByOwner": null,
+  "listingSubType": {
+    "is_comingSoon": false,
+    "is_pending": false,
+    "is_forAuction": false,
+    "is_bankOwned": false,
+    "is_FSBA": true,
+    "is_FSBO": false,
+    "is_newHome": false,
+    "is_foreclosure": false
+  },
+  "buildingId": null,
+  "country": "USA",
+  "price": 1449990,
+  "priceChangeDate": 1753315200000,
+  "contingentListingType": null
+}

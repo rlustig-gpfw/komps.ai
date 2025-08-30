@@ -1,0 +1,1609 @@
+{
+  "buildingPermits": null,
+  "contact_recipients": [
+    {
+      "agent_reason": 1,
+      "zpro": null,
+      "recent_sales": 0,
+      "review_count": 0,
+      "display_name": "Premier Broker Flex Atlanta GA",
+      "badge_type": "Premier Agent",
+      "business_name": "Zillow Group",
+      "rating_average": 0,
+      "phone": {
+        "prefix": "452",
+        "areacode": "206",
+        "number": "1030"
+      },
+      "zuid": "X1-ZUv2ktj4jt3nyh_98wrm",
+      "image_url": "https://www.zillowstatic.com/static/images/nophoto_h_g.png"
+    }
+  ],
+  "longitude": -117.12519,
+  "countyFIPS": "06073",
+  "imgSrc": "https://photos.zillowstatic.com/fp/1ccd1bb2834e4f66035cc4d177dc5832-p_d.jpg",
+  "livingAreaValue": 525,
+  "streetAddress": "10260 Black Mountain Rd APT 133",
+  "county": "San Diego County",
+  "monthlyHoaFee": 462,
+  "timeZone": "America/Los_Angeles",
+  "taxHistory": [
+    {
+      "time": 1724734524306,
+      "valueIncreaseRate": 0.019988917,
+      "taxIncreaseRate": 0.023021996,
+      "taxPaid": 1355.32,
+      "value": 106750
+    },
+    {
+      "time": 1693112124306,
+      "valueIncreaseRate": 0.019988889,
+      "taxIncreaseRate": 0.027438274,
+      "taxPaid": 1324.82,
+      "value": 104658
+    },
+    {
+      "time": 1661576124306,
+      "valueIncreaseRate": 0.019990854,
+      "taxIncreaseRate": 0.0071861143,
+      "taxPaid": 1289.44,
+      "value": 102607
+    },
+    {
+      "time": 1630040124306,
+      "valueIncreaseRate": 0.010344896,
+      "taxIncreaseRate": 0.012031407,
+      "taxPaid": 1280.24,
+      "value": 100596
+    },
+    {
+      "time": 1598504124306,
+      "valueIncreaseRate": 0.019986682,
+      "taxIncreaseRate": 0.051904246,
+      "taxPaid": 1265.02,
+      "value": 99566
+    },
+    {
+      "time": 1566881724306,
+      "valueIncreaseRate": 0.019989133,
+      "taxIncreaseRate": 0.033347886,
+      "taxPaid": 1202.6,
+      "value": 97615
+    },
+    {
+      "time": 1535345724306,
+      "valueIncreaseRate": 0.019994458,
+      "taxIncreaseRate": 0.026378483,
+      "taxPaid": 1163.79,
+      "value": 95702
+    },
+    {
+      "time": 1503809724306,
+      "valueIncreaseRate": 0.019991955,
+      "taxIncreaseRate": 0.016732156,
+      "taxPaid": 1133.88,
+      "value": 93826
+    },
+    {
+      "time": 1472273724306,
+      "valueIncreaseRate": 0.015230611,
+      "taxIncreaseRate": 0.014518823,
+      "taxPaid": 1115.22,
+      "value": 91987
+    },
+    {
+      "time": 1440651324306,
+      "valueIncreaseRate": 0.019970056,
+      "taxIncreaseRate": 0.015070151,
+      "taxPaid": 1099.26,
+      "value": 90607
+    },
+    {
+      "time": 1409115324306,
+      "valueIncreaseRate": 0.0045231986,
+      "taxIncreaseRate": 0,
+      "taxPaid": 1082.94,
+      "value": 88833
+    },
+    {
+      "time": 1377579324306,
+      "valueIncreaseRate": 0.019988466,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 88433
+    },
+    {
+      "time": 1346043324306,
+      "valueIncreaseRate": 0.02,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 86700
+    },
+    {
+      "time": 1314420924306,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 85000
+    },
+    {
+      "time": 1282884924306,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 85000
+    },
+    {
+      "time": 1251348924306,
+      "valueIncreaseRate": -0.62523204,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 85000
+    },
+    {
+      "time": 1219812924306,
+      "valueIncreaseRate": 0.0199991,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 226807
+    },
+    {
+      "time": 1188190524306,
+      "valueIncreaseRate": 0.02,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 222360
+    },
+    {
+      "time": 1156654524306,
+      "valueIncreaseRate": 2.3015296,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 218000
+    },
+    {
+      "time": 1125118524306,
+      "valueIncreaseRate": 0.019988878,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 66030
+    },
+    {
+      "time": 1093582524306,
+      "valueIncreaseRate": 0.018662471,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 64736
+    },
+    {
+      "time": 1061960124306,
+      "valueIncreaseRate": 0.019982345,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 63550
+    },
+    {
+      "time": 1030424124306,
+      "valueIncreaseRate": 0.01997217,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 62305
+    },
+    {
+      "time": 998888124306,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 61085
+    }
+  ],
+  "dateSold": null,
+  "annualHomeownersInsurance": 1466,
+  "state": "CA",
+  "listed_by": {
+    "agent_reason": 3,
+    "zpro": false,
+    "recent_sales": 0,
+    "zuid": "X1-ZUy2wzu6eja5ft_5ywzy",
+    "review_count": 2,
+    "display_name": "A Tobin",
+    "profile_url": "https://www.zillow.com/profile/zuser20141027103845946/",
+    "business_name": "Tobin Assoc. And Realtors, Inc",
+    "rating_average": 5,
+    "phone": {
+      "prefix": "726",
+      "areacode": "619",
+      "number": "6959"
+    },
+    "badge_type": "Listing Agent",
+    "image_url": "https://photos.zillowstatic.com/fp/20be2f5008aa29ffb2d25022047114bd-h_n.jpg"
+  },
+  "yearBuilt": 1978,
+  "brokerageName": "Tobin Assoc. And Realtors, Inc",
+  "description": "Pets Allowed! OWNER JUST SPENT THOUSANDS OF DOLLARS TO COMPLETE THE NEW LAMINATE AND TILE FLOORING, ALL NEW KITCHEN AND BATHROOM UPGRADED WITH GRANITE COUNTER TOP, NEW APPLIANCES AND FAUCETS, AND MUCH MORE! Condo is located on the ground floor in a Prime Location within the complex!  Condo offers a peaceful retreat while being within walking distance of Hourglass Community Park, 5-minute drive to the Marine Base and San Diego Miramar College. Enjoy convenient access to Freeway 15, Mira Mesa Market Center, and many nearby amenities. The community boasts a sparkling pool, tennis court, and lush green surroundings. Don't miss out on this opportunity!",
+  "climate": {
+    "windSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "probability": {},
+        "source": {
+          "url": "https://firststreet.org/property/10260-black-mountain-rd-apt-133-san-diego-ca-92126/603404987_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 18
+      }
+    },
+    "floodSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "femaZone": "X_UNSHADED",
+        "source": {
+          "url": "https://firststreet.org/property/10260-black-mountain-rd-apt-133-san-diego-ca-92126/603404987_fsid"
+        },
+        "probability": [
+          {
+            "relativeYear": 0,
+            "probability": 0
+          },
+          {
+            "relativeYear": 5,
+            "probability": 0
+          },
+          {
+            "relativeYear": 10,
+            "probability": 0
+          },
+          {
+            "relativeYear": 15,
+            "probability": 0
+          },
+          {
+            "relativeYear": 20,
+            "probability": 0
+          },
+          {
+            "relativeYear": 25,
+            "probability": 0
+          },
+          {
+            "relativeYear": 30,
+            "probability": 0
+          }
+        ],
+        "insuranceSeparatePolicy": "NOT_REQUIRED",
+        "historicCountPropertyAll": 0
+      }
+    },
+    "fireSources": {
+      "primary": {
+        "insuranceRecommendation": "RECOMMENDED",
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 4
+        },
+        "probability": [
+          {
+            "relativeYear": 0,
+            "probability": 0.0007999999797903
+          },
+          {
+            "relativeYear": 5,
+            "probability": 0.0048000002279878
+          },
+          {
+            "relativeYear": 10,
+            "probability": 0.0087999999523163
+          },
+          {
+            "relativeYear": 15,
+            "probability": 0.012699999846518
+          },
+          {
+            "relativeYear": 20,
+            "probability": 0.016699999570847
+          },
+          {
+            "relativeYear": 25,
+            "probability": 0.020600000396371
+          },
+          {
+            "relativeYear": 30,
+            "probability": 0.02449999935925
+          }
+        ],
+        "source": {
+          "url": "https://firststreet.org/property/10260-black-mountain-rd-apt-133-san-diego-ca-92126/603404987_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 33
+      }
+    },
+    "heatSources": {
+      "primary": {
+        "percentile98Temp": 93,
+        "hotDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 7
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 9
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 11
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 14
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 16
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 18
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 20
+          }
+        ],
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 4
+        },
+        "source": {
+          "url": "https://firststreet.org/property/10260-black-mountain-rd-apt-133-san-diego-ca-92126/603404987_fsid"
+        }
+      }
+    },
+    "airSources": {
+      "primary": {
+        "source": {
+          "url": "https://firststreet.org/property/10260-black-mountain-rd-apt-133-san-diego-ca-92126/603404987_fsid"
+        },
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 3
+        },
+        "badAirDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 3
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 3
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 3
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 4
+          }
+        ]
+      }
+    }
+  },
+  "latitude": 32.904057,
+  "nearbyHomes": [
+    {
+      "bathrooms": 1,
+      "newConstructionType": null,
+      "lotAreaUnits": "sqft",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "10260 Black Mountain Rd APT 135"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/10260-Black-Mountain-Rd-APT-135-San-Diego-CA-92126/16832409_zpid/",
+      "lotAreaValue": null,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "10260 Black Mountain Rd APT 135",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "PTP2406408",
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.904057,
+      "homeStatus": "RECENTLY_SOLD",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 370000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 1,
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/646ca763b01c2542df7be79cea5b4279-p_c.jpg"
+        }
+      ],
+      "zpid": 16832409,
+      "hdpTypeDimension": "RecentlySold",
+      "livingArea": 525,
+      "longitude": -117.12519,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 525
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "sqft",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "10214 Black Mountain Rd #1-55-1"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/10214-Black-Mountain-Rd-1-55-1-San-Diego-CA-92126/2055546405_zpid/",
+      "lotAreaValue": null,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "10214 Black Mountain Rd #1-55-1",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.903923,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 540700,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Townhouse",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=10214+Black+Mountain+Rd%2C+San+Diego%2C+CA+92126&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=IQ0PYLk3YtSnVvnxtXJ9ubInKkE="
+        }
+      ],
+      "zpid": 2055546405,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 915,
+      "longitude": -117.12497,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "TOWNHOUSE",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 915
+    },
+    {
+      "bathrooms": 1,
+      "newConstructionType": null,
+      "lotAreaUnits": "sqft",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "10210 Black Mountain Rd APT 2"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/10210-Black-Mountain-Rd-APT-2-San-Diego-CA-92126/2055546849_zpid/",
+      "lotAreaValue": null,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "10210 Black Mountain Rd APT 2",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.903923,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 0,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 1,
+      "propertyTypeDimension": "Apartment",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/1e20942ee15516b106a12c4ded52a2b6-p_c.jpg"
+        }
+      ],
+      "zpid": 2055546849,
+      "hdpTypeDimension": "NoZestimate",
+      "livingArea": 525,
+      "longitude": -117.12497,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "APARTMENT",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 525
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "sqft",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "10202 Black Mountain Rd APT 1"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/10202-Black-Mountain-Rd-APT-1-San-Diego-CA-92126/16832282_zpid/",
+      "lotAreaValue": null,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "10202 Black Mountain Rd APT 1",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.90392,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 526700,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Apartment",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/1ec3b937dfb153e006c169f82bfbb8ca-p_c.jpg"
+        }
+      ],
+      "zpid": 16832282,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 912,
+      "longitude": -117.12496,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": "47a9ex133ff42",
+      "homeType": "APARTMENT",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 912
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "10202 Black Mountain Rd APT 7"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/10202-Black-Mountain-Rd-APT-7-San-Diego-CA-92126/16832288_zpid/",
+      "lotAreaValue": 9.6299357208448,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "10202 Black Mountain Rd APT 7",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.90392,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 530900,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 419480,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=10202+Black+Mountain+Rd%2C+San+Diego%2C+CA+92126&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=XmqS1I9aEboIK46b4k3k_fW6gg0="
+        }
+      ],
+      "zpid": 16832288,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 913,
+      "longitude": -117.12496,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 913
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "10202 Black Mountain Rd APT 9"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/10202-Black-Mountain-Rd-APT-9-San-Diego-CA-92126/16832290_zpid/",
+      "lotAreaValue": 9.6299357208448,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "10202 Black Mountain Rd APT 9",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.90392,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 517000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 419480,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/cab4575f23a884ed5ddb11a564d9a664-p_c.jpg"
+        }
+      ],
+      "zpid": 16832290,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 913,
+      "longitude": -117.12496,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 913
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "10202 Black Mountain Rd APT 10"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/10202-Black-Mountain-Rd-APT-10-San-Diego-CA-92126/16832291_zpid/",
+      "lotAreaValue": 9.6299357208448,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "10202 Black Mountain Rd APT 10",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.90392,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 498500,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 419480,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=10202+Black+Mountain+Rd%2C+San+Diego%2C+CA+92126&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=XmqS1I9aEboIK46b4k3k_fW6gg0="
+        }
+      ],
+      "zpid": 16832291,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 913,
+      "longitude": -117.12496,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 913
+    },
+    {
+      "bathrooms": 1,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "10202 Black Mountain Rd APT 12"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/10202-Black-Mountain-Rd-APT-12-San-Diego-CA-92126/16832293_zpid/",
+      "lotAreaValue": 9.63,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "10202 Black Mountain Rd APT 12",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.90392,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 389100,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 1,
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 419482,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/29e762c0d1ca44e75e27182416cc18d2-p_c.jpg"
+        }
+      ],
+      "zpid": 16832293,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 686,
+      "longitude": -117.12496,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 686
+    }
+  ],
+  "priceHistory": [
+    {
+      "priceChangeRate": -0.079155672823219,
+      "date": "2025-07-30",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1753833600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "250031213"
+      },
+      "pricePerSquareFoot": 665,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 349000
+    },
+    {
+      "priceChangeRate": -0.02319587628866,
+      "date": "2025-06-19",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1750291200000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "250028386"
+      },
+      "pricePerSquareFoot": 722,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 379000
+    },
+    {
+      "priceChangeRate": 3.5647058823529,
+      "date": "2025-05-23",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1747958400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "250028386"
+      },
+      "pricePerSquareFoot": 739,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 388000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2019-03-15",
+      "source": "Tobin Assoc. And Realtors, Inc",
+      "postingIsRental": true,
+      "time": 1552608000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Tobin Assoc. And Realtors, Inc",
+        "infoString3": null,
+        "infoString1": "190011597"
+      },
+      "pricePerSquareFoot": 3,
+      "buyerAgent": null,
+      "event": "Listing removed",
+      "price": 1495
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2019-03-06",
+      "source": "Tobin Assoc. And Realtors, Inc",
+      "postingIsRental": true,
+      "time": 1551830400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Tobin Assoc. And Realtors, Inc",
+        "infoString3": null,
+        "infoString1": "190011597"
+      },
+      "pricePerSquareFoot": 3,
+      "buyerAgent": null,
+      "event": "Listed for rent",
+      "price": 1495
+    },
+    {
+      "priceChangeRate": -0.61009174311927,
+      "date": "2011-03-04",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 1299196800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 162,
+      "buyerAgent": null,
+      "event": "Sold",
+      "price": 85000
+    },
+    {
+      "priceChangeRate": 2.6333333333333,
+      "date": "2005-11-18",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 1132272000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 415,
+      "buyerAgent": null,
+      "event": "Sold",
+      "price": 218000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "1999-12-01",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 944006400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 114,
+      "buyerAgent": null,
+      "event": "Sold",
+      "price": 60000
+    }
+  ],
+  "neighborhoodMapThumb": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/1ccd1bb2834e4f66035cc4d177dc5832-p_c.jpg"
+    }
+  ],
+  "schools": [
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6251-Walker-Elementary-School/",
+      "rating": 6,
+      "totalCount": null,
+      "distance": 0.6,
+      "assigned": null,
+      "name": "Walker Elementary School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Elementary",
+      "grades": "K-5",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6252-Wangenheim-Middle-School/",
+      "rating": 6,
+      "totalCount": null,
+      "distance": 0.2,
+      "assigned": null,
+      "name": "Wangenheim Middle School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Middle",
+      "grades": "6-8",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6203-Mira-Mesa-High-School/",
+      "rating": 9,
+      "totalCount": null,
+      "distance": 1,
+      "assigned": null,
+      "name": "Mira Mesa High School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "High",
+      "grades": "9-12",
+      "type": "Public"
+    }
+  ],
+  "rentZestimate": 2116,
+  "city": "San Diego",
+  "providerListingID": null,
+  "currency": "USD",
+  "listingProvider": null,
+  "propertyTaxRate": 1.17,
+  "isShowcaseListing": false,
+  "openHouseSchedule": {},
+  "mortgageRates": null,
+  "address": {
+    "community": null,
+    "city": "San Diego",
+    "state": "CA",
+    "neighborhood": null,
+    "subdivision": "MIRA MESA",
+    "streetAddress": "10260 Black Mountain Rd APT 133",
+    "zipcode": "92126"
+  },
+  "cityId": 54296,
+  "timeOnZillow": "1 day",
+  "priceChange": -30000,
+  "zestimate": 345600,
+  "zpid": 48180614,
+  "countyId": 2841,
+  "homeType": "CONDO",
+  "livingAreaUnits": "sqft",
+  "pageViewCount": 344,
+  "homeInsights": [
+    {
+      "insights": [
+        {
+          "treatmentId": "model_0",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Sparkling pool",
+            "Tennis court",
+            "Lush green surroundings",
+            "Ground floor",
+            "New appliances"
+          ]
+        },
+        {
+          "treatmentId": "model_1",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Sparkling pool",
+            "Tennis court",
+            "Lush green surroundings",
+            "Ground floor",
+            "New appliances"
+          ]
+        }
+      ]
+    }
+  ],
+  "bathrooms": 1,
+  "neighborhoodRegion": {
+    "name": "Mira Mesa"
+  },
+  "zipcode": "92126",
+  "building": null,
+  "zestimateLowPercent": "5",
+  "brokerId": null,
+  "stateId": 9,
+  "url": "/homedetails/10260-Black-Mountain-Rd-APT-133-San-Diego-CA-92126/48180614_zpid/",
+  "solarPotential": null,
+  "attributionInfo": {
+    "buyerAgentName": null,
+    "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_95_35.jpg",
+    "mlsName": "SDMLS",
+    "coAgentLicenseNumber": null,
+    "listingAgreement": null,
+    "listingOffices": [
+      {
+        "associatedOfficeType": "listOffice",
+        "officeName": "Tobin Assoc. And Realtors, Inc"
+      }
+    ],
+    "infoString10": "This information is deemed reliable but not guaranteed. You should rely on this information only to decide whether or not to further investigate a particular property.\nBEFORE MAKING ANY OTHER DECISION, YOU SHOULD PERSONALLY INVESTIGATE THE FACTS (e.g. square footage and lot size) with the assistance of an appropriate professional. You may use this information only to identify properties you may be interested in investigating further. All uses except for personal, noncommercial use in accordance with the foregoing purpose are prohibited. Redistribution or copying of this information, any photographs or video tours is strictly\nprohibited. This information is derived from the Internet Data Exchange (IDX) service provided by San Diego MLS. Displayed property listings may be held by a brokerage firm other than the broker and/or agent responsible for this display. The information and any photographs and video tours and the compilation from which they are derived is protected by copyright. Compilation © 2025 San Diego MLS.",
+    "buyerAgentMemberStateLicense": null,
+    "brokerName": "Tobin Assoc. And Realtors, Inc",
+    "listingAttributionContact": null,
+    "lastUpdated": "2025-08-25 07:08:04",
+    "trueStatus": null,
+    "listingAgentAttributionContact": null,
+    "agentEmail": null,
+    "agentName": "Asamawari Tobin",
+    "attributionTitle": null,
+    "mlsId": "250037145",
+    "coAgentName": null,
+    "coAgentNumber": null,
+    "infoString5": "619-726-6959",
+    "listingAgents": [
+      {
+        "memberStateLicense": "DRE #01248050",
+        "memberFullName": "Asamawari Tobin",
+        "associatedAgentType": "listAgent"
+      }
+    ],
+    "agentPhoneNumber": "619-726-6959",
+    "agentLicenseNumber": "DRE #01248050",
+    "providerLogo": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_95_35.jpg",
+    "infoString16": null,
+    "buyerBrokerageName": null,
+    "mlsDisclaimer": "This information is deemed reliable but not guaranteed. You should rely on this information only to decide whether or not to further investigate a particular property.\nBEFORE MAKING ANY OTHER DECISION, YOU SHOULD PERSONALLY INVESTIGATE THE FACTS (e.g. square footage and lot size) with the assistance of an appropriate professional. You may use this information only to identify properties you may be interested in investigating further. All uses except for personal, noncommercial use in accordance with the foregoing purpose are prohibited. Redistribution or copying of this information, any photographs or video tours is strictly\nprohibited. This information is derived from the Internet Data Exchange (IDX) service provided by San Diego MLS. Displayed property listings may be held by a brokerage firm other than the broker and/or agent responsible for this display. The information and any photographs and video tours and the compilation from which they are derived is protected by copyright. Compilation © 2025 San Diego MLS.",
+    "brokerPhoneNumber": "858-578-4100",
+    "lastChecked": "2025-08-26 21:43:20"
+  },
+  "priceChangeDateString": "2025-07-30",
+  "photoCount": 21,
+  "homeStatus": "FOR_SALE",
+  "homeFacts": null,
+  "resoFacts": {
+    "hasAttachedProperty": false,
+    "frontageType": null,
+    "poolFeatures": [
+      "Community/Common"
+    ],
+    "flooring": null,
+    "foundationDetails": {},
+    "accessibilityFeatures": null,
+    "hasGarage": false,
+    "hasPetsAllowed": true,
+    "bodyType": null,
+    "topography": null,
+    "landLeaseExpirationDate": null,
+    "hasAdditionalParcels": false,
+    "parkName": null,
+    "livingQuarters": {},
+    "taxAssessedValue": 106750,
+    "atAGlanceFacts": [
+      {
+        "factValue": "Condominium",
+        "factLabel": "Type"
+      },
+      {
+        "factValue": "1978",
+        "factLabel": "Year Built"
+      },
+      {
+        "factValue": "Wall/Gravity",
+        "factLabel": "Heating"
+      },
+      {
+        "factValue": "Wall/Window",
+        "factLabel": "Cooling"
+      },
+      {
+        "factValue": "1 Parking space",
+        "factLabel": "Parking"
+      },
+      {
+        "factValue": "$462 monthly",
+        "factLabel": "HOA"
+      },
+      {
+        "factValue": "1 Day",
+        "factLabel": "Days on Zillow"
+      },
+      {
+        "factValue": "$665",
+        "factLabel": "Price/sqft"
+      },
+      {
+        "factValue": null,
+        "factLabel": "Offer Review Date"
+      }
+    ],
+    "offerReviewDate": null,
+    "horseYN": null,
+    "view": {},
+    "rooms": {},
+    "belowGradeFinishedArea": null,
+    "feesAndDues": [
+      {
+        "phone": null,
+        "name": "Quail Creek HOA",
+        "fee": "$462 monthly",
+        "type": "HOA"
+      }
+    ],
+    "cityRegion": "San Diego",
+    "mainLevelBathrooms": null,
+    "hasPrivatePool": null,
+    "landLeaseAmount": null,
+    "waterSource": [
+      "Public"
+    ],
+    "exteriorFeatures": {},
+    "inclusions": null,
+    "hasFireplace": null,
+    "gas": null,
+    "propertyCondition": null,
+    "elevationUnits": null,
+    "exclusions": null,
+    "mainLevelBedrooms": null,
+    "numberOfUnitsVacant": null,
+    "hasWaterfrontView": null,
+    "bathroomsOneQuarter": null,
+    "lotSize": null,
+    "entryLevel": null,
+    "media": [
+      {
+        "mediaCategory": "UnbrandedVirtualTour",
+        "mediaURL": "https://www.propertypanorama.com/instaview/snd/250035063"
+      }
+    ],
+    "greenWaterConservation": null,
+    "stories": 2,
+    "livingArea": "525 sqft",
+    "commonWalls": null,
+    "listingTerms": "Cash,Conventional",
+    "otherParking": null,
+    "associationFee": "$462 monthly",
+    "marketingType": null,
+    "greenIndoorAirQuality": null,
+    "greenSustainability": null,
+    "livingAreaRangeUnits": null,
+    "associationPhone": null,
+    "greenBuildingVerificationType": null,
+    "hasAttachedGarage": null,
+    "bedrooms": 1,
+    "architecturalStyle": null,
+    "listingId": null,
+    "structureType": null,
+    "interiorFeatures": null,
+    "horseAmenities": null,
+    "garageParkingCapacity": 0,
+    "developmentStatus": null,
+    "lotFeatures": null,
+    "roofType": "Composition",
+    "compensationBasedOn": null,
+    "greenEnergyGeneration": null,
+    "daysOnZillow": 1,
+    "listAOR": "San Diego Association of REALTOR",
+    "buildingAreaSource": null,
+    "elementarySchool": null,
+    "zoningDescription": "R1",
+    "irrigationWaterRightsAcres": null,
+    "yearBuiltEffective": null,
+    "greenEnergyEfficient": null,
+    "constructionMaterials": [
+      "Wood/Stucco"
+    ],
+    "fireplaceFeatures": null,
+    "hoaFeeTotal": "$462 monthly",
+    "appliances": [
+      "Dishwasher",
+      "Range/Oven",
+      "Refrigerator"
+    ],
+    "sewer": [
+      "Sewer Connected"
+    ],
+    "bathroomsPartial": null,
+    "fencing": "Partial",
+    "spaFeatures": null,
+    "waterViewYN": null,
+    "buildingName": "Quail Creek",
+    "attic": null,
+    "petsMaxWeight": null,
+    "cumulativeDaysOnMarket": null,
+    "waterfrontFeatures": null,
+    "additionalParcelsDescription": null,
+    "canRaiseHorses": false,
+    "hasLandLease": false,
+    "communityFeatures": null,
+    "waterBodyName": null,
+    "middleOrJuniorSchool": null,
+    "lotSizeDimensions": null,
+    "virtualTour": "https://www.propertypanorama.com/instaview/snd/250035063",
+    "contingency": null,
+    "yearBuilt": 1978,
+    "utilities": null,
+    "totalActualRent": null,
+    "bathroomsFull": 1,
+    "parcelNumber": "3412103140",
+    "incomeIncludes": null,
+    "highSchool": null,
+    "taxAnnualAmount": 1355,
+    "subdivisionName": "MIRA MESA",
+    "storiesTotal": 1,
+    "storiesDecimal": 2,
+    "specialListingConditions": null,
+    "windowFeatures": null,
+    "ownership": null,
+    "woodedArea": null,
+    "middleOrJuniorSchoolDistrict": null,
+    "associationPhone2": null,
+    "onMarketDate": 1756131037000,
+    "roomTypes": null,
+    "frontageLength": null,
+    "roadSurfaceType": null,
+    "associationAmenities": null,
+    "propertySubType": [
+      "Condominium"
+    ],
+    "hasCooling": true,
+    "levels": "1 Story",
+    "coveredParkingCapacity": null,
+    "foundationArea": null,
+    "zoning": "R1",
+    "hoaFee": "$462 monthly",
+    "livingAreaRange": null,
+    "parkingFeatures": [
+      "None Known"
+    ],
+    "parkingCapacity": 1,
+    "cropsIncludedYN": null,
+    "tenantPays": null,
+    "builderModel": null,
+    "otherStructures": null,
+    "otherFacts": {},
+    "additionalFeeInfo": null,
+    "hasView": false,
+    "openParkingCapacity": null,
+    "securityFeatures": null,
+    "numberOfUnitsInCommunity": 224,
+    "hasHomeWarranty": false,
+    "basementYN": null,
+    "doorFeatures": null,
+    "ownershipType": null,
+    "aboveGradeFinishedArea": null,
+    "associations": [
+      {
+        "feeFrequency": "$462 monthly",
+        "name": "Quail Creek HOA",
+        "phone": null
+      }
+    ],
+    "waterView": null,
+    "electric": null,
+    "buildingFeatures": null,
+    "hasOpenParking": null,
+    "hasCarport": null,
+    "bathroomsHalf": 0,
+    "homeType": "Condo",
+    "isSeniorCommunity": null,
+    "municipality": null,
+    "bathroomsThreeQuarter": null,
+    "hasSpa": false,
+    "basement": null,
+    "associationFee2": null,
+    "cooling": [
+      "Wall/Window"
+    ],
+    "hasHeating": true,
+    "associationName2": null,
+    "hasRentControl": null,
+    "elementarySchoolDistrict": null,
+    "otherEquipment": null,
+    "bathrooms": 1,
+    "buildingArea": "525",
+    "furnished": false,
+    "vegetation": null,
+    "patioAndPorchFeatures": null,
+    "bathroomsFloat": 1,
+    "builderName": null,
+    "highSchoolDistrict": null,
+    "hasElectricOnProperty": null,
+    "laundryFeatures": [
+      "Gas &amp; Electric Dryer HU"
+    ],
+    "entryLocation": null,
+    "fireplaces": null,
+    "heating": [
+      "Wall/Gravity"
+    ],
+    "availabilityDate": null,
+    "carportParkingCapacity": null,
+    "hasAssociation": null,
+    "irrigationWaterRightsYN": null,
+    "isNewConstruction": null,
+    "associationFeeIncludes": [
+      "Common Area Maintenance",
+      "Hot Water",
+      "Trash Pickup",
+      "Water"
+    ],
+    "leaseTerm": null,
+    "pricePerSquareFoot": 665,
+    "associationName": "Quail Creek HOA",
+    "elevation": null
+  },
+  "datePosted": "2025-08-25",
+  "bedrooms": 1,
+  "propertyTypeDimension": "Condo",
+  "mortgageZHLRates": {
+    "thirtyYearFixedBucket": {
+      "rate": 6.412,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756263679570
+    },
+    "fifteenYearFixedBucket": {
+      "rate": 5.631,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756263679570
+    },
+    "arm5Bucket": {
+      "rate": 6.63,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756263679570
+    }
+  },
+  "comingSoonOnMarketDate": null,
+  "favoriteCount": 2,
+  "livingArea": 525,
+  "zestimateHighPercent": "5",
+  "mlsid": "250037145",
+  "isListedByOwner": null,
+  "listingSubType": {
+    "is_comingSoon": false,
+    "is_pending": false,
+    "is_forAuction": false,
+    "is_bankOwned": false,
+    "is_FSBA": true,
+    "is_FSBO": false,
+    "is_newHome": false,
+    "is_foreclosure": false
+  },
+  "buildingId": "1003926454",
+  "country": "USA",
+  "price": 349000,
+  "priceChangeDate": 1753833600000,
+  "contingentListingType": null
+}

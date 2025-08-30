@@ -1,0 +1,1645 @@
+{
+  "buildingPermits": null,
+  "contact_recipients": [
+    {
+      "agent_reason": 1,
+      "zpro": null,
+      "recent_sales": 0,
+      "review_count": 0,
+      "display_name": "Premier Broker Flex Atlanta GA",
+      "badge_type": "Premier Agent",
+      "business_name": "Zillow Group",
+      "rating_average": 0,
+      "phone": {
+        "prefix": "452",
+        "areacode": "206",
+        "number": "1030"
+      },
+      "zuid": "X1-ZUv2ktj4jt3nyh_98wrm",
+      "image_url": "https://www.zillowstatic.com/static/images/nophoto_h_g.png"
+    }
+  ],
+  "longitude": -117.23807,
+  "countyFIPS": "06073",
+  "imgSrc": "https://photos.zillowstatic.com/fp/97b2a3b026c2bfd72ac0a7129436d44c-p_d.jpg",
+  "livingAreaValue": 3071,
+  "streetAddress": "13413 Landfair Rd",
+  "county": "San Diego County",
+  "monthlyHoaFee": 56,
+  "timeZone": "America/Los_Angeles",
+  "taxHistory": [
+    {
+      "time": 1724734065783,
+      "valueIncreaseRate": 0.01999904,
+      "taxIncreaseRate": 0.022420429,
+      "taxPaid": 12591.68,
+      "value": 1169230
+    },
+    {
+      "time": 1693111665783,
+      "valueIncreaseRate": 0.019998576,
+      "taxIncreaseRate": 0.01653785,
+      "taxPaid": 12315.56,
+      "value": 1146305
+    },
+    {
+      "time": 1661575665783,
+      "valueIncreaseRate": 0.019999184,
+      "taxIncreaseRate": 0.01775222,
+      "taxPaid": 12115.2,
+      "value": 1123830
+    },
+    {
+      "time": 1630039665783,
+      "valueIncreaseRate": 0.0103594875,
+      "taxIncreaseRate": 0.008743523,
+      "taxPaid": 11903.88,
+      "value": 1101795
+    },
+    {
+      "time": 1598503665783,
+      "valueIncreaseRate": 0.019999702,
+      "taxIncreaseRate": 0.029003993,
+      "taxPaid": 11800.7,
+      "value": 1090498
+    },
+    {
+      "time": 1566881265783,
+      "valueIncreaseRate": 0.01999897,
+      "taxIncreaseRate": 0.0099043315,
+      "taxPaid": 11468.08,
+      "value": 1069116
+    },
+    {
+      "time": 1535345265783,
+      "valueIncreaseRate": 0.019998968,
+      "taxIncreaseRate": 0.017194198,
+      "taxPaid": 11355.61,
+      "value": 1048154
+    },
+    {
+      "time": 1503809265783,
+      "valueIncreaseRate": 0.019998908,
+      "taxIncreaseRate": 0.06397382,
+      "taxPaid": 11163.66,
+      "value": 1027603
+    },
+    {
+      "time": 1472273265783,
+      "valueIncreaseRate": 0.015249067,
+      "taxIncreaseRate": 0.015125642,
+      "taxPaid": 10492.42,
+      "value": 1007455
+    },
+    {
+      "time": 1440650865783,
+      "valueIncreaseRate": 0.01997975,
+      "taxIncreaseRate": 0.020913979,
+      "taxPaid": 10336.08,
+      "value": 992323
+    },
+    {
+      "time": 1409114865783,
+      "valueIncreaseRate": 0.004539029,
+      "taxIncreaseRate": 0,
+      "taxPaid": 10124.34,
+      "value": 972885
+    },
+    {
+      "time": 1377578865783,
+      "valueIncreaseRate": 0.56103164,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 968489
+    },
+    {
+      "time": 1346042865783,
+      "valueIncreaseRate": 0.01999829,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 620416
+    },
+    {
+      "time": 1314420465783,
+      "valueIncreaseRate": 0.0075284867,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 608252
+    },
+    {
+      "time": 1282884465783,
+      "valueIncreaseRate": -0.0023713442,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 603707
+    },
+    {
+      "time": 1251348465783,
+      "valueIncreaseRate": 0.01999909,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 605142
+    },
+    {
+      "time": 1219812465783,
+      "valueIncreaseRate": 0.019996699,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 593277
+    },
+    {
+      "time": 1188190065783,
+      "valueIncreaseRate": 0.019998526,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 581646
+    },
+    {
+      "time": 1156654065783,
+      "valueIncreaseRate": 0.019997781,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 570242
+    },
+    {
+      "time": 1125118065783,
+      "valueIncreaseRate": 0.019998139,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 559062
+    },
+    {
+      "time": 1093582065783,
+      "valueIncreaseRate": 0.018669061,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 548101
+    },
+    {
+      "time": 1061959665783,
+      "valueIncreaseRate": 0.019997839,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 538056
+    },
+    {
+      "time": 1030423665783,
+      "valueIncreaseRate": 0.019997487,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 527507
+    },
+    {
+      "time": 998887665783,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 517165
+    }
+  ],
+  "dateSold": null,
+  "annualHomeownersInsurance": 11529,
+  "state": "CA",
+  "listed_by": {
+    "agent_reason": 3,
+    "zpro": false,
+    "recent_sales": 0,
+    "zuid": "X1-ZUxy7s888r0ky1_3jtqo",
+    "review_count": 48,
+    "display_name": "Timothy Van Damm",
+    "profile_url": "https://www.zillow.com/profile/timvandamm/",
+    "business_name": "Berkshire Hathaway Home Services California Properties",
+    "rating_average": 5,
+    "phone": {
+      "prefix": "663",
+      "areacode": "858",
+      "number": "0911"
+    },
+    "badge_type": "Listing Agent",
+    "image_url": "https://photos.zillowstatic.com/fp/e72d74142b102407a30fba4c6277678f-h_n.jpg"
+  },
+  "yearBuilt": 1985,
+  "brokerageName": "Berkshire Hathaway Home Services California Properties",
+  "description": "Nestled on a large corner lot in Del Mar Highlands, this remodeled residence combines timeless charm with modern elegance. Home features soaring ceilings, an abundance of natural light, extensive detailed crown moldings and trim, renovated kitchen with large center island, custom cabinetry throughout, remodeled upstairs bathrooms, and a full bed/bath on the first floor providing flexibility for guests or multigenerational living. The master suite highlights two spacious walk-in closets, dual sinks, and a stone shower and separate soaking tub. The wraparound yard is surrounded by mature trees for exceptional privacy, and includes an outdoor kitchen, large front lawn, multiple stone patios and 3-car garage. This home is one you don't want to miss!",
+  "climate": {
+    "windSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "probability": {},
+        "source": {
+          "url": "https://firststreet.org/property/13413-landfair-rd-san-diego-ca-92130/603324709_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 18
+      }
+    },
+    "floodSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "femaZone": "X_UNSHADED",
+        "source": {
+          "url": "https://firststreet.org/property/13413-landfair-rd-san-diego-ca-92130/603324709_fsid"
+        },
+        "probability": [
+          {
+            "relativeYear": 0,
+            "probability": 0
+          },
+          {
+            "relativeYear": 5,
+            "probability": 0
+          },
+          {
+            "relativeYear": 10,
+            "probability": 0
+          },
+          {
+            "relativeYear": 15,
+            "probability": 0
+          },
+          {
+            "relativeYear": 20,
+            "probability": 0
+          },
+          {
+            "relativeYear": 25,
+            "probability": 0
+          },
+          {
+            "relativeYear": 30,
+            "probability": 0
+          }
+        ],
+        "insuranceSeparatePolicy": "NOT_REQUIRED",
+        "historicCountPropertyAll": 0
+      }
+    },
+    "fireSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "probability": {},
+        "source": {
+          "url": "https://firststreet.org/property/13413-landfair-rd-san-diego-ca-92130/603324709_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 20
+      }
+    },
+    "heatSources": {
+      "primary": {
+        "percentile98Temp": 86,
+        "hotDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 6
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 8
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 10
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 12
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 13
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 15
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 17
+          }
+        ],
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 3
+        },
+        "source": {
+          "url": "https://firststreet.org/property/13413-landfair-rd-san-diego-ca-92130/603324709_fsid"
+        }
+      }
+    },
+    "airSources": {
+      "primary": {
+        "source": {
+          "url": "https://firststreet.org/property/13413-landfair-rd-san-diego-ca-92130/603324709_fsid"
+        },
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 4
+        },
+        "badAirDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 5
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 5
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 5
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 5
+          }
+        ]
+      }
+    }
+  },
+  "latitude": 32.960396,
+  "nearbyHomes": [
+    {
+      "bathrooms": 2.5,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "13403 Landfair Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/13403-Landfair-Rd-San-Diego-CA-92130/16769252_zpid/",
+      "lotAreaValue": 6498,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "13403 Landfair Rd",
+        "zipcode": "92130"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.960205,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 2252800,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 6498,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=13403+Landfair+Rd%2C+San+Diego%2C+CA+92130&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Q7fF604vX8N-3EDzB5DLs--V4yI="
+        }
+      ],
+      "zpid": 16769252,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 2538,
+      "longitude": -117.23805,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 2538
+    },
+    {
+      "bathrooms": 2.5,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "13432 Roxton Cir"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/13432-Roxton-Cir-San-Diego-CA-92130/16769227_zpid/",
+      "lotAreaValue": 7732,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "13432 Roxton Cir",
+        "zipcode": "92130"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.960316,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 2141800,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 7732,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=13432+Roxton+Cir%2C+San+Diego%2C+CA+92130&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=dqdnC6OjgclG3o7DLI5v5Z9LceU="
+        }
+      ],
+      "zpid": 16769227,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 2538,
+      "longitude": -117.23779,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 2538
+    },
+    {
+      "bathrooms": 2.5,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "13393 Landfair Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/13393-Landfair-Rd-San-Diego-CA-92130/16769251_zpid/",
+      "lotAreaValue": 8187,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "13393 Landfair Rd",
+        "zipcode": "92130"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.96002,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1843800,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 8187,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=13393+Landfair+Rd%2C+San+Diego%2C+CA+92130&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=uJc56ykteeZ8qcoGZIFoqS10Qic="
+        }
+      ],
+      "zpid": 16769251,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 2128,
+      "longitude": -117.23802,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 2128
+    },
+    {
+      "bathrooms": 2.5,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "13418 Roxton Cir"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/13418-Roxton-Cir-San-Diego-CA-92130/16769228_zpid/",
+      "lotAreaValue": 8365,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "13418 Roxton Cir",
+        "zipcode": "92130"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.96026,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 2096100,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 8365,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=13418+Roxton+Cir%2C+San+Diego%2C+CA+92130&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=URvVQJhAwnVuXYzCQKhs7gC1X4g="
+        }
+      ],
+      "zpid": 16769228,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 2605,
+      "longitude": -117.23761,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 2605
+    },
+    {
+      "bathrooms": 2.5,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "13426 Landfair Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/13426-Landfair-Rd-San-Diego-CA-92130/16769225_zpid/",
+      "lotAreaValue": 6030,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "13426 Landfair Rd",
+        "zipcode": "92130"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.96061,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1991500,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 6030,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=13426+Landfair+Rd%2C+San+Diego%2C+CA+92130&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ZPvunt-xKdHyKUnkmSntRj-Zmsk="
+        }
+      ],
+      "zpid": 16769225,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 2538,
+      "longitude": -117.23856,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 2538
+    },
+    {
+      "bathrooms": 2.5,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "13416 Landfair Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/13416-Landfair-Rd-San-Diego-CA-92130/16769224_zpid/",
+      "lotAreaValue": 5716,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "13416 Landfair Rd",
+        "zipcode": "92130"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.96047,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1776500,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 5716,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=13416+Landfair+Rd%2C+San+Diego%2C+CA+92130&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ex0qTbU6Fdb3-JT7oqwd74KRPPA="
+        }
+      ],
+      "zpid": 16769224,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 2128,
+      "longitude": -117.23864,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 2128
+    },
+    {
+      "bathrooms": 3,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "13396 Landfair Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/13396-Landfair-Rd-San-Diego-CA-92130/16769222_zpid/",
+      "lotAreaValue": 6029,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "13396 Landfair Rd",
+        "zipcode": "92130"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.96014,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 2013900,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 6029,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=13396+Landfair+Rd%2C+San+Diego%2C+CA+92130&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=5vuHWdFvuFLdgL6N8-Q_JovBB3c="
+        }
+      ],
+      "zpid": 16769222,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 2605,
+      "longitude": -117.23856,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 2605
+    },
+    {
+      "bathrooms": 3.5,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "13406 Landfair Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/13406-Landfair-Rd-San-Diego-CA-92130/16769223_zpid/",
+      "lotAreaValue": 6029,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "13406 Landfair Rd",
+        "zipcode": "92130"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.960308,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 2560800,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 6029,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=13406+Landfair+Rd%2C+San+Diego%2C+CA+92130&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=L05qnwYrf6NLMrWWUnZn-yPFsC0="
+        }
+      ],
+      "zpid": 16769223,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 3071,
+      "longitude": -117.23864,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 3071
+    }
+  ],
+  "priceHistory": [
+    {
+      "priceChangeRate": 1.8909952606635,
+      "date": "2025-08-26",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1756166400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "250037204"
+      },
+      "pricePerSquareFoot": 894,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 2745000
+    },
+    {
+      "priceChangeRate": -0.0109375,
+      "date": "2012-05-31",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 1338422400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 309,
+      "buyerAgent": null,
+      "event": "Sold",
+      "price": 949500
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2012-03-25",
+      "source": "Real Living",
+      "postingIsRental": false,
+      "time": 1332633600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Real Living",
+        "infoString3": null,
+        "infoString1": "120015539"
+      },
+      "pricePerSquareFoot": 313,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 960000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2011-11-10",
+      "source": "Real Living",
+      "postingIsRental": true,
+      "time": 1320883200000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Real Living",
+        "infoString3": null,
+        "infoString1": "110058168"
+      },
+      "pricePerSquareFoot": 1,
+      "buyerAgent": null,
+      "event": "Listing removed",
+      "price": 4000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2011-11-09",
+      "source": "Real Living",
+      "postingIsRental": false,
+      "time": 1320796800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Real Living",
+        "infoString3": null,
+        "infoString1": "110031222"
+      },
+      "pricePerSquareFoot": 313,
+      "buyerAgent": null,
+      "event": "Listing removed",
+      "price": 960000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2011-11-04",
+      "source": "Real Living",
+      "postingIsRental": true,
+      "time": 1320364800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Real Living",
+        "infoString3": null,
+        "infoString1": "110058168"
+      },
+      "pricePerSquareFoot": 1,
+      "buyerAgent": null,
+      "event": "Listed for rent",
+      "price": 4000
+    },
+    {
+      "priceChangeRate": -0.076923076923077,
+      "date": "2011-07-25",
+      "source": "Real Living LIFESTYLES",
+      "postingIsRental": false,
+      "time": 1311552000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Real Living LIFESTYLES",
+        "infoString3": null,
+        "infoString1": "110031222"
+      },
+      "pricePerSquareFoot": 313,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 960000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2011-05-29",
+      "source": "Real Living LIFESTYLES",
+      "postingIsRental": false,
+      "time": 1306627200000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Real Living LIFESTYLES",
+        "infoString3": null,
+        "infoString1": "110031222"
+      },
+      "pricePerSquareFoot": 339,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 1040000
+    }
+  ],
+  "neighborhoodMapThumb": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/97b2a3b026c2bfd72ac0a7129436d44c-p_c.jpg"
+    }
+  ],
+  "schools": [
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6273-Solana-Highlands-Elementary-School/",
+      "rating": 8,
+      "totalCount": null,
+      "distance": 0.4,
+      "assigned": null,
+      "name": "Solana Highlands Elementary School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Elementary",
+      "grades": "K-6",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/11118-Carmel-Valley-Middle-School/",
+      "rating": 8,
+      "totalCount": null,
+      "distance": 1,
+      "assigned": null,
+      "name": "Carmel Valley Middle School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Middle",
+      "grades": "7-8",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6091-Torrey-Pines-High-School/",
+      "rating": 10,
+      "totalCount": null,
+      "distance": 0.8,
+      "assigned": null,
+      "name": "Torrey Pines High School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "High",
+      "grades": "9-12",
+      "type": "Public"
+    }
+  ],
+  "rentZestimate": 7502,
+  "city": "San Diego",
+  "providerListingID": null,
+  "currency": "USD",
+  "listingProvider": null,
+  "propertyTaxRate": 1.17,
+  "isShowcaseListing": false,
+  "openHouseSchedule": {},
+  "mortgageRates": null,
+  "address": {
+    "community": null,
+    "city": "San Diego",
+    "state": "CA",
+    "neighborhood": null,
+    "subdivision": "CARMEL VALLEY",
+    "streetAddress": "13413 Landfair Rd",
+    "zipcode": "92130"
+  },
+  "cityId": 54296,
+  "timeOnZillow": "1 day",
+  "priceChange": null,
+  "zestimate": 2684400,
+  "zpid": 16769253,
+  "countyId": 2841,
+  "homeType": "SINGLE_FAMILY",
+  "livingAreaUnits": "sqft",
+  "pageViewCount": 791,
+  "homeInsights": [
+    {
+      "insights": [
+        {
+          "treatmentId": "model_0",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Wraparound yard",
+            "Large front lawn",
+            "Large center island",
+            "Abundance of natural light",
+            "Remodeled residence",
+            "Custom cabinetry",
+            "Remodeled upstairs bathrooms"
+          ]
+        },
+        {
+          "treatmentId": "model_1",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Large front lawn",
+            "Abundance of natural light",
+            "Remodeled residence",
+            "Remodeled upstairs bathrooms",
+            "Exceptional privacy",
+            "Soaring ceilings",
+            "Crown moldings"
+          ]
+        }
+      ]
+    }
+  ],
+  "bathrooms": 4,
+  "neighborhoodRegion": {
+    "name": "Carmel Valley"
+  },
+  "zipcode": "92130",
+  "building": null,
+  "zestimateLowPercent": "5",
+  "brokerId": null,
+  "stateId": 9,
+  "url": "/homedetails/13413-Landfair-Rd-San-Diego-CA-92130/16769253_zpid/",
+  "solarPotential": null,
+  "attributionInfo": {
+    "buyerAgentName": null,
+    "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_95_35.jpg",
+    "mlsName": "SDMLS",
+    "coAgentLicenseNumber": null,
+    "listingAgreement": null,
+    "listingOffices": [
+      {
+        "associatedOfficeType": "listOffice",
+        "officeName": "Berkshire Hathaway Home Services California Properties"
+      }
+    ],
+    "infoString10": "This information is deemed reliable but not guaranteed. You should rely on this information only to decide whether or not to further investigate a particular property.\nBEFORE MAKING ANY OTHER DECISION, YOU SHOULD PERSONALLY INVESTIGATE THE FACTS (e.g. square footage and lot size) with the assistance of an appropriate professional. You may use this information only to identify properties you may be interested in investigating further. All uses except for personal, noncommercial use in accordance with the foregoing purpose are prohibited. Redistribution or copying of this information, any photographs or video tours is strictly\nprohibited. This information is derived from the Internet Data Exchange (IDX) service provided by San Diego MLS. Displayed property listings may be held by a brokerage firm other than the broker and/or agent responsible for this display. The information and any photographs and video tours and the compilation from which they are derived is protected by copyright. Compilation © 2025 San Diego MLS.",
+    "buyerAgentMemberStateLicense": null,
+    "brokerName": "Berkshire Hathaway Home Services California Properties",
+    "listingAttributionContact": null,
+    "lastUpdated": "2025-08-26 12:24:16",
+    "trueStatus": null,
+    "listingAgentAttributionContact": null,
+    "agentEmail": null,
+    "agentName": "Tim Van Damm",
+    "attributionTitle": null,
+    "mlsId": "250037204",
+    "coAgentName": null,
+    "coAgentNumber": null,
+    "infoString5": "858-663-0911",
+    "listingAgents": [
+      {
+        "memberStateLicense": "DRE #02011614",
+        "memberFullName": "Tim Van Damm",
+        "associatedAgentType": "listAgent"
+      }
+    ],
+    "agentPhoneNumber": "858-663-0911",
+    "agentLicenseNumber": "DRE #02011614",
+    "providerLogo": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_95_35.jpg",
+    "infoString16": null,
+    "buyerBrokerageName": null,
+    "mlsDisclaimer": "This information is deemed reliable but not guaranteed. You should rely on this information only to decide whether or not to further investigate a particular property.\nBEFORE MAKING ANY OTHER DECISION, YOU SHOULD PERSONALLY INVESTIGATE THE FACTS (e.g. square footage and lot size) with the assistance of an appropriate professional. You may use this information only to identify properties you may be interested in investigating further. All uses except for personal, noncommercial use in accordance with the foregoing purpose are prohibited. Redistribution or copying of this information, any photographs or video tours is strictly\nprohibited. This information is derived from the Internet Data Exchange (IDX) service provided by San Diego MLS. Displayed property listings may be held by a brokerage firm other than the broker and/or agent responsible for this display. The information and any photographs and video tours and the compilation from which they are derived is protected by copyright. Compilation © 2025 San Diego MLS.",
+    "brokerPhoneNumber": "858-756-3795",
+    "lastChecked": "2025-08-26 21:11:24"
+  },
+  "priceChangeDateString": null,
+  "photoCount": 24,
+  "homeStatus": "FOR_SALE",
+  "homeFacts": null,
+  "resoFacts": {
+    "hasAttachedProperty": false,
+    "frontageType": null,
+    "poolFeatures": [
+      "N/K"
+    ],
+    "flooring": [
+      "Carpet",
+      "Tile",
+      "Vinyl Tile"
+    ],
+    "foundationDetails": {},
+    "accessibilityFeatures": null,
+    "hasGarage": true,
+    "hasPetsAllowed": true,
+    "bodyType": null,
+    "topography": null,
+    "landLeaseExpirationDate": null,
+    "hasAdditionalParcels": false,
+    "parkName": null,
+    "livingQuarters": {},
+    "taxAssessedValue": 1169230,
+    "atAGlanceFacts": [
+      {
+        "factValue": "Single Family Residence",
+        "factLabel": "Type"
+      },
+      {
+        "factValue": "1985",
+        "factLabel": "Year Built"
+      },
+      {
+        "factValue": "Fireplace, Forced Air Unit",
+        "factLabel": "Heating"
+      },
+      {
+        "factValue": "Central Forced Air",
+        "factLabel": "Cooling"
+      },
+      {
+        "factValue": "3 Garage spaces",
+        "factLabel": "Parking"
+      },
+      {
+        "factValue": "$56 monthly",
+        "factLabel": "HOA"
+      },
+      {
+        "factValue": "7,405 sqft",
+        "factLabel": "Lot"
+      },
+      {
+        "factValue": "1 Day",
+        "factLabel": "Days on Zillow"
+      },
+      {
+        "factValue": "$894",
+        "factLabel": "Price/sqft"
+      },
+      {
+        "factValue": null,
+        "factLabel": "Offer Review Date"
+      }
+    ],
+    "offerReviewDate": null,
+    "horseYN": null,
+    "view": {},
+    "rooms": {},
+    "belowGradeFinishedArea": null,
+    "feesAndDues": [
+      {
+        "phone": null,
+        "name": "Del Mar Heighlands Neighb",
+        "fee": "$56 monthly",
+        "type": "HOA"
+      }
+    ],
+    "cityRegion": "San Diego",
+    "mainLevelBathrooms": null,
+    "hasPrivatePool": null,
+    "landLeaseAmount": null,
+    "waterSource": [
+      "Meter on Property"
+    ],
+    "exteriorFeatures": {},
+    "inclusions": null,
+    "hasFireplace": null,
+    "gas": null,
+    "propertyCondition": "Turnkey,Updated/Remodeled",
+    "elevationUnits": null,
+    "exclusions": null,
+    "mainLevelBedrooms": null,
+    "numberOfUnitsVacant": null,
+    "hasWaterfrontView": null,
+    "bathroomsOneQuarter": null,
+    "lotSize": "7,405 sqft",
+    "entryLevel": null,
+    "media": {},
+    "greenWaterConservation": null,
+    "stories": null,
+    "livingArea": "3,071 sqft",
+    "commonWalls": null,
+    "listingTerms": "Cash,Conventional",
+    "otherParking": null,
+    "associationFee": "$56 monthly",
+    "marketingType": null,
+    "greenIndoorAirQuality": null,
+    "greenSustainability": null,
+    "livingAreaRangeUnits": null,
+    "associationPhone": null,
+    "greenBuildingVerificationType": null,
+    "hasAttachedGarage": null,
+    "bedrooms": 4,
+    "architecturalStyle": null,
+    "listingId": null,
+    "structureType": null,
+    "interiorFeatures": [
+      "Bar",
+      "Bathtub",
+      "Built-Ins",
+      "Ceiling Fan",
+      "Crown Moldings",
+      "Dry Bar",
+      "Granite Counters",
+      "High Ceilings (9 Feet+)",
+      "Kitchen Island",
+      "Open Floor Plan",
+      "Pantry",
+      "Recessed Lighting",
+      "Remodeled Kitchen",
+      "Shower",
+      "Shower in Tub",
+      "Stone Counters",
+      "Storage Space",
+      "Kitchen Open to Family Rm"
+    ],
+    "horseAmenities": null,
+    "garageParkingCapacity": 3,
+    "developmentStatus": null,
+    "lotFeatures": null,
+    "roofType": "Flat Tile",
+    "compensationBasedOn": null,
+    "greenEnergyGeneration": null,
+    "daysOnZillow": 1,
+    "listAOR": "San Diego Association of REALTOR",
+    "buildingAreaSource": null,
+    "elementarySchool": null,
+    "zoningDescription": null,
+    "irrigationWaterRightsAcres": null,
+    "yearBuiltEffective": null,
+    "greenEnergyEfficient": null,
+    "constructionMaterials": [
+      "Stucco"
+    ],
+    "fireplaceFeatures": [
+      "FP in Living Room",
+      "FP in Primary BR"
+    ],
+    "hoaFeeTotal": "$56 monthly",
+    "appliances": [
+      "Dishwasher",
+      "Disposal",
+      "Dryer",
+      "Microwave",
+      "Refrigerator",
+      "Solar Panels",
+      "Washer",
+      "Built In Range",
+      "Convection Oven",
+      "Double Oven",
+      "Electric Stove",
+      "Freezer",
+      "Grill",
+      "Ice Maker",
+      "Range/Stove Hood",
+      "Barbecue",
+      "Built-In",
+      "Counter Top"
+    ],
+    "sewer": [
+      "Sewer Connected"
+    ],
+    "bathroomsPartial": null,
+    "fencing": "Partial",
+    "spaFeatures": [
+      "N/K"
+    ],
+    "waterViewYN": null,
+    "buildingName": "The Heights",
+    "attic": null,
+    "petsMaxWeight": null,
+    "cumulativeDaysOnMarket": null,
+    "waterfrontFeatures": null,
+    "additionalParcelsDescription": null,
+    "canRaiseHorses": false,
+    "hasLandLease": false,
+    "communityFeatures": [
+      "Recreation Area",
+      "Other/Remarks"
+    ],
+    "waterBodyName": null,
+    "middleOrJuniorSchool": null,
+    "lotSizeDimensions": null,
+    "virtualTour": null,
+    "contingency": null,
+    "yearBuilt": 1985,
+    "utilities": null,
+    "totalActualRent": null,
+    "bathroomsFull": 3,
+    "parcelNumber": "3041637100",
+    "incomeIncludes": null,
+    "highSchool": null,
+    "taxAnnualAmount": 12592,
+    "subdivisionName": "CARMEL VALLEY",
+    "storiesTotal": 2,
+    "storiesDecimal": null,
+    "specialListingConditions": null,
+    "windowFeatures": null,
+    "ownership": null,
+    "woodedArea": null,
+    "middleOrJuniorSchoolDistrict": "San Dieguito High School Distric",
+    "associationPhone2": null,
+    "onMarketDate": 1756170034000,
+    "roomTypes": null,
+    "frontageLength": null,
+    "roadSurfaceType": null,
+    "associationAmenities": [
+      "Hiking Trails",
+      "Picnic Area"
+    ],
+    "propertySubType": [
+      "Single Family Residence"
+    ],
+    "hasCooling": true,
+    "levels": "2 Story",
+    "coveredParkingCapacity": 3,
+    "foundationArea": null,
+    "zoning": null,
+    "hoaFee": "$56 monthly",
+    "livingAreaRange": null,
+    "parkingFeatures": [
+      "Attached",
+      "Direct Garage Access",
+      "Garage",
+      "Garage - Front Entry",
+      "Garage - Two Door",
+      "Garage Door Opener"
+    ],
+    "parkingCapacity": 6,
+    "cropsIncludedYN": null,
+    "tenantPays": null,
+    "builderModel": null,
+    "otherStructures": [
+      "N/K"
+    ],
+    "otherFacts": {},
+    "additionalFeeInfo": null,
+    "hasView": false,
+    "openParkingCapacity": null,
+    "securityFeatures": null,
+    "numberOfUnitsInCommunity": null,
+    "hasHomeWarranty": false,
+    "basementYN": null,
+    "doorFeatures": null,
+    "ownershipType": null,
+    "aboveGradeFinishedArea": null,
+    "associations": [
+      {
+        "feeFrequency": "$56 monthly",
+        "name": "Del Mar Heighlands Neighb",
+        "phone": null
+      }
+    ],
+    "waterView": null,
+    "electric": null,
+    "buildingFeatures": null,
+    "hasOpenParking": null,
+    "hasCarport": null,
+    "bathroomsHalf": 1,
+    "homeType": "SingleFamily",
+    "isSeniorCommunity": null,
+    "municipality": null,
+    "bathroomsThreeQuarter": null,
+    "hasSpa": false,
+    "basement": null,
+    "associationFee2": null,
+    "cooling": [
+      "Central Forced Air"
+    ],
+    "hasHeating": true,
+    "associationName2": null,
+    "hasRentControl": null,
+    "elementarySchoolDistrict": "Solana Beach School District",
+    "otherEquipment": null,
+    "bathrooms": 4,
+    "buildingArea": "3,071",
+    "furnished": false,
+    "vegetation": null,
+    "patioAndPorchFeatures": [
+      "Stone/Tile",
+      "Patio",
+      "Patio Open",
+      "Porch",
+      "Porch - Front",
+      "Wrap Around"
+    ],
+    "bathroomsFloat": 4,
+    "builderName": null,
+    "highSchoolDistrict": "San Dieguito High School Distric",
+    "hasElectricOnProperty": null,
+    "laundryFeatures": [
+      "Electric",
+      "Gas"
+    ],
+    "entryLocation": null,
+    "fireplaces": 2,
+    "heating": [
+      "Fireplace",
+      "Forced Air Unit"
+    ],
+    "availabilityDate": null,
+    "carportParkingCapacity": null,
+    "hasAssociation": null,
+    "irrigationWaterRightsYN": null,
+    "isNewConstruction": null,
+    "associationFeeIncludes": [
+      "Common Area Maintenance"
+    ],
+    "leaseTerm": null,
+    "pricePerSquareFoot": 894,
+    "associationName": "Del Mar Heighlands Neighb",
+    "elevation": null
+  },
+  "datePosted": "2025-08-26",
+  "bedrooms": 4,
+  "propertyTypeDimension": "Single Family",
+  "mortgageZHLRates": {
+    "thirtyYearFixedBucket": {
+      "rate": 6.402,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756267980084
+    },
+    "fifteenYearFixedBucket": {
+      "rate": 6.303,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756267980084
+    },
+    "arm5Bucket": {
+      "rate": 6.423,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756267980084
+    }
+  },
+  "comingSoonOnMarketDate": null,
+  "favoriteCount": 54,
+  "livingArea": 3071,
+  "zestimateHighPercent": "5",
+  "mlsid": "250037204",
+  "isListedByOwner": null,
+  "listingSubType": {
+    "is_comingSoon": false,
+    "is_pending": false,
+    "is_forAuction": false,
+    "is_bankOwned": false,
+    "is_FSBA": true,
+    "is_FSBO": false,
+    "is_newHome": false,
+    "is_foreclosure": false
+  },
+  "buildingId": null,
+  "country": "USA",
+  "price": 2745000,
+  "priceChangeDate": null,
+  "contingentListingType": null
+}

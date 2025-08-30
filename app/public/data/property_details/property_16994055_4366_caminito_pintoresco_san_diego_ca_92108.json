@@ -1,0 +1,1810 @@
+{
+  "buildingPermits": null,
+  "contact_recipients": [
+    {
+      "agent_reason": 1,
+      "zpro": null,
+      "recent_sales": 0,
+      "review_count": 0,
+      "display_name": "Premier Broker Flex Atlanta GA",
+      "badge_type": "Premier Agent",
+      "business_name": "Zillow Group",
+      "rating_average": 0,
+      "phone": {
+        "prefix": "452",
+        "areacode": "206",
+        "number": "1030"
+      },
+      "zuid": "X1-ZUv2ktj4jt3nyh_98wrm",
+      "image_url": "https://www.zillowstatic.com/static/images/nophoto_h_g.png"
+    }
+  ],
+  "longitude": -117.10145,
+  "countyFIPS": "06073",
+  "imgSrc": "https://photos.zillowstatic.com/fp/584b7c721f9d37eccc7db8075187544a-p_d.jpg",
+  "livingAreaValue": 1667,
+  "streetAddress": "4366 Caminito Pintoresco",
+  "county": "San Diego County",
+  "monthlyHoaFee": 760,
+  "timeZone": "America/Los_Angeles",
+  "taxHistory": [
+    {
+      "time": 1724733791003,
+      "valueIncreaseRate": 0.019999655,
+      "taxIncreaseRate": 0.02257212,
+      "taxPaid": 8001.3,
+      "value": 648680
+    },
+    {
+      "time": 1693111391003,
+      "valueIncreaseRate": 0.019998653,
+      "taxIncreaseRate": 0.02729775,
+      "taxPaid": 7824.68,
+      "value": 635961
+    },
+    {
+      "time": 1661575391003,
+      "valueIncreaseRate": 0.019999444,
+      "taxIncreaseRate": 0.006865985,
+      "taxPaid": 7616.76,
+      "value": 623492
+    },
+    {
+      "time": 1630039391003,
+      "valueIncreaseRate": 0.010358677,
+      "taxIncreaseRate": 0.012251689,
+      "taxPaid": 7564.82,
+      "value": 611267
+    },
+    {
+      "time": 1598503391003,
+      "valueIncreaseRate": 1.5060996,
+      "taxIncreaseRate": 1.5127467,
+      "taxPaid": 7473.26,
+      "value": 605000
+    },
+    {
+      "time": 1566880991003,
+      "valueIncreaseRate": 0.019997634,
+      "taxIncreaseRate": 0.057487015,
+      "taxPaid": 2974.14,
+      "value": 241411
+    },
+    {
+      "time": 1535344991003,
+      "valueIncreaseRate": 0.019996725,
+      "taxIncreaseRate": 0.02434417,
+      "taxPaid": 2812.46,
+      "value": 236678
+    },
+    {
+      "time": 1503808991003,
+      "valueIncreaseRate": 0.01999657,
+      "taxIncreaseRate": 0.04845083,
+      "taxPaid": 2745.62,
+      "value": 232038
+    },
+    {
+      "time": 1472272991003,
+      "valueIncreaseRate": 0.015245032,
+      "taxIncreaseRate": 0.01533035,
+      "taxPaid": 2618.74,
+      "value": 227489
+    },
+    {
+      "time": 1440650591003,
+      "valueIncreaseRate": 0.019974053,
+      "taxIncreaseRate": 0.016265301,
+      "taxPaid": 2579.2,
+      "value": 224073
+    },
+    {
+      "time": 1409114591003,
+      "valueIncreaseRate": 0.004531446,
+      "taxIncreaseRate": 0,
+      "taxPaid": 2537.92,
+      "value": 219685
+    },
+    {
+      "time": 1377578591003,
+      "valueIncreaseRate": 0.019994684,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 218694
+    },
+    {
+      "time": 1346042591003,
+      "valueIncreaseRate": 0.019994862,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 214407
+    },
+    {
+      "time": 1314420191003,
+      "valueIncreaseRate": 0.0075251395,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 210204
+    },
+    {
+      "time": 1282884191003,
+      "valueIncreaseRate": -0.0023765007,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 208634
+    },
+    {
+      "time": 1251348191003,
+      "valueIncreaseRate": 0.019992001,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 209131
+    },
+    {
+      "time": 1219812191003,
+      "valueIncreaseRate": 0.019993732,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 205032
+    },
+    {
+      "time": 1188189791003,
+      "valueIncreaseRate": 0.019997768,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 201013
+    },
+    {
+      "time": 1156653791003,
+      "valueIncreaseRate": 0.019993892,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 197072
+    },
+    {
+      "time": 1125117791003,
+      "valueIncreaseRate": 0.019997783,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 193209
+    },
+    {
+      "time": 1093581791003,
+      "valueIncreaseRate": 0.018666308,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 189421
+    },
+    {
+      "time": 1061959391003,
+      "valueIncreaseRate": 0.019993966,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 185950
+    },
+    {
+      "time": 1030423391003,
+      "valueIncreaseRate": 0.019990824,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 182305
+    },
+    {
+      "time": 998887391003,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 178732
+    }
+  ],
+  "dateSold": null,
+  "annualHomeownersInsurance": 4066,
+  "state": "CA",
+  "listed_by": {
+    "agent_reason": 3,
+    "zpro": false,
+    "recent_sales": 0,
+    "zuid": "X1-ZUx5zzqo7scjd5_2599o",
+    "review_count": 7,
+    "display_name": "Mary Aronoff",
+    "profile_url": "https://www.zillow.com/profile/mary0770/",
+    "business_name": "Douglas Elliman of California, Inc.",
+    "rating_average": 5,
+    "phone": {
+      "prefix": "214",
+      "areacode": "619",
+      "number": "1315"
+    },
+    "badge_type": "Listing Agent",
+    "image_url": "https://photos.zillowstatic.com/fp/f2bcc36655eb392f954f339b4a86bf34-h_n.jpg"
+  },
+  "yearBuilt": 1976,
+  "brokerageName": "Douglas Elliman of California, Inc.",
+  "description": "Come see this beautiful new listing in the gated Kensington Park Villas Community! You will fall in love with this quaint, tree lined community and fully remodeled 3 bed plus a den 2 bathroom home. Walk into the front door and be sure not to pass by the secret room hidden behind a bookcase, set up as your very own speakeasy. This room could also serve as a great den, office or game room. Through this room you will access the large patio/ yard space. As you head up the stairs you will find the kitchen, living and dining area with beautiful upgrades and the integrity of the mid century modern lines, including large vaulted ceilings. The 3 bedrooms and bathrooms are separated from the living area for added privacy. The grounds of this community are stunning with koi ponds walking paths and even stairs to access the Kensington neighborhood. There is also a pool, spa and club house for your use.",
+  "climate": {
+    "windSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "probability": {},
+        "source": {
+          "url": "https://firststreet.org/property/4366-caminito-pintoresco-san-diego-ca-92108/603564003_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 18
+      }
+    },
+    "floodSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "femaZone": "X_UNSHADED",
+        "source": {
+          "url": "https://firststreet.org/property/4366-caminito-pintoresco-san-diego-ca-92108/603564003_fsid"
+        },
+        "probability": [
+          {
+            "relativeYear": 0,
+            "probability": 0
+          },
+          {
+            "relativeYear": 5,
+            "probability": 0
+          },
+          {
+            "relativeYear": 10,
+            "probability": 0
+          },
+          {
+            "relativeYear": 15,
+            "probability": 0
+          },
+          {
+            "relativeYear": 20,
+            "probability": 0
+          },
+          {
+            "relativeYear": 25,
+            "probability": 0
+          },
+          {
+            "relativeYear": 30,
+            "probability": 0
+          }
+        ],
+        "insuranceSeparatePolicy": "NOT_REQUIRED",
+        "historicCountPropertyAll": 0
+      }
+    },
+    "fireSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "probability": {},
+        "source": {
+          "url": "https://firststreet.org/property/4366-caminito-pintoresco-san-diego-ca-92108/603564003_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 34
+      }
+    },
+    "heatSources": {
+      "primary": {
+        "percentile98Temp": 89,
+        "hotDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 7
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 9
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 11
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 14
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 16
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 18
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 20
+          }
+        ],
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 4
+        },
+        "source": {
+          "url": "https://firststreet.org/property/4366-caminito-pintoresco-san-diego-ca-92108/603564003_fsid"
+        }
+      }
+    },
+    "airSources": {
+      "primary": {
+        "source": {
+          "url": "https://firststreet.org/property/4366-caminito-pintoresco-san-diego-ca-92108/603564003_fsid"
+        },
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 3
+        },
+        "badAirDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 4
+          }
+        ]
+      }
+    }
+  },
+  "latitude": 32.774426,
+  "nearbyHomes": [
+    {
+      "bathrooms": 2.5,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "4360 Caminito Pintoresco"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/4360-Caminito-Pintoresco-San-Diego-CA-92108/16994056_zpid/",
+      "lotAreaValue": 1828,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "4360 Caminito Pintoresco",
+        "zipcode": "92108"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.77436,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1239300,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 1828,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/72f82bd3d83c516633358ed92aea98fe-p_c.jpg"
+        }
+      ],
+      "zpid": 16994056,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1748,
+      "longitude": -117.10158,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1748
+    },
+    {
+      "hdpTypeDimension": "Zestimate",
+      "lotAreaUnits": "Square Feet",
+      "isShowcaseListing": false,
+      "longitude": -117.101295,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "4374 Caminito Pintoresco",
+        "zipcode": "92108"
+      },
+      "livingAreaValue": 1550,
+      "lotSize": 1799,
+      "zpid": 16994054,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 3,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "4374 Caminito Pintoresco"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "hdpUrl": "/homedetails/4374-Caminito-Pintoresco-San-Diego-CA-92108/16994054_zpid/",
+      "lotAreaValue": 1799,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "OTHER",
+      "latitude": 32.774467,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "newConstructionType": null,
+      "yearBuilt": 1975,
+      "listingTypeDimension": "Unknown Listed By",
+      "livingArea": 1550,
+      "providerListingID": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/5e8b1ee25cb1ac736fc533b507a578b1-p_c.jpg"
+        }
+      ],
+      "currency": "USD",
+      "price": 1067600,
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    },
+    {
+      "bathrooms": 3,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "4380 Caminito Pintoresco"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/4380-Caminito-Pintoresco-San-Diego-CA-92108/16994053_zpid/",
+      "lotAreaValue": 1449,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "4380 Caminito Pintoresco",
+        "zipcode": "92108"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.774567,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1127300,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 1449,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=32.774566650390625,-117.10115814208984&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=VsnXf7BurqeKHqq3DuR4-E0Tzwo="
+        }
+      ],
+      "zpid": 16994053,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1748,
+      "longitude": -117.10116,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1748
+    },
+    {
+      "bathrooms": 3,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "4373 Caminito Pintoresco"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/4373-Caminito-Pintoresco-San-Diego-CA-92108/16994046_zpid/",
+      "lotAreaValue": 3998,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "4373 Caminito Pintoresco",
+        "zipcode": "92108"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.774258,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1235700,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Townhouse",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 3998,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/3fa3231054f547f214ddb8c98d97bcca-p_c.jpg"
+        }
+      ],
+      "zpid": 16994046,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 2251,
+      "longitude": -117.10117,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "TOWNHOUSE",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 2251
+    },
+    {
+      "bathrooms": 3,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "4365 Caminito Pintoresco"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/4365-Caminito-Pintoresco-San-Diego-CA-92108/16994045_zpid/",
+      "lotAreaValue": 1516,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "4365 Caminito Pintoresco",
+        "zipcode": "92108"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.774136,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1143300,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 1516,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/f5cba6e98f4ff431f1a76e7003e7f9b0-p_c.jpg"
+        }
+      ],
+      "zpid": 16994045,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1875,
+      "longitude": -117.10128,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1875
+    },
+    {
+      "hdpTypeDimension": "Zestimate",
+      "lotAreaUnits": "Square Feet",
+      "isShowcaseListing": false,
+      "longitude": -117.10181,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "4352 Caminito Pintoresco",
+        "zipcode": "92108"
+      },
+      "livingAreaValue": 1348,
+      "lotSize": 1381,
+      "zpid": 16994075,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 2.5,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "4352 Caminito Pintoresco"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "hdpUrl": "/homedetails/4352-Caminito-Pintoresco-San-Diego-CA-92108/16994075_zpid/",
+      "lotAreaValue": 1381,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "OTHER",
+      "latitude": 32.77425,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Single Family",
+      "newConstructionType": null,
+      "yearBuilt": 1977,
+      "listingTypeDimension": "Unknown Listed By",
+      "livingArea": 1348,
+      "providerListingID": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=32.77425003051758,-117.101806640625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=2qzdyihUIKJ1u5xE_VWT9DV4iQ0="
+        }
+      ],
+      "currency": "USD",
+      "price": 900800,
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    },
+    {
+      "hdpTypeDimension": "Pending",
+      "lotAreaUnits": "sqft",
+      "isShowcaseListing": false,
+      "longitude": -117.10159,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "4351 Caminito Pintoresco",
+        "zipcode": "92108"
+      },
+      "livingAreaValue": 1875,
+      "lotSize": null,
+      "zpid": 16994043,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 3,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "4351 Caminito Pintoresco"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "hdpUrl": "/homedetails/4351-Caminito-Pintoresco-San-Diego-CA-92108/16994043_zpid/",
+      "lotAreaValue": null,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "250029692",
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "PENDING",
+      "latitude": 32.77407,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Single Family",
+      "newConstructionType": null,
+      "yearBuilt": 1977,
+      "listingTypeDimension": "For Sale by Agent",
+      "livingArea": 1875,
+      "providerListingID": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/b00ecaeaf5b8d0fb33e453c4fb9b4cd2-p_c.jpg"
+        }
+      ],
+      "currency": "USD",
+      "price": 999000,
+      "listing_sub_type": {
+        "is_FSBA": true,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    },
+    {
+      "bathrooms": 2.5,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "4359 Caminito Pintoresco"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/4359-Caminito-Pintoresco-San-Diego-CA-92108/16994044_zpid/",
+      "lotAreaValue": 1830,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "4359 Caminito Pintoresco",
+        "zipcode": "92108"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.77405,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1209300,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 1830,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=32.774051666259766,-117.1014175415039&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=HAOYYg-TaoogrCVY-MKEtsaisAk="
+        }
+      ],
+      "zpid": 16994044,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1988,
+      "longitude": -117.10142,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1988
+    }
+  ],
+  "priceHistory": [
+    {
+      "priceChangeRate": -0.031031031031031,
+      "date": "2025-08-21",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1755734400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "250031761"
+      },
+      "pricePerSquareFoot": 581,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 968000
+    },
+    {
+      "priceChangeRate": 0.65123966942149,
+      "date": "2025-06-26",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1750896000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "250031761"
+      },
+      "pricePerSquareFoot": 599,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 999000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2019-08-05",
+      "source": "Glendale AOR ZDD",
+      "postingIsRental": false,
+      "time": 1564963200000,
+      "sellerAgent": {
+        "name": "David Kurniadi",
+        "photo": null,
+        "profileUrl": "/profile/The-Kurniadi-Group/"
+      },
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Glendale AOR ZDD",
+        "infoString3": "https://photos.zillowstatic.com/fp/d6de69e573dd2afaeff53b2e86683093-zillow_web_logo_inf_11.jpg",
+        "infoString1": "190005009"
+      },
+      "pricePerSquareFoot": 363,
+      "buyerAgent": {
+        "name": "Jenna Hoyas",
+        "photo": null,
+        "profileUrl": "/profile/Jenna797/"
+      },
+      "event": "Sold",
+      "price": 605000
+    },
+    {
+      "priceChangeRate": -0.032,
+      "date": "2019-06-25",
+      "source": "The Kurniadi Group",
+      "postingIsRental": false,
+      "time": 1561420800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "The Kurniadi Group",
+        "infoString3": null,
+        "infoString1": "190005009"
+      },
+      "pricePerSquareFoot": 363,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 605000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2019-06-13",
+      "source": "The Kurniadi Group",
+      "postingIsRental": false,
+      "time": 1560384000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "The Kurniadi Group",
+        "infoString3": null,
+        "infoString1": "190005009"
+      },
+      "pricePerSquareFoot": 375,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 625000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2019-06-13",
+      "source": "The Kurniadi Group",
+      "postingIsRental": false,
+      "time": 1560384000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "The Kurniadi Group",
+        "infoString3": null,
+        "infoString1": "190005009"
+      },
+      "pricePerSquareFoot": 375,
+      "buyerAgent": null,
+      "event": "Pending sale",
+      "price": 625000
+    },
+    {
+      "priceChangeRate": -0.015748031496063,
+      "date": "2019-05-08",
+      "source": "The Kurniadi Group",
+      "postingIsRental": false,
+      "time": 1557273600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "The Kurniadi Group",
+        "infoString3": null,
+        "infoString1": "190005009"
+      },
+      "pricePerSquareFoot": 375,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 625000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2019-04-30",
+      "source": "The Kurniadi Group",
+      "postingIsRental": false,
+      "time": 1556582400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "The Kurniadi Group",
+        "infoString3": null,
+        "infoString1": "190005009"
+      },
+      "pricePerSquareFoot": 381,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 635000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2019-04-30",
+      "source": "The Kurniadi Group",
+      "postingIsRental": false,
+      "time": 1556582400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "The Kurniadi Group",
+        "infoString3": null,
+        "infoString1": "190005009"
+      },
+      "pricePerSquareFoot": 381,
+      "buyerAgent": null,
+      "event": "Pending sale",
+      "price": 635000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2019-03-26",
+      "source": "The Kurniadi Group",
+      "postingIsRental": false,
+      "time": 1553558400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "The Kurniadi Group",
+        "infoString3": null,
+        "infoString1": "190005009"
+      },
+      "pricePerSquareFoot": 381,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 635000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2019-03-26",
+      "source": "The Kurniadi Group",
+      "postingIsRental": false,
+      "time": 1553558400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "The Kurniadi Group",
+        "infoString3": null,
+        "infoString1": "190005009"
+      },
+      "pricePerSquareFoot": 381,
+      "buyerAgent": null,
+      "event": "Pending sale",
+      "price": 635000
+    },
+    {
+      "priceChangeRate": -0.021571648690293,
+      "date": "2019-02-28",
+      "source": "The Kurniadi Group",
+      "postingIsRental": false,
+      "time": 1551312000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "The Kurniadi Group",
+        "infoString3": null,
+        "infoString1": "190005009"
+      },
+      "pricePerSquareFoot": 381,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 635000
+    },
+    {
+      "priceChangeRate": -0.029895366218236,
+      "date": "2019-01-25",
+      "source": "The Kurniadi Group",
+      "postingIsRental": false,
+      "time": 1548374400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "The Kurniadi Group",
+        "infoString3": null,
+        "infoString1": "190005009"
+      },
+      "pricePerSquareFoot": 389,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 649000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2018-10-30",
+      "source": "The Kurniadi Group",
+      "postingIsRental": false,
+      "time": 1540857600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "The Kurniadi Group",
+        "infoString3": null,
+        "infoString1": "180041894"
+      },
+      "pricePerSquareFoot": 401,
+      "buyerAgent": null,
+      "event": "Listing removed",
+      "price": 669000
+    },
+    {
+      "priceChangeRate": -0.0088888888888889,
+      "date": "2018-09-24",
+      "source": "The Kurniadi Group",
+      "postingIsRental": false,
+      "time": 1537747200000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "The Kurniadi Group",
+        "infoString3": null,
+        "infoString1": "180041894"
+      },
+      "pricePerSquareFoot": 401,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 669000
+    },
+    {
+      "priceChangeRate": -0.014598540145985,
+      "date": "2018-08-31",
+      "source": "The Kurniadi Group",
+      "postingIsRental": false,
+      "time": 1535673600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "The Kurniadi Group",
+        "infoString3": null,
+        "infoString1": "180041894"
+      },
+      "pricePerSquareFoot": 405,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 675000
+    },
+    {
+      "priceChangeRate": -0.047287899860918,
+      "date": "2018-08-14",
+      "source": "The Kurniadi Group",
+      "postingIsRental": false,
+      "time": 1534204800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "The Kurniadi Group",
+        "infoString3": null,
+        "infoString1": "180041894"
+      },
+      "pricePerSquareFoot": 411,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 685000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2018-07-30",
+      "source": "The Kurniadi Group",
+      "postingIsRental": false,
+      "time": 1532908800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "The Kurniadi Group",
+        "infoString3": null,
+        "infoString1": "180041894"
+      },
+      "pricePerSquareFoot": 431,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 719000
+    }
+  ],
+  "neighborhoodMapThumb": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/584b7c721f9d37eccc7db8075187544a-p_c.jpg"
+    }
+  ],
+  "schools": [
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6144-Franklin-Elementary-School/",
+      "rating": 5,
+      "totalCount": null,
+      "distance": 1.1,
+      "assigned": null,
+      "name": "Franklin Elementary School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Elementary",
+      "grades": "K-5",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6257-Wilson-Middle-School/",
+      "rating": 4,
+      "totalCount": null,
+      "distance": 1.5,
+      "assigned": null,
+      "name": "Wilson Middle School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Middle",
+      "grades": "6-8",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6163-Hoover-High-School/",
+      "rating": 3,
+      "totalCount": null,
+      "distance": 1.2,
+      "assigned": null,
+      "name": "Hoover High School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "High",
+      "grades": "9-12",
+      "type": "Public"
+    }
+  ],
+  "rentZestimate": 4201,
+  "city": "San Diego",
+  "providerListingID": null,
+  "currency": "USD",
+  "listingProvider": null,
+  "propertyTaxRate": 1.17,
+  "isShowcaseListing": false,
+  "openHouseSchedule": {},
+  "mortgageRates": null,
+  "address": {
+    "community": null,
+    "city": "San Diego",
+    "state": "CA",
+    "neighborhood": null,
+    "subdivision": "MISSION VALLEY",
+    "streetAddress": "4366 Caminito Pintoresco",
+    "zipcode": "92108"
+  },
+  "cityId": 54296,
+  "timeOnZillow": "61 days",
+  "priceChange": -31000,
+  "zestimate": 959300,
+  "zpid": 16994055,
+  "countyId": 2841,
+  "homeType": "SINGLE_FAMILY",
+  "livingAreaUnits": "sqft",
+  "pageViewCount": 1069,
+  "homeInsights": [
+    {
+      "insights": [
+        {
+          "treatmentId": "model_0",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Mid century modern lines",
+            "Walking paths",
+            "Beautiful upgrades",
+            "Quaint tree lined community",
+            "Koi ponds",
+            "Large vaulted ceilings"
+          ]
+        },
+        {
+          "treatmentId": "model_1",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Mid century modern lines",
+            "Walking paths",
+            "Beautiful upgrades",
+            "Quaint tree lined community",
+            "Coi ponds",
+            "Large vaulted ceilings"
+          ]
+        }
+      ]
+    }
+  ],
+  "bathrooms": 2,
+  "neighborhoodRegion": {
+    "name": "Kensington"
+  },
+  "zipcode": "92108",
+  "building": null,
+  "zestimateLowPercent": "5",
+  "brokerId": null,
+  "stateId": 9,
+  "url": "/homedetails/4366-Caminito-Pintoresco-San-Diego-CA-92108/16994055_zpid/",
+  "solarPotential": null,
+  "attributionInfo": {
+    "buyerAgentName": null,
+    "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_95_35.jpg",
+    "mlsName": "SDMLS",
+    "coAgentLicenseNumber": "DRE #01933053",
+    "listingAgreement": null,
+    "listingOffices": [
+      {
+        "associatedOfficeType": "listOffice",
+        "officeName": "Douglas Elliman of California, Inc."
+      },
+      {
+        "associatedOfficeType": "coListOffice",
+        "officeName": "Douglas Elliman of California, Inc."
+      }
+    ],
+    "infoString10": "This information is deemed reliable but not guaranteed. You should rely on this information only to decide whether or not to further investigate a particular property.\nBEFORE MAKING ANY OTHER DECISION, YOU SHOULD PERSONALLY INVESTIGATE THE FACTS (e.g. square footage and lot size) with the assistance of an appropriate professional. You may use this information only to identify properties you may be interested in investigating further. All uses except for personal, noncommercial use in accordance with the foregoing purpose are prohibited. Redistribution or copying of this information, any photographs or video tours is strictly\nprohibited. This information is derived from the Internet Data Exchange (IDX) service provided by San Diego MLS. Displayed property listings may be held by a brokerage firm other than the broker and/or agent responsible for this display. The information and any photographs and video tours and the compilation from which they are derived is protected by copyright. Compilation © 2025 San Diego MLS.",
+    "buyerAgentMemberStateLicense": null,
+    "brokerName": "Douglas Elliman of California, Inc.",
+    "listingAttributionContact": null,
+    "lastUpdated": "2025-08-20 23:42:01",
+    "trueStatus": null,
+    "listingAgentAttributionContact": null,
+    "agentEmail": null,
+    "agentName": "Mary N Aronoff",
+    "attributionTitle": null,
+    "mlsId": "250031761",
+    "coAgentName": "Jenna Yost Hoyas",
+    "coAgentNumber": "619-214-1325",
+    "infoString5": "619-214-1315",
+    "listingAgents": [
+      {
+        "memberStateLicense": "DRE #01862560",
+        "memberFullName": "Mary N Aronoff",
+        "associatedAgentType": "listAgent"
+      },
+      {
+        "memberStateLicense": "DRE #01933053",
+        "memberFullName": "Jenna Yost Hoyas",
+        "associatedAgentType": "coListAgent"
+      }
+    ],
+    "agentPhoneNumber": "619-214-1315",
+    "agentLicenseNumber": "DRE #01862560",
+    "providerLogo": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_95_35.jpg",
+    "infoString16": null,
+    "buyerBrokerageName": null,
+    "mlsDisclaimer": "This information is deemed reliable but not guaranteed. You should rely on this information only to decide whether or not to further investigate a particular property.\nBEFORE MAKING ANY OTHER DECISION, YOU SHOULD PERSONALLY INVESTIGATE THE FACTS (e.g. square footage and lot size) with the assistance of an appropriate professional. You may use this information only to identify properties you may be interested in investigating further. All uses except for personal, noncommercial use in accordance with the foregoing purpose are prohibited. Redistribution or copying of this information, any photographs or video tours is strictly\nprohibited. This information is derived from the Internet Data Exchange (IDX) service provided by San Diego MLS. Displayed property listings may be held by a brokerage firm other than the broker and/or agent responsible for this display. The information and any photographs and video tours and the compilation from which they are derived is protected by copyright. Compilation © 2025 San Diego MLS.",
+    "brokerPhoneNumber": "619-363-4038",
+    "lastChecked": "2025-08-26 21:11:24"
+  },
+  "priceChangeDateString": "2025-08-21",
+  "photoCount": 53,
+  "homeStatus": "FOR_SALE",
+  "homeFacts": null,
+  "resoFacts": {
+    "hasAttachedProperty": false,
+    "frontageType": "N/K",
+    "poolFeatures": [
+      "Community/Common"
+    ],
+    "flooring": [
+      "Laminate"
+    ],
+    "foundationDetails": {},
+    "accessibilityFeatures": null,
+    "hasGarage": true,
+    "hasPetsAllowed": true,
+    "bodyType": null,
+    "topography": null,
+    "landLeaseExpirationDate": null,
+    "hasAdditionalParcels": false,
+    "parkName": null,
+    "livingQuarters": {},
+    "taxAssessedValue": 648680,
+    "atAGlanceFacts": [
+      {
+        "factValue": "Single Family Residence",
+        "factLabel": "Type"
+      },
+      {
+        "factValue": "1976",
+        "factLabel": "Year Built"
+      },
+      {
+        "factValue": "Fireplace, Forced Air Unit",
+        "factLabel": "Heating"
+      },
+      {
+        "factValue": "Central Forced Air",
+        "factLabel": "Cooling"
+      },
+      {
+        "factValue": "2 Garage spaces",
+        "factLabel": "Parking"
+      },
+      {
+        "factValue": "$760 monthly",
+        "factLabel": "HOA"
+      },
+      {
+        "factValue": "1,306 sqft",
+        "factLabel": "Lot"
+      },
+      {
+        "factValue": "61 Days",
+        "factLabel": "Days on Zillow"
+      },
+      {
+        "factValue": "$581",
+        "factLabel": "Price/sqft"
+      },
+      {
+        "factValue": null,
+        "factLabel": "Offer Review Date"
+      }
+    ],
+    "offerReviewDate": null,
+    "horseYN": null,
+    "view": {},
+    "rooms": {},
+    "belowGradeFinishedArea": null,
+    "feesAndDues": [
+      {
+        "phone": null,
+        "name": "Keystone Pacific",
+        "fee": "$760 monthly",
+        "type": "HOA"
+      }
+    ],
+    "cityRegion": "San Diego",
+    "mainLevelBathrooms": null,
+    "hasPrivatePool": null,
+    "landLeaseAmount": null,
+    "waterSource": [
+      "Meter on Property"
+    ],
+    "exteriorFeatures": {},
+    "inclusions": null,
+    "hasFireplace": null,
+    "gas": null,
+    "propertyCondition": null,
+    "elevationUnits": null,
+    "exclusions": null,
+    "mainLevelBedrooms": null,
+    "numberOfUnitsVacant": null,
+    "hasWaterfrontView": null,
+    "bathroomsOneQuarter": null,
+    "lotSize": "1,306 sqft",
+    "entryLevel": null,
+    "media": [
+      {
+        "mediaCategory": "UnbrandedVirtualTour",
+        "mediaURL": "https://www.propertypanorama.com/instaview/snd/250031761"
+      }
+    ],
+    "greenWaterConservation": null,
+    "stories": null,
+    "livingArea": "1,667 sqft",
+    "commonWalls": null,
+    "listingTerms": "Cash,Conventional",
+    "otherParking": null,
+    "associationFee": "$760 monthly",
+    "marketingType": null,
+    "greenIndoorAirQuality": null,
+    "greenSustainability": null,
+    "livingAreaRangeUnits": null,
+    "associationPhone": null,
+    "greenBuildingVerificationType": null,
+    "hasAttachedGarage": null,
+    "bedrooms": 3,
+    "architecturalStyle": null,
+    "listingId": null,
+    "structureType": null,
+    "interiorFeatures": null,
+    "horseAmenities": null,
+    "garageParkingCapacity": 2,
+    "developmentStatus": null,
+    "lotFeatures": null,
+    "roofType": "Composition,Flat",
+    "compensationBasedOn": null,
+    "greenEnergyGeneration": null,
+    "daysOnZillow": 61,
+    "listAOR": "San Diego Association of REALTOR",
+    "buildingAreaSource": null,
+    "elementarySchool": null,
+    "zoningDescription": "R-1:SINGLE",
+    "irrigationWaterRightsAcres": null,
+    "yearBuiltEffective": null,
+    "greenEnergyEfficient": null,
+    "constructionMaterials": [
+      "Stucco"
+    ],
+    "fireplaceFeatures": [
+      "FP in Living Room"
+    ],
+    "hoaFeeTotal": "$760 monthly",
+    "appliances": [
+      "Dishwasher",
+      "Disposal",
+      "Dryer",
+      "Garage Door Opener",
+      "Microwave",
+      "Range/Oven",
+      "Refrigerator",
+      "Washer"
+    ],
+    "sewer": [
+      "Sewer Connected"
+    ],
+    "bathroomsPartial": null,
+    "fencing": "Partial",
+    "spaFeatures": null,
+    "waterViewYN": null,
+    "buildingName": null,
+    "attic": null,
+    "petsMaxWeight": null,
+    "cumulativeDaysOnMarket": null,
+    "waterfrontFeatures": null,
+    "additionalParcelsDescription": null,
+    "canRaiseHorses": false,
+    "hasLandLease": false,
+    "communityFeatures": [
+      "Clubhouse/Rec Room",
+      "Exercise Room",
+      "Gated Community",
+      "Pet Restrictions",
+      "Pool",
+      "Spa/Hot Tub"
+    ],
+    "waterBodyName": null,
+    "middleOrJuniorSchool": null,
+    "lotSizeDimensions": null,
+    "virtualTour": "https://www.propertypanorama.com/instaview/snd/250031761",
+    "contingency": null,
+    "yearBuilt": 1976,
+    "utilities": null,
+    "totalActualRent": null,
+    "bathroomsFull": 2,
+    "parcelNumber": "4656535700",
+    "incomeIncludes": null,
+    "highSchool": null,
+    "taxAnnualAmount": 8001,
+    "subdivisionName": "MISSION VALLEY",
+    "storiesTotal": 2,
+    "storiesDecimal": null,
+    "specialListingConditions": null,
+    "windowFeatures": null,
+    "ownership": null,
+    "woodedArea": null,
+    "middleOrJuniorSchoolDistrict": null,
+    "associationPhone2": null,
+    "onMarketDate": 1750959225000,
+    "roomTypes": null,
+    "frontageLength": null,
+    "roadSurfaceType": null,
+    "associationAmenities": null,
+    "propertySubType": [
+      "Single Family Residence"
+    ],
+    "hasCooling": true,
+    "levels": "2 Story",
+    "coveredParkingCapacity": 2,
+    "foundationArea": null,
+    "zoning": "R-1:SINGLE",
+    "hoaFee": "$760 monthly",
+    "livingAreaRange": null,
+    "parkingFeatures": [
+      "Attached"
+    ],
+    "parkingCapacity": 4,
+    "cropsIncludedYN": null,
+    "tenantPays": null,
+    "builderModel": null,
+    "otherStructures": [
+      "N/K"
+    ],
+    "otherFacts": {},
+    "additionalFeeInfo": null,
+    "hasView": false,
+    "openParkingCapacity": null,
+    "securityFeatures": null,
+    "numberOfUnitsInCommunity": null,
+    "hasHomeWarranty": false,
+    "basementYN": null,
+    "doorFeatures": null,
+    "ownershipType": null,
+    "aboveGradeFinishedArea": null,
+    "associations": [
+      {
+        "feeFrequency": "$760 monthly",
+        "name": "Keystone Pacific",
+        "phone": null
+      }
+    ],
+    "waterView": null,
+    "electric": null,
+    "buildingFeatures": null,
+    "hasOpenParking": null,
+    "hasCarport": null,
+    "bathroomsHalf": 0,
+    "homeType": "SingleFamily",
+    "isSeniorCommunity": null,
+    "municipality": null,
+    "bathroomsThreeQuarter": null,
+    "hasSpa": false,
+    "basement": null,
+    "associationFee2": null,
+    "cooling": [
+      "Central Forced Air"
+    ],
+    "hasHeating": true,
+    "associationName2": null,
+    "hasRentControl": null,
+    "elementarySchoolDistrict": null,
+    "otherEquipment": null,
+    "bathrooms": 2,
+    "buildingArea": "1,667",
+    "furnished": false,
+    "vegetation": null,
+    "patioAndPorchFeatures": null,
+    "bathroomsFloat": 2,
+    "builderName": null,
+    "highSchoolDistrict": null,
+    "hasElectricOnProperty": null,
+    "laundryFeatures": [
+      "Electric",
+      "Gas"
+    ],
+    "entryLocation": null,
+    "fireplaces": 1,
+    "heating": [
+      "Fireplace",
+      "Forced Air Unit"
+    ],
+    "availabilityDate": null,
+    "carportParkingCapacity": null,
+    "hasAssociation": null,
+    "irrigationWaterRightsYN": null,
+    "isNewConstruction": null,
+    "associationFeeIncludes": [
+      "Common Area Maintenance",
+      "Exterior (Landscaping)",
+      "Exterior Bldg Maintenance",
+      "Gated Community",
+      "Limited Insurance",
+      "Roof Maintenance",
+      "Sewer",
+      "Termite"
+    ],
+    "leaseTerm": null,
+    "pricePerSquareFoot": 581,
+    "associationName": "Keystone Pacific",
+    "elevation": null
+  },
+  "datePosted": "2025-06-26",
+  "bedrooms": 3,
+  "propertyTypeDimension": "Single Family",
+  "mortgageZHLRates": {
+    "thirtyYearFixedBucket": {
+      "rate": 6.306,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756269791016
+    },
+    "fifteenYearFixedBucket": {
+      "rate": 5.601,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756269791016
+    },
+    "arm5Bucket": {
+      "rate": 6.529,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756269791016
+    }
+  },
+  "comingSoonOnMarketDate": null,
+  "favoriteCount": 40,
+  "livingArea": 1667,
+  "zestimateHighPercent": "5",
+  "mlsid": "250031761",
+  "isListedByOwner": null,
+  "listingSubType": {
+    "is_comingSoon": false,
+    "is_pending": false,
+    "is_forAuction": false,
+    "is_bankOwned": false,
+    "is_FSBA": true,
+    "is_FSBO": false,
+    "is_newHome": false,
+    "is_foreclosure": false
+  },
+  "buildingId": null,
+  "country": "USA",
+  "price": 968000,
+  "priceChangeDate": 1755734400000,
+  "contingentListingType": null
+}

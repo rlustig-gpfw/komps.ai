@@ -1,0 +1,1579 @@
+{
+  "buildingPermits": null,
+  "contact_recipients": [
+    {
+      "agent_reason": 1,
+      "zpro": null,
+      "recent_sales": 0,
+      "review_count": 0,
+      "display_name": "Premier Broker Flex Atlanta GA",
+      "badge_type": "Premier Agent",
+      "business_name": "Zillow Group",
+      "rating_average": 0,
+      "phone": {
+        "prefix": "452",
+        "areacode": "206",
+        "number": "1030"
+      },
+      "zuid": "X1-ZUv2ktj4jt3nyh_98wrm",
+      "image_url": "https://www.zillowstatic.com/static/images/nophoto_h_g.png"
+    }
+  ],
+  "longitude": -117.16907,
+  "countyFIPS": "06073",
+  "imgSrc": "https://photos.zillowstatic.com/fp/2ecedc9747082bea4d9dab7ae7b7bd9f-p_d.jpg",
+  "livingAreaValue": 1056,
+  "streetAddress": "3654 Marlesta Dr",
+  "county": "San Diego County",
+  "monthlyHoaFee": null,
+  "timeZone": "America/Los_Angeles",
+  "taxHistory": [
+    {
+      "time": 1724732188565,
+      "valueIncreaseRate": 0.019997237,
+      "taxIncreaseRate": 0.02310505,
+      "taxPaid": 4121.64,
+      "value": 339757
+    },
+    {
+      "time": 1693109788565,
+      "valueIncreaseRate": 0.019995958,
+      "taxIncreaseRate": 0.027714888,
+      "taxPaid": 4028.56,
+      "value": 333096
+    },
+    {
+      "time": 1661573788565,
+      "valueIncreaseRate": 0.019996002,
+      "taxIncreaseRate": 0.0072719855,
+      "taxPaid": 3919.92,
+      "value": 326566
+    },
+    {
+      "time": 1630037788565,
+      "valueIncreaseRate": 0.010357168,
+      "taxIncreaseRate": 0.012430285,
+      "taxPaid": 3891.62,
+      "value": 320164
+    },
+    {
+      "time": 1598501788565,
+      "valueIncreaseRate": 0.019998778,
+      "taxIncreaseRate": 0.02744608,
+      "taxPaid": 3843.84,
+      "value": 316882
+    },
+    {
+      "time": 1566879388565,
+      "valueIncreaseRate": 0.019994812,
+      "taxIncreaseRate": 0.06047657,
+      "taxPaid": 3741.16,
+      "value": 310669
+    },
+    {
+      "time": 1535343388565,
+      "valueIncreaseRate": 0.019996116,
+      "taxIncreaseRate": 0.024811225,
+      "taxPaid": 3527.81,
+      "value": 304579
+    },
+    {
+      "time": 1503807388565,
+      "valueIncreaseRate": 0.019999795,
+      "taxIncreaseRate": 0.016915109,
+      "taxPaid": 3442.4,
+      "value": 298608
+    },
+    {
+      "time": 1472271388565,
+      "valueIncreaseRate": 0.0152449915,
+      "taxIncreaseRate": 0.015253627,
+      "taxPaid": 3385.14,
+      "value": 292753
+    },
+    {
+      "time": 1440648988565,
+      "valueIncreaseRate": 0.01997814,
+      "taxIncreaseRate": 0.016245162,
+      "taxPaid": 3334.28,
+      "value": 288357
+    },
+    {
+      "time": 1409112988565,
+      "valueIncreaseRate": 0.0045339386,
+      "taxIncreaseRate": 0,
+      "taxPaid": 3280.98,
+      "value": 282709
+    },
+    {
+      "time": 1377576988565,
+      "valueIncreaseRate": 0.019998914,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 281433
+    },
+    {
+      "time": 1346040988565,
+      "valueIncreaseRate": 0.019995859,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 275915
+    },
+    {
+      "time": 1314418588565,
+      "valueIncreaseRate": 0.007527422,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 270506
+    },
+    {
+      "time": 1282882588565,
+      "valueIncreaseRate": -0.0023743701,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 268485
+    },
+    {
+      "time": 1251346588565,
+      "valueIncreaseRate": 0.019996362,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 269124
+    },
+    {
+      "time": 1219810588565,
+      "valueIncreaseRate": 0.019998068,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 263848
+    },
+    {
+      "time": 1188188188565,
+      "valueIncreaseRate": 0.019995742,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 258675
+    },
+    {
+      "time": 1156652188565,
+      "valueIncreaseRate": 0.019993324,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 253604
+    },
+    {
+      "time": 1125116188565,
+      "valueIncreaseRate": 0.019995159,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 248633
+    },
+    {
+      "time": 1093580188565,
+      "valueIncreaseRate": 0.01866757,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 243759
+    },
+    {
+      "time": 1061957788565,
+      "valueIncreaseRate": 0.02,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 239292
+    },
+    {
+      "time": 1030421788565,
+      "valueIncreaseRate": 0.39344263,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 234600
+    },
+    {
+      "time": 998885788565,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 168360
+    }
+  ],
+  "dateSold": null,
+  "annualHomeownersInsurance": 4200,
+  "state": "CA",
+  "listed_by": {
+    "agent_reason": 3,
+    "zpro": false,
+    "recent_sales": 0,
+    "zuid": "X1-ZUz42ccwtrpxjd_adn9b",
+    "review_count": 16,
+    "display_name": "Steven Rotsart",
+    "profile_url": "https://www.zillow.com/profile/StevenRotsart/",
+    "business_name": "Coldwell Banker Realty",
+    "rating_average": 5,
+    "phone": {
+      "prefix": "461",
+      "areacode": "619",
+      "number": "5800"
+    },
+    "badge_type": "Listing Agent",
+    "image_url": "https://photos.zillowstatic.com/fp/19ba051ada06f00cba77a733a1a0fdf0-h_n.jpg"
+  },
+  "yearBuilt": 1963,
+  "brokerageName": "Coldwell Banker Realty",
+  "description": "Tucked at the end of a peaceful cul-de-sac-style street in the desirable Linda Vista neighborhood, this beautifully updated 3-bedroom, 2-bathroom home offers a rare opportunity on a generous 22,500 sq ft lot. With a sparkling private pool, mature palms, and terraced hillside landscaping, the backyard feels like your own personal retreat.  Inside, enjoy tasteful upgrades throughout including wood-look floors, dual-pane windows, recessed lighting, and modern finishes. The bright, spacious kitchen features warm wood cabinetry, granite countertops, and updated appliances. An oversized window frames serene views of the lush hillside and pool area beyond.  Thoughtful floorplan with private bedroom wing, updated bathrooms, and charming curb appeal. Ideal for entertaining, the backyard boasts expansive concrete patio space, a fire pit, and plenty of room for dining al fresco or lounging poolside. Tucked away yet centrally located near Mesa College, USD, and just minutes to shopping, dining, and freeway access. A truly rare find in Clairemont!",
+  "climate": {
+    "windSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "probability": {},
+        "source": {
+          "url": "https://firststreet.org/property/3654-marlesta-dr-san-diego-ca-92111/603521258_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 18
+      }
+    },
+    "floodSources": {
+      "primary": {
+        "insuranceRecommendation": "CRITICAL",
+        "riskScore": {
+          "label": "MAJOR",
+          "max": 10,
+          "value": 5
+        },
+        "femaZone": "X_UNSHADED",
+        "source": {
+          "url": "https://firststreet.org/property/3654-marlesta-dr-san-diego-ca-92111/603521258_fsid"
+        },
+        "probability": [
+          {
+            "relativeYear": 0,
+            "probability": 0.0099999997764826
+          },
+          {
+            "relativeYear": 5,
+            "probability": 0.059999998658895
+          },
+          {
+            "relativeYear": 10,
+            "probability": 0.10999999940395
+          },
+          {
+            "relativeYear": 15,
+            "probability": 0.15000000596046
+          },
+          {
+            "relativeYear": 20,
+            "probability": 0.18999999761581
+          },
+          {
+            "relativeYear": 25,
+            "probability": 0.23000000417233
+          },
+          {
+            "relativeYear": 30,
+            "probability": 0.27000001072884
+          }
+        ],
+        "insuranceSeparatePolicy": "STRONGLY_RECOMMENDED",
+        "historicCountPropertyAll": 0
+      }
+    },
+    "fireSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "probability": {},
+        "source": {
+          "url": "https://firststreet.org/property/3654-marlesta-dr-san-diego-ca-92111/603521258_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 29
+      }
+    },
+    "heatSources": {
+      "primary": {
+        "percentile98Temp": 88,
+        "hotDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 7
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 9
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 11
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 13
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 15
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 17
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 19
+          }
+        ],
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 3
+        },
+        "source": {
+          "url": "https://firststreet.org/property/3654-marlesta-dr-san-diego-ca-92111/603521258_fsid"
+        }
+      }
+    },
+    "airSources": {
+      "primary": {
+        "source": {
+          "url": "https://firststreet.org/property/3654-marlesta-dr-san-diego-ca-92111/603521258_fsid"
+        },
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 3
+        },
+        "badAirDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 4
+          }
+        ]
+      }
+    }
+  },
+  "latitude": 32.810513,
+  "nearbyHomes": [
+    {
+      "hdpTypeDimension": "RecentlySold",
+      "lotAreaUnits": "sqft",
+      "isShowcaseListing": false,
+      "longitude": -117.16889,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "3662 Marlesta Dr",
+        "zipcode": "92111"
+      },
+      "livingAreaValue": 1470,
+      "lotSize": null,
+      "zpid": 16919079,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "TOWNHOUSE",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 3,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "3662 Marlesta Dr"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "hdpUrl": "/homedetails/3662-Marlesta-Dr-San-Diego-CA-92111/16919079_zpid/",
+      "lotAreaValue": null,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "220027893",
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "SOLD",
+      "latitude": 32.810745,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Townhouse",
+      "newConstructionType": null,
+      "yearBuilt": 1987,
+      "listingTypeDimension": "Unknown Listed By",
+      "livingArea": 1470,
+      "providerListingID": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/eb51c2036a34dd64336959ade377303d-p_c.jpg"
+        }
+      ],
+      "currency": "USD",
+      "price": 727000,
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    },
+    {
+      "bathrooms": 2.5,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "3664 Marlesta Dr"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/3664-Marlesta-Dr-San-Diego-CA-92111/16919078_zpid/",
+      "lotAreaValue": 1350,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "3664 Marlesta Dr",
+        "zipcode": "92111"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.810783,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 765900,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Townhouse",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 1350,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/3ad2802f5b9052731c83dff54e1d2f77-p_c.jpg"
+        }
+      ],
+      "zpid": 16919078,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1470,
+      "longitude": -117.16893,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "TOWNHOUSE",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1470
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "3646 Marlesta Dr"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/3646-Marlesta-Dr-San-Diego-CA-92111/16918996_zpid/",
+      "lotAreaValue": 0.30762167125803,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "3646 Marlesta Dr",
+        "zipcode": "92111"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.81037,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1153700,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 13400,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=3646+Marlesta+Dr%2C+San+Diego%2C+CA+92111&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=WlJLW_x11wIgYS_SLTSOaCL0uqE="
+        }
+      ],
+      "zpid": 16918996,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1653,
+      "longitude": -117.16939,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1653
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "6871 Thornwood St"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/6871-Thornwood-St-San-Diego-CA-92111/16918876_zpid/",
+      "lotAreaValue": 7100,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "6871 Thornwood St",
+        "zipcode": "92111"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.810883,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 951600,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 7100,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=6871+Thornwood+St%2C+San+Diego%2C+CA+92111&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=W2e7EzJytBZi1mfOEeY0XE_Hy4Y="
+        }
+      ],
+      "zpid": 16918876,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1058,
+      "longitude": -117.16927,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1058
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "3634 Marlesta Dr"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/3634-Marlesta-Dr-San-Diego-CA-92111/16918995_zpid/",
+      "lotAreaValue": 0.29384756657484,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "3634 Marlesta Dr",
+        "zipcode": "92111"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.81022,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1125200,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 12800,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=3634+Marlesta+Dr%2C+San+Diego%2C+CA+92111&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=2hGd1Y5oyLlad4wa0e-BV5T1k7Q="
+        }
+      ],
+      "zpid": 16918995,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1766,
+      "longitude": -117.16941,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1766
+    },
+    {
+      "bathrooms": 2.5,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "3666 Marlesta Dr"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/3666-Marlesta-Dr-San-Diego-CA-92111/16919081_zpid/",
+      "lotAreaValue": 1309,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "3666 Marlesta Dr",
+        "zipcode": "92111"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.810856,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 718900,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 1309,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=3666+Marlesta+Dr%2C+San+Diego%2C+CA+92111&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=lf7mC5jrgL2oZQtmsTg4DItfNzc="
+        }
+      ],
+      "zpid": 16919081,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1470,
+      "longitude": -117.16871,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1470
+    },
+    {
+      "bathrooms": 2.5,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "3668 Marlesta Dr"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/3668-Marlesta-Dr-San-Diego-CA-92111/16919080_zpid/",
+      "lotAreaValue": 1371,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "3668 Marlesta Dr",
+        "zipcode": "92111"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.810905,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 701000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 1371,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=32.81090545654297,-117.16876220703125&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=rXTze9Htqup1MP_IY7FpYIOMvPs="
+        }
+      ],
+      "zpid": 16919080,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1470,
+      "longitude": -117.16876,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1470
+    },
+    {
+      "bathrooms": 3,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "3701 Meadowgate St"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/3701-Meadowgate-St-San-Diego-CA-92111/16918898_zpid/",
+      "lotAreaValue": 7758,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "3701 Meadowgate St",
+        "zipcode": "92111"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.811,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1349000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 5,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 7758,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=3701+Meadowgate+St%2C+San+Diego%2C+CA+92111&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ou_ewIOi5gKRDoU1WAl1dYM9MIE="
+        }
+      ],
+      "zpid": 16918898,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 2519,
+      "longitude": -117.169014,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 2519
+    }
+  ],
+  "priceHistory": [
+    {
+      "priceChangeRate": 3.3473913043478,
+      "date": "2025-08-14",
+      "source": "CRMLS",
+      "postingIsRental": false,
+      "time": 1755129600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "CRMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/cb8caaa629c0af2058e60add67b2f2ee-zillow_web_logo_inf_11.jpg",
+        "infoString1": "PTP2506206"
+      },
+      "pricePerSquareFoot": 947,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 999900
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2001-05-25",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 990748800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 218,
+      "buyerAgent": null,
+      "event": "Sold",
+      "price": 230000
+    }
+  ],
+  "neighborhoodMapThumb": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/2ecedc9747082bea4d9dab7ae7b7bd9f-p_c.jpg"
+    }
+  ],
+  "schools": [
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6187-Lindbergh-Schweitzer-Elementary-School/",
+      "rating": 7,
+      "totalCount": null,
+      "distance": 0.6,
+      "assigned": null,
+      "name": "Clairemont Canyons Academy",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Elementary",
+      "grades": "K-6",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/24692-Innovation-Middle-School/",
+      "rating": 8,
+      "totalCount": null,
+      "distance": 1.9,
+      "assigned": null,
+      "name": "Innovation Middle School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Middle",
+      "grades": "6-8",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6192-Madison-High-School/",
+      "rating": 5,
+      "totalCount": null,
+      "distance": 1.5,
+      "assigned": null,
+      "name": "Madison High School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "High",
+      "grades": "9-12",
+      "type": "Public"
+    }
+  ],
+  "rentZestimate": 4144,
+  "city": "San Diego",
+  "providerListingID": null,
+  "currency": "USD",
+  "listingProvider": null,
+  "propertyTaxRate": 1.17,
+  "isShowcaseListing": false,
+  "openHouseSchedule": {},
+  "mortgageRates": null,
+  "address": {
+    "community": null,
+    "city": "San Diego",
+    "state": "CA",
+    "neighborhood": null,
+    "subdivision": null,
+    "streetAddress": "3654 Marlesta Dr",
+    "zipcode": "92111"
+  },
+  "cityId": 54296,
+  "timeOnZillow": "12 days",
+  "priceChange": null,
+  "zestimate": 995000,
+  "zpid": 16918997,
+  "countyId": 2841,
+  "homeType": "SINGLE_FAMILY",
+  "livingAreaUnits": "sqft",
+  "pageViewCount": 1823,
+  "homeInsights": [
+    {
+      "insights": [
+        {
+          "treatmentId": "model_0",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Peaceful cul-de-sac-style street",
+            "Sparkling private pool",
+            "Charming curb appeal",
+            "Modern finishes",
+            "Oversized window",
+            "Mature palms",
+            "Lounging poolside"
+          ]
+        },
+        {
+          "treatmentId": "model_1",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Peaceful cul-de-sac-style street",
+            "Sparkling private pool",
+            "Charming curb appeal",
+            "Modern finishes",
+            "Oversized window",
+            "Mature palms",
+            "Lounging poolside"
+          ]
+        }
+      ]
+    }
+  ],
+  "bathrooms": 2,
+  "neighborhoodRegion": {
+    "name": "Clairemont Mesa East"
+  },
+  "zipcode": "92111",
+  "building": null,
+  "zestimateLowPercent": "5",
+  "brokerId": null,
+  "stateId": 9,
+  "url": "/homedetails/3654-Marlesta-Dr-San-Diego-CA-92111/16918997_zpid/",
+  "solarPotential": null,
+  "attributionInfo": {
+    "buyerAgentName": null,
+    "infoString3": "https://photos.zillowstatic.com/fp/cb8caaa629c0af2058e60add67b2f2ee-zillow_web_95_35.jpg",
+    "mlsName": "CRMLS",
+    "coAgentLicenseNumber": null,
+    "listingAgreement": null,
+    "listingOffices": [
+      {
+        "associatedOfficeType": "listOffice",
+        "officeName": "Coldwell Banker Realty"
+      }
+    ],
+    "infoString10": "The multiple listing data appearing on this website, or contained in reports produced therefrom, is owned and copyrighted by California Regional Multiple Listing Service, Inc. (\"CRMLS\") and is protected by all applicable copyright laws. Information provided is for viewer's personal, non-commercial use and may not be used for any purpose other than to identify prospective properties the viewer may be interested in purchasing. All listing data, including but not limited to square footage and lot size is believed to be accurate, but the listing Agent, listing Broker and CRMLS and its affiliates do not warrant or guarantee such accuracy. The viewer should independently verify the listed data prior to making any decisions based on such information by personal inspection and/or contacting a real estate professional.\n\nBased on information from California Regional Multiple Listing Service, Inc. as of 2025-08-26 20:55:41 PDT and /or other sources. All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy. Properties may or may not be listed by the office/agent presenting the information",
+    "buyerAgentMemberStateLicense": null,
+    "brokerName": "Coldwell Banker Realty",
+    "listingAttributionContact": "619-461-5800",
+    "lastUpdated": "2025-08-18 09:00:27",
+    "trueStatus": null,
+    "listingAgentAttributionContact": null,
+    "agentEmail": null,
+    "agentName": "Steven Rotsart, Jr.",
+    "attributionTitle": "Listing Provided by:",
+    "mlsId": "PTP2506206",
+    "coAgentName": null,
+    "coAgentNumber": null,
+    "infoString5": "619-460-6600",
+    "listingAgents": [
+      {
+        "memberStateLicense": "DRE #01254025",
+        "memberFullName": "Steven Rotsart, Jr.",
+        "associatedAgentType": "listAgent"
+      }
+    ],
+    "agentPhoneNumber": "619-460-6600",
+    "agentLicenseNumber": "DRE #01254025",
+    "providerLogo": "https://photos.zillowstatic.com/fp/cb8caaa629c0af2058e60add67b2f2ee-zillow_web_95_35.jpg",
+    "infoString16": null,
+    "buyerBrokerageName": null,
+    "mlsDisclaimer": "The multiple listing data appearing on this website, or contained in reports produced therefrom, is owned and copyrighted by California Regional Multiple Listing Service, Inc. (\"CRMLS\") and is protected by all applicable copyright laws. Information provided is for viewer's personal, non-commercial use and may not be used for any purpose other than to identify prospective properties the viewer may be interested in purchasing. All listing data, including but not limited to square footage and lot size is believed to be accurate, but the listing Agent, listing Broker and CRMLS and its affiliates do not warrant or guarantee such accuracy. The viewer should independently verify the listed data prior to making any decisions based on such information by personal inspection and/or contacting a real estate professional.\n\nBased on information from California Regional Multiple Listing Service, Inc. as of 2025-08-26 20:55:41 PDT and /or other sources. All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy. Properties may or may not be listed by the office/agent presenting the information",
+    "brokerPhoneNumber": "619-460-6600",
+    "lastChecked": "2025-08-26 20:55:41"
+  },
+  "priceChangeDateString": null,
+  "photoCount": 66,
+  "homeStatus": "FOR_SALE",
+  "homeFacts": null,
+  "resoFacts": {
+    "hasAttachedProperty": false,
+    "frontageType": null,
+    "poolFeatures": [
+      "In Ground",
+      "Private",
+      "See Remarks"
+    ],
+    "flooring": null,
+    "foundationDetails": {},
+    "accessibilityFeatures": null,
+    "hasGarage": true,
+    "hasPetsAllowed": null,
+    "bodyType": null,
+    "topography": null,
+    "landLeaseExpirationDate": null,
+    "hasAdditionalParcels": false,
+    "parkName": null,
+    "livingQuarters": {},
+    "taxAssessedValue": 339757,
+    "atAGlanceFacts": [
+      {
+        "factValue": "Single Family Residence",
+        "factLabel": "Type"
+      },
+      {
+        "factValue": "1963",
+        "factLabel": "Year Built"
+      },
+      {
+        "factValue": null,
+        "factLabel": "Heating"
+      },
+      {
+        "factValue": "None",
+        "factLabel": "Cooling"
+      },
+      {
+        "factValue": "2 Attached Garage spaces",
+        "factLabel": "Parking"
+      },
+      {
+        "factValue": "0.52 Acres",
+        "factLabel": "Lot"
+      },
+      {
+        "factValue": "12 Days",
+        "factLabel": "Days on Zillow"
+      },
+      {
+        "factValue": "$947",
+        "factLabel": "Price/sqft"
+      },
+      {
+        "factValue": null,
+        "factLabel": "Offer Review Date"
+      }
+    ],
+    "offerReviewDate": null,
+    "horseYN": null,
+    "view": [
+      "City Lights",
+      "Canyon",
+      "Valley"
+    ],
+    "rooms": [
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "MasterBedroom",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": null,
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "MasterBathroom",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": null,
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "Kitchen",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": null,
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "LivingRoom",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": null,
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "Other",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": null,
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      }
+    ],
+    "belowGradeFinishedArea": null,
+    "feesAndDues": [
+      {
+        "phone": null,
+        "name": null,
+        "fee": null,
+        "type": "HOA"
+      }
+    ],
+    "cityRegion": "San Diego",
+    "mainLevelBathrooms": null,
+    "hasPrivatePool": true,
+    "landLeaseAmount": null,
+    "waterSource": null,
+    "exteriorFeatures": {},
+    "inclusions": null,
+    "hasFireplace": false,
+    "gas": null,
+    "propertyCondition": null,
+    "elevationUnits": null,
+    "exclusions": null,
+    "mainLevelBedrooms": null,
+    "numberOfUnitsVacant": null,
+    "hasWaterfrontView": null,
+    "bathroomsOneQuarter": null,
+    "lotSize": "0.52 Acres",
+    "entryLevel": null,
+    "media": [
+      {
+        "mediaCategory": "BrandedVirtualTour",
+        "mediaURL": "https://youtu.be/mqAN5zZW_lM"
+      },
+      {
+        "mediaCategory": "UnbrandedVirtualTour",
+        "mediaURL": "https://my.matterport.com/show/?m=GXyfMPMJEnM&mls=1"
+      },
+      {
+        "mediaCategory": "UnbrandedVirtualTour",
+        "mediaURL": "https://vimeo.com/1110797037"
+      }
+    ],
+    "greenWaterConservation": null,
+    "stories": 1,
+    "livingArea": "1,056 sqft",
+    "commonWalls": "No Common Walls",
+    "listingTerms": "Cash,Conventional,VA Loan",
+    "otherParking": null,
+    "associationFee": null,
+    "marketingType": null,
+    "greenIndoorAirQuality": null,
+    "greenSustainability": null,
+    "livingAreaRangeUnits": "Square Feet",
+    "associationPhone": null,
+    "greenBuildingVerificationType": null,
+    "hasAttachedGarage": true,
+    "bedrooms": 3,
+    "architecturalStyle": null,
+    "listingId": null,
+    "structureType": null,
+    "interiorFeatures": null,
+    "horseAmenities": null,
+    "garageParkingCapacity": 2,
+    "developmentStatus": null,
+    "lotFeatures": [
+      "Lot Over 40000 Sqft",
+      "Yard"
+    ],
+    "roofType": null,
+    "compensationBasedOn": null,
+    "greenEnergyGeneration": null,
+    "daysOnZillow": 12,
+    "listAOR": "California Regional MLS (North San Diego County & Pacific Southwest AORs)",
+    "buildingAreaSource": null,
+    "elementarySchool": null,
+    "zoningDescription": null,
+    "irrigationWaterRightsAcres": null,
+    "yearBuiltEffective": null,
+    "greenEnergyEfficient": null,
+    "constructionMaterials": {},
+    "fireplaceFeatures": [
+      "None"
+    ],
+    "hoaFeeTotal": null,
+    "appliances": null,
+    "sewer": null,
+    "bathroomsPartial": null,
+    "fencing": null,
+    "spaFeatures": null,
+    "waterViewYN": false,
+    "buildingName": null,
+    "attic": null,
+    "petsMaxWeight": null,
+    "cumulativeDaysOnMarket": null,
+    "waterfrontFeatures": null,
+    "additionalParcelsDescription": null,
+    "canRaiseHorses": false,
+    "hasLandLease": false,
+    "communityFeatures": [
+      "Curbs",
+      "Street Lights",
+      "Sidewalks"
+    ],
+    "waterBodyName": null,
+    "middleOrJuniorSchool": null,
+    "lotSizeDimensions": null,
+    "virtualTour": "https://youtu.be/mqAN5zZW_lM",
+    "contingency": null,
+    "yearBuilt": 1963,
+    "utilities": null,
+    "totalActualRent": null,
+    "bathroomsFull": 1,
+    "parcelNumber": "4207100500",
+    "incomeIncludes": null,
+    "highSchool": null,
+    "taxAnnualAmount": 4122,
+    "subdivisionName": null,
+    "storiesTotal": 1,
+    "storiesDecimal": 1,
+    "specialListingConditions": "Standard",
+    "windowFeatures": null,
+    "ownership": null,
+    "woodedArea": null,
+    "middleOrJuniorSchoolDistrict": null,
+    "associationPhone2": null,
+    "onMarketDate": 1755129600000,
+    "roomTypes": [
+      "Kitchen",
+      "Living Room",
+      "Primary Bathroom",
+      "Primary Bedroom",
+      "Other"
+    ],
+    "frontageLength": null,
+    "roadSurfaceType": null,
+    "associationAmenities": null,
+    "propertySubType": [
+      "Single Family Residence"
+    ],
+    "hasCooling": false,
+    "levels": "One",
+    "coveredParkingCapacity": 2,
+    "foundationArea": null,
+    "zoning": "R-1:SINGLE FAM-RES",
+    "hoaFee": null,
+    "livingAreaRange": null,
+    "parkingFeatures": [
+      "Garage - Attached"
+    ],
+    "parkingCapacity": 3,
+    "cropsIncludedYN": null,
+    "tenantPays": null,
+    "builderModel": null,
+    "otherStructures": null,
+    "otherFacts": {},
+    "additionalFeeInfo": null,
+    "hasView": true,
+    "openParkingCapacity": 1,
+    "securityFeatures": null,
+    "numberOfUnitsInCommunity": 0,
+    "hasHomeWarranty": false,
+    "basementYN": null,
+    "doorFeatures": null,
+    "ownershipType": null,
+    "aboveGradeFinishedArea": null,
+    "associations": {},
+    "waterView": null,
+    "electric": null,
+    "buildingFeatures": null,
+    "hasOpenParking": null,
+    "hasCarport": null,
+    "bathroomsHalf": 1,
+    "homeType": "SingleFamily",
+    "isSeniorCommunity": null,
+    "municipality": null,
+    "bathroomsThreeQuarter": null,
+    "hasSpa": false,
+    "basement": null,
+    "associationFee2": null,
+    "cooling": [
+      "None"
+    ],
+    "hasHeating": null,
+    "associationName2": null,
+    "hasRentControl": null,
+    "elementarySchoolDistrict": null,
+    "otherEquipment": null,
+    "bathrooms": 2,
+    "buildingArea": null,
+    "furnished": false,
+    "vegetation": null,
+    "patioAndPorchFeatures": null,
+    "bathroomsFloat": 2,
+    "builderName": null,
+    "highSchoolDistrict": "San Diego Unified",
+    "hasElectricOnProperty": null,
+    "laundryFeatures": [
+      "In Garage"
+    ],
+    "entryLocation": "Front door",
+    "fireplaces": null,
+    "heating": null,
+    "availabilityDate": null,
+    "carportParkingCapacity": null,
+    "hasAssociation": null,
+    "irrigationWaterRightsYN": null,
+    "isNewConstruction": null,
+    "associationFeeIncludes": null,
+    "leaseTerm": null,
+    "pricePerSquareFoot": 947,
+    "associationName": null,
+    "elevation": null
+  },
+  "datePosted": "2025-08-14",
+  "bedrooms": 3,
+  "propertyTypeDimension": "Single Family",
+  "mortgageZHLRates": {
+    "thirtyYearFixedBucket": {
+      "rate": 6.283,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756258962280
+    },
+    "fifteenYearFixedBucket": {
+      "rate": 5.593,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756258962280
+    },
+    "arm5Bucket": {
+      "rate": 6.502,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756258962280
+    }
+  },
+  "comingSoonOnMarketDate": null,
+  "favoriteCount": 126,
+  "livingArea": 1056,
+  "zestimateHighPercent": "5",
+  "mlsid": "PTP2506206",
+  "isListedByOwner": null,
+  "listingSubType": {
+    "is_comingSoon": false,
+    "is_pending": false,
+    "is_forAuction": false,
+    "is_bankOwned": false,
+    "is_FSBA": true,
+    "is_FSBO": false,
+    "is_newHome": false,
+    "is_foreclosure": false
+  },
+  "buildingId": null,
+  "country": "USA",
+  "price": 999900,
+  "priceChangeDate": null,
+  "contingentListingType": null
+}

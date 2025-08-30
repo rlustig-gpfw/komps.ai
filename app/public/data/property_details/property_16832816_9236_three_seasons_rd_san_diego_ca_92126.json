@@ -1,0 +1,1616 @@
+{
+  "buildingPermits": null,
+  "contact_recipients": [
+    {
+      "agent_reason": 1,
+      "zpro": null,
+      "recent_sales": 0,
+      "review_count": 0,
+      "display_name": "Premier Broker Flex Atlanta GA",
+      "badge_type": "Premier Agent",
+      "business_name": "Zillow Group",
+      "rating_average": 0,
+      "phone": {
+        "prefix": "452",
+        "areacode": "206",
+        "number": "1030"
+      },
+      "zuid": "X1-ZUv2ktj4jt3nyh_98wrm",
+      "image_url": "https://www.zillowstatic.com/static/images/nophoto_h_g.png"
+    }
+  ],
+  "longitude": -117.12647,
+  "countyFIPS": "06073",
+  "imgSrc": "https://photos.zillowstatic.com/fp/66c2d396f04646fb7af16a431141452c-p_d.jpg",
+  "livingAreaValue": 1250,
+  "streetAddress": "9236 Three Seasons Rd",
+  "county": "San Diego County",
+  "monthlyHoaFee": null,
+  "timeZone": "America/Los_Angeles",
+  "taxHistory": [
+    {
+      "time": 1724734167394,
+      "valueIncreaseRate": -0.080694586,
+      "taxIncreaseRate": -0.077946864,
+      "taxPaid": 11105.3,
+      "value": 900000
+    },
+    {
+      "time": 1693111767394,
+      "valueIncreaseRate": 3.9282162,
+      "taxIncreaseRate": 3.8862033,
+      "taxPaid": 12044.1,
+      "value": 979000
+    },
+    {
+      "time": 1661575767394,
+      "valueIncreaseRate": 0.019994045,
+      "taxIncreaseRate": 0.007142149,
+      "taxPaid": 2464.92,
+      "value": 198652
+    },
+    {
+      "time": 1630039767394,
+      "valueIncreaseRate": 0.010354738,
+      "taxIncreaseRate": 0.012166947,
+      "taxPaid": 2447.44,
+      "value": 194758
+    },
+    {
+      "time": 1598503767394,
+      "valueIncreaseRate": 0.019996507,
+      "taxIncreaseRate": 0.03856133,
+      "taxPaid": 2418.02,
+      "value": 192762
+    },
+    {
+      "time": 1566881367394,
+      "valueIncreaseRate": 0.019991472,
+      "taxIncreaseRate": 0.047581766,
+      "taxPaid": 2328.24,
+      "value": 188983
+    },
+    {
+      "time": 1535345367394,
+      "valueIncreaseRate": 0.019994825,
+      "taxIncreaseRate": 0.025976134,
+      "taxPaid": 2222.49,
+      "value": 185279
+    },
+    {
+      "time": 1503809367394,
+      "valueIncreaseRate": 0.019995958,
+      "taxIncreaseRate": 0.01663238,
+      "taxPaid": 2166.22,
+      "value": 181647
+    },
+    {
+      "time": 1472273367394,
+      "valueIncreaseRate": 0.015244111,
+      "taxIncreaseRate": 0.014724753,
+      "taxPaid": 2130.78,
+      "value": 178086
+    },
+    {
+      "time": 1440650967394,
+      "valueIncreaseRate": 0.0199736,
+      "taxIncreaseRate": 0.015416072,
+      "taxPaid": 2099.86,
+      "value": 175412
+    },
+    {
+      "time": 1409114967394,
+      "valueIncreaseRate": 0.0045326836,
+      "taxIncreaseRate": 0,
+      "taxPaid": 2067.98,
+      "value": 171977
+    },
+    {
+      "time": 1377578967394,
+      "valueIncreaseRate": 0.019994637,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 171201
+    },
+    {
+      "time": 1346042967394,
+      "valueIncreaseRate": 0.019993315,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 167845
+    },
+    {
+      "time": 1314420567394,
+      "valueIncreaseRate": 0.0075248275,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 164555
+    },
+    {
+      "time": 1282884567394,
+      "valueIncreaseRate": -0.0023760805,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 163326
+    },
+    {
+      "time": 1251348567394,
+      "valueIncreaseRate": 0.019993022,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 163715
+    },
+    {
+      "time": 1219812567394,
+      "valueIncreaseRate": 0.019992374,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 160506
+    },
+    {
+      "time": 1188190167394,
+      "valueIncreaseRate": 0.019990148,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 157360
+    },
+    {
+      "time": 1156654167394,
+      "valueIncreaseRate": 0.019993125,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 154276
+    },
+    {
+      "time": 1125118167394,
+      "valueIncreaseRate": 0.01999501,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 151252
+    },
+    {
+      "time": 1093582167394,
+      "valueIncreaseRate": 0.018657561,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 148287
+    },
+    {
+      "time": 1061959767394,
+      "valueIncreaseRate": 0.019997617,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 145571
+    },
+    {
+      "time": 1030423767394,
+      "valueIncreaseRate": 0.019997284,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 142717
+    },
+    {
+      "time": 998887767394,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 139919
+    }
+  ],
+  "dateSold": null,
+  "annualHomeownersInsurance": 4196,
+  "state": "CA",
+  "listed_by": {
+    "agent_reason": 3,
+    "zpro": false,
+    "recent_sales": 0,
+    "zuid": "X1-ZUznv5ht24xxqh_9tzap",
+    "review_count": 0,
+    "display_name": "Raymond Erni",
+    "profile_url": "https://www.zillow.com/profile/Raymond-erni/",
+    "business_name": "Prime Location",
+    "rating_average": 0,
+    "phone": {
+      "prefix": "201",
+      "areacode": "858",
+      "number": "8877"
+    },
+    "badge_type": "Listing Agent",
+    "image_url": "https://photos.zillowstatic.com/fp/818b820cb887f4817783815d677f10e6-h_n.jpg"
+  },
+  "yearBuilt": 1976,
+  "brokerageName": "Prime Location",
+  "description": "Welcome to this charming 3 bed, 2 bath home in central Mira Mesa. It sits on a 5,500 sq. ft. lot in a quiet, well-kept neighborhood. It features upgraded windows, kitchen, baths, doors, new carpet, recessed lighting, and fresh paint. A short walk to schools, public park, easy access to I-15, and few minutes drive to Qualcomm, UC San Diego, and the beautiful beaches of San Diego.  The spacious front and back yard offers room to entertain or expand. No HOA.  Information is deemed reliable, but not guaranteed. Buyer and Buyer's agent to verify all prior to close of escrow.",
+  "climate": {
+    "windSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "probability": {},
+        "source": {
+          "url": "https://firststreet.org/property/9236-three-seasons-rd-san-diego-ca-92126/603405005_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 18
+      }
+    },
+    "floodSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "femaZone": "X_UNSHADED",
+        "source": {
+          "url": "https://firststreet.org/property/9236-three-seasons-rd-san-diego-ca-92126/603405005_fsid"
+        },
+        "probability": [
+          {
+            "relativeYear": 0,
+            "probability": 0
+          },
+          {
+            "relativeYear": 5,
+            "probability": 0
+          },
+          {
+            "relativeYear": 10,
+            "probability": 0
+          },
+          {
+            "relativeYear": 15,
+            "probability": 0
+          },
+          {
+            "relativeYear": 20,
+            "probability": 0
+          },
+          {
+            "relativeYear": 25,
+            "probability": 0
+          },
+          {
+            "relativeYear": 30,
+            "probability": 0
+          }
+        ],
+        "insuranceSeparatePolicy": "NOT_REQUIRED",
+        "historicCountPropertyAll": 0
+      }
+    },
+    "fireSources": {
+      "primary": {
+        "insuranceRecommendation": "RECOMMENDED",
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 4
+        },
+        "probability": [
+          {
+            "relativeYear": 0,
+            "probability": 0.00089999998454005
+          },
+          {
+            "relativeYear": 5,
+            "probability": 0.0054000001400709
+          },
+          {
+            "relativeYear": 10,
+            "probability": 0.0098999999463558
+          },
+          {
+            "relativeYear": 15,
+            "probability": 0.014299999922514
+          },
+          {
+            "relativeYear": 20,
+            "probability": 0.018699999898672
+          },
+          {
+            "relativeYear": 25,
+            "probability": 0.02309999987483
+          },
+          {
+            "relativeYear": 30,
+            "probability": 0.027499999850988
+          }
+        ],
+        "source": {
+          "url": "https://firststreet.org/property/9236-three-seasons-rd-san-diego-ca-92126/603405005_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 33
+      }
+    },
+    "heatSources": {
+      "primary": {
+        "percentile98Temp": 93,
+        "hotDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 7
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 9
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 11
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 14
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 16
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 18
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 20
+          }
+        ],
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 4
+        },
+        "source": {
+          "url": "https://firststreet.org/property/9236-three-seasons-rd-san-diego-ca-92126/603405005_fsid"
+        }
+      }
+    },
+    "airSources": {
+      "primary": {
+        "source": {
+          "url": "https://firststreet.org/property/9236-three-seasons-rd-san-diego-ca-92126/603405005_fsid"
+        },
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 3
+        },
+        "badAirDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 3
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 3
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 3
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 4
+          }
+        ]
+      }
+    }
+  },
+  "latitude": 32.90484,
+  "nearbyHomes": [
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "9226 Three Seasons Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/9226-Three-Seasons-Rd-San-Diego-CA-92126/16832817_zpid/",
+      "lotAreaValue": 5400,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "9226 Three Seasons Rd",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.904858,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1062300,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 5400,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=9226+Three+Seasons+Rd%2C+San+Diego%2C+CA+92126&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=fYgI4xyWxFK0ySGYU6gKv54qXbI="
+        }
+      ],
+      "zpid": 16832817,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1657,
+      "longitude": -117.12663,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1657
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "9246 Three Seasons Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/9246-Three-Seasons-Rd-San-Diego-CA-92126/16832815_zpid/",
+      "lotAreaValue": 6500,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "9246 Three Seasons Rd",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.904854,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1023500,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 6500,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=9246+Three+Seasons+Rd%2C+San+Diego%2C+CA+92126&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=QX80a41row8UiQmEVgdnhBXqNEQ="
+        }
+      ],
+      "zpid": 16832815,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1675,
+      "longitude": -117.12628,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1675
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "9216 Three Seasons Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/9216-Three-Seasons-Rd-San-Diego-CA-92126/16832818_zpid/",
+      "lotAreaValue": 5500,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "9216 Three Seasons Rd",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.90486,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1050600,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 5500,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=9216+Three+Seasons+Rd%2C+San+Diego%2C+CA+92126&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=GYSvVSjCC8KrtAQlkRX3MjrspfE="
+        }
+      ],
+      "zpid": 16832818,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1897,
+      "longitude": -117.1268,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1897
+    },
+    {
+      "hdpTypeDimension": "Zestimate",
+      "lotAreaUnits": "Square Feet",
+      "isShowcaseListing": false,
+      "longitude": -117.126465,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "9235 Gold Coast Dr",
+        "zipcode": "92126"
+      },
+      "livingAreaValue": 1405,
+      "lotSize": 5227,
+      "zpid": 16832813,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 2,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "9235 Gold Coast Dr"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "hdpUrl": "/homedetails/9235-Gold-Coast-Dr-San-Diego-CA-92126/16832813_zpid/",
+      "lotAreaValue": 5227.2,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "OTHER",
+      "latitude": 32.90514,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Single Family",
+      "newConstructionType": null,
+      "yearBuilt": 1976,
+      "listingTypeDimension": "Unknown Listed By",
+      "livingArea": 1405,
+      "providerListingID": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/9f4bd9d7f3ada09cb1595d58b46d7d02-p_c.jpg"
+        }
+      ],
+      "currency": "USD",
+      "price": 948200,
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "9225 Gold Coast Dr"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/9225-Gold-Coast-Dr-San-Diego-CA-92126/16832812_zpid/",
+      "lotAreaValue": 5227.2,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "9225 Gold Coast Dr",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "230024072",
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.905148,
+      "homeStatus": "SOLD",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 945000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 5227,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/da1b70b4ded14ae553636372a8c59a9d-p_c.jpg"
+        }
+      ],
+      "zpid": 16832812,
+      "hdpTypeDimension": "RecentlySold",
+      "livingArea": 1657,
+      "longitude": -117.126625,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1657
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "9245 Gold Coast Dr"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/9245-Gold-Coast-Dr-San-Diego-CA-92126/16832814_zpid/",
+      "lotAreaValue": 6200,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "9245 Gold Coast Dr",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.905132,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 951600,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 6200,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=9245+Gold+Coast+Dr%2C+San+Diego%2C+CA+92126&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=T3gihGhreEnMNZnxGXy9zk1CTh8="
+        }
+      ],
+      "zpid": 16832814,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1419,
+      "longitude": -117.12627,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1419
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "9215 Gold Coast Dr"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/9215-Gold-Coast-Dr-San-Diego-CA-92126/16832811_zpid/",
+      "lotAreaValue": 5100,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "9215 Gold Coast Dr",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.905148,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1055200,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 5100,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=9215+Gold+Coast+Dr%2C+San+Diego%2C+CA+92126&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=80g3f300L31BeajJLvSdk0xyHhQ="
+        }
+      ],
+      "zpid": 16832811,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1657,
+      "longitude": -117.12679,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1657
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "9235 Three Seasons Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/9235-Three-Seasons-Rd-San-Diego-CA-92126/16832892_zpid/",
+      "lotAreaValue": 7501,
+      "parentRegion": null,
+      "address": {
+        "city": "SAN DIEGO",
+        "state": "CA",
+        "streetAddress": "9235 Three Seasons Rd",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.90442,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1060400,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 7501,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/8e74fb1b9cd986636c4af4b2c71e6146-p_c.jpg"
+        }
+      ],
+      "zpid": 16832892,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1405,
+      "longitude": -117.12647,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1405
+    }
+  ],
+  "priceHistory": [
+    {
+      "priceChangeRate": -0.039423076923077,
+      "date": "2025-08-22",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1755820800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "250032503"
+      },
+      "pricePerSquareFoot": 799,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 999000
+    },
+    {
+      "priceChangeRate": -0.02803738317757,
+      "date": "2025-08-14",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1755129600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "250032503"
+      },
+      "pricePerSquareFoot": 832,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 1040000
+    },
+    {
+      "priceChangeRate": -0.018348623853211,
+      "date": "2025-08-07",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1754524800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "250032503"
+      },
+      "pricePerSquareFoot": 856,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 1070000
+    },
+    {
+      "priceChangeRate": -0.018018018018018,
+      "date": "2025-07-26",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1753488000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "250032503"
+      },
+      "pricePerSquareFoot": 872,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 1090000
+    },
+    {
+      "priceChangeRate": 0.13265306122449,
+      "date": "2025-07-04",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1751587200000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "250032503"
+      },
+      "pricePerSquareFoot": 888,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 1110000
+    },
+    {
+      "priceChangeRate": 0.11490329920364,
+      "date": "2022-02-24",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1645660800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "220002675"
+      },
+      "pricePerSquareFoot": 784,
+      "buyerAgent": {
+        "name": "Raymond Erni",
+        "photo": null,
+        "profileUrl": "/profile/Raymond-erni/"
+      },
+      "event": "Sold",
+      "price": 980000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2022-02-10",
+      "source": "CRMLS",
+      "postingIsRental": false,
+      "time": 1644451200000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "CRMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/cb8caaa629c0af2058e60add67b2f2ee-zillow_web_logo_inf_11.jpg",
+        "infoString1": "220002675SD"
+      },
+      "pricePerSquareFoot": 703,
+      "buyerAgent": null,
+      "event": "Pending sale",
+      "price": 879000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2022-02-07",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1644192000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "220002675"
+      },
+      "pricePerSquareFoot": 703,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 879000
+    }
+  ],
+  "neighborhoodMapThumb": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/66c2d396f04646fb7af16a431141452c-p_c.jpg"
+    }
+  ],
+  "schools": [
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6251-Walker-Elementary-School/",
+      "rating": 6,
+      "totalCount": null,
+      "distance": 0.5,
+      "assigned": null,
+      "name": "Walker Elementary School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Elementary",
+      "grades": "K-5",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6252-Wangenheim-Middle-School/",
+      "rating": 6,
+      "totalCount": null,
+      "distance": 0.2,
+      "assigned": null,
+      "name": "Wangenheim Middle School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Middle",
+      "grades": "6-8",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6203-Mira-Mesa-High-School/",
+      "rating": 9,
+      "totalCount": null,
+      "distance": 0.9,
+      "assigned": null,
+      "name": "Mira Mesa High School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "High",
+      "grades": "9-12",
+      "type": "Public"
+    }
+  ],
+  "rentZestimate": 3598,
+  "city": "San Diego",
+  "providerListingID": null,
+  "currency": "USD",
+  "listingProvider": null,
+  "propertyTaxRate": 1.17,
+  "isShowcaseListing": false,
+  "openHouseSchedule": {},
+  "mortgageRates": null,
+  "address": {
+    "community": null,
+    "city": "San Diego",
+    "state": "CA",
+    "neighborhood": null,
+    "subdivision": "MIRA MESA",
+    "streetAddress": "9236 Three Seasons Rd",
+    "zipcode": "92126"
+  },
+  "cityId": 54296,
+  "timeOnZillow": "53 days",
+  "priceChange": -41000,
+  "zestimate": 998900,
+  "zpid": 16832816,
+  "countyId": 2841,
+  "homeType": "SINGLE_FAMILY",
+  "livingAreaUnits": "sqft",
+  "pageViewCount": 1564,
+  "homeInsights": [
+    {
+      "insights": [
+        {
+          "treatmentId": "model_0",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Fresh paint",
+            "New carpet",
+            "Upgraded windows",
+            "Recessed lighting"
+          ]
+        },
+        {
+          "treatmentId": "model_1",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Fresh paint",
+            "New carpet",
+            "Upgraded windows",
+            "Recessed lighting"
+          ]
+        }
+      ]
+    }
+  ],
+  "bathrooms": 2,
+  "neighborhoodRegion": {
+    "name": "Mira Mesa"
+  },
+  "zipcode": "92126",
+  "building": null,
+  "zestimateLowPercent": "5",
+  "brokerId": null,
+  "stateId": 9,
+  "url": "/homedetails/9236-Three-Seasons-Rd-San-Diego-CA-92126/16832816_zpid/",
+  "solarPotential": null,
+  "attributionInfo": {
+    "buyerAgentName": null,
+    "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_95_35.jpg",
+    "mlsName": "SDMLS",
+    "coAgentLicenseNumber": null,
+    "listingAgreement": null,
+    "listingOffices": [
+      {
+        "associatedOfficeType": "listOffice",
+        "officeName": "Prime Location"
+      }
+    ],
+    "infoString10": "This information is deemed reliable but not guaranteed. You should rely on this information only to decide whether or not to further investigate a particular property.\nBEFORE MAKING ANY OTHER DECISION, YOU SHOULD PERSONALLY INVESTIGATE THE FACTS (e.g. square footage and lot size) with the assistance of an appropriate professional. You may use this information only to identify properties you may be interested in investigating further. All uses except for personal, noncommercial use in accordance with the foregoing purpose are prohibited. Redistribution or copying of this information, any photographs or video tours is strictly\nprohibited. This information is derived from the Internet Data Exchange (IDX) service provided by San Diego MLS. Displayed property listings may be held by a brokerage firm other than the broker and/or agent responsible for this display. The information and any photographs and video tours and the compilation from which they are derived is protected by copyright. Compilation © 2025 San Diego MLS.",
+    "buyerAgentMemberStateLicense": null,
+    "brokerName": "Prime Location",
+    "listingAttributionContact": null,
+    "lastUpdated": "2025-08-21 17:51:40",
+    "trueStatus": null,
+    "listingAgentAttributionContact": null,
+    "agentEmail": null,
+    "agentName": "Raymond Erni",
+    "attributionTitle": null,
+    "mlsId": "250032503",
+    "coAgentName": null,
+    "coAgentNumber": null,
+    "infoString5": "858-201-8877",
+    "listingAgents": [
+      {
+        "memberStateLicense": "DRE #01713157",
+        "memberFullName": "Raymond Erni",
+        "associatedAgentType": "listAgent"
+      }
+    ],
+    "agentPhoneNumber": "858-201-8877",
+    "agentLicenseNumber": "DRE #01713157",
+    "providerLogo": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_95_35.jpg",
+    "infoString16": null,
+    "buyerBrokerageName": null,
+    "mlsDisclaimer": "This information is deemed reliable but not guaranteed. You should rely on this information only to decide whether or not to further investigate a particular property.\nBEFORE MAKING ANY OTHER DECISION, YOU SHOULD PERSONALLY INVESTIGATE THE FACTS (e.g. square footage and lot size) with the assistance of an appropriate professional. You may use this information only to identify properties you may be interested in investigating further. All uses except for personal, noncommercial use in accordance with the foregoing purpose are prohibited. Redistribution or copying of this information, any photographs or video tours is strictly\nprohibited. This information is derived from the Internet Data Exchange (IDX) service provided by San Diego MLS. Displayed property listings may be held by a brokerage firm other than the broker and/or agent responsible for this display. The information and any photographs and video tours and the compilation from which they are derived is protected by copyright. Compilation © 2025 San Diego MLS.",
+    "brokerPhoneNumber": "619-546-6340",
+    "lastChecked": "2025-08-26 21:43:20"
+  },
+  "priceChangeDateString": "2025-08-22",
+  "photoCount": 23,
+  "homeStatus": "FOR_SALE",
+  "homeFacts": null,
+  "resoFacts": {
+    "hasAttachedProperty": false,
+    "frontageType": null,
+    "poolFeatures": [
+      "N/K"
+    ],
+    "flooring": [
+      "Laminate",
+      "Tile",
+      "Partially Carpeted"
+    ],
+    "foundationDetails": {},
+    "accessibilityFeatures": null,
+    "hasGarage": true,
+    "hasPetsAllowed": true,
+    "bodyType": null,
+    "topography": null,
+    "landLeaseExpirationDate": null,
+    "hasAdditionalParcels": false,
+    "parkName": null,
+    "livingQuarters": {},
+    "taxAssessedValue": 900000,
+    "atAGlanceFacts": [
+      {
+        "factValue": "Single Family Residence",
+        "factLabel": "Type"
+      },
+      {
+        "factValue": "1976",
+        "factLabel": "Year Built"
+      },
+      {
+        "factValue": "Fireplace, Forced Air Unit",
+        "factLabel": "Heating"
+      },
+      {
+        "factValue": "Central Forced Air",
+        "factLabel": "Cooling"
+      },
+      {
+        "factValue": "2 Garage spaces",
+        "factLabel": "Parking"
+      },
+      {
+        "factValue": "5,662 sqft",
+        "factLabel": "Lot"
+      },
+      {
+        "factValue": "53 Days",
+        "factLabel": "Days on Zillow"
+      },
+      {
+        "factValue": "$799",
+        "factLabel": "Price/sqft"
+      },
+      {
+        "factValue": null,
+        "factLabel": "Offer Review Date"
+      }
+    ],
+    "offerReviewDate": null,
+    "horseYN": null,
+    "view": {},
+    "rooms": {},
+    "belowGradeFinishedArea": null,
+    "feesAndDues": [
+      {
+        "phone": null,
+        "name": null,
+        "fee": null,
+        "type": "HOA"
+      }
+    ],
+    "cityRegion": "San Diego",
+    "mainLevelBathrooms": null,
+    "hasPrivatePool": null,
+    "landLeaseAmount": null,
+    "waterSource": [
+      "Meter on Property"
+    ],
+    "exteriorFeatures": {},
+    "inclusions": null,
+    "hasFireplace": null,
+    "gas": null,
+    "propertyCondition": null,
+    "elevationUnits": null,
+    "exclusions": null,
+    "mainLevelBedrooms": null,
+    "numberOfUnitsVacant": null,
+    "hasWaterfrontView": null,
+    "bathroomsOneQuarter": null,
+    "lotSize": "5,662 sqft",
+    "entryLevel": null,
+    "media": [
+      {
+        "mediaCategory": "UnbrandedVirtualTour",
+        "mediaURL": "https://www.propertypanorama.com/instaview/snd/250032503"
+      }
+    ],
+    "greenWaterConservation": null,
+    "stories": null,
+    "livingArea": "1,250 sqft",
+    "commonWalls": null,
+    "listingTerms": "Cal Vet,Cash,Conventional,FHA,VA,Other/Remarks",
+    "otherParking": null,
+    "associationFee": null,
+    "marketingType": null,
+    "greenIndoorAirQuality": null,
+    "greenSustainability": null,
+    "livingAreaRangeUnits": null,
+    "associationPhone": null,
+    "greenBuildingVerificationType": null,
+    "hasAttachedGarage": null,
+    "bedrooms": 3,
+    "architecturalStyle": null,
+    "listingId": null,
+    "structureType": null,
+    "interiorFeatures": null,
+    "horseAmenities": null,
+    "garageParkingCapacity": 2,
+    "developmentStatus": null,
+    "lotFeatures": null,
+    "roofType": "Shingle",
+    "compensationBasedOn": null,
+    "greenEnergyGeneration": null,
+    "daysOnZillow": 53,
+    "listAOR": "San Diego Association of REALTOR",
+    "buildingAreaSource": null,
+    "elementarySchool": null,
+    "zoningDescription": "R-1:SINGLE",
+    "irrigationWaterRightsAcres": null,
+    "yearBuiltEffective": null,
+    "greenEnergyEfficient": null,
+    "constructionMaterials": [
+      "Stucco",
+      "Wood/Stucco",
+      "Drywall Walls"
+    ],
+    "fireplaceFeatures": null,
+    "hoaFeeTotal": null,
+    "appliances": [
+      "Dishwasher",
+      "Disposal",
+      "Dryer",
+      "Garage Door Opener",
+      "Microwave",
+      "Refrigerator",
+      "Electric Oven",
+      "Electric Stove",
+      "Energy Star Appliances",
+      "Counter Top"
+    ],
+    "sewer": [
+      "Sewer Connected"
+    ],
+    "bathroomsPartial": null,
+    "fencing": "Partial",
+    "spaFeatures": null,
+    "waterViewYN": null,
+    "buildingName": null,
+    "attic": null,
+    "petsMaxWeight": null,
+    "cumulativeDaysOnMarket": null,
+    "waterfrontFeatures": null,
+    "additionalParcelsDescription": null,
+    "canRaiseHorses": false,
+    "hasLandLease": false,
+    "communityFeatures": null,
+    "waterBodyName": null,
+    "middleOrJuniorSchool": null,
+    "lotSizeDimensions": null,
+    "virtualTour": "https://www.propertypanorama.com/instaview/snd/250032503",
+    "contingency": null,
+    "yearBuilt": 1976,
+    "utilities": null,
+    "totalActualRent": null,
+    "bathroomsFull": 2,
+    "parcelNumber": "3412522600",
+    "incomeIncludes": null,
+    "highSchool": null,
+    "taxAnnualAmount": 11105,
+    "subdivisionName": "MIRA MESA",
+    "storiesTotal": 1,
+    "storiesDecimal": null,
+    "specialListingConditions": null,
+    "windowFeatures": null,
+    "ownership": null,
+    "woodedArea": null,
+    "middleOrJuniorSchoolDistrict": null,
+    "associationPhone2": null,
+    "onMarketDate": 1751605393000,
+    "roomTypes": null,
+    "frontageLength": null,
+    "roadSurfaceType": null,
+    "associationAmenities": null,
+    "propertySubType": [
+      "Single Family Residence"
+    ],
+    "hasCooling": true,
+    "levels": "1 Story",
+    "coveredParkingCapacity": 2,
+    "foundationArea": null,
+    "zoning": "R-1:SINGLE",
+    "hoaFee": null,
+    "livingAreaRange": null,
+    "parkingFeatures": [
+      "Attached"
+    ],
+    "parkingCapacity": 4,
+    "cropsIncludedYN": null,
+    "tenantPays": null,
+    "builderModel": null,
+    "otherStructures": null,
+    "otherFacts": {},
+    "additionalFeeInfo": null,
+    "hasView": false,
+    "openParkingCapacity": null,
+    "securityFeatures": null,
+    "numberOfUnitsInCommunity": null,
+    "hasHomeWarranty": false,
+    "basementYN": null,
+    "doorFeatures": null,
+    "ownershipType": null,
+    "aboveGradeFinishedArea": null,
+    "associations": {},
+    "waterView": null,
+    "electric": null,
+    "buildingFeatures": null,
+    "hasOpenParking": null,
+    "hasCarport": null,
+    "bathroomsHalf": 0,
+    "homeType": "SingleFamily",
+    "isSeniorCommunity": null,
+    "municipality": null,
+    "bathroomsThreeQuarter": null,
+    "hasSpa": false,
+    "basement": null,
+    "associationFee2": null,
+    "cooling": [
+      "Central Forced Air"
+    ],
+    "hasHeating": true,
+    "associationName2": null,
+    "hasRentControl": null,
+    "elementarySchoolDistrict": null,
+    "otherEquipment": null,
+    "bathrooms": 2,
+    "buildingArea": "1,250",
+    "furnished": false,
+    "vegetation": null,
+    "patioAndPorchFeatures": null,
+    "bathroomsFloat": 2,
+    "builderName": null,
+    "highSchoolDistrict": null,
+    "hasElectricOnProperty": null,
+    "laundryFeatures": [
+      "Electric",
+      "Gas"
+    ],
+    "entryLocation": null,
+    "fireplaces": null,
+    "heating": [
+      "Fireplace",
+      "Forced Air Unit"
+    ],
+    "availabilityDate": null,
+    "carportParkingCapacity": null,
+    "hasAssociation": null,
+    "irrigationWaterRightsYN": null,
+    "isNewConstruction": null,
+    "associationFeeIncludes": null,
+    "leaseTerm": null,
+    "pricePerSquareFoot": 799,
+    "associationName": null,
+    "elevation": null
+  },
+  "datePosted": "2025-07-04",
+  "bedrooms": 3,
+  "propertyTypeDimension": "Single Family",
+  "mortgageZHLRates": {
+    "thirtyYearFixedBucket": {
+      "rate": 6.306,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756270167406
+    },
+    "fifteenYearFixedBucket": {
+      "rate": 5.601,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756270167406
+    },
+    "arm5Bucket": {
+      "rate": 6.529,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756270167406
+    }
+  },
+  "comingSoonOnMarketDate": null,
+  "favoriteCount": 56,
+  "livingArea": 1250,
+  "zestimateHighPercent": "5",
+  "mlsid": "250032503",
+  "isListedByOwner": null,
+  "listingSubType": {
+    "is_comingSoon": false,
+    "is_pending": false,
+    "is_forAuction": false,
+    "is_bankOwned": false,
+    "is_FSBA": true,
+    "is_FSBO": false,
+    "is_newHome": false,
+    "is_foreclosure": false
+  },
+  "buildingId": null,
+  "country": "USA",
+  "price": 999000,
+  "priceChangeDate": 1755820800000,
+  "contingentListingType": null
+}

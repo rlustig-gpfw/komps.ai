@@ -1,0 +1,1495 @@
+{
+  "buildingPermits": null,
+  "contact_recipients": [
+    {
+      "agent_reason": 1,
+      "zpro": null,
+      "recent_sales": 0,
+      "review_count": 0,
+      "display_name": "Premier Broker Flex Atlanta GA",
+      "badge_type": "Premier Agent",
+      "business_name": "Zillow Group",
+      "rating_average": 0,
+      "phone": {
+        "prefix": "452",
+        "areacode": "206",
+        "number": "1030"
+      },
+      "zuid": "X1-ZUv2ktj4jt3nyh_98wrm",
+      "image_url": "https://www.zillowstatic.com/static/images/nophoto_h_g.png"
+    }
+  ],
+  "longitude": -117.16389,
+  "countyFIPS": "06073",
+  "imgSrc": "https://photos.zillowstatic.com/fp/abaeec8bbab27ab7e5a66a98ddac09ad-p_d.jpg",
+  "livingAreaValue": 1634,
+  "streetAddress": "1602 Minden Dr",
+  "county": "San Diego County",
+  "monthlyHoaFee": null,
+  "timeZone": "America/Los_Angeles",
+  "taxHistory": [
+    {
+      "time": 1724732182681,
+      "valueIncreaseRate": 0.019978639,
+      "taxIncreaseRate": 0.023850627,
+      "taxPaid": 71.26,
+      "value": 64940
+    },
+    {
+      "time": 1693109782681,
+      "valueIncreaseRate": 0.019993592,
+      "taxIncreaseRate": 0.04098112,
+      "taxPaid": 69.6,
+      "value": 63668
+    },
+    {
+      "time": 1661573782681,
+      "valueIncreaseRate": 0.01998464,
+      "taxIncreaseRate": 0.06363347,
+      "taxPaid": 66.86,
+      "value": 62420
+    },
+    {
+      "time": 1630037782681,
+      "valueIncreaseRate": 0.010334979,
+      "taxIncreaseRate": 0,
+      "taxPaid": 62.86,
+      "value": 61197
+    },
+    {
+      "time": 1598501782681,
+      "valueIncreaseRate": 0.019971373,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 60571
+    },
+    {
+      "time": 1566879382681,
+      "valueIncreaseRate": 0.019975267,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 59385
+    },
+    {
+      "time": 1535343382681,
+      "valueIncreaseRate": 0.019989138,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 58222
+    },
+    {
+      "time": 1503807382681,
+      "valueIncreaseRate": 0.019977486,
+      "taxIncreaseRate": 0.12494848,
+      "taxPaid": 54.56,
+      "value": 57081
+    },
+    {
+      "time": 1472271382681,
+      "valueIncreaseRate": 0.01522023,
+      "taxIncreaseRate": 0,
+      "taxPaid": 48.5,
+      "value": 55963
+    },
+    {
+      "time": 1440648982681,
+      "valueIncreaseRate": 0.019945972,
+      "taxIncreaseRate": -0.017423026,
+      "taxPaid": 48.5,
+      "value": 55124
+    },
+    {
+      "time": 1409112982681,
+      "valueIncreaseRate": 0.0045164768,
+      "taxIncreaseRate": 0,
+      "taxPaid": 49.36,
+      "value": 54046
+    },
+    {
+      "time": 1377576982681,
+      "valueIncreaseRate": 0.019981422,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 53803
+    },
+    {
+      "time": 1346040982681,
+      "valueIncreaseRate": 0.019974476,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 52749
+    },
+    {
+      "time": 1314418582681,
+      "valueIncreaseRate": 0.0075003407,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 51716
+    },
+    {
+      "time": 1282882582681,
+      "valueIncreaseRate": -0.0023904848,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 51331
+    },
+    {
+      "time": 1251346582681,
+      "valueIncreaseRate": 0.019961543,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 51454
+    },
+    {
+      "time": 1219810582681,
+      "valueIncreaseRate": 0.019996764,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 50447
+    },
+    {
+      "time": 1188188182681,
+      "valueIncreaseRate": 0.019983914,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 49458
+    },
+    {
+      "time": 1156652182681,
+      "valueIncreaseRate": 0.019983592,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 48489
+    },
+    {
+      "time": 1125116182681,
+      "valueIncreaseRate": 0.01997511,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 47539
+    },
+    {
+      "time": 1093580182681,
+      "valueIncreaseRate": 0.018642772,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 46608
+    },
+    {
+      "time": 1061957782681,
+      "valueIncreaseRate": 0.019973695,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 45755
+    },
+    {
+      "time": 1030421782681,
+      "valueIncreaseRate": 0.019986358,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 44859
+    },
+    {
+      "time": 998885782681,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 43980
+    }
+  ],
+  "dateSold": null,
+  "annualHomeownersInsurance": 4179,
+  "state": "CA",
+  "listed_by": {
+    "agent_reason": 3,
+    "zpro": false,
+    "recent_sales": 1,
+    "zuid": "X1-ZUytx76zb25nnt_7x5fk",
+    "review_count": 156,
+    "display_name": "Joel Blumenfeld",
+    "profile_url": "https://www.zillow.com/profile/JoelBlumenfeld/",
+    "business_name": "Compass",
+    "rating_average": 5,
+    "phone": {
+      "prefix": "508",
+      "areacode": "619",
+      "number": "2192"
+    },
+    "badge_type": "Listing Agent",
+    "image_url": "https://photos.zillowstatic.com/fp/288bff9b2850b8cd0a321a5c0895dab6-h_n.jpg"
+  },
+  "yearBuilt": 1956,
+  "brokerageName": "Compass",
+  "description": "Situated in the most coveted section of Mission Heights, this stunning single-level residence masterfully combines timeless elegance with modern features. Boasting four spacious bedrooms, the home showcases original refinished hardwood floors that gleam against the freshly painted interior, with vaulted ceilings seamlessly flowing throughout. At the core of this home is a welcoming living area, complete with a wood-burning brick fireplace and dual-pane windows that flood the space with natural light, offering captivating views to the west. Property highlights include central air conditioning, forced air heating, a bonus room addition with brand-new carpeting, indoor laundry hookups, a side entry, and a glass sliding door leading to the expansive rear yard. Nestled on a generous elevated lot, the property is adorned with mature avocado and citrus trees, creating a serene and picturesque setting for outdoor gatherings, including a separate detached workshop. This versatile space offers endless potential, whether you're an artist seeking an inspiring studio, a musician desiring a private rehearsal space, or envisioning the potential for an ADU. The attached 2-car garage and extended driveway offer additional space for boat or recreational parking. This exceptional home presents a rare combination of mid-century charm and modern convenience, in a prime central location soaring above Mission Valley and only one block away from Mission Heights Park. It offers a unique opportunity to own a piece of architectural history in one of San Diego's most sought-after neighborhoods.",
+  "climate": {
+    "windSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "probability": {},
+        "source": {
+          "url": "https://firststreet.org/property/1602-minden-dr-san-diego-ca-92111/603539074_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 18
+      }
+    },
+    "floodSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "femaZone": "X_UNSHADED",
+        "source": {
+          "url": "https://firststreet.org/property/1602-minden-dr-san-diego-ca-92111/603539074_fsid"
+        },
+        "probability": [
+          {
+            "relativeYear": 0,
+            "probability": 0
+          },
+          {
+            "relativeYear": 5,
+            "probability": 0
+          },
+          {
+            "relativeYear": 10,
+            "probability": 0
+          },
+          {
+            "relativeYear": 15,
+            "probability": 0
+          },
+          {
+            "relativeYear": 20,
+            "probability": 0
+          },
+          {
+            "relativeYear": 25,
+            "probability": 0
+          },
+          {
+            "relativeYear": 30,
+            "probability": 0
+          }
+        ],
+        "insuranceSeparatePolicy": "NOT_REQUIRED",
+        "historicCountPropertyAll": 0
+      }
+    },
+    "fireSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "probability": {},
+        "source": {
+          "url": "https://firststreet.org/property/1602-minden-dr-san-diego-ca-92111/603539074_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 31
+      }
+    },
+    "heatSources": {
+      "primary": {
+        "percentile98Temp": 87,
+        "hotDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 7
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 9
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 11
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 14
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 16
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 18
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 20
+          }
+        ],
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 4
+        },
+        "source": {
+          "url": "https://firststreet.org/property/1602-minden-dr-san-diego-ca-92111/603539074_fsid"
+        }
+      }
+    },
+    "airSources": {
+      "primary": {
+        "source": {
+          "url": "https://firststreet.org/property/1602-minden-dr-san-diego-ca-92111/603539074_fsid"
+        },
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 3
+        },
+        "badAirDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 4
+          }
+        ]
+      }
+    }
+  },
+  "latitude": 32.774616,
+  "nearbyHomes": [
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "sqft",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "1614 Minden Dr"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/1614-Minden-Dr-San-Diego-CA-92111/16942986_zpid/",
+      "lotAreaValue": null,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "1614 Minden Dr",
+        "zipcode": "92111"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "230011995",
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.77478,
+      "homeStatus": "SOLD",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1015000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/ba387bceee40fbed6c51763245fdef3d-p_c.jpg"
+        }
+      ],
+      "zpid": 16942986,
+      "hdpTypeDimension": "RecentlySold",
+      "livingArea": 1275,
+      "longitude": -117.163994,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1275
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "1556 Minden Dr"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/1556-Minden-Dr-San-Diego-CA-92111/16942984_zpid/",
+      "lotAreaValue": 6900,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "1556 Minden Dr",
+        "zipcode": "92111"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.774426,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 922200,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 6900,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=1556+Minden+Dr%2C+San+Diego%2C+CA+92111&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=5PN60CPZPatBedNL4VjAWsgglJA="
+        }
+      ],
+      "zpid": 16942984,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1275,
+      "longitude": -117.163895,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1275
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "1626 Minden Dr"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/1626-Minden-Dr-San-Diego-CA-92111/16942973_zpid/",
+      "lotAreaValue": 6000,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "1626 Minden Dr",
+        "zipcode": "92111"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.774883,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1001000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 6000,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=1626+Minden+Dr%2C+San+Diego%2C+CA+92111&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=b_ag_wQJXbpeZmdDXMRJSkbkYV8="
+        }
+      ],
+      "zpid": 16942973,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 2055,
+      "longitude": -117.1641,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 2055
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "1575 Linbrook Dr"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/1575-Linbrook-Dr-San-Diego-CA-92111/16942978_zpid/",
+      "lotAreaValue": 3998,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "1575 Linbrook Dr",
+        "zipcode": "92111"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.77456,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 899000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 3998,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/47b58a28064ccd88a92f16690604401f-p_c.jpg"
+        }
+      ],
+      "zpid": 16942978,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1120,
+      "longitude": -117.1643,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1120
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "1544 Minden Dr"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/1544-Minden-Dr-San-Diego-CA-92111/16942983_zpid/",
+      "lotAreaValue": 7800,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "1544 Minden Dr",
+        "zipcode": "92111"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.77425,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1012300,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 7800,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=1544+Minden+Dr%2C+San+Diego%2C+CA+92111&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=SxLfvLQ2gFscVty2ERiBoxXnLxM="
+        }
+      ],
+      "zpid": 16942983,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1413,
+      "longitude": -117.1639,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1413
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "1603 Minden Dr"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/1603-Minden-Dr-San-Diego-CA-92111/16942987_zpid/",
+      "lotAreaValue": 7200,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "1603 Minden Dr",
+        "zipcode": "92111"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.774803,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 927400,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 7200,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=1603+Minden+Dr%2C+San+Diego%2C+CA+92111&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=GsScPwMqEZ5A-Mu0u_HvfdPqI5I="
+        }
+      ],
+      "zpid": 16942987,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1275,
+      "longitude": -117.16345,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1275
+    },
+    {
+      "hdpTypeDimension": "ForRent",
+      "lotAreaUnits": "sqft",
+      "isShowcaseListing": false,
+      "longitude": -117.16428,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "1565 Linbrook Dr",
+        "zipcode": "92111"
+      },
+      "livingAreaValue": 1120,
+      "lotSize": null,
+      "zpid": 16942979,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 2,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "1565 Linbrook Dr"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "hdpUrl": "/homedetails/1565-Linbrook-Dr-San-Diego-CA-92111/16942979_zpid/",
+      "lotAreaValue": null,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "FOR_RENT",
+      "latitude": 32.774345,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "newConstructionType": null,
+      "yearBuilt": null,
+      "listingTypeDimension": "For Rent",
+      "livingArea": 1120,
+      "providerListingID": "35kmsf3kqpb8f",
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/ee4469fa4d7274af7588d561108ca969-p_c.jpg"
+        }
+      ],
+      "currency": "USD",
+      "price": 3800,
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    },
+    {
+      "hdpTypeDimension": "Zestimate",
+      "lotAreaUnits": "Square Feet",
+      "isShowcaseListing": false,
+      "longitude": -117.16357,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "1615 Minden Dr",
+        "zipcode": "92111"
+      },
+      "livingAreaValue": 1275,
+      "lotSize": 6100,
+      "zpid": 52516585,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 2,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "1615 Minden Dr"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "hdpUrl": "/homedetails/1615-Minden-Dr-San-Diego-CA-92111/52516585_zpid/",
+      "lotAreaValue": 6100,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "OTHER",
+      "latitude": 32.774952,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "newConstructionType": null,
+      "yearBuilt": 1956,
+      "listingTypeDimension": "Unknown Listed By",
+      "livingArea": 1275,
+      "providerListingID": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=1615+Minden+Dr%2C+San+Diego%2C+CA+92111&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Qmsf3tBd5tGtQaQI5ejLilpsbkU="
+        }
+      ],
+      "currency": "USD",
+      "price": 908900,
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "priceChangeRate": 0,
+      "date": "2025-08-23",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1755907200000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "250036990"
+      },
+      "pricePerSquareFoot": 609,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 995000
+    }
+  ],
+  "neighborhoodMapThumb": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/abaeec8bbab27ab7e5a66a98ddac09ad-p_c.jpg"
+    }
+  ],
+  "schools": [
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6112-Carson-Elementary-School/",
+      "rating": 2,
+      "totalCount": null,
+      "distance": 0.4,
+      "assigned": null,
+      "name": "Carson Elementary School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Elementary",
+      "grades": "K-5",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6206-Montgomery-Middle-School/",
+      "rating": 5,
+      "totalCount": null,
+      "distance": 1.1,
+      "assigned": null,
+      "name": "Montgomery Middle School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Middle",
+      "grades": "6-8",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/14172-Kearny-International-Business-School/",
+      "rating": 9,
+      "totalCount": null,
+      "distance": 1.8,
+      "assigned": null,
+      "name": "Kearny College Connections",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "High",
+      "grades": "9-12",
+      "type": "Public"
+    }
+  ],
+  "rentZestimate": 5033,
+  "city": "San Diego",
+  "providerListingID": null,
+  "currency": "USD",
+  "listingProvider": null,
+  "propertyTaxRate": 1.17,
+  "isShowcaseListing": false,
+  "openHouseSchedule": {},
+  "mortgageRates": null,
+  "address": {
+    "community": null,
+    "city": "San Diego",
+    "state": "CA",
+    "neighborhood": null,
+    "subdivision": "LINDA VISTA",
+    "streetAddress": "1602 Minden Dr",
+    "zipcode": "92111"
+  },
+  "cityId": 54296,
+  "timeOnZillow": "3 days",
+  "priceChange": null,
+  "zestimate": 990900,
+  "zpid": 16942985,
+  "countyId": 2841,
+  "homeType": "SINGLE_FAMILY",
+  "livingAreaUnits": "sqft",
+  "pageViewCount": 1538,
+  "homeInsights": [
+    {
+      "insights": [
+        {
+          "treatmentId": "model_0",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Wood-burning brick fireplace",
+            "Expansive rear yard",
+            "Separate detached workshop",
+            "Brand-new carpeting",
+            "Original refinished hardwood floors",
+            "Bonus room addition",
+            "Indoor laundry hookups"
+          ]
+        },
+        {
+          "treatmentId": "model_1",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Wood-burning brick fireplace",
+            "Expansive rear yard",
+            "Separate detached workshop",
+            "Brand-new carpeting",
+            "Original refinished hardwood floors",
+            "Bonus room addition",
+            "Indoor laundry hookups"
+          ]
+        }
+      ]
+    }
+  ],
+  "bathrooms": 2,
+  "neighborhoodRegion": {
+    "name": "Linda Vista"
+  },
+  "zipcode": "92111",
+  "building": null,
+  "zestimateLowPercent": "5",
+  "brokerId": null,
+  "stateId": 9,
+  "url": "/homedetails/1602-Minden-Dr-San-Diego-CA-92111/16942985_zpid/",
+  "solarPotential": null,
+  "attributionInfo": {
+    "buyerAgentName": null,
+    "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_95_35.jpg",
+    "mlsName": "SDMLS",
+    "coAgentLicenseNumber": "DRE #01295923",
+    "listingAgreement": null,
+    "listingOffices": [
+      {
+        "associatedOfficeType": "listOffice",
+        "officeName": "Compass"
+      },
+      {
+        "associatedOfficeType": "coListOffice",
+        "officeName": "Compass"
+      }
+    ],
+    "infoString10": "This information is deemed reliable but not guaranteed. You should rely on this information only to decide whether or not to further investigate a particular property.\nBEFORE MAKING ANY OTHER DECISION, YOU SHOULD PERSONALLY INVESTIGATE THE FACTS (e.g. square footage and lot size) with the assistance of an appropriate professional. You may use this information only to identify properties you may be interested in investigating further. All uses except for personal, noncommercial use in accordance with the foregoing purpose are prohibited. Redistribution or copying of this information, any photographs or video tours is strictly\nprohibited. This information is derived from the Internet Data Exchange (IDX) service provided by San Diego MLS. Displayed property listings may be held by a brokerage firm other than the broker and/or agent responsible for this display. The information and any photographs and video tours and the compilation from which they are derived is protected by copyright. Compilation © 2025 San Diego MLS.",
+    "buyerAgentMemberStateLicense": null,
+    "brokerName": "Compass",
+    "listingAttributionContact": null,
+    "lastUpdated": "2025-08-24 17:38:50",
+    "trueStatus": null,
+    "listingAgentAttributionContact": null,
+    "agentEmail": null,
+    "agentName": "Joel Blumenfeld",
+    "attributionTitle": null,
+    "mlsId": "250036990",
+    "coAgentName": "Mark A Jenkins",
+    "coAgentNumber": "858-212-7355",
+    "infoString5": "619-508-2192",
+    "listingAgents": [
+      {
+        "memberStateLicense": "DRE #01889382",
+        "memberFullName": "Joel Blumenfeld",
+        "associatedAgentType": "listAgent"
+      },
+      {
+        "memberStateLicense": "DRE #01295923",
+        "memberFullName": "Mark A Jenkins",
+        "associatedAgentType": "coListAgent"
+      }
+    ],
+    "agentPhoneNumber": "619-508-2192",
+    "agentLicenseNumber": "DRE #01889382",
+    "providerLogo": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_95_35.jpg",
+    "infoString16": null,
+    "buyerBrokerageName": null,
+    "mlsDisclaimer": "This information is deemed reliable but not guaranteed. You should rely on this information only to decide whether or not to further investigate a particular property.\nBEFORE MAKING ANY OTHER DECISION, YOU SHOULD PERSONALLY INVESTIGATE THE FACTS (e.g. square footage and lot size) with the assistance of an appropriate professional. You may use this information only to identify properties you may be interested in investigating further. All uses except for personal, noncommercial use in accordance with the foregoing purpose are prohibited. Redistribution or copying of this information, any photographs or video tours is strictly\nprohibited. This information is derived from the Internet Data Exchange (IDX) service provided by San Diego MLS. Displayed property listings may be held by a brokerage firm other than the broker and/or agent responsible for this display. The information and any photographs and video tours and the compilation from which they are derived is protected by copyright. Compilation © 2025 San Diego MLS.",
+    "brokerPhoneNumber": "619-353-5799",
+    "lastChecked": "2025-08-26 21:11:24"
+  },
+  "priceChangeDateString": null,
+  "photoCount": 60,
+  "homeStatus": "FOR_SALE",
+  "homeFacts": null,
+  "resoFacts": {
+    "hasAttachedProperty": false,
+    "frontageType": null,
+    "poolFeatures": [
+      "N/K"
+    ],
+    "flooring": [
+      "Carpet",
+      "Wood"
+    ],
+    "foundationDetails": {},
+    "accessibilityFeatures": null,
+    "hasGarage": true,
+    "hasPetsAllowed": null,
+    "bodyType": null,
+    "topography": null,
+    "landLeaseExpirationDate": null,
+    "hasAdditionalParcels": false,
+    "parkName": null,
+    "livingQuarters": {},
+    "taxAssessedValue": 64940,
+    "atAGlanceFacts": [
+      {
+        "factValue": "Single Family Residence",
+        "factLabel": "Type"
+      },
+      {
+        "factValue": "1956",
+        "factLabel": "Year Built"
+      },
+      {
+        "factValue": "Fireplace, Forced Air Unit",
+        "factLabel": "Heating"
+      },
+      {
+        "factValue": "Central Forced Air",
+        "factLabel": "Cooling"
+      },
+      {
+        "factValue": "2 Garage spaces",
+        "factLabel": "Parking"
+      },
+      {
+        "factValue": "6,534 sqft",
+        "factLabel": "Lot"
+      },
+      {
+        "factValue": "3 Days",
+        "factLabel": "Days on Zillow"
+      },
+      {
+        "factValue": "$609",
+        "factLabel": "Price/sqft"
+      },
+      {
+        "factValue": null,
+        "factLabel": "Offer Review Date"
+      }
+    ],
+    "offerReviewDate": null,
+    "horseYN": null,
+    "view": [
+      "City",
+      "Mountains/Hills",
+      "Neighborhood"
+    ],
+    "rooms": {},
+    "belowGradeFinishedArea": null,
+    "feesAndDues": [
+      {
+        "phone": null,
+        "name": null,
+        "fee": null,
+        "type": "HOA"
+      }
+    ],
+    "cityRegion": "San Diego",
+    "mainLevelBathrooms": null,
+    "hasPrivatePool": null,
+    "landLeaseAmount": null,
+    "waterSource": [
+      "Meter on Property"
+    ],
+    "exteriorFeatures": {},
+    "inclusions": null,
+    "hasFireplace": null,
+    "gas": null,
+    "propertyCondition": null,
+    "elevationUnits": null,
+    "exclusions": null,
+    "mainLevelBedrooms": null,
+    "numberOfUnitsVacant": null,
+    "hasWaterfrontView": null,
+    "bathroomsOneQuarter": null,
+    "lotSize": "6,534 sqft",
+    "entryLevel": null,
+    "media": [
+      {
+        "mediaCategory": "UnbrandedVirtualTour",
+        "mediaURL": "https://www.propertypanorama.com/instaview/snd/250036990"
+      }
+    ],
+    "greenWaterConservation": null,
+    "stories": null,
+    "livingArea": "1,634 sqft",
+    "commonWalls": null,
+    "listingTerms": "Cash,Conventional",
+    "otherParking": null,
+    "associationFee": null,
+    "marketingType": null,
+    "greenIndoorAirQuality": null,
+    "greenSustainability": null,
+    "livingAreaRangeUnits": null,
+    "associationPhone": null,
+    "greenBuildingVerificationType": null,
+    "hasAttachedGarage": null,
+    "bedrooms": 4,
+    "architecturalStyle": "Ranch",
+    "listingId": null,
+    "structureType": null,
+    "interiorFeatures": [
+      "Bathtub",
+      "Cathedral-Vaulted Ceiling"
+    ],
+    "horseAmenities": null,
+    "garageParkingCapacity": 2,
+    "developmentStatus": null,
+    "lotFeatures": null,
+    "roofType": "Composition,Rolled/Hot Mop",
+    "compensationBasedOn": null,
+    "greenEnergyGeneration": null,
+    "daysOnZillow": 3,
+    "listAOR": "San Diego Association of REALTOR",
+    "buildingAreaSource": null,
+    "elementarySchool": null,
+    "zoningDescription": "R-1:SINGLE",
+    "irrigationWaterRightsAcres": null,
+    "yearBuiltEffective": null,
+    "greenEnergyEfficient": null,
+    "constructionMaterials": [
+      "Stucco",
+      "Wood"
+    ],
+    "fireplaceFeatures": [
+      "FP in Living Room"
+    ],
+    "hoaFeeTotal": null,
+    "appliances": [
+      "Disposal",
+      "Dryer",
+      "Garage Door Opener",
+      "Refrigerator",
+      "Washer",
+      "Free Standing Range",
+      "Range/Stove Hood",
+      "Gas Cooking",
+      "Gas Water Heater"
+    ],
+    "sewer": [
+      "Sewer Connected"
+    ],
+    "bathroomsPartial": null,
+    "fencing": "Chain Link,Gate,Wood",
+    "spaFeatures": [
+      "N/K"
+    ],
+    "waterViewYN": null,
+    "buildingName": null,
+    "attic": null,
+    "petsMaxWeight": null,
+    "cumulativeDaysOnMarket": null,
+    "waterfrontFeatures": null,
+    "additionalParcelsDescription": null,
+    "canRaiseHorses": false,
+    "hasLandLease": false,
+    "communityFeatures": null,
+    "waterBodyName": null,
+    "middleOrJuniorSchool": null,
+    "lotSizeDimensions": null,
+    "virtualTour": "https://www.propertypanorama.com/instaview/snd/250036990",
+    "contingency": null,
+    "yearBuilt": 1956,
+    "utilities": [
+      "Electricity Connected",
+      "Natural Gas Connected",
+      "Sewer Connected",
+      "Water Connected"
+    ],
+    "totalActualRent": null,
+    "bathroomsFull": 2,
+    "parcelNumber": "4372110900",
+    "incomeIncludes": null,
+    "highSchool": null,
+    "taxAnnualAmount": 71,
+    "subdivisionName": "LINDA VISTA",
+    "storiesTotal": 1,
+    "storiesDecimal": null,
+    "specialListingConditions": null,
+    "windowFeatures": null,
+    "ownership": null,
+    "woodedArea": null,
+    "middleOrJuniorSchoolDistrict": "San Diego Unified School Distric",
+    "associationPhone2": null,
+    "onMarketDate": 1755977378000,
+    "roomTypes": null,
+    "frontageLength": null,
+    "roadSurfaceType": null,
+    "associationAmenities": null,
+    "propertySubType": [
+      "Single Family Residence"
+    ],
+    "hasCooling": true,
+    "levels": "1 Story",
+    "coveredParkingCapacity": 2,
+    "foundationArea": null,
+    "zoning": "R-1:SINGLE",
+    "hoaFee": null,
+    "livingAreaRange": null,
+    "parkingFeatures": [
+      "Attached",
+      "Direct Garage Access"
+    ],
+    "parkingCapacity": 5,
+    "cropsIncludedYN": null,
+    "tenantPays": null,
+    "builderModel": null,
+    "otherStructures": [
+      "Detached"
+    ],
+    "otherFacts": {},
+    "additionalFeeInfo": null,
+    "hasView": true,
+    "openParkingCapacity": null,
+    "securityFeatures": null,
+    "numberOfUnitsInCommunity": null,
+    "hasHomeWarranty": false,
+    "basementYN": null,
+    "doorFeatures": null,
+    "ownershipType": null,
+    "aboveGradeFinishedArea": null,
+    "associations": {},
+    "waterView": null,
+    "electric": null,
+    "buildingFeatures": null,
+    "hasOpenParking": null,
+    "hasCarport": null,
+    "bathroomsHalf": 0,
+    "homeType": "SingleFamily",
+    "isSeniorCommunity": null,
+    "municipality": null,
+    "bathroomsThreeQuarter": null,
+    "hasSpa": false,
+    "basement": null,
+    "associationFee2": null,
+    "cooling": [
+      "Central Forced Air"
+    ],
+    "hasHeating": true,
+    "associationName2": null,
+    "hasRentControl": null,
+    "elementarySchoolDistrict": "San Diego Unified School Distric",
+    "otherEquipment": null,
+    "bathrooms": 2,
+    "buildingArea": "1,634",
+    "furnished": false,
+    "vegetation": null,
+    "patioAndPorchFeatures": [
+      "Concrete",
+      "Covered",
+      "Patio",
+      "Porch - Front",
+      "Slab"
+    ],
+    "bathroomsFloat": 2,
+    "builderName": null,
+    "highSchoolDistrict": "San Diego Unified School Distric",
+    "hasElectricOnProperty": true,
+    "laundryFeatures": [
+      "Electric",
+      "Gas"
+    ],
+    "entryLocation": null,
+    "fireplaces": 1,
+    "heating": [
+      "Fireplace",
+      "Forced Air Unit"
+    ],
+    "availabilityDate": null,
+    "carportParkingCapacity": null,
+    "hasAssociation": null,
+    "irrigationWaterRightsYN": null,
+    "isNewConstruction": null,
+    "associationFeeIncludes": null,
+    "leaseTerm": null,
+    "pricePerSquareFoot": 609,
+    "associationName": null,
+    "elevation": null
+  },
+  "datePosted": "2025-08-23",
+  "bedrooms": 4,
+  "propertyTypeDimension": "Single Family",
+  "mortgageZHLRates": {
+    "thirtyYearFixedBucket": {
+      "rate": 6.306,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756267370832
+    },
+    "fifteenYearFixedBucket": {
+      "rate": 5.601,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756267370832
+    },
+    "arm5Bucket": {
+      "rate": 6.529,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756267370832
+    }
+  },
+  "comingSoonOnMarketDate": null,
+  "favoriteCount": 116,
+  "livingArea": 1634,
+  "zestimateHighPercent": "5",
+  "mlsid": "250036990",
+  "isListedByOwner": null,
+  "listingSubType": {
+    "is_comingSoon": false,
+    "is_pending": false,
+    "is_forAuction": false,
+    "is_bankOwned": false,
+    "is_FSBA": true,
+    "is_FSBO": false,
+    "is_newHome": false,
+    "is_foreclosure": false
+  },
+  "buildingId": null,
+  "country": "USA",
+  "price": 995000,
+  "priceChangeDate": null,
+  "contingentListingType": null
+}

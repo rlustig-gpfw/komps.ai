@@ -1,0 +1,1735 @@
+{
+  "buildingPermits": null,
+  "contact_recipients": [
+    {
+      "agent_reason": 1,
+      "zpro": null,
+      "recent_sales": 0,
+      "review_count": 0,
+      "display_name": "Premier Broker Flex Atlanta GA",
+      "badge_type": "Premier Agent",
+      "business_name": "Zillow Group",
+      "rating_average": 0,
+      "phone": {
+        "prefix": "452",
+        "areacode": "206",
+        "number": "1030"
+      },
+      "zuid": "X1-ZUv2ktj4jt3nyh_98wrm",
+      "image_url": "https://www.zillowstatic.com/static/images/nophoto_h_g.png"
+    }
+  ],
+  "longitude": -117.23359,
+  "countyFIPS": "06073",
+  "imgSrc": "https://photos.zillowstatic.com/fp/7f0553ad4b160c1b42e72d39ea78a505-p_d.jpg",
+  "livingAreaValue": 1839,
+  "streetAddress": "3711 La Cresta Dr",
+  "county": "San Diego County",
+  "monthlyHoaFee": null,
+  "timeZone": "America/Los_Angeles",
+  "taxHistory": [
+    {
+      "time": 1724733923931,
+      "valueIncreaseRate": 0.019988861,
+      "taxIncreaseRate": 0.023177965,
+      "taxPaid": 1272.24,
+      "value": 100729
+    },
+    {
+      "time": 1693111523931,
+      "valueIncreaseRate": 0.019996075,
+      "taxIncreaseRate": 0.027178422,
+      "taxPaid": 1243.42,
+      "value": 98755
+    },
+    {
+      "time": 1661575523931,
+      "valueIncreaseRate": 0.01998483,
+      "taxIncreaseRate": 0.0844816,
+      "taxPaid": 1210.52,
+      "value": 96819
+    },
+    {
+      "time": 1630039523931,
+      "valueIncreaseRate": 0.010345928,
+      "taxIncreaseRate": 0.012738315,
+      "taxPaid": 1116.22,
+      "value": 94922
+    },
+    {
+      "time": 1598503523931,
+      "valueIncreaseRate": 0.019987188,
+      "taxIncreaseRate": 0.051176928,
+      "taxPaid": 1102.18,
+      "value": 93950
+    },
+    {
+      "time": 1566881123931,
+      "valueIncreaseRate": 0.01998804,
+      "taxIncreaseRate": 0.03719388,
+      "taxPaid": 1048.52,
+      "value": 92109
+    },
+    {
+      "time": 1535345123931,
+      "valueIncreaseRate": 0.0199808,
+      "taxIncreaseRate": 0.026064709,
+      "taxPaid": 1010.92,
+      "value": 90304
+    },
+    {
+      "time": 1503809123931,
+      "valueIncreaseRate": 0.01998848,
+      "taxIncreaseRate": 0.019284105,
+      "taxPaid": 985.24,
+      "value": 88535
+    },
+    {
+      "time": 1472273123931,
+      "valueIncreaseRate": 0.015228426,
+      "taxIncreaseRate": 0.01584828,
+      "taxPaid": 966.6,
+      "value": 86800
+    },
+    {
+      "time": 1440650723931,
+      "valueIncreaseRate": 0.019970413,
+      "taxIncreaseRate": 0.016450908,
+      "taxPaid": 951.52,
+      "value": 85498
+    },
+    {
+      "time": 1409114723931,
+      "valueIncreaseRate": 0.004517838,
+      "taxIncreaseRate": 0,
+      "taxPaid": 936.12,
+      "value": 83824
+    },
+    {
+      "time": 1377578723931,
+      "valueIncreaseRate": 0.019984843,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 83447
+    },
+    {
+      "time": 1346042723931,
+      "valueIncreaseRate": 0.019985288,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 81812
+    },
+    {
+      "time": 1314420323931,
+      "valueIncreaseRate": 0.00752418,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 80209
+    },
+    {
+      "time": 1282884323931,
+      "valueIncreaseRate": -0.0023809525,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 79610
+    },
+    {
+      "time": 1251348323931,
+      "valueIncreaseRate": 0.019990796,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 79800
+    },
+    {
+      "time": 1219812323931,
+      "valueIncreaseRate": 0.01998618,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 78236
+    },
+    {
+      "time": 1188189923931,
+      "valueIncreaseRate": 0.019986702,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 76703
+    },
+    {
+      "time": 1156653923931,
+      "valueIncreaseRate": 0.019992948,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 75200
+    },
+    {
+      "time": 1125117923931,
+      "valueIncreaseRate": 0.019991422,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 73726
+    },
+    {
+      "time": 1093581923931,
+      "valueIncreaseRate": 0.018659187,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 72281
+    },
+    {
+      "time": 1061959523931,
+      "valueIncreaseRate": 0.019980738,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 70957
+    },
+    {
+      "time": 1030423523931,
+      "valueIncreaseRate": 0.019984165,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 69567
+    },
+    {
+      "time": 998887523931,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 68204
+    }
+  ],
+  "dateSold": null,
+  "annualHomeownersInsurance": 7035,
+  "state": "CA",
+  "listed_by": {
+    "agent_reason": 3,
+    "zpro": false,
+    "recent_sales": 0,
+    "zuid": "X1-ZUzdzyavzif85l_81d4z",
+    "review_count": 31,
+    "display_name": "Leigh Ann Elledge",
+    "profile_url": "https://www.zillow.com/profile/Leigh-Ann-Elledge/",
+    "business_name": "Berkshire Hathaway HomeServices California Properties",
+    "rating_average": 5,
+    "phone": {
+      "prefix": "203",
+      "areacode": "619",
+      "number": "3012"
+    },
+    "badge_type": "Listing Agent",
+    "image_url": "https://photos.zillowstatic.com/fp/481a3a2a0b2460575f41e9e0aad06a0e-h_n.jpg"
+  },
+  "yearBuilt": 1928,
+  "brokerageName": "Berkshire Hathaway HomeServices California Properties",
+  "description": "Timeless 1928 English Tudor in the heart of Point Loma, where character and charm meet an unbeatable location. Set on a generous 8,200 sq ft lot, this 3 bed, 3 bath home welcomes you with storybook curb appeal and a traditional floorplan filled with warmth and personality. The living room boasts of barreled ceilings, fireplace, and large picture window that floods the space with natural light. A cozy breakfast banquette creates the perfect nook for casual mornings, while the formal dining and family rooms offer inviting spaces to gather. Original hardwood floors and period details are thoughtfully preserved, adding to the home’s enduring appeal. Upstairs, the spacious primary suite includes a versatile flex space—ideal as a fourth bedroom, office, nursery, or custom walk-in closet. Outside, the expansive rear yard is a private retreat with a brick patio, lush lawn, and mature trees that provide both beauty and shade—perfect for entertaining or simply enjoying quiet afternoons. A rare opportunity to own a piece of Point Loma’s history in one of San Diego’s most desirable neighborhoods.",
+  "climate": {
+    "windSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "probability": {},
+        "source": {
+          "url": "https://firststreet.org/property/3711-la-cresta-dr-san-diego-ca-92107/603571753_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 18
+      }
+    },
+    "floodSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "femaZone": "X_UNSHADED",
+        "source": {
+          "url": "https://firststreet.org/property/3711-la-cresta-dr-san-diego-ca-92107/603571753_fsid"
+        },
+        "probability": [
+          {
+            "relativeYear": 0,
+            "probability": 0
+          },
+          {
+            "relativeYear": 5,
+            "probability": 0
+          },
+          {
+            "relativeYear": 10,
+            "probability": 0
+          },
+          {
+            "relativeYear": 15,
+            "probability": 0
+          },
+          {
+            "relativeYear": 20,
+            "probability": 0
+          },
+          {
+            "relativeYear": 25,
+            "probability": 0
+          },
+          {
+            "relativeYear": 30,
+            "probability": 0
+          }
+        ],
+        "insuranceSeparatePolicy": "NOT_REQUIRED",
+        "historicCountPropertyAll": 0
+      }
+    },
+    "fireSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "probability": {},
+        "source": {
+          "url": "https://firststreet.org/property/3711-la-cresta-dr-san-diego-ca-92107/603571753_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 17
+      }
+    },
+    "heatSources": {
+      "primary": {
+        "percentile98Temp": 84,
+        "hotDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 7
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 9
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 12
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 14
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 16
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 19
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 21
+          }
+        ],
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 3
+        },
+        "source": {
+          "url": "https://firststreet.org/property/3711-la-cresta-dr-san-diego-ca-92107/603571753_fsid"
+        }
+      }
+    },
+    "airSources": {
+      "primary": {
+        "source": {
+          "url": "https://firststreet.org/property/3711-la-cresta-dr-san-diego-ca-92107/603571753_fsid"
+        },
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 4
+        },
+        "badAirDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 4
+          }
+        ]
+      }
+    }
+  },
+  "latitude": 32.734737,
+  "nearbyHomes": [
+    {
+      "hdpTypeDimension": "RecentlySold",
+      "lotAreaUnits": "sqft",
+      "isShowcaseListing": false,
+      "longitude": -117.23373,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "3717 La Cresta Dr",
+        "zipcode": "92107"
+      },
+      "livingAreaValue": 2620,
+      "lotSize": null,
+      "zpid": 16964455,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 3,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "3717 La Cresta Dr"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "hdpUrl": "/homedetails/3717-La-Cresta-Dr-San-Diego-CA-92107/16964455_zpid/",
+      "lotAreaValue": null,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "240001776",
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "SOLD",
+      "latitude": 32.734856,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 6,
+      "propertyTypeDimension": "Single Family",
+      "newConstructionType": null,
+      "yearBuilt": 1949,
+      "listingTypeDimension": "Unknown Listed By",
+      "livingArea": 2620,
+      "providerListingID": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/6b1487c3475b2d77952070ec2b06fbaa-p_c.jpg"
+        }
+      ],
+      "currency": "USD",
+      "price": 1826000,
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "3707 La Cresta Dr"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/3707-La-Cresta-Dr-San-Diego-CA-92107/16964457_zpid/",
+      "lotAreaValue": 7405.2,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "3707 La Cresta Dr",
+        "zipcode": "92107"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.734592,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1471000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 7405,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/6b39ad46de52f1e01e0654df9697bc5f-p_c.jpg"
+        }
+      ],
+      "zpid": 16964457,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1120,
+      "longitude": -117.23345,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1120
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "3723 La Cresta Dr"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/3723-La-Cresta-Dr-San-Diego-CA-92107/16964454_zpid/",
+      "lotAreaValue": 0.25,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "3723 La Cresta Dr",
+        "zipcode": "92107"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.73491,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1559400,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 10890,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/f4391140ca225c3801a9a52800edb306-p_c.jpg"
+        }
+      ],
+      "zpid": 16964454,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1201,
+      "longitude": -117.23393,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1201
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "3703 La Cresta Dr"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/3703-La-Cresta-Dr-San-Diego-CA-92107/16964458_zpid/",
+      "lotAreaValue": 6800,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "3703 La Cresta Dr",
+        "zipcode": "92107"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.73442,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1518800,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 6800,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=32.73442077636719,-117.23334503173828&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=3PAA8vbTHt3xZv9S9vuOLf4FEWQ="
+        }
+      ],
+      "zpid": 16964458,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1540,
+      "longitude": -117.233345,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1540
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "3716 La Cresta Dr"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/3716-La-Cresta-Dr-San-Diego-CA-92107/16964514_zpid/",
+      "lotAreaValue": 5601,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "3716 La Cresta Dr",
+        "zipcode": "92107"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.735016,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1378300,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 5601,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=3716+La+Cresta+Dr%2C+San+Diego%2C+CA+92107&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ZWu7q0KaXThmcdnSFfBedagEj44="
+        }
+      ],
+      "zpid": 16964514,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 2000,
+      "longitude": -117.233215,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 2000
+    },
+    {
+      "bathrooms": 1.5,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "3710 La Cresta Dr"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/3710-La-Cresta-Dr-San-Diego-CA-92107/16964515_zpid/",
+      "lotAreaValue": 5800,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "3710 La Cresta Dr",
+        "zipcode": "92107"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.7349,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1218200,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 5800,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=3710+La+Cresta+Dr%2C+San+Diego%2C+CA+92107&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=JoZGBWLd8Zy1kqSUPecVFdnv_no="
+        }
+      ],
+      "zpid": 16964515,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1032,
+      "longitude": -117.23311,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1032
+    },
+    {
+      "bathrooms": 1,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "3726 Narragansett Ave"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/3726-Narragansett-Ave-San-Diego-CA-92107/16964396_zpid/",
+      "lotAreaValue": 6300,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "3726 Narragansett Ave",
+        "zipcode": "92107"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.73442,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1344800,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 6300,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=3726+Narragansett+Ave%2C+San+Diego%2C+CA+92107&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=QDShxEQUdHGHd0FZ0jxvjtDX_dM="
+        }
+      ],
+      "zpid": 16964396,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1537,
+      "longitude": -117.23396,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1537
+    },
+    {
+      "bathrooms": 3,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "3718 Narragansett Ave"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/3718-Narragansett-Ave-San-Diego-CA-92107/16964395_zpid/",
+      "lotAreaValue": 6250,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "3718 Narragansett Ave",
+        "zipcode": "92107"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.734333,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 2206900,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 6250,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/655d417fcbd02e2a5e83c8d8c8142bbc-p_c.jpg"
+        }
+      ],
+      "zpid": 16964395,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 2774,
+      "longitude": -117.23383,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 2774
+    }
+  ],
+  "priceHistory": [
+    {
+      "priceChangeRate": -0.036802760207016,
+      "date": "2025-08-17",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1755388800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "250036529"
+      },
+      "pricePerSquareFoot": 911,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 1675000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2025-08-17",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1755388800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "250030783"
+      },
+      "pricePerSquareFoot": 946,
+      "buyerAgent": null,
+      "event": "Listing removed",
+      "price": 1739000
+    },
+    {
+      "priceChangeRate": -0.033351862145636,
+      "date": "2025-07-14",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1752451200000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "250030783"
+      },
+      "pricePerSquareFoot": 946,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 1739000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2025-06-17",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1750118400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "250030783"
+      },
+      "pricePerSquareFoot": 978,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 1799000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2025-01-09",
+      "source": "Zillow Rentals",
+      "postingIsRental": true,
+      "time": 1736380800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Zillow Rentals",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 1,
+      "buyerAgent": null,
+      "event": "Listing removed",
+      "price": 1850
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2024-12-30",
+      "source": "Zillow Rentals",
+      "postingIsRental": true,
+      "time": 1735516800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Zillow Rentals",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 1,
+      "buyerAgent": null,
+      "event": "Listed for rent",
+      "price": 1850
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2024-12-12",
+      "source": "Zillow Rentals",
+      "postingIsRental": true,
+      "time": 1733961600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Zillow Rentals",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 1,
+      "buyerAgent": null,
+      "event": "Listing removed",
+      "price": 1850
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2024-11-03",
+      "source": "Zillow Rentals",
+      "postingIsRental": true,
+      "time": 1730592000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Zillow Rentals",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 1,
+      "buyerAgent": null,
+      "event": "Listed for rent",
+      "price": 1850
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2024-08-24",
+      "source": "Zillow Rentals",
+      "postingIsRental": true,
+      "time": 1724457600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Zillow Rentals",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": null,
+      "buyerAgent": null,
+      "event": "Listing removed",
+      "price": null
+    },
+    {
+      "priceChangeRate": 0.027777777777778,
+      "date": "2024-07-10",
+      "source": "Zillow Rentals",
+      "postingIsRental": true,
+      "time": 1720569600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Zillow Rentals",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 1,
+      "buyerAgent": null,
+      "event": "Listed for rent",
+      "price": 1850
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2023-02-19",
+      "source": "Zillow Rentals",
+      "postingIsRental": true,
+      "time": 1676764800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Zillow Rentals",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": null,
+      "buyerAgent": null,
+      "event": "Listing removed",
+      "price": null
+    },
+    {
+      "priceChangeRate": -0.027027027027027,
+      "date": "2023-02-14",
+      "source": "Zillow Rentals",
+      "postingIsRental": true,
+      "time": 1676332800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Zillow Rentals",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 1,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 1800
+    },
+    {
+      "priceChangeRate": -0.026315789473684,
+      "date": "2023-01-08",
+      "source": "Zillow Rentals",
+      "postingIsRental": true,
+      "time": 1673136000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Zillow Rentals",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 1,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 1850
+    },
+    {
+      "priceChangeRate": -0.05,
+      "date": "2022-12-30",
+      "source": "Zillow Rentals",
+      "postingIsRental": true,
+      "time": 1672358400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Zillow Rentals",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 1,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 1900
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2022-12-14",
+      "source": "Zillow Rentals",
+      "postingIsRental": true,
+      "time": 1670976000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Zillow Rentals",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 1,
+      "buyerAgent": null,
+      "event": "Listed for rent",
+      "price": 2000
+    }
+  ],
+  "neighborhoodMapThumb": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/7f0553ad4b160c1b42e72d39ea78a505-p_c.jpg"
+    }
+  ],
+  "schools": [
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6128-Dana/",
+      "rating": 9,
+      "totalCount": null,
+      "distance": 0.1,
+      "assigned": null,
+      "name": "Dana Middle School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Elementary",
+      "grades": "5-6",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6122-Correia-Middle-School/",
+      "rating": 7,
+      "totalCount": null,
+      "distance": 1,
+      "assigned": null,
+      "name": "Correia Middle School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Middle",
+      "grades": "7-8",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6224-Point-Loma-High-School/",
+      "rating": 8,
+      "totalCount": null,
+      "distance": 0.6,
+      "assigned": null,
+      "name": "Point Loma High School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "High",
+      "grades": "9-12",
+      "type": "Public"
+    }
+  ],
+  "rentZestimate": 6548,
+  "city": "San Diego",
+  "providerListingID": null,
+  "currency": "USD",
+  "listingProvider": null,
+  "propertyTaxRate": 1.17,
+  "isShowcaseListing": false,
+  "openHouseSchedule": {},
+  "mortgageRates": null,
+  "address": {
+    "community": null,
+    "city": "San Diego",
+    "state": "CA",
+    "neighborhood": null,
+    "subdivision": "POINT LOMA",
+    "streetAddress": "3711 La Cresta Dr",
+    "zipcode": "92107"
+  },
+  "cityId": 54296,
+  "timeOnZillow": "9 days",
+  "priceChange": null,
+  "zestimate": 1669600,
+  "zpid": 16964456,
+  "countyId": 2841,
+  "homeType": "SINGLE_FAMILY",
+  "livingAreaUnits": "sqft",
+  "pageViewCount": 2536,
+  "homeInsights": [
+    {
+      "insights": [
+        {
+          "treatmentId": "model_0",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Period details",
+            "Mature trees",
+            "Expansive rear yard",
+            "Private retreat",
+            "Versatile flex space",
+            "Cozy breakfast banquette",
+            "Spacious primary suite"
+          ]
+        },
+        {
+          "treatmentId": "model_1",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Period details",
+            "Mature trees",
+            "Expansive rear yard",
+            "Private retreat",
+            "Versatile flex space",
+            "Cozy breakfast banquette",
+            "Spacious primary suite"
+          ]
+        }
+      ]
+    }
+  ],
+  "bathrooms": 3,
+  "neighborhoodRegion": {
+    "name": "Point Loma Heights"
+  },
+  "zipcode": "92107",
+  "building": null,
+  "zestimateLowPercent": "5",
+  "brokerId": null,
+  "stateId": 9,
+  "url": "/homedetails/3711-La-Cresta-Dr-San-Diego-CA-92107/16964456_zpid/",
+  "solarPotential": null,
+  "attributionInfo": {
+    "buyerAgentName": null,
+    "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_95_35.jpg",
+    "mlsName": "SDMLS",
+    "coAgentLicenseNumber": null,
+    "listingAgreement": null,
+    "listingOffices": [
+      {
+        "associatedOfficeType": "listOffice",
+        "officeName": "Berkshire Hathaway HomeServices California Properties"
+      }
+    ],
+    "infoString10": "This information is deemed reliable but not guaranteed. You should rely on this information only to decide whether or not to further investigate a particular property.\nBEFORE MAKING ANY OTHER DECISION, YOU SHOULD PERSONALLY INVESTIGATE THE FACTS (e.g. square footage and lot size) with the assistance of an appropriate professional. You may use this information only to identify properties you may be interested in investigating further. All uses except for personal, noncommercial use in accordance with the foregoing purpose are prohibited. Redistribution or copying of this information, any photographs or video tours is strictly\nprohibited. This information is derived from the Internet Data Exchange (IDX) service provided by San Diego MLS. Displayed property listings may be held by a brokerage firm other than the broker and/or agent responsible for this display. The information and any photographs and video tours and the compilation from which they are derived is protected by copyright. Compilation © 2025 San Diego MLS.",
+    "buyerAgentMemberStateLicense": null,
+    "brokerName": "Berkshire Hathaway HomeServices California Properties",
+    "listingAttributionContact": null,
+    "lastUpdated": "2025-08-17 12:20:25",
+    "trueStatus": null,
+    "listingAgentAttributionContact": null,
+    "agentEmail": null,
+    "agentName": "Leigh Ann Elledge",
+    "attributionTitle": null,
+    "mlsId": "250036529",
+    "coAgentName": null,
+    "coAgentNumber": null,
+    "infoString5": "619-203-3012",
+    "listingAgents": [
+      {
+        "memberStateLicense": "DRE #01384383",
+        "memberFullName": "Leigh Ann Elledge",
+        "associatedAgentType": "listAgent"
+      }
+    ],
+    "agentPhoneNumber": "619-203-3012",
+    "agentLicenseNumber": "DRE #01384383",
+    "providerLogo": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_95_35.jpg",
+    "infoString16": null,
+    "buyerBrokerageName": null,
+    "mlsDisclaimer": "This information is deemed reliable but not guaranteed. You should rely on this information only to decide whether or not to further investigate a particular property.\nBEFORE MAKING ANY OTHER DECISION, YOU SHOULD PERSONALLY INVESTIGATE THE FACTS (e.g. square footage and lot size) with the assistance of an appropriate professional. You may use this information only to identify properties you may be interested in investigating further. All uses except for personal, noncommercial use in accordance with the foregoing purpose are prohibited. Redistribution or copying of this information, any photographs or video tours is strictly\nprohibited. This information is derived from the Internet Data Exchange (IDX) service provided by San Diego MLS. Displayed property listings may be held by a brokerage firm other than the broker and/or agent responsible for this display. The information and any photographs and video tours and the compilation from which they are derived is protected by copyright. Compilation © 2025 San Diego MLS.",
+    "brokerPhoneNumber": "619-591-5831",
+    "lastChecked": "2025-08-26 21:11:24"
+  },
+  "priceChangeDateString": null,
+  "photoCount": 60,
+  "homeStatus": "FOR_SALE",
+  "homeFacts": null,
+  "resoFacts": {
+    "hasAttachedProperty": false,
+    "frontageType": null,
+    "poolFeatures": [
+      "N/K"
+    ],
+    "flooring": [
+      "Carpet",
+      "Tile",
+      "Wood"
+    ],
+    "foundationDetails": {},
+    "accessibilityFeatures": null,
+    "hasGarage": true,
+    "hasPetsAllowed": null,
+    "bodyType": null,
+    "topography": null,
+    "landLeaseExpirationDate": null,
+    "hasAdditionalParcels": false,
+    "parkName": null,
+    "livingQuarters": {},
+    "taxAssessedValue": 100729,
+    "atAGlanceFacts": [
+      {
+        "factValue": "Single Family Residence",
+        "factLabel": "Type"
+      },
+      {
+        "factValue": "1928",
+        "factLabel": "Year Built"
+      },
+      {
+        "factValue": "Fireplace, Forced Air Unit",
+        "factLabel": "Heating"
+      },
+      {
+        "factValue": "N/K",
+        "factLabel": "Cooling"
+      },
+      {
+        "factValue": "2 Garage spaces",
+        "factLabel": "Parking"
+      },
+      {
+        "factValue": "8,276 sqft",
+        "factLabel": "Lot"
+      },
+      {
+        "factValue": "9 Days",
+        "factLabel": "Days on Zillow"
+      },
+      {
+        "factValue": "$911",
+        "factLabel": "Price/sqft"
+      },
+      {
+        "factValue": null,
+        "factLabel": "Offer Review Date"
+      }
+    ],
+    "offerReviewDate": null,
+    "horseYN": null,
+    "view": [
+      "Neighborhood"
+    ],
+    "rooms": {},
+    "belowGradeFinishedArea": null,
+    "feesAndDues": [
+      {
+        "phone": null,
+        "name": null,
+        "fee": null,
+        "type": "HOA"
+      }
+    ],
+    "cityRegion": "San Diego",
+    "mainLevelBathrooms": null,
+    "hasPrivatePool": null,
+    "landLeaseAmount": null,
+    "waterSource": [
+      "Meter on Property"
+    ],
+    "exteriorFeatures": {},
+    "inclusions": null,
+    "hasFireplace": null,
+    "gas": null,
+    "propertyCondition": null,
+    "elevationUnits": null,
+    "exclusions": null,
+    "mainLevelBedrooms": null,
+    "numberOfUnitsVacant": null,
+    "hasWaterfrontView": null,
+    "bathroomsOneQuarter": null,
+    "lotSize": "8,276 sqft",
+    "entryLevel": null,
+    "media": {},
+    "greenWaterConservation": null,
+    "stories": null,
+    "livingArea": "1,839 sqft",
+    "commonWalls": null,
+    "listingTerms": "Cash,Conventional",
+    "otherParking": null,
+    "associationFee": null,
+    "marketingType": null,
+    "greenIndoorAirQuality": null,
+    "greenSustainability": null,
+    "livingAreaRangeUnits": null,
+    "associationPhone": null,
+    "greenBuildingVerificationType": null,
+    "hasAttachedGarage": null,
+    "bedrooms": 3,
+    "architecturalStyle": "Tudor/French Normandy",
+    "listingId": null,
+    "structureType": null,
+    "interiorFeatures": [
+      "Bathtub",
+      "Built-Ins",
+      "Ceiling Fan",
+      "Pantry",
+      "Shower",
+      "Shower in Tub"
+    ],
+    "horseAmenities": null,
+    "garageParkingCapacity": 2,
+    "developmentStatus": null,
+    "lotFeatures": null,
+    "roofType": "Composition",
+    "compensationBasedOn": null,
+    "greenEnergyGeneration": null,
+    "daysOnZillow": 9,
+    "listAOR": "San Diego Association of REALTOR",
+    "buildingAreaSource": null,
+    "elementarySchool": null,
+    "zoningDescription": "R-1:SINGLE",
+    "irrigationWaterRightsAcres": null,
+    "yearBuiltEffective": null,
+    "greenEnergyEfficient": null,
+    "constructionMaterials": [
+      "Stucco"
+    ],
+    "fireplaceFeatures": [
+      "FP in Living Room"
+    ],
+    "hoaFeeTotal": null,
+    "appliances": [
+      "Dishwasher",
+      "Disposal",
+      "Dryer",
+      "Microwave",
+      "Range/Oven",
+      "Refrigerator",
+      "Washer",
+      "Water Line to Refr",
+      "Gas Cooking",
+      "Gas Water Heater"
+    ],
+    "sewer": [
+      "Sewer Connected",
+      "Public Sewer"
+    ],
+    "bathroomsPartial": null,
+    "fencing": "Full",
+    "spaFeatures": [
+      "N/K"
+    ],
+    "waterViewYN": null,
+    "buildingName": null,
+    "attic": null,
+    "petsMaxWeight": null,
+    "cumulativeDaysOnMarket": null,
+    "waterfrontFeatures": null,
+    "additionalParcelsDescription": null,
+    "canRaiseHorses": false,
+    "hasLandLease": false,
+    "communityFeatures": null,
+    "waterBodyName": null,
+    "middleOrJuniorSchool": null,
+    "lotSizeDimensions": null,
+    "virtualTour": null,
+    "contingency": null,
+    "yearBuilt": 1928,
+    "utilities": [
+      "Electricity Connected",
+      "Natural Gas Connected",
+      "Sewer Connected",
+      "Water Connected"
+    ],
+    "totalActualRent": null,
+    "bathroomsFull": 3,
+    "parcelNumber": "4493302000",
+    "incomeIncludes": null,
+    "highSchool": null,
+    "taxAnnualAmount": 1272,
+    "subdivisionName": "POINT LOMA",
+    "storiesTotal": 2,
+    "storiesDecimal": null,
+    "specialListingConditions": "Estate",
+    "windowFeatures": null,
+    "ownership": null,
+    "woodedArea": null,
+    "middleOrJuniorSchoolDistrict": null,
+    "associationPhone2": null,
+    "onMarketDate": 1755454098000,
+    "roomTypes": null,
+    "frontageLength": null,
+    "roadSurfaceType": null,
+    "associationAmenities": null,
+    "propertySubType": [
+      "Single Family Residence"
+    ],
+    "hasCooling": true,
+    "levels": "2 Story",
+    "coveredParkingCapacity": 2,
+    "foundationArea": null,
+    "zoning": "R-1:SINGLE",
+    "hoaFee": null,
+    "livingAreaRange": null,
+    "parkingFeatures": [
+      "Detached",
+      "Garage"
+    ],
+    "parkingCapacity": 6,
+    "cropsIncludedYN": null,
+    "tenantPays": null,
+    "builderModel": null,
+    "otherStructures": [
+      "N/K"
+    ],
+    "otherFacts": {},
+    "additionalFeeInfo": null,
+    "hasView": true,
+    "openParkingCapacity": null,
+    "securityFeatures": [
+      "Smoke Detector",
+      "Carbon Monoxide Detectors"
+    ],
+    "numberOfUnitsInCommunity": null,
+    "hasHomeWarranty": false,
+    "basementYN": null,
+    "doorFeatures": null,
+    "ownershipType": null,
+    "aboveGradeFinishedArea": null,
+    "associations": {},
+    "waterView": null,
+    "electric": null,
+    "buildingFeatures": null,
+    "hasOpenParking": null,
+    "hasCarport": null,
+    "bathroomsHalf": 0,
+    "homeType": "SingleFamily",
+    "isSeniorCommunity": null,
+    "municipality": null,
+    "bathroomsThreeQuarter": null,
+    "hasSpa": false,
+    "basement": null,
+    "associationFee2": null,
+    "cooling": [
+      "N/K"
+    ],
+    "hasHeating": true,
+    "associationName2": null,
+    "hasRentControl": null,
+    "elementarySchoolDistrict": null,
+    "otherEquipment": null,
+    "bathrooms": 3,
+    "buildingArea": "1,839",
+    "furnished": false,
+    "vegetation": null,
+    "patioAndPorchFeatures": [
+      "Brick"
+    ],
+    "bathroomsFloat": 3,
+    "builderName": null,
+    "highSchoolDistrict": null,
+    "hasElectricOnProperty": true,
+    "laundryFeatures": [
+      "Electric",
+      "Gas"
+    ],
+    "entryLocation": null,
+    "fireplaces": 1,
+    "heating": [
+      "Fireplace",
+      "Forced Air Unit"
+    ],
+    "availabilityDate": null,
+    "carportParkingCapacity": null,
+    "hasAssociation": null,
+    "irrigationWaterRightsYN": null,
+    "isNewConstruction": null,
+    "associationFeeIncludes": null,
+    "leaseTerm": null,
+    "pricePerSquareFoot": 911,
+    "associationName": null,
+    "elevation": null
+  },
+  "datePosted": "2025-08-17",
+  "bedrooms": 3,
+  "propertyTypeDimension": "Single Family",
+  "mortgageZHLRates": {
+    "thirtyYearFixedBucket": {
+      "rate": 6.402,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756264997348
+    },
+    "fifteenYearFixedBucket": {
+      "rate": 6.303,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756264997348
+    },
+    "arm5Bucket": {
+      "rate": 6.423,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756264997348
+    }
+  },
+  "comingSoonOnMarketDate": null,
+  "favoriteCount": 133,
+  "livingArea": 1839,
+  "zestimateHighPercent": "5",
+  "mlsid": "250036529",
+  "isListedByOwner": null,
+  "listingSubType": {
+    "is_comingSoon": false,
+    "is_pending": false,
+    "is_forAuction": false,
+    "is_bankOwned": false,
+    "is_FSBA": true,
+    "is_FSBO": false,
+    "is_newHome": false,
+    "is_foreclosure": false
+  },
+  "buildingId": null,
+  "country": "USA",
+  "price": 1675000,
+  "priceChangeDate": null,
+  "contingentListingType": null
+}

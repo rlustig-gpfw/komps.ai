@@ -1,0 +1,1581 @@
+{
+  "buildingPermits": null,
+  "contact_recipients": [
+    {
+      "agent_reason": 1,
+      "zpro": null,
+      "recent_sales": 0,
+      "review_count": 0,
+      "display_name": "Premier Broker Flex Atlanta GA",
+      "badge_type": "Premier Agent",
+      "business_name": "Zillow Group",
+      "rating_average": 0,
+      "phone": {
+        "prefix": "452",
+        "areacode": "206",
+        "number": "1030"
+      },
+      "zuid": "X1-ZUv2ktj4jt3nyh_98wrm",
+      "image_url": "https://www.zillowstatic.com/static/images/nophoto_h_g.png"
+    }
+  ],
+  "longitude": -117.167625,
+  "countyFIPS": null,
+  "imgSrc": "https://photos.zillowstatic.com/fp/ff07b51702c77d28de67a9219722149f-p_d.jpg",
+  "livingAreaValue": 2177,
+  "streetAddress": "10411 Walden Way",
+  "county": "San Diego County",
+  "monthlyHoaFee": 404,
+  "timeZone": "America/Los_Angeles",
+  "taxHistory": {},
+  "dateSold": null,
+  "annualHomeownersInsurance": 5065,
+  "state": "CA",
+  "listed_by": {
+    "agent_reason": 3,
+    "zpro": false,
+    "recent_sales": 0,
+    "zuid": "X1-ZU14bxm7lidtukp_7ew1f",
+    "review_count": 1,
+    "display_name": "Melissa Westfall",
+    "profile_url": "https://www.zillow.com/profile/mewest139/",
+    "business_name": "Opendoor Brokerage Inc.",
+    "rating_average": 5,
+    "phone": {
+      "prefix": "973",
+      "areacode": "323",
+      "number": "2677"
+    },
+    "badge_type": "Listing Agent",
+    "image_url": "https://photos.zillowstatic.com/fp/894e389be88f4a23ca057416f2c8dc57-h_n.jpg"
+  },
+  "yearBuilt": 2022,
+  "brokerageName": "Opendoor Brokerage Inc.",
+  "description": "Welcome to your dream home, where style meets comfort. Inside, you'll find a soothing neutral color scheme. The kitchen is a featuring a stylish backsplash, stainless steel appliances, and a convenient island for meal prep. The primary bedroom includes a walk-in closet with plenty of space for your belongings. The primary bathroom has double sinks for easy morning routines. Enjoy the perfect mix of elegance and functionality in this beautiful home. Take advantage of the community’s  amenities, including parks, playgrounds,  clubhouse, gym, and pool. Offers easy access to UCSD, La Jolla beaches, and downtown San Diego, surrounded by preserved open space and scenic trails. HOA also includes water and trash.  Come visit the 3 Roots neighborhood.",
+  "climate": {
+    "windSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "probability": {},
+        "source": {
+          "url": "https://firststreet.org/property/10411-walden-way-san-diego-ca-92126-2542/612627492_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 18
+      }
+    },
+    "floodSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "femaZone": "X_UNSHADED",
+        "source": {
+          "url": "https://firststreet.org/property/10411-walden-way-san-diego-ca-92126-2542/612627492_fsid"
+        },
+        "probability": [
+          {
+            "relativeYear": 0,
+            "probability": 0
+          },
+          {
+            "relativeYear": 5,
+            "probability": 0
+          },
+          {
+            "relativeYear": 10,
+            "probability": 0
+          },
+          {
+            "relativeYear": 15,
+            "probability": 0
+          },
+          {
+            "relativeYear": 20,
+            "probability": 0
+          },
+          {
+            "relativeYear": 25,
+            "probability": 0
+          },
+          {
+            "relativeYear": 30,
+            "probability": 0
+          }
+        ],
+        "insuranceSeparatePolicy": "NOT_REQUIRED",
+        "historicCountPropertyAll": 0
+      }
+    },
+    "fireSources": {
+      "primary": {
+        "insuranceRecommendation": "RECOMMENDED",
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 4
+        },
+        "probability": [
+          {
+            "relativeYear": 0,
+            "probability": 0.00030000001424924
+          },
+          {
+            "relativeYear": 5,
+            "probability": 0.0019000000320375
+          },
+          {
+            "relativeYear": 10,
+            "probability": 0.0037000000011176
+          },
+          {
+            "relativeYear": 15,
+            "probability": 0.0055999998003244
+          },
+          {
+            "relativeYear": 20,
+            "probability": 0.0076999999582767
+          },
+          {
+            "relativeYear": 25,
+            "probability": 0.0098999999463558
+          },
+          {
+            "relativeYear": 30,
+            "probability": 0.012299999594688
+          }
+        ],
+        "source": {
+          "url": "https://firststreet.org/property/10411-walden-way-san-diego-ca-92126-2542/612627492_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 32
+      }
+    },
+    "heatSources": {
+      "primary": {
+        "percentile98Temp": 90,
+        "hotDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 7
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 9
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 12
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 14
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 16
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 19
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 21
+          }
+        ],
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 4
+        },
+        "source": {
+          "url": "https://firststreet.org/property/10411-walden-way-san-diego-ca-92126-2542/612627492_fsid"
+        }
+      }
+    },
+    "airSources": {
+      "primary": {
+        "source": {
+          "url": "https://firststreet.org/property/10411-walden-way-san-diego-ca-92126-2542/612627492_fsid"
+        },
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 3
+        },
+        "badAirDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 4
+          }
+        ]
+      }
+    }
+  },
+  "latitude": 32.89596,
+  "nearbyHomes": [
+    {
+      "hdpTypeDimension": "ForRent",
+      "lotAreaUnits": "sqft",
+      "isShowcaseListing": false,
+      "longitude": -117.167625,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "10471 Walden Way",
+        "zipcode": "92126"
+      },
+      "livingAreaValue": 1632,
+      "lotSize": null,
+      "zpid": 353743015,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "TOWNHOUSE",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 2,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "10471 Walden Way"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "hdpUrl": "/homedetails/10471-Walden-Way-San-Diego-CA-92126/353743015_zpid/",
+      "lotAreaValue": null,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "FOR_RENT",
+      "latitude": 32.89597,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Townhouse",
+      "newConstructionType": null,
+      "yearBuilt": null,
+      "listingTypeDimension": "For Rent",
+      "livingArea": 1632,
+      "providerListingID": "55gxx3dke4msr",
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/ceb9d5c12d625c2534547c3c4092de43-p_c.jpg"
+        }
+      ],
+      "currency": "USD",
+      "price": 5000,
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "sqft",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "10426 Galen Way"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/10426-Galen-Way-San-Diego-CA-92126/337888790_zpid/",
+      "lotAreaValue": null,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "10426 Galen Way",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.895973,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 978800,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=10426+Galen+Way%2C+San+Diego%2C+CA+92126&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=yXuxlsrnWKk55fP68v7clP4Cojg="
+        }
+      ],
+      "zpid": 337888790,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1645,
+      "longitude": -117.16763,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1645
+    },
+    {
+      "bathrooms": 3,
+      "newConstructionType": null,
+      "lotAreaUnits": "sqft",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "10456 Galen Way"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/10456-Galen-Way-San-Diego-CA-92126/337888791_zpid/",
+      "lotAreaValue": null,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "10456 Galen Way",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.895973,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1385200,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=10456+Galen+Way%2C+San+Diego%2C+CA+92126&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=9MvXTQvxwROKHV6LKN7kenF1R8g="
+        }
+      ],
+      "zpid": 337888791,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 2177,
+      "longitude": -117.16763,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 2177
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "sqft",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "10475 Galen Way"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/10475-Galen-Way-San-Diego-CA-92126/339130930_zpid/",
+      "lotAreaValue": null,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "10475 Galen Way",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.895973,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1147100,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Townhouse",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=10475+Galen+Way%2C+San+Diego%2C+CA+92126&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=1h8tMxl82mZyZSfJuNGwqI2vltA="
+        }
+      ],
+      "zpid": 339130930,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1632,
+      "longitude": -117.16763,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "TOWNHOUSE",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1632
+    },
+    {
+      "bathrooms": 3,
+      "newConstructionType": null,
+      "lotAreaUnits": "sqft",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "10455 Galen Way"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/10455-Galen-Way-San-Diego-CA-92126/339130931_zpid/",
+      "lotAreaValue": null,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "10455 Galen Way",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.895973,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1336600,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=10455+Galen+Way%2C+San+Diego%2C+CA+92126&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Ejfuz2dznBQSv9N28ESNA-kzXlk="
+        }
+      ],
+      "zpid": 339130931,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 2177,
+      "longitude": -117.16763,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 2177
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "sqft",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "10425 Galen Way"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/10425-Galen-Way-San-Diego-CA-92126/339130932_zpid/",
+      "lotAreaValue": null,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "10425 Galen Way",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.895973,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 991200,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=10425+Galen+Way%2C+San+Diego%2C+CA+92126&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=KBoUPAUC-4S-kPJQ_1jpOgkIUZk="
+        }
+      ],
+      "zpid": 339130932,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1645,
+      "longitude": -117.16763,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1645
+    },
+    {
+      "bathrooms": 3,
+      "newConstructionType": null,
+      "lotAreaUnits": "sqft",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "10405 Galen Way"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/10405-Galen-Way-San-Diego-CA-92126/339130933_zpid/",
+      "lotAreaValue": null,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "10405 Galen Way",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.895973,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1192600,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=10405+Galen+Way%2C+San+Diego%2C+CA+92126&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=3HsfnCMoxvKgyOZyTg0MLO53HYU="
+        }
+      ],
+      "zpid": 339130933,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1936,
+      "longitude": -117.16763,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1936
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "sqft",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "10476 Galen Way"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/10476-Galen-Way-San-Diego-CA-92126/339130934_zpid/",
+      "lotAreaValue": null,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "10476 Galen Way",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.895973,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1064500,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=10476+Galen+Way%2C+San+Diego%2C+CA+92126&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=tsxkAZtC9sK11NFC05XAvqSB_Ys="
+        }
+      ],
+      "zpid": 339130934,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1632,
+      "longitude": -117.16763,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1632
+    }
+  ],
+  "priceHistory": [
+    {
+      "priceChangeRate": -0.015510204081633,
+      "date": "2025-08-07",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1754524800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "240019198"
+      },
+      "pricePerSquareFoot": 554,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 1206000
+    },
+    {
+      "priceChangeRate": -0.02,
+      "date": "2025-07-17",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1752710400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "240019198"
+      },
+      "pricePerSquareFoot": 563,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 1225000
+    },
+    {
+      "priceChangeRate": -0.0087232355273592,
+      "date": "2025-06-05",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1749081600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "240019198"
+      },
+      "pricePerSquareFoot": 574,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 1250000
+    },
+    {
+      "priceChangeRate": -0.010980392156863,
+      "date": "2025-05-15",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1747267200000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "240019198"
+      },
+      "pricePerSquareFoot": 579,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 1261000
+    },
+    {
+      "priceChangeRate": -0.0062353858144973,
+      "date": "2025-05-01",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1746057600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "240019198"
+      },
+      "pricePerSquareFoot": 586,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 1275000
+    },
+    {
+      "priceChangeRate": -0.0092664092664093,
+      "date": "2025-04-17",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1744848000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "240019198"
+      },
+      "pricePerSquareFoot": 589,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 1283000
+    },
+    {
+      "priceChangeRate": -0.022641509433962,
+      "date": "2025-04-03",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1743638400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "240019198"
+      },
+      "pricePerSquareFoot": 595,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 1295000
+    },
+    {
+      "priceChangeRate": -0.015601783060921,
+      "date": "2025-03-06",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1741219200000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "240019198"
+      },
+      "pricePerSquareFoot": 609,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 1325000
+    },
+    {
+      "priceChangeRate": -0.017518248175182,
+      "date": "2025-02-20",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1740009600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "240019198"
+      },
+      "pricePerSquareFoot": 618,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 1346000
+    },
+    {
+      "priceChangeRate": -0.0079652425778421,
+      "date": "2025-01-23",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1737590400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "240019198"
+      },
+      "pricePerSquareFoot": 629,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 1370000
+    },
+    {
+      "priceChangeRate": -0.0028880866425993,
+      "date": "2025-01-09",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1736380800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "240019198"
+      },
+      "pricePerSquareFoot": 634,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 1381000
+    },
+    {
+      "priceChangeRate": -0.00072150072150072,
+      "date": "2024-11-21",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1732147200000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "240019198"
+      },
+      "pricePerSquareFoot": 636,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 1385000
+    },
+    {
+      "priceChangeRate": -0.016323633782825,
+      "date": "2024-09-26",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1727308800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "240019198"
+      },
+      "pricePerSquareFoot": 637,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 1386000
+    },
+    {
+      "priceChangeRate": -0.014685314685315,
+      "date": "2024-08-22",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1724284800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "240019198"
+      },
+      "pricePerSquareFoot": 647,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 1409000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2024-08-14",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1723593600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "240019198"
+      },
+      "pricePerSquareFoot": 657,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 1430000
+    }
+  ],
+  "neighborhoodMapThumb": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/ff07b51702c77d28de67a9219722149f-p_c.jpg"
+    }
+  ],
+  "schools": [
+    {
+      "link": "https://www.greatschools.org/california/san-diego/32177-Jonas-Salk-Elementary-School/",
+      "rating": 7,
+      "totalCount": null,
+      "distance": 1,
+      "assigned": null,
+      "name": "Jonas Salk Elementary School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Elementary",
+      "grades": "K-5",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6115-Challenger-Middle-School/",
+      "rating": 7,
+      "totalCount": null,
+      "distance": 1.3,
+      "assigned": null,
+      "name": "Challenger Middle School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Middle",
+      "grades": "6-8",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6203-Mira-Mesa-High-School/",
+      "rating": 9,
+      "totalCount": null,
+      "distance": 1.9,
+      "assigned": null,
+      "name": "Mira Mesa High School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "High",
+      "grades": "9-12",
+      "type": "Public"
+    }
+  ],
+  "rentZestimate": null,
+  "city": "San Diego",
+  "providerListingID": null,
+  "currency": "USD",
+  "listingProvider": null,
+  "propertyTaxRate": 1.17,
+  "isShowcaseListing": false,
+  "openHouseSchedule": {},
+  "mortgageRates": null,
+  "address": {
+    "community": null,
+    "city": "San Diego",
+    "state": "CA",
+    "neighborhood": null,
+    "subdivision": "Unknown (999)",
+    "streetAddress": "10411 Walden Way",
+    "zipcode": "92126"
+  },
+  "cityId": 54296,
+  "timeOnZillow": "377 days",
+  "priceChange": -19000,
+  "zestimate": null,
+  "zpid": 436454288,
+  "countyId": 2841,
+  "homeType": "TOWNHOUSE",
+  "livingAreaUnits": "sqft",
+  "pageViewCount": 607,
+  "homeInsights": [
+    {
+      "insights": [
+        {
+          "treatmentId": "model_0",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Soothing neutral color scheme",
+            "Convenient island",
+            "Stainless steel appliances",
+            "Stylish backsplash",
+            "Walk-in closet",
+            "Double sinks"
+          ]
+        },
+        {
+          "treatmentId": "model_1",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Soothing neutral color scheme",
+            "Convenient island",
+            "Stainless steel appliances",
+            "Stylish backsplash",
+            "Walk-in closet",
+            "Double sinks"
+          ]
+        }
+      ]
+    }
+  ],
+  "bathrooms": 3,
+  "neighborhoodRegion": {
+    "name": "Mira Mesa"
+  },
+  "zipcode": "92126",
+  "building": null,
+  "zestimateLowPercent": null,
+  "brokerId": null,
+  "stateId": 9,
+  "url": "/homedetails/10411-Walden-Way-San-Diego-CA-92126/436454288_zpid/",
+  "solarPotential": null,
+  "attributionInfo": {
+    "buyerAgentName": null,
+    "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_95_35.jpg",
+    "mlsName": "SDMLS",
+    "coAgentLicenseNumber": null,
+    "listingAgreement": null,
+    "listingOffices": [
+      {
+        "associatedOfficeType": "listOffice",
+        "officeName": "Opendoor Brokerage Inc."
+      },
+      {
+        "associatedOfficeType": "coListOffice",
+        "officeName": "Opendoor Brokerage Inc."
+      }
+    ],
+    "infoString10": "This information is deemed reliable but not guaranteed. You should rely on this information only to decide whether or not to further investigate a particular property.\nBEFORE MAKING ANY OTHER DECISION, YOU SHOULD PERSONALLY INVESTIGATE THE FACTS (e.g. square footage and lot size) with the assistance of an appropriate professional. You may use this information only to identify properties you may be interested in investigating further. All uses except for personal, noncommercial use in accordance with the foregoing purpose are prohibited. Redistribution or copying of this information, any photographs or video tours is strictly\nprohibited. This information is derived from the Internet Data Exchange (IDX) service provided by San Diego MLS. Displayed property listings may be held by a brokerage firm other than the broker and/or agent responsible for this display. The information and any photographs and video tours and the compilation from which they are derived is protected by copyright. Compilation © 2025 San Diego MLS.",
+    "buyerAgentMemberStateLicense": null,
+    "brokerName": "Opendoor Brokerage Inc.",
+    "listingAttributionContact": "homes@opendoor.com",
+    "lastUpdated": "2025-08-06 19:11:57",
+    "trueStatus": null,
+    "listingAgentAttributionContact": null,
+    "agentEmail": "homes@opendoor.com",
+    "agentName": "Melissa Westfall",
+    "attributionTitle": null,
+    "mlsId": "240019198",
+    "coAgentName": "Naseem Mirza",
+    "coAgentNumber": "619-650-6577",
+    "infoString5": "480-462-5392",
+    "listingAgents": [
+      {
+        "memberStateLicense": "DRE #01879498",
+        "memberFullName": "Melissa Westfall",
+        "associatedAgentType": "listAgent"
+      },
+      {
+        "memberStateLicense": null,
+        "memberFullName": "Naseem Mirza",
+        "associatedAgentType": "coListAgent"
+      }
+    ],
+    "agentPhoneNumber": "480-462-5392",
+    "agentLicenseNumber": "DRE #01879498",
+    "providerLogo": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_95_35.jpg",
+    "infoString16": null,
+    "buyerBrokerageName": null,
+    "mlsDisclaimer": "This information is deemed reliable but not guaranteed. You should rely on this information only to decide whether or not to further investigate a particular property.\nBEFORE MAKING ANY OTHER DECISION, YOU SHOULD PERSONALLY INVESTIGATE THE FACTS (e.g. square footage and lot size) with the assistance of an appropriate professional. You may use this information only to identify properties you may be interested in investigating further. All uses except for personal, noncommercial use in accordance with the foregoing purpose are prohibited. Redistribution or copying of this information, any photographs or video tours is strictly\nprohibited. This information is derived from the Internet Data Exchange (IDX) service provided by San Diego MLS. Displayed property listings may be held by a brokerage firm other than the broker and/or agent responsible for this display. The information and any photographs and video tours and the compilation from which they are derived is protected by copyright. Compilation © 2025 San Diego MLS.",
+    "brokerPhoneNumber": "480-462-5392",
+    "lastChecked": "2025-08-26 21:43:20"
+  },
+  "priceChangeDateString": "2025-08-07",
+  "photoCount": 23,
+  "homeStatus": "FOR_SALE",
+  "homeFacts": null,
+  "resoFacts": {
+    "hasAttachedProperty": false,
+    "frontageType": null,
+    "poolFeatures": [
+      "N/K"
+    ],
+    "flooring": null,
+    "foundationDetails": {},
+    "accessibilityFeatures": null,
+    "hasGarage": true,
+    "hasPetsAllowed": null,
+    "bodyType": null,
+    "topography": null,
+    "landLeaseExpirationDate": null,
+    "hasAdditionalParcels": false,
+    "parkName": null,
+    "livingQuarters": {},
+    "taxAssessedValue": null,
+    "atAGlanceFacts": [
+      {
+        "factValue": "Townhouse",
+        "factLabel": "Type"
+      },
+      {
+        "factValue": "2022",
+        "factLabel": "Year Built"
+      },
+      {
+        "factValue": "N/K",
+        "factLabel": "Heating"
+      },
+      {
+        "factValue": "Central Forced Air",
+        "factLabel": "Cooling"
+      },
+      {
+        "factValue": "2 Garage spaces",
+        "factLabel": "Parking"
+      },
+      {
+        "factValue": "$404 monthly",
+        "factLabel": "HOA"
+      },
+      {
+        "factValue": null,
+        "factLabel": "Lot"
+      },
+      {
+        "factValue": "377 Days",
+        "factLabel": "Days on Zillow"
+      },
+      {
+        "factValue": "$554",
+        "factLabel": "Price/sqft"
+      },
+      {
+        "factValue": null,
+        "factLabel": "Offer Review Date"
+      }
+    ],
+    "offerReviewDate": null,
+    "horseYN": null,
+    "view": {},
+    "rooms": {},
+    "belowGradeFinishedArea": null,
+    "feesAndDues": [
+      {
+        "phone": null,
+        "name": "Hudson at 3Roots Neighbor",
+        "fee": "$404 monthly",
+        "type": "HOA"
+      }
+    ],
+    "cityRegion": "San Diego",
+    "mainLevelBathrooms": null,
+    "hasPrivatePool": null,
+    "landLeaseAmount": null,
+    "waterSource": [
+      "Private"
+    ],
+    "exteriorFeatures": {},
+    "inclusions": null,
+    "hasFireplace": null,
+    "gas": null,
+    "propertyCondition": null,
+    "elevationUnits": null,
+    "exclusions": null,
+    "mainLevelBedrooms": null,
+    "numberOfUnitsVacant": null,
+    "hasWaterfrontView": null,
+    "bathroomsOneQuarter": null,
+    "lotSize": null,
+    "entryLevel": null,
+    "media": [
+      {
+        "mediaCategory": "UnbrandedVirtualTour",
+        "mediaURL": "https://www.propertypanorama.com/instaview/snd/240019198"
+      }
+    ],
+    "greenWaterConservation": null,
+    "stories": 2,
+    "livingArea": "2,177 sqft",
+    "commonWalls": null,
+    "listingTerms": "Cash,Conventional",
+    "otherParking": null,
+    "associationFee": "$404 monthly",
+    "marketingType": null,
+    "greenIndoorAirQuality": null,
+    "greenSustainability": null,
+    "livingAreaRangeUnits": null,
+    "associationPhone": null,
+    "greenBuildingVerificationType": null,
+    "hasAttachedGarage": null,
+    "bedrooms": 4,
+    "architecturalStyle": null,
+    "listingId": null,
+    "structureType": null,
+    "interiorFeatures": null,
+    "horseAmenities": null,
+    "garageParkingCapacity": 2,
+    "developmentStatus": null,
+    "lotFeatures": null,
+    "roofType": "Asphalt",
+    "compensationBasedOn": null,
+    "greenEnergyGeneration": null,
+    "daysOnZillow": 377,
+    "listAOR": "San Diego Association of REALTOR",
+    "buildingAreaSource": null,
+    "elementarySchool": null,
+    "zoningDescription": "R-1:SINGLE",
+    "irrigationWaterRightsAcres": null,
+    "yearBuiltEffective": null,
+    "greenEnergyEfficient": null,
+    "constructionMaterials": [
+      "Stucco"
+    ],
+    "fireplaceFeatures": null,
+    "hoaFeeTotal": "$404 monthly",
+    "appliances": [
+      "Dishwasher",
+      "Microwave",
+      "Gas Range",
+      "Counter Top"
+    ],
+    "sewer": [
+      "Sewer Connected"
+    ],
+    "bathroomsPartial": null,
+    "fencing": "N/K",
+    "spaFeatures": null,
+    "waterViewYN": null,
+    "buildingName": "n/a",
+    "attic": null,
+    "petsMaxWeight": null,
+    "cumulativeDaysOnMarket": null,
+    "waterfrontFeatures": null,
+    "additionalParcelsDescription": null,
+    "canRaiseHorses": false,
+    "hasLandLease": false,
+    "communityFeatures": null,
+    "waterBodyName": null,
+    "middleOrJuniorSchool": null,
+    "lotSizeDimensions": null,
+    "virtualTour": "https://www.propertypanorama.com/instaview/snd/240019198",
+    "contingency": null,
+    "yearBuilt": 2022,
+    "utilities": null,
+    "totalActualRent": null,
+    "bathroomsFull": 3,
+    "parcelNumber": "3414910339",
+    "incomeIncludes": null,
+    "highSchool": null,
+    "taxAnnualAmount": 14110,
+    "subdivisionName": "Unknown (999)",
+    "storiesTotal": 2,
+    "storiesDecimal": 2,
+    "specialListingConditions": "Standard",
+    "windowFeatures": null,
+    "ownership": null,
+    "woodedArea": null,
+    "middleOrJuniorSchoolDistrict": null,
+    "associationPhone2": null,
+    "onMarketDate": 1723672602000,
+    "roomTypes": null,
+    "frontageLength": null,
+    "roadSurfaceType": null,
+    "associationAmenities": null,
+    "propertySubType": [
+      "Townhouse"
+    ],
+    "hasCooling": true,
+    "levels": "2 Story",
+    "coveredParkingCapacity": 2,
+    "foundationArea": null,
+    "zoning": "R-1:SINGLE",
+    "hoaFee": "$404 monthly",
+    "livingAreaRange": null,
+    "parkingFeatures": [
+      "Attached",
+      "Garage"
+    ],
+    "parkingCapacity": 2,
+    "cropsIncludedYN": null,
+    "tenantPays": null,
+    "builderModel": null,
+    "otherStructures": null,
+    "otherFacts": {},
+    "additionalFeeInfo": null,
+    "hasView": false,
+    "openParkingCapacity": null,
+    "securityFeatures": null,
+    "numberOfUnitsInCommunity": 50,
+    "hasHomeWarranty": false,
+    "basementYN": null,
+    "doorFeatures": null,
+    "ownershipType": null,
+    "aboveGradeFinishedArea": null,
+    "associations": [
+      {
+        "feeFrequency": "$404 monthly",
+        "name": "Hudson at 3Roots Neighbor",
+        "phone": null
+      }
+    ],
+    "waterView": null,
+    "electric": null,
+    "buildingFeatures": null,
+    "hasOpenParking": null,
+    "hasCarport": null,
+    "bathroomsHalf": 0,
+    "homeType": "Townhouse",
+    "isSeniorCommunity": null,
+    "municipality": null,
+    "bathroomsThreeQuarter": null,
+    "hasSpa": false,
+    "basement": null,
+    "associationFee2": null,
+    "cooling": [
+      "Central Forced Air"
+    ],
+    "hasHeating": true,
+    "associationName2": null,
+    "hasRentControl": null,
+    "elementarySchoolDistrict": null,
+    "otherEquipment": null,
+    "bathrooms": 3,
+    "buildingArea": "2,177",
+    "furnished": false,
+    "vegetation": null,
+    "patioAndPorchFeatures": null,
+    "bathroomsFloat": 3,
+    "builderName": null,
+    "highSchoolDistrict": null,
+    "hasElectricOnProperty": null,
+    "laundryFeatures": [
+      "Washer Hookup"
+    ],
+    "entryLocation": null,
+    "fireplaces": null,
+    "heating": [
+      "N/K"
+    ],
+    "availabilityDate": null,
+    "carportParkingCapacity": null,
+    "hasAssociation": null,
+    "irrigationWaterRightsYN": null,
+    "isNewConstruction": null,
+    "associationFeeIncludes": [
+      "Common Area Maintenance"
+    ],
+    "leaseTerm": null,
+    "pricePerSquareFoot": 554,
+    "associationName": "Hudson at 3Roots Neighbor",
+    "elevation": null
+  },
+  "datePosted": "2024-08-14",
+  "bedrooms": 4,
+  "propertyTypeDimension": "Townhouse",
+  "mortgageZHLRates": {
+    "thirtyYearFixedBucket": {
+      "rate": 6.286,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756263971725
+    },
+    "fifteenYearFixedBucket": {
+      "rate": 5.578,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756263971725
+    },
+    "arm5Bucket": {
+      "rate": 6.502,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756263971725
+    }
+  },
+  "comingSoonOnMarketDate": null,
+  "favoriteCount": 17,
+  "livingArea": 2177,
+  "zestimateHighPercent": null,
+  "mlsid": "240019198",
+  "isListedByOwner": null,
+  "listingSubType": {
+    "is_comingSoon": false,
+    "is_pending": false,
+    "is_forAuction": false,
+    "is_bankOwned": false,
+    "is_FSBA": true,
+    "is_FSBO": false,
+    "is_newHome": false,
+    "is_foreclosure": false
+  },
+  "buildingId": null,
+  "country": "USA",
+  "price": 1206000,
+  "priceChangeDate": 1754524800000,
+  "contingentListingType": null
+}

@@ -1,0 +1,1640 @@
+{
+  "buildingPermits": null,
+  "contact_recipients": [
+    {
+      "agent_reason": 1,
+      "zpro": null,
+      "recent_sales": 0,
+      "review_count": 0,
+      "display_name": "Premier Broker Flex Atlanta GA",
+      "badge_type": "Premier Agent",
+      "business_name": "Zillow Group",
+      "rating_average": 0,
+      "phone": {
+        "prefix": "452",
+        "areacode": "206",
+        "number": "1030"
+      },
+      "zuid": "X1-ZUv2ktj4jt3nyh_98wrm",
+      "image_url": "https://www.zillowstatic.com/static/images/nophoto_h_g.png"
+    }
+  ],
+  "longitude": -117.18107,
+  "countyFIPS": "06073",
+  "imgSrc": "https://photos.zillowstatic.com/fp/4c3d2787b69c01366125539bba787e93-p_d.jpg",
+  "livingAreaValue": 1440,
+  "streetAddress": "2750 Wheatstone St SPACE 64",
+  "county": "San Diego County",
+  "monthlyHoaFee": 1651,
+  "timeZone": "America/Los_Angeles",
+  "taxHistory": [
+    {
+      "time": 1724732178229,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": null
+    },
+    {
+      "time": 1693109778229,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": null
+    },
+    {
+      "time": 1661573778229,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": null
+    },
+    {
+      "time": 1630037778229,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": null
+    },
+    {
+      "time": 1598501778229,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": null
+    },
+    {
+      "time": 1566879378229,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": null
+    },
+    {
+      "time": 1535343378229,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 0
+    },
+    {
+      "time": 1503807378229,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": null
+    },
+    {
+      "time": 1472271378229,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": null
+    },
+    {
+      "time": 1440648978229,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": null
+    },
+    {
+      "time": 1409112978229,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": null
+    },
+    {
+      "time": 1377576978229,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": null
+    },
+    {
+      "time": 1346040978229,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": null
+    },
+    {
+      "time": 1314418578229,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": null
+    },
+    {
+      "time": 1282882578229,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": null
+    },
+    {
+      "time": 1251346578229,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": null
+    },
+    {
+      "time": 1219810578229,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": null
+    },
+    {
+      "time": 1188188178229,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": null
+    },
+    {
+      "time": 1156652178229,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": null
+    },
+    {
+      "time": 1125116178229,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": null
+    }
+  ],
+  "dateSold": null,
+  "annualHomeownersInsurance": 1470,
+  "state": "CA",
+  "listed_by": {
+    "agent_reason": 3,
+    "zpro": false,
+    "recent_sales": 3,
+    "zuid": "X1-ZUyvsr5u1njdah_8uv2w",
+    "review_count": 38,
+    "display_name": "Lily Pigg Dealer/REALTOR",
+    "profile_url": "https://www.zillow.com/profile/Lily-Pigg/",
+    "business_name": "LILY'S MOBILE HOMES",
+    "rating_average": 4.9,
+    "phone": {
+      "prefix": "666",
+      "areacode": "619",
+      "number": "4672"
+    },
+    "badge_type": "Listing Agent",
+    "image_url": "https://photos.zillowstatic.com/fp/69402d46bf59f1d7b713e0748fd942c2-h_n.jpg"
+  },
+  "yearBuilt": 1973,
+  "brokerageName": "LILY'S MOBILE HOMES",
+  "description": "OPEN HOUSE ~ Saturday August 16th 9:00am to 12:00pm. 2750 Wheatstone St. Spc 64, San Diego, CA 92111. Spectacular panoramic views of the Tecolote Canyon! You will love to seat on your covered patio and enjoy the views and the birds singing. This stunning home has so much to offer its new owners. This is the perfect multi-generation home with 5 rooms and 3 full bathrooms. The well designed kitchen includes: stainless steel appliances, a breakfast bar, large pantry closet, granite counter tops and ceramic tile flooring. Large living and dining rooms with wood laminate flooring. The rear enclosed porch is the perfect spot for a creative person to pain, sew, or work in it. This space can also be utilized for dining with a view! Washer/dryer will be included in the sale. There is a second enclosed porch on the driveway side, the possibilities for this amazing space are endless. 1440sf of main living/sleeping space, but a total of over 1800sf combined sf with the enclosed porches. Fantastic location at the back of this well maintained all age- community. This amazing community offers its residents a swimming pool, a hot tub, a clubhouse/recreation room. Highly desirable San Diego location! AAL6069.",
+  "climate": {
+    "windSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "probability": {},
+        "source": {
+          "url": "https://firststreet.org/property/2750-wheatstone-st-space-64-san-diego-ca-92111/603530199_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 18
+      }
+    },
+    "floodSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "femaZone": "X_UNSHADED",
+        "source": {
+          "url": "https://firststreet.org/property/2750-wheatstone-st-space-64-san-diego-ca-92111/603530199_fsid"
+        },
+        "probability": [
+          {
+            "relativeYear": 0,
+            "probability": 0
+          },
+          {
+            "relativeYear": 5,
+            "probability": 0
+          },
+          {
+            "relativeYear": 10,
+            "probability": 0
+          },
+          {
+            "relativeYear": 15,
+            "probability": 0
+          },
+          {
+            "relativeYear": 20,
+            "probability": 0
+          },
+          {
+            "relativeYear": 25,
+            "probability": 0
+          },
+          {
+            "relativeYear": 30,
+            "probability": 0
+          }
+        ],
+        "insuranceSeparatePolicy": "NOT_REQUIRED",
+        "historicCountPropertyAll": 0
+      }
+    },
+    "fireSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "probability": {},
+        "source": {
+          "url": "https://firststreet.org/property/2750-wheatstone-st-space-64-san-diego-ca-92111/603530199_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 27
+      }
+    },
+    "heatSources": {
+      "primary": {
+        "percentile98Temp": 88,
+        "hotDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 5
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 7
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 8
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 10
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 11
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 13
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 14
+          }
+        ],
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 3
+        },
+        "source": {
+          "url": "https://firststreet.org/property/2750-wheatstone-st-space-64-san-diego-ca-92111/603530199_fsid"
+        }
+      }
+    },
+    "airSources": {
+      "primary": {
+        "source": {
+          "url": "https://firststreet.org/property/2750-wheatstone-st-space-64-san-diego-ca-92111/603530199_fsid"
+        },
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 3
+        },
+        "badAirDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 4
+          }
+        ]
+      }
+    }
+  },
+  "latitude": 32.79422,
+  "nearbyHomes": [
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "sqft",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "2750 Wheatstone St SPC 139"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/2750-Wheatstone-St-SPC-139-San-Diego-CA-92111/82937512_zpid/",
+      "lotAreaValue": null,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "2750 Wheatstone St SPC 139",
+        "zipcode": "92111"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "11305946",
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.79422,
+      "homeStatus": "RECENTLY_SOLD",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 375000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Manufactured",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/1b2fc039129f86b012a396454b6b1888-p_c.jpg"
+        }
+      ],
+      "zpid": 82937512,
+      "hdpTypeDimension": "RecentlySold",
+      "livingArea": 1344,
+      "longitude": -117.18107,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "MANUFACTURED",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1344
+    },
+    {
+      "bathrooms": 1,
+      "newConstructionType": null,
+      "lotAreaUnits": "sqft",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "2750 Wheatstone St SPACE 213"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/2750-Wheatstone-St-SPACE-213-San-Diego-CA-92111/140624132_zpid/",
+      "lotAreaValue": null,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "2750 Wheatstone St SPACE 213",
+        "zipcode": "92111"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "11380346",
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.79422,
+      "homeStatus": "RECENTLY_SOLD",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 130000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Manufactured",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/de46bec7dd1c41d24c6d9e004963392d-p_c.jpg"
+        }
+      ],
+      "zpid": 140624132,
+      "hdpTypeDimension": "RecentlySold",
+      "livingArea": 960,
+      "longitude": -117.18107,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "MANUFACTURED",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 960
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "2750 Wheatstone St SPC 166"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/2750-Wheatstone-St-SPC-166-San-Diego-CA-92111/82929111_zpid/",
+      "lotAreaValue": 3998,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "2750 Wheatstone St SPC 166",
+        "zipcode": "92111"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.794216,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 223100,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Manufactured",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 3998,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/11d01c7f14fade4832ce20a0c2898b6b-p_c.jpg"
+        }
+      ],
+      "zpid": 82929111,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1344,
+      "longitude": -117.18109,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "MANUFACTURED",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1344
+    },
+    {
+      "bathrooms": 1,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "2750 Wheatstone St SPC 37"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/2750-Wheatstone-St-SPC-37-San-Diego-CA-92111/119939173_zpid/",
+      "lotAreaValue": 30.816666666667,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "2750 Wheatstone St SPC 37",
+        "zipcode": "92111"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.794216,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 154900,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Manufactured",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 1342374,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/e7cd1c4892ab8d530db8e7666ba9977f-p_c.jpg"
+        }
+      ],
+      "zpid": 119939173,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 858,
+      "longitude": -117.18109,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "MANUFACTURED",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 858
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "2750 Wheatstone St SPC 25"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/2750-Wheatstone-St-SPC-25-San-Diego-CA-92111/140623945_zpid/",
+      "lotAreaValue": 30.816666666667,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "2750 Wheatstone St SPC 25",
+        "zipcode": "92111"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.794216,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 188400,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Manufactured",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 1342374,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/c8b0ad60c222b18ba5860a570bf49022-p_c.jpg"
+        }
+      ],
+      "zpid": 140623945,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1040,
+      "longitude": -117.18109,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "MANUFACTURED",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1040
+    },
+    {
+      "bathrooms": 1,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "2750 Wheatstone St SPC 78"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/2750-Wheatstone-St-SPC-78-San-Diego-CA-92111/140623998_zpid/",
+      "lotAreaValue": 4399,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "2750 Wheatstone St SPC 78",
+        "zipcode": "92111"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.794216,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 182600,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Manufactured",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 4399,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=32.79421615600586,-117.18109130859375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=eVWjcNeNDdM9EQJC_3kP5TZqTpU="
+        }
+      ],
+      "zpid": 140623998,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 900,
+      "longitude": -117.18109,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "MANUFACTURED",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 900
+    },
+    {
+      "hdpTypeDimension": "Zestimate",
+      "lotAreaUnits": "Acres",
+      "isShowcaseListing": false,
+      "longitude": -117.18109,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "2750 Wheatstone St SPC 112",
+        "zipcode": "92111"
+      },
+      "livingAreaValue": 1520,
+      "lotSize": 1342374,
+      "zpid": 140624032,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "MANUFACTURED",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 2,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "2750 Wheatstone St SPC 112"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "hdpUrl": "/homedetails/2750-Wheatstone-St-SPC-112-San-Diego-CA-92111/140624032_zpid/",
+      "lotAreaValue": 30.816666666667,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "OTHER",
+      "latitude": 32.794216,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Manufactured",
+      "newConstructionType": null,
+      "yearBuilt": 2017,
+      "listingTypeDimension": "Unknown Listed By",
+      "livingArea": 1520,
+      "providerListingID": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=2750+Wheatstone+St%2C+San+Diego%2C+CA+92111&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=omsbO8fN9Na2KgRqjQ7THbQAO6c="
+        }
+      ],
+      "currency": "USD",
+      "price": 316300,
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "2750 Wheatstone St SPC 18"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/2750-Wheatstone-St-SPC-18-San-Diego-CA-92111/318295804_zpid/",
+      "lotAreaValue": 3497,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "2750 Wheatstone St SPC 18",
+        "zipcode": "92111"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.794216,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 352900,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Manufactured",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 3497,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=32.79421615600586,-117.18109130859375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=eVWjcNeNDdM9EQJC_3kP5TZqTpU="
+        }
+      ],
+      "zpid": 318295804,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1344,
+      "longitude": -117.18109,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "MANUFACTURED",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1344
+    }
+  ],
+  "priceHistory": [
+    {
+      "priceChangeRate": 0,
+      "date": "2025-08-09",
+      "source": "My State MLS",
+      "postingIsRental": false,
+      "time": 1754697600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "My State MLS",
+        "infoString3": null,
+        "infoString1": "11551769"
+      },
+      "pricePerSquareFoot": 243,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 350000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2025-08-02",
+      "source": "My State MLS",
+      "postingIsRental": false,
+      "time": 1754092800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "My State MLS",
+        "infoString3": null,
+        "infoString1": "11513121"
+      },
+      "pricePerSquareFoot": 243,
+      "buyerAgent": null,
+      "event": "Listing removed",
+      "price": 350000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2025-06-07",
+      "source": "My State MLS",
+      "postingIsRental": false,
+      "time": 1749254400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "My State MLS",
+        "infoString3": null,
+        "infoString1": "11513121"
+      },
+      "pricePerSquareFoot": 243,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 350000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2025-05-26",
+      "source": "My State MLS",
+      "postingIsRental": false,
+      "time": 1748217600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "My State MLS",
+        "infoString3": null,
+        "infoString1": "11391685"
+      },
+      "pricePerSquareFoot": 243,
+      "buyerAgent": null,
+      "event": "Listing removed",
+      "price": 350000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2025-05-16",
+      "source": "My State MLS",
+      "postingIsRental": false,
+      "time": 1747353600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "My State MLS",
+        "infoString3": null,
+        "infoString1": "11391685"
+      },
+      "pricePerSquareFoot": 243,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 350000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2025-04-22",
+      "source": "My State MLS",
+      "postingIsRental": false,
+      "time": 1745280000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "My State MLS",
+        "infoString3": null,
+        "infoString1": "11391685"
+      },
+      "pricePerSquareFoot": 243,
+      "buyerAgent": null,
+      "event": "Contingent",
+      "price": 350000
+    },
+    {
+      "priceChangeRate": -0.12475493138079,
+      "date": "2024-12-10",
+      "source": "My State MLS",
+      "postingIsRental": false,
+      "time": 1733788800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "My State MLS",
+        "infoString3": null,
+        "infoString1": "11391685"
+      },
+      "pricePerSquareFoot": 243,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 350000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2024-09-24",
+      "source": "Owner",
+      "postingIsRental": false,
+      "time": 1727136000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Owner",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": null,
+      "buyerAgent": null,
+      "event": "Listing removed",
+      "price": null
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2024-05-26",
+      "source": "Owner",
+      "postingIsRental": false,
+      "time": 1716681600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Owner",
+        "infoString3": null,
+        "infoString1": ""
+      },
+      "pricePerSquareFoot": 278,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 399888
+    }
+  ],
+  "neighborhoodMapThumb": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/4c3d2787b69c01366125539bba787e93-p_c.jpg"
+    }
+  ],
+  "schools": [
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6186-Linda-Vista-Elementary-School/",
+      "rating": 4,
+      "totalCount": null,
+      "distance": 0.5,
+      "assigned": null,
+      "name": "Linda Vista Elementary School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Elementary",
+      "grades": "K-5",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6206-Montgomery-Middle-School/",
+      "rating": 5,
+      "totalCount": null,
+      "distance": 0.6,
+      "assigned": null,
+      "name": "Montgomery Middle School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Middle",
+      "grades": "6-8",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/14170-Kearny-SCT-School/",
+      "rating": 9,
+      "totalCount": null,
+      "distance": 1.3,
+      "assigned": null,
+      "name": "Kearny School of Biomedical Science and Technology",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "High",
+      "grades": "9-12",
+      "type": "Public"
+    }
+  ],
+  "rentZestimate": 4894,
+  "city": "San Diego",
+  "providerListingID": null,
+  "currency": "USD",
+  "listingProvider": null,
+  "propertyTaxRate": 1.17,
+  "isShowcaseListing": false,
+  "openHouseSchedule": {},
+  "mortgageRates": null,
+  "address": {
+    "community": null,
+    "city": "San Diego",
+    "state": "CA",
+    "neighborhood": null,
+    "subdivision": "Linda Vista",
+    "streetAddress": "2750 Wheatstone St SPACE 64",
+    "zipcode": "92111"
+  },
+  "cityId": 54296,
+  "timeOnZillow": "17 days",
+  "priceChange": null,
+  "zestimate": 345600,
+  "zpid": 140623984,
+  "countyId": 2841,
+  "homeType": "MANUFACTURED",
+  "livingAreaUnits": "sqft",
+  "pageViewCount": 4140,
+  "homeInsights": [
+    {
+      "insights": [
+        {
+          "treatmentId": "model_0",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Enclosed porch",
+            "Breakfast bar",
+            "Stainless steel appliances",
+            "Granite counter tops",
+            "Covered patio",
+            "Ceramic tile flooring",
+            "Large pantry closet"
+          ]
+        },
+        {
+          "treatmentId": "model_1",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Enclosed porch",
+            "Breakfast bar",
+            "Stainless steel appliances",
+            "Granite counter tops",
+            "Covered patio",
+            "Ceramic tile flooring",
+            "Large pantry closet"
+          ]
+        }
+      ]
+    }
+  ],
+  "bathrooms": 4,
+  "neighborhoodRegion": {
+    "name": "Linda Vista"
+  },
+  "zipcode": "92111",
+  "building": null,
+  "zestimateLowPercent": "5",
+  "brokerId": null,
+  "stateId": 9,
+  "url": "/homedetails/2750-Wheatstone-St-SPACE-64-San-Diego-CA-92111/140623984_zpid/",
+  "solarPotential": null,
+  "attributionInfo": {
+    "buyerAgentName": null,
+    "infoString3": null,
+    "mlsName": "My State MLS",
+    "coAgentLicenseNumber": null,
+    "listingAgreement": "Exclusive",
+    "listingOffices": [
+      {
+        "associatedOfficeType": "listOffice",
+        "officeName": "LILY'S MOBILE HOMES"
+      },
+      {
+        "associatedOfficeType": "buyerOffice",
+        "officeName": null
+      }
+    ],
+    "infoString10": "",
+    "buyerAgentMemberStateLicense": null,
+    "brokerName": "LILY'S MOBILE HOMES",
+    "listingAttributionContact": null,
+    "lastUpdated": "2025-08-11 20:48:39",
+    "trueStatus": null,
+    "listingAgentAttributionContact": null,
+    "agentEmail": null,
+    "agentName": "Lily Pigg",
+    "attributionTitle": null,
+    "mlsId": "11551769",
+    "coAgentName": null,
+    "coAgentNumber": null,
+    "infoString5": "619-401-4082",
+    "listingAgents": [
+      {
+        "memberStateLicense": null,
+        "memberFullName": "Lily Pigg",
+        "associatedAgentType": "listAgent"
+      },
+      {
+        "memberStateLicense": null,
+        "memberFullName": null,
+        "associatedAgentType": "coListAgent"
+      },
+      {
+        "memberStateLicense": null,
+        "memberFullName": null,
+        "associatedAgentType": "buyerAgent"
+      }
+    ],
+    "agentPhoneNumber": "619-401-4082",
+    "agentLicenseNumber": null,
+    "providerLogo": null,
+    "infoString16": null,
+    "buyerBrokerageName": null,
+    "mlsDisclaimer": "",
+    "brokerPhoneNumber": "619-401-4082",
+    "lastChecked": "2025-08-26 21:03:18"
+  },
+  "priceChangeDateString": null,
+  "photoCount": 44,
+  "homeStatus": "FOR_SALE",
+  "homeFacts": null,
+  "resoFacts": {
+    "hasAttachedProperty": false,
+    "frontageType": null,
+    "poolFeatures": null,
+    "flooring": [
+      "Laminate"
+    ],
+    "foundationDetails": {},
+    "accessibilityFeatures": null,
+    "hasGarage": false,
+    "hasPetsAllowed": true,
+    "bodyType": null,
+    "topography": null,
+    "landLeaseExpirationDate": null,
+    "hasAdditionalParcels": false,
+    "parkName": null,
+    "livingQuarters": {},
+    "taxAssessedValue": null,
+    "atAGlanceFacts": [
+      {
+        "factValue": "Manufactured Home",
+        "factLabel": "Type"
+      },
+      {
+        "factValue": "1973",
+        "factLabel": "Year Built"
+      },
+      {
+        "factValue": "Gas, Forced Air",
+        "factLabel": "Heating"
+      },
+      {
+        "factValue": "Wall/Window Unit(s)",
+        "factLabel": "Cooling"
+      },
+      {
+        "factValue": "0 spaces",
+        "factLabel": "Parking"
+      },
+      {
+        "factValue": "$1,651 monthly",
+        "factLabel": "HOA"
+      },
+      {
+        "factValue": "17 Days",
+        "factLabel": "Days on Zillow"
+      },
+      {
+        "factValue": "$243",
+        "factLabel": "Price/sqft"
+      },
+      {
+        "factValue": null,
+        "factLabel": "Offer Review Date"
+      }
+    ],
+    "offerReviewDate": null,
+    "horseYN": null,
+    "view": {},
+    "rooms": [
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "Kitchen",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": [
+          "Open",
+          "Granite Counters"
+        ],
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": "0",
+        "roomAreaSource": null,
+        "roomType": "Basement",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": null,
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      }
+    ],
+    "belowGradeFinishedArea": null,
+    "feesAndDues": [
+      {
+        "phone": null,
+        "name": "Lot Rent (No HOA)",
+        "fee": "$1,651 monthly",
+        "type": "HOA"
+      }
+    ],
+    "cityRegion": "San Diego",
+    "mainLevelBathrooms": null,
+    "hasPrivatePool": null,
+    "landLeaseAmount": "1651",
+    "waterSource": null,
+    "exteriorFeatures": {},
+    "inclusions": null,
+    "hasFireplace": false,
+    "gas": null,
+    "propertyCondition": null,
+    "elevationUnits": null,
+    "exclusions": null,
+    "mainLevelBedrooms": null,
+    "numberOfUnitsVacant": null,
+    "hasWaterfrontView": null,
+    "bathroomsOneQuarter": null,
+    "lotSize": null,
+    "entryLevel": null,
+    "media": [
+      {
+        "mediaCategory": "UnbrandedVirtualTour",
+        "mediaURL": "https://www.lilysmobilehomes.com/info.php?ID=2142"
+      }
+    ],
+    "greenWaterConservation": null,
+    "stories": 1,
+    "livingArea": "1,440 sqft",
+    "commonWalls": null,
+    "listingTerms": null,
+    "otherParking": null,
+    "associationFee": "$1,651 monthly",
+    "marketingType": null,
+    "greenIndoorAirQuality": null,
+    "greenSustainability": null,
+    "livingAreaRangeUnits": null,
+    "associationPhone": null,
+    "greenBuildingVerificationType": null,
+    "hasAttachedGarage": null,
+    "bedrooms": 3,
+    "architecturalStyle": null,
+    "listingId": null,
+    "structureType": null,
+    "interiorFeatures": null,
+    "horseAmenities": null,
+    "garageParkingCapacity": 0,
+    "developmentStatus": null,
+    "lotFeatures": null,
+    "roofType": null,
+    "compensationBasedOn": null,
+    "greenEnergyGeneration": null,
+    "daysOnZillow": 17,
+    "listAOR": null,
+    "buildingAreaSource": null,
+    "elementarySchool": null,
+    "zoningDescription": null,
+    "irrigationWaterRightsAcres": null,
+    "yearBuiltEffective": null,
+    "greenEnergyEfficient": null,
+    "constructionMaterials": {},
+    "fireplaceFeatures": null,
+    "hoaFeeTotal": "$1,651 monthly",
+    "appliances": [
+      "Dryer",
+      "Refrigerator",
+      "Oven",
+      "Washer"
+    ],
+    "sewer": null,
+    "bathroomsPartial": null,
+    "fencing": null,
+    "spaFeatures": null,
+    "waterViewYN": false,
+    "buildingName": null,
+    "attic": null,
+    "petsMaxWeight": null,
+    "cumulativeDaysOnMarket": null,
+    "waterfrontFeatures": null,
+    "additionalParcelsDescription": null,
+    "canRaiseHorses": false,
+    "hasLandLease": true,
+    "communityFeatures": [
+      "Pool",
+      "Clubhouse"
+    ],
+    "waterBodyName": null,
+    "middleOrJuniorSchool": null,
+    "lotSizeDimensions": null,
+    "virtualTour": "https://www.lilysmobilehomes.com/info.php?ID=2142",
+    "contingency": null,
+    "yearBuilt": 1973,
+    "utilities": null,
+    "totalActualRent": null,
+    "bathroomsFull": 4,
+    "parcelNumber": "7742654364",
+    "incomeIncludes": null,
+    "highSchool": null,
+    "taxAnnualAmount": 4095,
+    "subdivisionName": "Linda Vista",
+    "storiesTotal": null,
+    "storiesDecimal": 1,
+    "specialListingConditions": null,
+    "windowFeatures": null,
+    "ownership": null,
+    "woodedArea": null,
+    "middleOrJuniorSchoolDistrict": null,
+    "associationPhone2": null,
+    "onMarketDate": 1754716404000,
+    "roomTypes": [
+      "Dining Room",
+      "En Suite",
+      "First Floor Bathroom",
+      "First Floor Master Bedroom",
+      "Kitchen",
+      "Laundry Room",
+      "Living Room",
+      "Private Guest Room"
+    ],
+    "frontageLength": null,
+    "roadSurfaceType": null,
+    "associationAmenities": [
+      "Pool",
+      "Clubhouse",
+      "Pets Allowed"
+    ],
+    "propertySubType": [
+      "Manufactured Home"
+    ],
+    "hasCooling": true,
+    "levels": null,
+    "coveredParkingCapacity": 0,
+    "foundationArea": null,
+    "zoning": null,
+    "hoaFee": "$1,651 monthly",
+    "livingAreaRange": null,
+    "parkingFeatures": {},
+    "parkingCapacity": 0,
+    "cropsIncludedYN": null,
+    "tenantPays": null,
+    "builderModel": null,
+    "otherStructures": null,
+    "otherFacts": {},
+    "additionalFeeInfo": null,
+    "hasView": false,
+    "openParkingCapacity": null,
+    "securityFeatures": null,
+    "numberOfUnitsInCommunity": null,
+    "hasHomeWarranty": false,
+    "basementYN": false,
+    "doorFeatures": null,
+    "ownershipType": null,
+    "aboveGradeFinishedArea": "1,440",
+    "associations": [
+      {
+        "feeFrequency": "$1,651 monthly",
+        "name": "Lot Rent (No HOA)",
+        "phone": null
+      }
+    ],
+    "waterView": null,
+    "electric": [
+      "Amps(0)"
+    ],
+    "buildingFeatures": null,
+    "hasOpenParking": null,
+    "hasCarport": null,
+    "bathroomsHalf": 0,
+    "homeType": "MobileManufactured",
+    "isSeniorCommunity": null,
+    "municipality": null,
+    "bathroomsThreeQuarter": null,
+    "hasSpa": false,
+    "basement": null,
+    "associationFee2": null,
+    "cooling": [
+      "Wall/Window Unit(s)"
+    ],
+    "hasHeating": true,
+    "associationName2": null,
+    "hasRentControl": null,
+    "elementarySchoolDistrict": null,
+    "otherEquipment": null,
+    "bathrooms": 4,
+    "buildingArea": "1,440",
+    "furnished": false,
+    "vegetation": null,
+    "patioAndPorchFeatures": [
+      "Patio",
+      "Covered Porch",
+      "Enclosed Porch"
+    ],
+    "bathroomsFloat": 4,
+    "builderName": null,
+    "highSchoolDistrict": null,
+    "hasElectricOnProperty": null,
+    "laundryFeatures": null,
+    "entryLocation": null,
+    "fireplaces": 0,
+    "heating": [
+      "Gas",
+      "Forced Air"
+    ],
+    "availabilityDate": 1754697600000,
+    "carportParkingCapacity": null,
+    "hasAssociation": true,
+    "irrigationWaterRightsYN": null,
+    "isNewConstruction": false,
+    "associationFeeIncludes": null,
+    "leaseTerm": null,
+    "pricePerSquareFoot": 243,
+    "associationName": "Lot Rent (No HOA)",
+    "elevation": null
+  },
+  "datePosted": "2025-08-09",
+  "bedrooms": 3,
+  "propertyTypeDimension": "Manufactured",
+  "mortgageZHLRates": {
+    "thirtyYearFixedBucket": {
+      "rate": 6.461,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756266343818
+    },
+    "fifteenYearFixedBucket": {
+      "rate": 5.59,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756266343818
+    },
+    "arm5Bucket": {
+      "rate": 6.588,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756266343818
+    }
+  },
+  "comingSoonOnMarketDate": null,
+  "favoriteCount": 138,
+  "livingArea": 1440,
+  "zestimateHighPercent": "5",
+  "mlsid": "11551769",
+  "isListedByOwner": null,
+  "listingSubType": {
+    "is_comingSoon": false,
+    "is_pending": false,
+    "is_forAuction": false,
+    "is_bankOwned": false,
+    "is_FSBA": true,
+    "is_FSBO": false,
+    "is_newHome": false,
+    "is_foreclosure": false
+  },
+  "buildingId": "1002267443",
+  "country": "USA",
+  "price": 350000,
+  "priceChangeDate": null,
+  "contingentListingType": null
+}

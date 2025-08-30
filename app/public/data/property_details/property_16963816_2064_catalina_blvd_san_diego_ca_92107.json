@@ -1,0 +1,1483 @@
+{
+  "buildingPermits": null,
+  "contact_recipients": [
+    {
+      "agent_reason": 1,
+      "zpro": null,
+      "recent_sales": 0,
+      "review_count": 0,
+      "display_name": "Premier Broker Flex Atlanta GA",
+      "badge_type": "Premier Agent",
+      "business_name": "Zillow Group",
+      "rating_average": 0,
+      "phone": {
+        "prefix": "452",
+        "areacode": "206",
+        "number": "1030"
+      },
+      "zuid": "X1-ZUv2ktj4jt3nyh_98wrm",
+      "image_url": "https://www.zillowstatic.com/static/images/nophoto_h_g.png"
+    }
+  ],
+  "longitude": -117.23647,
+  "countyFIPS": "06073",
+  "imgSrc": "https://photos.zillowstatic.com/fp/cf54cbfe806db6921b233a95d7662aab-p_d.jpg",
+  "livingAreaValue": 1319,
+  "streetAddress": "2064 Catalina Blvd",
+  "county": "San Diego County",
+  "monthlyHoaFee": null,
+  "timeZone": "America/Los_Angeles",
+  "taxHistory": [
+    {
+      "time": 1724733909455,
+      "valueIncreaseRate": 0.019988129,
+      "taxIncreaseRate": 0.025168395,
+      "taxPaid": 983.28,
+      "value": 84199
+    },
+    {
+      "time": 1693111509455,
+      "valueIncreaseRate": 0.019992338,
+      "taxIncreaseRate": 0.028987706,
+      "taxPaid": 959.14,
+      "value": 82549
+    },
+    {
+      "time": 1661575509455,
+      "valueIncreaseRate": 0.019988658,
+      "taxIncreaseRate": 0.008482241,
+      "taxPaid": 932.12,
+      "value": 80931
+    },
+    {
+      "time": 1630039509455,
+      "valueIncreaseRate": 0.010339603,
+      "taxIncreaseRate": 0.012820807,
+      "taxPaid": 924.28,
+      "value": 79345
+    },
+    {
+      "time": 1598503509455,
+      "valueIncreaseRate": 0.01998857,
+      "taxIncreaseRate": 0.05830921,
+      "taxPaid": 912.58,
+      "value": 78533
+    },
+    {
+      "time": 1566881109455,
+      "valueIncreaseRate": 0.019990727,
+      "taxIncreaseRate": 0.030411677,
+      "taxPaid": 862.3,
+      "value": 76994
+    },
+    {
+      "time": 1535345109455,
+      "valueIncreaseRate": 0.019984866,
+      "taxIncreaseRate": 0.026431974,
+      "taxPaid": 836.85,
+      "value": 75485
+    },
+    {
+      "time": 1503809109455,
+      "valueIncreaseRate": 0.019998621,
+      "taxIncreaseRate": 0.019991968,
+      "taxPaid": 815.3,
+      "value": 74006
+    },
+    {
+      "time": 1472273109455,
+      "valueIncreaseRate": 0.015238015,
+      "taxIncreaseRate": 0.016041687,
+      "taxPaid": 799.32,
+      "value": 72555
+    },
+    {
+      "time": 1440650709455,
+      "valueIncreaseRate": 0.019966604,
+      "taxIncreaseRate": 0.016513374,
+      "taxPaid": 786.7,
+      "value": 71466
+    },
+    {
+      "time": 1409114709455,
+      "valueIncreaseRate": 0.0045159995,
+      "taxIncreaseRate": 0,
+      "taxPaid": 773.92,
+      "value": 70067
+    },
+    {
+      "time": 1377578709455,
+      "valueIncreaseRate": 0.019989764,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 69752
+    },
+    {
+      "time": 1346042709455,
+      "valueIncreaseRate": 0.019971363,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 68385
+    },
+    {
+      "time": 1314420309455,
+      "valueIncreaseRate": 0.0075135995,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 67046
+    },
+    {
+      "time": 1282884309455,
+      "valueIncreaseRate": -0.0023836293,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 66546
+    },
+    {
+      "time": 1251348309455,
+      "valueIncreaseRate": 0.01998532,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 66705
+    },
+    {
+      "time": 1219812309455,
+      "valueIncreaseRate": 0.0199791,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 65398
+    },
+    {
+      "time": 1188189909455,
+      "valueIncreaseRate": 0.019980593,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 64117
+    },
+    {
+      "time": 1156653909455,
+      "valueIncreaseRate": 0.01999059,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 62861
+    },
+    {
+      "time": 1125117909455,
+      "valueIncreaseRate": 0.019976167,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 61629
+    },
+    {
+      "time": 1093581909455,
+      "valueIncreaseRate": 0.018645896,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 60422
+    },
+    {
+      "time": 1061959509455,
+      "valueIncreaseRate": 0.019981429,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 59316
+    },
+    {
+      "time": 1030423509455,
+      "valueIncreaseRate": 0.019977199,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 58154
+    },
+    {
+      "time": 998887509455,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 57015
+    }
+  ],
+  "dateSold": null,
+  "annualHomeownersInsurance": 5456,
+  "state": "CA",
+  "listed_by": {
+    "agent_reason": 3,
+    "zpro": false,
+    "recent_sales": 0,
+    "zuid": "X1-ZU151x5auwmy58p_aau4d",
+    "review_count": 0,
+    "display_name": "rayalsaigh6",
+    "profile_url": "https://www.zillow.com/profile/rayalsaigh6/",
+    "business_name": "LPT Realty,Inc",
+    "rating_average": 0,
+    "phone": "",
+    "badge_type": "Listing Agent",
+    "image_url": "https://www.zillowstatic.com/static/images/nophoto_h_n.png"
+  },
+  "yearBuilt": 1962,
+  "brokerageName": "LPT Realty,Inc",
+  "description": "Don’t miss this rare opportunity to own the lowest priced single-family home in the entire Point Loma 92107 zip code! This beautifully remodeled single-level detached home offers 3 bedrooms, 2 modern bathrooms, and a prime location just steps from local restaurants, coffee shops, and stores. Enjoy easy access to SeaWorld, the beach, downtown, and all of San Diego’s top attractions. Renovated from top to bottom, the home features custom maple wood cabinetry, stylish countertops, stainless steel appliances, luxury vinyl flooring, and fully updated bathrooms. The professionally landscaped yard and paid-off solar add even more value to this incredible deal. A truly unbeatable price for a move-in-ready home in one of San Diego’s most desirable neighborhoods!",
+  "climate": {
+    "windSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "probability": {},
+        "source": {
+          "url": "https://firststreet.org/property/2064-catalina-blvd-san-diego-ca-92107/603566058_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 18
+      }
+    },
+    "floodSources": {
+      "primary": {
+        "insuranceRecommendation": "CRITICAL",
+        "riskScore": {
+          "label": "MAJOR",
+          "max": 10,
+          "value": 5
+        },
+        "femaZone": "X_UNSHADED",
+        "source": {
+          "url": "https://firststreet.org/property/2064-catalina-blvd-san-diego-ca-92107/603566058_fsid"
+        },
+        "probability": [
+          {
+            "relativeYear": 0,
+            "probability": 0.0099999997764826
+          },
+          {
+            "relativeYear": 5,
+            "probability": 0.059999998658895
+          },
+          {
+            "relativeYear": 10,
+            "probability": 0.10000000149012
+          },
+          {
+            "relativeYear": 15,
+            "probability": 0.15000000596046
+          },
+          {
+            "relativeYear": 20,
+            "probability": 0.18999999761581
+          },
+          {
+            "relativeYear": 25,
+            "probability": 0.21999999880791
+          },
+          {
+            "relativeYear": 30,
+            "probability": 0.25999999046326
+          }
+        ],
+        "insuranceSeparatePolicy": "STRONGLY_RECOMMENDED",
+        "historicCountPropertyAll": 0
+      }
+    },
+    "fireSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "probability": {},
+        "source": {
+          "url": "https://firststreet.org/property/2064-catalina-blvd-san-diego-ca-92107/603566058_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 17
+      }
+    },
+    "heatSources": {
+      "primary": {
+        "percentile98Temp": 84,
+        "hotDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 7
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 9
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 11
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 14
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 16
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 18
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 20
+          }
+        ],
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 3
+        },
+        "source": {
+          "url": "https://firststreet.org/property/2064-catalina-blvd-san-diego-ca-92107/603566058_fsid"
+        }
+      }
+    },
+    "airSources": {
+      "primary": {
+        "source": {
+          "url": "https://firststreet.org/property/2064-catalina-blvd-san-diego-ca-92107/603566058_fsid"
+        },
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 4
+        },
+        "badAirDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 4
+          }
+        ]
+      }
+    }
+  },
+  "latitude": 32.741863,
+  "nearbyHomes": [
+    {
+      "hdpTypeDimension": "RecentlySold",
+      "lotAreaUnits": "sqft",
+      "isShowcaseListing": false,
+      "longitude": -117.23643,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "2068 Catalina Blvd",
+        "zipcode": "92107"
+      },
+      "livingAreaValue": 1307,
+      "lotSize": null,
+      "zpid": 16963817,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 2,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "2068 Catalina Blvd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "hdpUrl": "/homedetails/2068-Catalina-Blvd-San-Diego-CA-92107/16963817_zpid/",
+      "lotAreaValue": null,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "250031193",
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "RECENTLY_SOLD",
+      "latitude": 32.742004,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "newConstructionType": null,
+      "yearBuilt": 1962,
+      "listingTypeDimension": "Unknown Listed By",
+      "livingArea": 1307,
+      "providerListingID": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/bb80f194eca575eff1807e1452cb9c78-p_c.jpg"
+        }
+      ],
+      "currency": "USD",
+      "price": 1250000,
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    },
+    {
+      "hdpTypeDimension": "Zestimate",
+      "lotAreaUnits": "Square Feet",
+      "isShowcaseListing": false,
+      "longitude": -117.2365,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "2060 Catalina Blvd",
+        "zipcode": "92107"
+      },
+      "livingAreaValue": 2684,
+      "lotSize": 7000,
+      "zpid": 16963850,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 5,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "2060 Catalina Blvd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "hdpUrl": "/homedetails/2060-Catalina-Blvd-San-Diego-CA-92107/16963850_zpid/",
+      "lotAreaValue": 7000,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "OTHER",
+      "latitude": 32.7417,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 6,
+      "propertyTypeDimension": "Single Family",
+      "newConstructionType": null,
+      "yearBuilt": 1990,
+      "listingTypeDimension": "Unknown Listed By",
+      "livingArea": 2684,
+      "providerListingID": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=2060+Catalina+Blvd%2C+San+Diego%2C+CA+92107&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=eH378rNuUyJ5gr0sNYBstHwLLdQ="
+        }
+      ],
+      "currency": "USD",
+      "price": 1761400,
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    },
+    {
+      "hdpTypeDimension": "RecentlySold",
+      "lotAreaUnits": "sqft",
+      "isShowcaseListing": false,
+      "longitude": -117.23639,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "2074 Catalina Blvd",
+        "zipcode": "92107"
+      },
+      "livingAreaValue": 1319,
+      "lotSize": null,
+      "zpid": 16963851,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 2,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "2074 Catalina Blvd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "hdpUrl": "/homedetails/2074-Catalina-Blvd-San-Diego-CA-92107/16963851_zpid/",
+      "lotAreaValue": null,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "240007854",
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "SOLD",
+      "latitude": 32.74214,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "newConstructionType": null,
+      "yearBuilt": 1962,
+      "listingTypeDimension": "Unknown Listed By",
+      "livingArea": 1319,
+      "providerListingID": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/98ff7e4866e50eafacbfc8733bf64289-p_c.jpg"
+        }
+      ],
+      "currency": "USD",
+      "price": 1360000,
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    },
+    {
+      "bathrooms": 2.5,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "2035 Mendocino Blvd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/2035-Mendocino-Blvd-San-Diego-CA-92107/16963837_zpid/",
+      "lotAreaValue": 5500,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "2035 Mendocino Blvd",
+        "zipcode": "92107"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.7419,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1849000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 5500,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=2035+Mendocino+Blvd%2C+San+Diego%2C+CA+92107&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=KCPSAW6gxJcBFhJK3_KikcIaxqA="
+        }
+      ],
+      "zpid": 16963837,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 2268,
+      "longitude": -117.23681,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 2268
+    },
+    {
+      "bathrooms": 2.5,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "2045 Mendocino Blvd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/2045-Mendocino-Blvd-San-Diego-CA-92107/16963838_zpid/",
+      "lotAreaValue": 5400,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "2045 Mendocino Blvd",
+        "zipcode": "92107"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.74204,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1710200,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 5400,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=2045+Mendocino+Blvd%2C+San+Diego%2C+CA+92107&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=YleAPr-22_vDg-bqzvel5GosTyA="
+        }
+      ],
+      "zpid": 16963838,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 2017,
+      "longitude": -117.23678,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 2017
+    },
+    {
+      "bathrooms": 2.5,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "2056 Catalina Blvd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/2056-Catalina-Blvd-San-Diego-CA-92107/16963847_zpid/",
+      "lotAreaValue": 6500,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "2056 Catalina Blvd",
+        "zipcode": "92107"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.741528,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 2005200,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 6500,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=2056+Catalina+Blvd%2C+San+Diego%2C+CA+92107&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=S1bjnQxS8GymnI1T39ofApuK5TM="
+        }
+      ],
+      "zpid": 16963847,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 2450,
+      "longitude": -117.23646,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 2450
+    },
+    {
+      "hdpTypeDimension": "Zestimate",
+      "lotAreaUnits": "Square Feet",
+      "isShowcaseListing": false,
+      "longitude": -117.23687,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "2027 Mendocino Blvd",
+        "zipcode": "92107"
+      },
+      "livingAreaValue": 1950,
+      "lotSize": 5501,
+      "zpid": 16963836,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 3,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "2027 Mendocino Blvd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "hdpUrl": "/homedetails/2027-Mendocino-Blvd-San-Diego-CA-92107/16963836_zpid/",
+      "lotAreaValue": 5501,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "OTHER",
+      "latitude": 32.741756,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "newConstructionType": null,
+      "yearBuilt": 1972,
+      "listingTypeDimension": "Unknown Listed By",
+      "livingArea": 1950,
+      "providerListingID": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=2027+Mendocino+Blvd%2C+San+Diego%2C+CA+92107&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=xgNBF38ds2wHtGq6xnnQOJLkHrc="
+        }
+      ],
+      "currency": "USD",
+      "price": 1545400,
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    },
+    {
+      "bathrooms": 2.5,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "2055 Mendocino Blvd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/2055-Mendocino-Blvd-San-Diego-CA-92107/16963839_zpid/",
+      "lotAreaValue": 5300,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "2055 Mendocino Blvd",
+        "zipcode": "92107"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.74218,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1710700,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 5300,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=2055+Mendocino+Blvd%2C+San+Diego%2C+CA+92107&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=WEpkI5kFqdpH-YSAM97gPkN3P1g="
+        }
+      ],
+      "zpid": 16963839,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 2120,
+      "longitude": -117.23675,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 2120
+    }
+  ],
+  "priceHistory": [
+    {
+      "priceChangeRate": 0.299,
+      "date": "2025-08-13",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1755043200000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "250036141"
+      },
+      "pricePerSquareFoot": 985,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 1299000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2025-05-27",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 1748304000000,
+      "sellerAgent": {
+        "name": "Dominic Jabro",
+        "photo": null,
+        "profileUrl": "/profile/Dominic-Jabro/"
+      },
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 758,
+      "buyerAgent": null,
+      "event": "Sold",
+      "price": 1000000
+    }
+  ],
+  "neighborhoodMapThumb": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/cf54cbfe806db6921b233a95d7662aab-p_c.jpg"
+    }
+  ],
+  "schools": [
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6128-Dana/",
+      "rating": 9,
+      "totalCount": null,
+      "distance": 0.6,
+      "assigned": null,
+      "name": "Dana Middle School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Elementary",
+      "grades": "5-6",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6122-Correia-Middle-School/",
+      "rating": 7,
+      "totalCount": null,
+      "distance": 0.5,
+      "assigned": null,
+      "name": "Correia Middle School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Middle",
+      "grades": "7-8",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6224-Point-Loma-High-School/",
+      "rating": 8,
+      "totalCount": null,
+      "distance": 0.6,
+      "assigned": null,
+      "name": "Point Loma High School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "High",
+      "grades": "9-12",
+      "type": "Public"
+    }
+  ],
+  "rentZestimate": 5163,
+  "city": "San Diego",
+  "providerListingID": null,
+  "currency": "USD",
+  "listingProvider": null,
+  "propertyTaxRate": 1.17,
+  "isShowcaseListing": false,
+  "openHouseSchedule": {},
+  "mortgageRates": null,
+  "address": {
+    "community": null,
+    "city": "San Diego",
+    "state": "CA",
+    "neighborhood": null,
+    "subdivision": "OCEAN BEACH",
+    "streetAddress": "2064 Catalina Blvd",
+    "zipcode": "92107"
+  },
+  "cityId": 54296,
+  "timeOnZillow": "13 days",
+  "priceChange": null,
+  "zestimate": 1307400,
+  "zpid": 16963816,
+  "countyId": 2841,
+  "homeType": "SINGLE_FAMILY",
+  "livingAreaUnits": "sqft",
+  "pageViewCount": 3053,
+  "homeInsights": [
+    {
+      "insights": [
+        {
+          "treatmentId": "model_0",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Professionally landscaped yard",
+            "Stylish countertops",
+            "Custom maple wood cabinetry",
+            "Fully updated bathrooms",
+            "Stainless steel appliances"
+          ]
+        },
+        {
+          "treatmentId": "model_1",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Professionally landscaped yard",
+            "Stylish countertops",
+            "Custom maple wood cabinetry",
+            "Fully updated bathrooms",
+            "Stainless steel appliances"
+          ]
+        }
+      ]
+    }
+  ],
+  "bathrooms": 2,
+  "neighborhoodRegion": {
+    "name": "Point Loma Heights"
+  },
+  "zipcode": "92107",
+  "building": null,
+  "zestimateLowPercent": "5",
+  "brokerId": null,
+  "stateId": 9,
+  "url": "/homedetails/2064-Catalina-Blvd-San-Diego-CA-92107/16963816_zpid/",
+  "solarPotential": null,
+  "attributionInfo": {
+    "buyerAgentName": null,
+    "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_95_35.jpg",
+    "mlsName": "SDMLS",
+    "coAgentLicenseNumber": "DRE #02283502",
+    "listingAgreement": null,
+    "listingOffices": [
+      {
+        "associatedOfficeType": "listOffice",
+        "officeName": "LPT Realty,Inc"
+      },
+      {
+        "associatedOfficeType": "coListOffice",
+        "officeName": "LPT Realty,Inc"
+      }
+    ],
+    "infoString10": "This information is deemed reliable but not guaranteed. You should rely on this information only to decide whether or not to further investigate a particular property.\nBEFORE MAKING ANY OTHER DECISION, YOU SHOULD PERSONALLY INVESTIGATE THE FACTS (e.g. square footage and lot size) with the assistance of an appropriate professional. You may use this information only to identify properties you may be interested in investigating further. All uses except for personal, noncommercial use in accordance with the foregoing purpose are prohibited. Redistribution or copying of this information, any photographs or video tours is strictly\nprohibited. This information is derived from the Internet Data Exchange (IDX) service provided by San Diego MLS. Displayed property listings may be held by a brokerage firm other than the broker and/or agent responsible for this display. The information and any photographs and video tours and the compilation from which they are derived is protected by copyright. Compilation © 2025 San Diego MLS.",
+    "buyerAgentMemberStateLicense": null,
+    "brokerName": "LPT Realty,Inc",
+    "listingAttributionContact": null,
+    "lastUpdated": "2025-08-19 13:12:28",
+    "trueStatus": null,
+    "listingAgentAttributionContact": null,
+    "agentEmail": null,
+    "agentName": "Ray R Alsaigh",
+    "attributionTitle": null,
+    "mlsId": "250036141",
+    "coAgentName": "Ramiz Alsaigh",
+    "coAgentNumber": "619-493-8896",
+    "infoString5": "619-760-3087",
+    "listingAgents": [
+      {
+        "memberStateLicense": "DRE #02120331",
+        "memberFullName": "Ray R Alsaigh",
+        "associatedAgentType": "listAgent"
+      },
+      {
+        "memberStateLicense": "DRE #02283502",
+        "memberFullName": "Ramiz Alsaigh",
+        "associatedAgentType": "coListAgent"
+      }
+    ],
+    "agentPhoneNumber": "619-760-3087",
+    "agentLicenseNumber": "DRE #02120331",
+    "providerLogo": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_95_35.jpg",
+    "infoString16": null,
+    "buyerBrokerageName": null,
+    "mlsDisclaimer": "This information is deemed reliable but not guaranteed. You should rely on this information only to decide whether or not to further investigate a particular property.\nBEFORE MAKING ANY OTHER DECISION, YOU SHOULD PERSONALLY INVESTIGATE THE FACTS (e.g. square footage and lot size) with the assistance of an appropriate professional. You may use this information only to identify properties you may be interested in investigating further. All uses except for personal, noncommercial use in accordance with the foregoing purpose are prohibited. Redistribution or copying of this information, any photographs or video tours is strictly\nprohibited. This information is derived from the Internet Data Exchange (IDX) service provided by San Diego MLS. Displayed property listings may be held by a brokerage firm other than the broker and/or agent responsible for this display. The information and any photographs and video tours and the compilation from which they are derived is protected by copyright. Compilation © 2025 San Diego MLS.",
+    "brokerPhoneNumber": "877-722-8085",
+    "lastChecked": "2025-08-26 21:11:24"
+  },
+  "priceChangeDateString": null,
+  "photoCount": 32,
+  "homeStatus": "FOR_SALE",
+  "homeFacts": null,
+  "resoFacts": {
+    "hasAttachedProperty": false,
+    "frontageType": null,
+    "poolFeatures": [
+      "N/K"
+    ],
+    "flooring": null,
+    "foundationDetails": {},
+    "accessibilityFeatures": null,
+    "hasGarage": true,
+    "hasPetsAllowed": null,
+    "bodyType": null,
+    "topography": null,
+    "landLeaseExpirationDate": null,
+    "hasAdditionalParcels": false,
+    "parkName": null,
+    "livingQuarters": {},
+    "taxAssessedValue": 84199,
+    "atAGlanceFacts": [
+      {
+        "factValue": "Single Family Residence",
+        "factLabel": "Type"
+      },
+      {
+        "factValue": "1962",
+        "factLabel": "Year Built"
+      },
+      {
+        "factValue": "Forced Air Unit",
+        "factLabel": "Heating"
+      },
+      {
+        "factValue": "Central Forced Air",
+        "factLabel": "Cooling"
+      },
+      {
+        "factValue": "2 Garage spaces",
+        "factLabel": "Parking"
+      },
+      {
+        "factValue": null,
+        "factLabel": "Lot"
+      },
+      {
+        "factValue": "13 Days",
+        "factLabel": "Days on Zillow"
+      },
+      {
+        "factValue": "$985",
+        "factLabel": "Price/sqft"
+      },
+      {
+        "factValue": null,
+        "factLabel": "Offer Review Date"
+      }
+    ],
+    "offerReviewDate": null,
+    "horseYN": null,
+    "view": {},
+    "rooms": {},
+    "belowGradeFinishedArea": null,
+    "feesAndDues": [
+      {
+        "phone": null,
+        "name": null,
+        "fee": null,
+        "type": "HOA"
+      }
+    ],
+    "cityRegion": "San Diego",
+    "mainLevelBathrooms": null,
+    "hasPrivatePool": null,
+    "landLeaseAmount": null,
+    "waterSource": [
+      "Meter on Property"
+    ],
+    "exteriorFeatures": {},
+    "inclusions": null,
+    "hasFireplace": null,
+    "gas": null,
+    "propertyCondition": null,
+    "elevationUnits": null,
+    "exclusions": null,
+    "mainLevelBedrooms": null,
+    "numberOfUnitsVacant": null,
+    "hasWaterfrontView": null,
+    "bathroomsOneQuarter": null,
+    "lotSize": null,
+    "entryLevel": null,
+    "media": [
+      {
+        "mediaCategory": "UnbrandedVirtualTour",
+        "mediaURL": "https://www.propertypanorama.com/instaview/snd/250036141"
+      }
+    ],
+    "greenWaterConservation": null,
+    "stories": null,
+    "livingArea": "1,319 sqft",
+    "commonWalls": null,
+    "listingTerms": "Cash,Conventional,FHA,VA",
+    "otherParking": null,
+    "associationFee": null,
+    "marketingType": null,
+    "greenIndoorAirQuality": null,
+    "greenSustainability": null,
+    "livingAreaRangeUnits": null,
+    "associationPhone": null,
+    "greenBuildingVerificationType": null,
+    "hasAttachedGarage": null,
+    "bedrooms": 3,
+    "architecturalStyle": null,
+    "listingId": null,
+    "structureType": null,
+    "interiorFeatures": null,
+    "horseAmenities": null,
+    "garageParkingCapacity": 2,
+    "developmentStatus": null,
+    "lotFeatures": null,
+    "roofType": "Shingle",
+    "compensationBasedOn": null,
+    "greenEnergyGeneration": null,
+    "daysOnZillow": 13,
+    "listAOR": "San Diego Association of REALTOR",
+    "buildingAreaSource": null,
+    "elementarySchool": null,
+    "zoningDescription": null,
+    "irrigationWaterRightsAcres": null,
+    "yearBuiltEffective": null,
+    "greenEnergyEfficient": null,
+    "constructionMaterials": [
+      "Stucco",
+      "Vinyl"
+    ],
+    "fireplaceFeatures": null,
+    "hoaFeeTotal": null,
+    "appliances": [
+      "Dishwasher",
+      "Disposal",
+      "Garage Door Opener",
+      "Microwave",
+      "Refrigerator",
+      "Solar Panels",
+      "Freezer",
+      "Gas Oven",
+      "Gas Range",
+      "Counter Top",
+      "Gas Cooking"
+    ],
+    "sewer": [
+      "Sewer Connected"
+    ],
+    "bathroomsPartial": null,
+    "fencing": "Full",
+    "spaFeatures": null,
+    "waterViewYN": null,
+    "buildingName": null,
+    "attic": null,
+    "petsMaxWeight": null,
+    "cumulativeDaysOnMarket": null,
+    "waterfrontFeatures": null,
+    "additionalParcelsDescription": null,
+    "canRaiseHorses": false,
+    "hasLandLease": false,
+    "communityFeatures": null,
+    "waterBodyName": null,
+    "middleOrJuniorSchool": null,
+    "lotSizeDimensions": null,
+    "virtualTour": "https://www.propertypanorama.com/instaview/snd/250036141",
+    "contingency": null,
+    "yearBuilt": 1962,
+    "utilities": null,
+    "totalActualRent": null,
+    "bathroomsFull": 2,
+    "parcelNumber": "4490801600",
+    "incomeIncludes": null,
+    "highSchool": null,
+    "taxAnnualAmount": 983,
+    "subdivisionName": "OCEAN BEACH",
+    "storiesTotal": 1,
+    "storiesDecimal": null,
+    "specialListingConditions": null,
+    "windowFeatures": null,
+    "ownership": null,
+    "woodedArea": null,
+    "middleOrJuniorSchoolDistrict": null,
+    "associationPhone2": null,
+    "onMarketDate": 1755114302000,
+    "roomTypes": null,
+    "frontageLength": null,
+    "roadSurfaceType": null,
+    "associationAmenities": null,
+    "propertySubType": [
+      "Single Family Residence"
+    ],
+    "hasCooling": true,
+    "levels": "1 Story",
+    "coveredParkingCapacity": 2,
+    "foundationArea": null,
+    "zoning": null,
+    "hoaFee": null,
+    "livingAreaRange": null,
+    "parkingFeatures": [
+      "Attached"
+    ],
+    "parkingCapacity": 4,
+    "cropsIncludedYN": null,
+    "tenantPays": null,
+    "builderModel": null,
+    "otherStructures": null,
+    "otherFacts": {},
+    "additionalFeeInfo": null,
+    "hasView": false,
+    "openParkingCapacity": null,
+    "securityFeatures": null,
+    "numberOfUnitsInCommunity": null,
+    "hasHomeWarranty": false,
+    "basementYN": null,
+    "doorFeatures": null,
+    "ownershipType": null,
+    "aboveGradeFinishedArea": null,
+    "associations": {},
+    "waterView": null,
+    "electric": null,
+    "buildingFeatures": null,
+    "hasOpenParking": null,
+    "hasCarport": null,
+    "bathroomsHalf": 0,
+    "homeType": "SingleFamily",
+    "isSeniorCommunity": null,
+    "municipality": null,
+    "bathroomsThreeQuarter": null,
+    "hasSpa": false,
+    "basement": null,
+    "associationFee2": null,
+    "cooling": [
+      "Central Forced Air"
+    ],
+    "hasHeating": true,
+    "associationName2": null,
+    "hasRentControl": null,
+    "elementarySchoolDistrict": null,
+    "otherEquipment": null,
+    "bathrooms": 2,
+    "buildingArea": "1,319",
+    "furnished": false,
+    "vegetation": null,
+    "patioAndPorchFeatures": null,
+    "bathroomsFloat": 2,
+    "builderName": null,
+    "highSchoolDistrict": null,
+    "hasElectricOnProperty": null,
+    "laundryFeatures": [
+      "Gas"
+    ],
+    "entryLocation": null,
+    "fireplaces": null,
+    "heating": [
+      "Forced Air Unit"
+    ],
+    "availabilityDate": null,
+    "carportParkingCapacity": null,
+    "hasAssociation": null,
+    "irrigationWaterRightsYN": null,
+    "isNewConstruction": null,
+    "associationFeeIncludes": null,
+    "leaseTerm": null,
+    "pricePerSquareFoot": 985,
+    "associationName": null,
+    "elevation": null
+  },
+  "datePosted": "2025-08-13",
+  "bedrooms": 3,
+  "propertyTypeDimension": "Single Family",
+  "mortgageZHLRates": {
+    "thirtyYearFixedBucket": {
+      "rate": 6.283,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756258379951
+    },
+    "fifteenYearFixedBucket": {
+      "rate": 5.593,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756258379951
+    },
+    "arm5Bucket": {
+      "rate": 6.49,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756258379951
+    }
+  },
+  "comingSoonOnMarketDate": null,
+  "favoriteCount": 211,
+  "livingArea": 1319,
+  "zestimateHighPercent": "5",
+  "mlsid": "250036141",
+  "isListedByOwner": null,
+  "listingSubType": {
+    "is_comingSoon": false,
+    "is_pending": false,
+    "is_forAuction": false,
+    "is_bankOwned": false,
+    "is_FSBA": true,
+    "is_FSBO": false,
+    "is_newHome": false,
+    "is_foreclosure": false
+  },
+  "buildingId": null,
+  "country": "USA",
+  "price": 1299000,
+  "priceChangeDate": null,
+  "contingentListingType": null
+}

@@ -1,0 +1,1454 @@
+{
+  "buildingPermits": null,
+  "contact_recipients": [
+    {
+      "agent_reason": 1,
+      "zpro": null,
+      "recent_sales": 0,
+      "review_count": 0,
+      "display_name": "Premier Broker Flex Atlanta GA",
+      "badge_type": "Premier Agent",
+      "business_name": "Zillow Group",
+      "rating_average": 0,
+      "phone": {
+        "prefix": "452",
+        "areacode": "206",
+        "number": "1030"
+      },
+      "zuid": "X1-ZUv2ktj4jt3nyh_98wrm",
+      "image_url": "https://www.zillowstatic.com/static/images/nophoto_h_g.png"
+    }
+  ],
+  "longitude": -117.238625,
+  "countyFIPS": "06073",
+  "imgSrc": "https://photos.zillowstatic.com/fp/92f9babccec25641a42dbf469c5195ba-p_d.jpg",
+  "livingAreaValue": 1987,
+  "streetAddress": "3872 Coronado Ave",
+  "county": "San Diego County",
+  "monthlyHoaFee": null,
+  "timeZone": "America/Los_Angeles",
+  "taxHistory": [
+    {
+      "time": 1724733901915,
+      "valueIncreaseRate": 0.01999537,
+      "taxIncreaseRate": 0.023424082,
+      "taxPaid": 2763.9,
+      "value": 229195
+    },
+    {
+      "time": 1693111501915,
+      "valueIncreaseRate": 0.019995732,
+      "taxIncreaseRate": 0.02791453,
+      "taxPaid": 2700.64,
+      "value": 224702
+    },
+    {
+      "time": 1661575501915,
+      "valueIncreaseRate": 0.10203602,
+      "taxIncreaseRate": 0.090283625,
+      "taxPaid": 2627.3,
+      "value": 220297
+    },
+    {
+      "time": 1630039501915,
+      "valueIncreaseRate": 0.6844748,
+      "taxIncreaseRate": 0.7136295,
+      "taxPaid": 2409.74,
+      "value": 199900
+    },
+    {
+      "time": 1598503501915,
+      "valueIncreaseRate": 0.019992093,
+      "taxIncreaseRate": 0.04387135,
+      "taxPaid": 1406.22,
+      "value": 118672
+    },
+    {
+      "time": 1566881101915,
+      "valueIncreaseRate": 0.019988427,
+      "taxIncreaseRate": 0.044254757,
+      "taxPaid": 1347.12,
+      "value": 116346
+    },
+    {
+      "time": 1535345101915,
+      "valueIncreaseRate": 0.019994635,
+      "taxIncreaseRate": 0.02568939,
+      "taxPaid": 1290.03,
+      "value": 114066
+    },
+    {
+      "time": 1503809101915,
+      "valueIncreaseRate": 0.019983765,
+      "taxIncreaseRate": 0.018561646,
+      "taxPaid": 1257.72,
+      "value": 111830
+    },
+    {
+      "time": 1472273101915,
+      "valueIncreaseRate": 0.015241729,
+      "taxIncreaseRate": 0.015677743,
+      "taxPaid": 1234.8,
+      "value": 109639
+    },
+    {
+      "time": 1440650701915,
+      "valueIncreaseRate": 0.019966187,
+      "taxIncreaseRate": 0.01638602,
+      "taxPaid": 1215.74,
+      "value": 107993
+    },
+    {
+      "time": 1409114701915,
+      "valueIncreaseRate": 0.0045350613,
+      "taxIncreaseRate": 0,
+      "taxPaid": 1196.14,
+      "value": 105879
+    },
+    {
+      "time": 1377578701915,
+      "valueIncreaseRate": 0.019993225,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 105401
+    },
+    {
+      "time": 1346042701915,
+      "valueIncreaseRate": 0.019998223,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 103335
+    },
+    {
+      "time": 1314420301915,
+      "valueIncreaseRate": 0.0075184233,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 101309
+    },
+    {
+      "time": 1282884301915,
+      "valueIncreaseRate": -0.0023811178,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 100553
+    },
+    {
+      "time": 1251348301915,
+      "valueIncreaseRate": 0.019986236,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 100793
+    },
+    {
+      "time": 1219812301915,
+      "valueIncreaseRate": 0.019983072,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 98818
+    },
+    {
+      "time": 1188189901915,
+      "valueIncreaseRate": 0.019993052,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 96882
+    },
+    {
+      "time": 1156653901915,
+      "valueIncreaseRate": 0.01999549,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 94983
+    },
+    {
+      "time": 1125117901915,
+      "valueIncreaseRate": 0.019989923,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 93121
+    },
+    {
+      "time": 1093581901915,
+      "valueIncreaseRate": 0.018667083,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 91296
+    },
+    {
+      "time": 1061959501915,
+      "valueIncreaseRate": 0.01998475,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 89623
+    },
+    {
+      "time": 1030423501915,
+      "valueIncreaseRate": 0.019989552,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 87867
+    },
+    {
+      "time": 998887501915,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 86145
+    }
+  ],
+  "dateSold": null,
+  "annualHomeownersInsurance": 6930,
+  "state": "CA",
+  "listed_by": {
+    "agent_reason": 3,
+    "zpro": false,
+    "recent_sales": 0,
+    "zuid": "X1-ZUzvs1kcladds9_8i7yn",
+    "review_count": 21,
+    "display_name": "Michael Willis",
+    "profile_url": "https://www.zillow.com/profile/MichaelWillisRE/",
+    "business_name": "Keller Williams San Diego Metro",
+    "rating_average": 5,
+    "phone": {
+      "prefix": "881",
+      "areacode": "619",
+      "number": "7802"
+    },
+    "badge_type": "Listing Agent",
+    "image_url": "https://photos.zillowstatic.com/fp/ca7d3906e59844f30290c2e9d74597cd-h_n.jpg"
+  },
+  "yearBuilt": 1965,
+  "brokerageName": "Keller Williams San Diego Metro",
+  "description": "Welcome to your next home in Point Loma! Once you step foot into this house, you will be surprised at how large and open it feels.  This property features 3 bedrooms and 3.5 bathrooms.  An open-concept kitchen with high-end stainless steel appliances, concrete countertops, shaker-style cabinetry, and a huge walk-in pantry.  The living room features updated flooring, a fireplace, and an accordion-style door leading to the patio. The primary suite has vaulted ceilings, his and hers walk-in closets, a fireplace, and an en suite bathroom that feels like your very own spa! There is another bedroom suite with its own bathroom on the other side of the house.  The third bathroom has also been tastefully remodeled. The backyard is deep and a blank canvas to put your personal touches on it.   This property is near everything Point Loma and Ocean Beach have to offer.  Come take a look for yourself, as it won't last long!",
+  "climate": {
+    "windSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "probability": {},
+        "source": {
+          "url": "https://firststreet.org/property/3872-coronado-ave-san-diego-ca-92107/603571145_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 18
+      }
+    },
+    "floodSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "femaZone": "X_UNSHADED",
+        "source": {
+          "url": "https://firststreet.org/property/3872-coronado-ave-san-diego-ca-92107/603571145_fsid"
+        },
+        "probability": [
+          {
+            "relativeYear": 0,
+            "probability": 0
+          },
+          {
+            "relativeYear": 5,
+            "probability": 0
+          },
+          {
+            "relativeYear": 10,
+            "probability": 0
+          },
+          {
+            "relativeYear": 15,
+            "probability": 0
+          },
+          {
+            "relativeYear": 20,
+            "probability": 0
+          },
+          {
+            "relativeYear": 25,
+            "probability": 0
+          },
+          {
+            "relativeYear": 30,
+            "probability": 0
+          }
+        ],
+        "insuranceSeparatePolicy": "NOT_REQUIRED",
+        "historicCountPropertyAll": 0
+      }
+    },
+    "fireSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "probability": {},
+        "source": {
+          "url": "https://firststreet.org/property/3872-coronado-ave-san-diego-ca-92107/603571145_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 17
+      }
+    },
+    "heatSources": {
+      "primary": {
+        "percentile98Temp": 84,
+        "hotDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 7
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 9
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 11
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 14
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 16
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 18
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 20
+          }
+        ],
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 3
+        },
+        "source": {
+          "url": "https://firststreet.org/property/3872-coronado-ave-san-diego-ca-92107/603571145_fsid"
+        }
+      }
+    },
+    "airSources": {
+      "primary": {
+        "source": {
+          "url": "https://firststreet.org/property/3872-coronado-ave-san-diego-ca-92107/603571145_fsid"
+        },
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 4
+        },
+        "badAirDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 4
+          }
+        ]
+      }
+    }
+  },
+  "latitude": 32.73302,
+  "nearbyHomes": [
+    {
+      "hdpTypeDimension": "Zestimate",
+      "lotAreaUnits": "Square Feet",
+      "isShowcaseListing": false,
+      "longitude": -117.23868,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "3880 Coronado Ave",
+        "zipcode": "92107"
+      },
+      "livingAreaValue": 1124,
+      "lotSize": 6900,
+      "zpid": 17061181,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 2,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "3880 Coronado Ave"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "hdpUrl": "/homedetails/3880-Coronado-Ave-San-Diego-CA-92107/17061181_zpid/",
+      "lotAreaValue": 6900,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "OTHER",
+      "latitude": 32.733143,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "newConstructionType": null,
+      "yearBuilt": 1951,
+      "listingTypeDimension": "Unknown Listed By",
+      "livingArea": 1124,
+      "providerListingID": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=3880+Coronado+Ave%2C+San+Diego%2C+CA+92107&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=x7O8DP1uR_0Y9tne1h8exRof1sw="
+        }
+      ],
+      "currency": "USD",
+      "price": 1331500,
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    },
+    {
+      "bathrooms": 1,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "3864 Coronado Ave"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/3864-Coronado-Ave-San-Diego-CA-92107/17061183_zpid/",
+      "lotAreaValue": 6900,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "3864 Coronado Ave",
+        "zipcode": "92107"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.73299,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1227800,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 6900,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=32.73299026489258,-117.2384262084961&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=GLEY7NrUN-1hJGNbiMYl3zDhv8w="
+        }
+      ],
+      "zpid": 17061183,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 706,
+      "longitude": -117.23843,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 706
+    },
+    {
+      "hdpTypeDimension": "Zestimate",
+      "lotAreaUnits": "Square Feet",
+      "isShowcaseListing": false,
+      "longitude": -117.23881,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "3904 Coronado Ave",
+        "zipcode": "92107"
+      },
+      "livingAreaValue": 1277,
+      "lotSize": 7000,
+      "zpid": 17061180,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 3,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "3904 Coronado Ave"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "hdpUrl": "/homedetails/3904-Coronado-Ave-San-Diego-CA-92107/17061180_zpid/",
+      "lotAreaValue": 7000,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "OTHER",
+      "latitude": 32.733223,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "newConstructionType": null,
+      "yearBuilt": 1951,
+      "listingTypeDimension": "Unknown Listed By",
+      "livingArea": 1277,
+      "providerListingID": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=3904+Coronado+Ave%2C+San+Diego%2C+CA+92107&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=89Vf_WFJiq3uxjWqd2ygb8xGjy4="
+        }
+      ],
+      "currency": "USD",
+      "price": 1471500,
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "3856 Coronado Ave"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/3856-Coronado-Ave-San-Diego-CA-92107/17061230_zpid/",
+      "lotAreaValue": 6900,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "3856 Coronado Ave",
+        "zipcode": "92107"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.732906,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1639200,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 5,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 6900,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=32.732906341552734,-117.23828887939453&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=ga-1r0PpqG7E3rL_dwLCBRvoqn8="
+        }
+      ],
+      "zpid": 17061230,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 2035,
+      "longitude": -117.23829,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 2035
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "3895 Santa Cruz Ave"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/3895-Santa-Cruz-Ave-San-Diego-CA-92107/17061228_zpid/",
+      "lotAreaValue": 9300,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "3895 Santa Cruz Ave",
+        "zipcode": "92107"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.733356,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1644000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 9300,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=3895+Santa+Cruz+Ave%2C+San+Diego%2C+CA+92107&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=E10cEyImtdb6XLSs6BKLZIDnKzA="
+        }
+      ],
+      "zpid": 17061228,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1836,
+      "longitude": -117.23839,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1836
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "3912 Coronado Ave"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/3912-Coronado-Ave-San-Diego-CA-92107/17061179_zpid/",
+      "lotAreaValue": 6969.6,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "3912 Coronado Ave",
+        "zipcode": "92107"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.73328,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1804400,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 6969,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/d70a16f3e471d9a15cbf2658ec21a112-p_c.jpg"
+        }
+      ],
+      "zpid": 17061179,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 2199,
+      "longitude": -117.23899,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 2199
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "3848 Coronado Ave"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/3848-Coronado-Ave-San-Diego-CA-92107/17061231_zpid/",
+      "lotAreaValue": 6900,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "3848 Coronado Ave",
+        "zipcode": "92107"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.732826,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1679500,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 6900,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/59d432b54653226bd5c82465079e5318-p_c.jpg"
+        }
+      ],
+      "zpid": 17061231,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1456,
+      "longitude": -117.23816,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1456
+    },
+    {
+      "bathrooms": 6,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "3839 Dixon Pl"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/3839-Dixon-Pl-San-Diego-CA-92107/79572210_zpid/",
+      "lotAreaValue": 0.25252525252525,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "3839 Dixon Pl",
+        "zipcode": "92107"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.73324,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 4515500,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 11000,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=3839+Dixon+Pl%2C+San+Diego%2C+CA+92107&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=rKMTNTR6AFzQjZ6uOFex2ldpWXQ="
+        }
+      ],
+      "zpid": 79572210,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 6550,
+      "longitude": -117.23815,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 6550
+    }
+  ],
+  "priceHistory": [
+    {
+      "priceChangeRate": 0,
+      "date": "2025-08-20",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1755648000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "250036714"
+      },
+      "pricePerSquareFoot": 830,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 1650000
+    }
+  ],
+  "neighborhoodMapThumb": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/92f9babccec25641a42dbf469c5195ba-p_c.jpg"
+    }
+  ],
+  "schools": [
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6128-Dana/",
+      "rating": 9,
+      "totalCount": null,
+      "distance": 0.3,
+      "assigned": null,
+      "name": "Dana Middle School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Elementary",
+      "grades": "5-6",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6122-Correia-Middle-School/",
+      "rating": 7,
+      "totalCount": null,
+      "distance": 1.1,
+      "assigned": null,
+      "name": "Correia Middle School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Middle",
+      "grades": "7-8",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6224-Point-Loma-High-School/",
+      "rating": 8,
+      "totalCount": null,
+      "distance": 0.9,
+      "assigned": null,
+      "name": "Point Loma High School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "High",
+      "grades": "9-12",
+      "type": "Public"
+    }
+  ],
+  "rentZestimate": 6759,
+  "city": "San Diego",
+  "providerListingID": null,
+  "currency": "USD",
+  "listingProvider": null,
+  "propertyTaxRate": 1.17,
+  "isShowcaseListing": false,
+  "openHouseSchedule": {},
+  "mortgageRates": null,
+  "address": {
+    "community": null,
+    "city": "San Diego",
+    "state": "CA",
+    "neighborhood": null,
+    "subdivision": "POINT LOMA",
+    "streetAddress": "3872 Coronado Ave",
+    "zipcode": "92107"
+  },
+  "cityId": 54296,
+  "timeOnZillow": "6 days",
+  "priceChange": null,
+  "zestimate": 1641400,
+  "zpid": 17061182,
+  "countyId": 2841,
+  "homeType": "SINGLE_FAMILY",
+  "livingAreaUnits": "sqft",
+  "pageViewCount": 1830,
+  "homeInsights": [
+    {
+      "insights": [
+        {
+          "treatmentId": "model_0",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Open-concept kitchen",
+            "Shaker-style cabinetry",
+            "En suite bathroom",
+            "Updated flooring",
+            "High-end stainless steel appliances",
+            "Huge walk-in pantry"
+          ]
+        },
+        {
+          "treatmentId": "model_1",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Open-concept kitchen",
+            "Shaker-style cabinetry",
+            "High-end stainless steel appliances",
+            "Lvp flooring",
+            "Remodeled en suite bathroom",
+            "Vaulted ceilings",
+            "Huge walk-in pantry"
+          ]
+        }
+      ]
+    }
+  ],
+  "bathrooms": 4,
+  "neighborhoodRegion": {
+    "name": "Point Loma Heights"
+  },
+  "zipcode": "92107",
+  "building": null,
+  "zestimateLowPercent": "5",
+  "brokerId": null,
+  "stateId": 9,
+  "url": "/homedetails/3872-Coronado-Ave-San-Diego-CA-92107/17061182_zpid/",
+  "solarPotential": null,
+  "attributionInfo": {
+    "buyerAgentName": null,
+    "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_95_35.jpg",
+    "mlsName": "SDMLS",
+    "coAgentLicenseNumber": null,
+    "listingAgreement": null,
+    "listingOffices": [
+      {
+        "associatedOfficeType": "listOffice",
+        "officeName": "Keller Williams San Diego Metro"
+      }
+    ],
+    "infoString10": "This information is deemed reliable but not guaranteed. You should rely on this information only to decide whether or not to further investigate a particular property.\nBEFORE MAKING ANY OTHER DECISION, YOU SHOULD PERSONALLY INVESTIGATE THE FACTS (e.g. square footage and lot size) with the assistance of an appropriate professional. You may use this information only to identify properties you may be interested in investigating further. All uses except for personal, noncommercial use in accordance with the foregoing purpose are prohibited. Redistribution or copying of this information, any photographs or video tours is strictly\nprohibited. This information is derived from the Internet Data Exchange (IDX) service provided by San Diego MLS. Displayed property listings may be held by a brokerage firm other than the broker and/or agent responsible for this display. The information and any photographs and video tours and the compilation from which they are derived is protected by copyright. Compilation © 2025 San Diego MLS.",
+    "buyerAgentMemberStateLicense": null,
+    "brokerName": "Keller Williams San Diego Metro",
+    "listingAttributionContact": null,
+    "lastUpdated": "2025-08-23 21:56:29",
+    "trueStatus": null,
+    "listingAgentAttributionContact": null,
+    "agentEmail": null,
+    "agentName": "Michael A Willis",
+    "attributionTitle": null,
+    "mlsId": "250036714",
+    "coAgentName": null,
+    "coAgentNumber": null,
+    "infoString5": "619-881-7802",
+    "listingAgents": [
+      {
+        "memberStateLicense": "DRE #01976807",
+        "memberFullName": "Michael A Willis",
+        "associatedAgentType": "listAgent"
+      }
+    ],
+    "agentPhoneNumber": "619-881-7802",
+    "agentLicenseNumber": "DRE #01976807",
+    "providerLogo": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_95_35.jpg",
+    "infoString16": null,
+    "buyerBrokerageName": null,
+    "mlsDisclaimer": "This information is deemed reliable but not guaranteed. You should rely on this information only to decide whether or not to further investigate a particular property.\nBEFORE MAKING ANY OTHER DECISION, YOU SHOULD PERSONALLY INVESTIGATE THE FACTS (e.g. square footage and lot size) with the assistance of an appropriate professional. You may use this information only to identify properties you may be interested in investigating further. All uses except for personal, noncommercial use in accordance with the foregoing purpose are prohibited. Redistribution or copying of this information, any photographs or video tours is strictly\nprohibited. This information is derived from the Internet Data Exchange (IDX) service provided by San Diego MLS. Displayed property listings may be held by a brokerage firm other than the broker and/or agent responsible for this display. The information and any photographs and video tours and the compilation from which they are derived is protected by copyright. Compilation © 2025 San Diego MLS.",
+    "brokerPhoneNumber": "619-233-5935",
+    "lastChecked": "2025-08-26 21:11:24"
+  },
+  "priceChangeDateString": null,
+  "photoCount": 38,
+  "homeStatus": "FOR_SALE",
+  "homeFacts": null,
+  "resoFacts": {
+    "hasAttachedProperty": false,
+    "frontageType": null,
+    "poolFeatures": [
+      "N/K"
+    ],
+    "flooring": null,
+    "foundationDetails": {},
+    "accessibilityFeatures": null,
+    "hasGarage": true,
+    "hasPetsAllowed": null,
+    "bodyType": null,
+    "topography": null,
+    "landLeaseExpirationDate": null,
+    "hasAdditionalParcels": false,
+    "parkName": null,
+    "livingQuarters": {},
+    "taxAssessedValue": 229195,
+    "atAGlanceFacts": [
+      {
+        "factValue": "Single Family Residence",
+        "factLabel": "Type"
+      },
+      {
+        "factValue": "1965",
+        "factLabel": "Year Built"
+      },
+      {
+        "factValue": "Forced Air Unit",
+        "factLabel": "Heating"
+      },
+      {
+        "factValue": "N/K",
+        "factLabel": "Cooling"
+      },
+      {
+        "factValue": "2 Garage spaces",
+        "factLabel": "Parking"
+      },
+      {
+        "factValue": null,
+        "factLabel": "Lot"
+      },
+      {
+        "factValue": "6 Days",
+        "factLabel": "Days on Zillow"
+      },
+      {
+        "factValue": "$830",
+        "factLabel": "Price/sqft"
+      },
+      {
+        "factValue": null,
+        "factLabel": "Offer Review Date"
+      }
+    ],
+    "offerReviewDate": null,
+    "horseYN": null,
+    "view": {},
+    "rooms": {},
+    "belowGradeFinishedArea": null,
+    "feesAndDues": [
+      {
+        "phone": null,
+        "name": null,
+        "fee": null,
+        "type": "HOA"
+      }
+    ],
+    "cityRegion": "San Diego",
+    "mainLevelBathrooms": null,
+    "hasPrivatePool": null,
+    "landLeaseAmount": null,
+    "waterSource": [
+      "Public"
+    ],
+    "exteriorFeatures": {},
+    "inclusions": null,
+    "hasFireplace": null,
+    "gas": null,
+    "propertyCondition": null,
+    "elevationUnits": null,
+    "exclusions": null,
+    "mainLevelBedrooms": null,
+    "numberOfUnitsVacant": null,
+    "hasWaterfrontView": null,
+    "bathroomsOneQuarter": null,
+    "lotSize": null,
+    "entryLevel": null,
+    "media": [
+      {
+        "mediaCategory": "UnbrandedVirtualTour",
+        "mediaURL": "https://my.matterport.com/show/?m=tN5KTL1PVe6&brand=0&mls=1&"
+      }
+    ],
+    "greenWaterConservation": null,
+    "stories": null,
+    "livingArea": "1,987 sqft",
+    "commonWalls": null,
+    "listingTerms": "Cash,Conventional",
+    "otherParking": null,
+    "associationFee": null,
+    "marketingType": null,
+    "greenIndoorAirQuality": null,
+    "greenSustainability": null,
+    "livingAreaRangeUnits": null,
+    "associationPhone": null,
+    "greenBuildingVerificationType": null,
+    "hasAttachedGarage": null,
+    "bedrooms": 3,
+    "architecturalStyle": null,
+    "listingId": null,
+    "structureType": null,
+    "interiorFeatures": null,
+    "horseAmenities": null,
+    "garageParkingCapacity": 2,
+    "developmentStatus": null,
+    "lotFeatures": null,
+    "roofType": "Shingle",
+    "compensationBasedOn": null,
+    "greenEnergyGeneration": null,
+    "daysOnZillow": 6,
+    "listAOR": "San Diego Association of REALTOR",
+    "buildingAreaSource": null,
+    "elementarySchool": null,
+    "zoningDescription": null,
+    "irrigationWaterRightsAcres": null,
+    "yearBuiltEffective": null,
+    "greenEnergyEfficient": null,
+    "constructionMaterials": [
+      "Wood",
+      "Shake Siding"
+    ],
+    "fireplaceFeatures": [
+      "FP in Living Room"
+    ],
+    "hoaFeeTotal": null,
+    "appliances": [
+      "Disposal",
+      "Range/Oven",
+      "Refrigerator",
+      "Built In Range",
+      "Range/Stove Hood"
+    ],
+    "sewer": [
+      "Public Sewer"
+    ],
+    "bathroomsPartial": null,
+    "fencing": "Wood",
+    "spaFeatures": null,
+    "waterViewYN": null,
+    "buildingName": null,
+    "attic": null,
+    "petsMaxWeight": null,
+    "cumulativeDaysOnMarket": null,
+    "waterfrontFeatures": null,
+    "additionalParcelsDescription": null,
+    "canRaiseHorses": false,
+    "hasLandLease": false,
+    "communityFeatures": null,
+    "waterBodyName": null,
+    "middleOrJuniorSchool": null,
+    "lotSizeDimensions": null,
+    "virtualTour": "https://my.matterport.com/show/?m=tN5KTL1PVe6&brand=0&mls=1&",
+    "contingency": null,
+    "yearBuilt": 1965,
+    "utilities": null,
+    "totalActualRent": null,
+    "bathroomsFull": 3,
+    "parcelNumber": "5301511000",
+    "incomeIncludes": null,
+    "highSchool": null,
+    "taxAnnualAmount": 2764,
+    "subdivisionName": "POINT LOMA",
+    "storiesTotal": 1,
+    "storiesDecimal": null,
+    "specialListingConditions": "Standard",
+    "windowFeatures": null,
+    "ownership": null,
+    "woodedArea": null,
+    "middleOrJuniorSchoolDistrict": null,
+    "associationPhone2": null,
+    "onMarketDate": 1755698453000,
+    "roomTypes": null,
+    "frontageLength": null,
+    "roadSurfaceType": null,
+    "associationAmenities": null,
+    "propertySubType": [
+      "Single Family Residence"
+    ],
+    "hasCooling": true,
+    "levels": "1 Story",
+    "coveredParkingCapacity": 2,
+    "foundationArea": null,
+    "zoning": null,
+    "hoaFee": null,
+    "livingAreaRange": null,
+    "parkingFeatures": [
+      "Attached",
+      "Garage"
+    ],
+    "parkingCapacity": 4,
+    "cropsIncludedYN": null,
+    "tenantPays": null,
+    "builderModel": null,
+    "otherStructures": null,
+    "otherFacts": {},
+    "additionalFeeInfo": null,
+    "hasView": false,
+    "openParkingCapacity": null,
+    "securityFeatures": null,
+    "numberOfUnitsInCommunity": null,
+    "hasHomeWarranty": false,
+    "basementYN": null,
+    "doorFeatures": null,
+    "ownershipType": null,
+    "aboveGradeFinishedArea": null,
+    "associations": {},
+    "waterView": null,
+    "electric": null,
+    "buildingFeatures": null,
+    "hasOpenParking": null,
+    "hasCarport": null,
+    "bathroomsHalf": 1,
+    "homeType": "SingleFamily",
+    "isSeniorCommunity": null,
+    "municipality": null,
+    "bathroomsThreeQuarter": null,
+    "hasSpa": false,
+    "basement": null,
+    "associationFee2": null,
+    "cooling": [
+      "N/K"
+    ],
+    "hasHeating": true,
+    "associationName2": null,
+    "hasRentControl": null,
+    "elementarySchoolDistrict": null,
+    "otherEquipment": null,
+    "bathrooms": 4,
+    "buildingArea": "1,987",
+    "furnished": false,
+    "vegetation": null,
+    "patioAndPorchFeatures": null,
+    "bathroomsFloat": 4,
+    "builderName": null,
+    "highSchoolDistrict": null,
+    "hasElectricOnProperty": null,
+    "laundryFeatures": [
+      "Other/Remarks"
+    ],
+    "entryLocation": null,
+    "fireplaces": 1,
+    "heating": [
+      "Forced Air Unit"
+    ],
+    "availabilityDate": null,
+    "carportParkingCapacity": null,
+    "hasAssociation": null,
+    "irrigationWaterRightsYN": null,
+    "isNewConstruction": null,
+    "associationFeeIncludes": null,
+    "leaseTerm": null,
+    "pricePerSquareFoot": 830,
+    "associationName": null,
+    "elevation": null
+  },
+  "datePosted": "2025-08-20",
+  "bedrooms": 3,
+  "propertyTypeDimension": "Single Family",
+  "mortgageZHLRates": {
+    "thirtyYearFixedBucket": {
+      "rate": 6.392,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756262094699
+    },
+    "fifteenYearFixedBucket": {
+      "rate": 6.361,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756262094699
+    },
+    "arm5Bucket": {
+      "rate": 6.493,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756262094699
+    }
+  },
+  "comingSoonOnMarketDate": null,
+  "favoriteCount": 94,
+  "livingArea": 1987,
+  "zestimateHighPercent": "5",
+  "mlsid": "250036714",
+  "isListedByOwner": null,
+  "listingSubType": {
+    "is_comingSoon": false,
+    "is_pending": false,
+    "is_forAuction": false,
+    "is_bankOwned": false,
+    "is_FSBA": true,
+    "is_FSBO": false,
+    "is_newHome": false,
+    "is_foreclosure": false
+  },
+  "buildingId": null,
+  "country": "USA",
+  "price": 1650000,
+  "priceChangeDate": null,
+  "contingentListingType": null
+}

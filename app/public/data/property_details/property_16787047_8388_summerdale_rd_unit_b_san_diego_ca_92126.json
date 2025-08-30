@@ -1,0 +1,1866 @@
+{
+  "buildingPermits": null,
+  "contact_recipients": [
+    {
+      "agent_reason": 1,
+      "zpro": null,
+      "recent_sales": 0,
+      "review_count": 0,
+      "display_name": "Premier Broker Flex Atlanta GA",
+      "badge_type": "Premier Agent",
+      "business_name": "Zillow Group",
+      "rating_average": 0,
+      "phone": {
+        "prefix": "452",
+        "areacode": "206",
+        "number": "1030"
+      },
+      "zuid": "X1-ZUv2ktj4jt3nyh_98wrm",
+      "image_url": "https://www.zillowstatic.com/static/images/nophoto_h_g.png"
+    }
+  ],
+  "longitude": -117.14366,
+  "countyFIPS": "06073",
+  "imgSrc": "https://photos.zillowstatic.com/fp/7c933ec6a8d675512f46cb8b56d7490b-p_d.jpg",
+  "livingAreaValue": 1542,
+  "streetAddress": "8388 Summerdale Rd UNIT B",
+  "county": "San Diego County",
+  "monthlyHoaFee": 474,
+  "timeZone": "America/Los_Angeles",
+  "taxHistory": [
+    {
+      "time": 1724734328765,
+      "valueIncreaseRate": 0.019997127,
+      "taxIncreaseRate": 0.023141006,
+      "taxPaid": 3708.62,
+      "value": 305380
+    },
+    {
+      "time": 1693111928765,
+      "valueIncreaseRate": 0.019994957,
+      "taxIncreaseRate": 0.027845977,
+      "taxPaid": 3624.74,
+      "value": 299393
+    },
+    {
+      "time": 1661575928765,
+      "valueIncreaseRate": 0.019998679,
+      "taxIncreaseRate": 0.007490735,
+      "taxPaid": 3526.54,
+      "value": 293524
+    },
+    {
+      "time": 1630039928765,
+      "valueIncreaseRate": 0.010353908,
+      "taxIncreaseRate": 0.012466692,
+      "taxPaid": 3500.32,
+      "value": 287769
+    },
+    {
+      "time": 1598503928765,
+      "valueIncreaseRate": 0.019993769,
+      "taxIncreaseRate": 0.030799795,
+      "taxPaid": 3457.22,
+      "value": 284820
+    },
+    {
+      "time": 1566881528765,
+      "valueIncreaseRate": 0.019995397,
+      "taxIncreaseRate": 0.056991894,
+      "taxPaid": 3353.92,
+      "value": 279237
+    },
+    {
+      "time": 1535345528765,
+      "valueIncreaseRate": 0.019996572,
+      "taxIncreaseRate": 0.025592351,
+      "taxPaid": 3173.08,
+      "value": 273763
+    },
+    {
+      "time": 1503809528765,
+      "valueIncreaseRate": 0.019997416,
+      "taxIncreaseRate": 0.016787004,
+      "taxPaid": 3093.9,
+      "value": 268396
+    },
+    {
+      "time": 1472273528765,
+      "valueIncreaseRate": 0.015244056,
+      "taxIncreaseRate": 0.015254736,
+      "taxPaid": 3042.82,
+      "value": 263134
+    },
+    {
+      "time": 1440651128765,
+      "valueIncreaseRate": 0.019975837,
+      "taxIncreaseRate": 0.016310647,
+      "taxPaid": 2997.1,
+      "value": 259183
+    },
+    {
+      "time": 1409115128765,
+      "valueIncreaseRate": 0.004534314,
+      "taxIncreaseRate": 0,
+      "taxPaid": 2949,
+      "value": 254107
+    },
+    {
+      "time": 1377579128765,
+      "valueIncreaseRate": 0.02,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 252960
+    },
+    {
+      "time": 1346043128765,
+      "valueIncreaseRate": -0.17056856,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 248000
+    },
+    {
+      "time": 1314420728765,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 299000
+    },
+    {
+      "time": 1282884728765,
+      "valueIncreaseRate": -0.08,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 299000
+    },
+    {
+      "time": 1251348728765,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 325000
+    },
+    {
+      "time": 1219812728765,
+      "valueIncreaseRate": -0.20731707,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 325000
+    },
+    {
+      "time": 1188190328765,
+      "valueIncreaseRate": -0.07865169,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 410000
+    },
+    {
+      "time": 1156654328765,
+      "valueIncreaseRate": 2.256733,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 445000
+    },
+    {
+      "time": 1125118328765,
+      "valueIncreaseRate": 0.019990744,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 136640
+    },
+    {
+      "time": 1093582328765,
+      "valueIncreaseRate": 0.018660462,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 133962
+    },
+    {
+      "time": 1061959928765,
+      "valueIncreaseRate": 0.019987436,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 131508
+    },
+    {
+      "time": 1030423928765,
+      "valueIncreaseRate": 0.019991456,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 128931
+    },
+    {
+      "time": 998887928765,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 126404
+    }
+  ],
+  "dateSold": null,
+  "annualHomeownersInsurance": 3255,
+  "state": "CA",
+  "listed_by": {
+    "agent_reason": null,
+    "zpro": null,
+    "recent_sales": null,
+    "review_count": null,
+    "display_name": null,
+    "badge_type": null,
+    "business_name": null,
+    "rating_average": null,
+    "phone": null,
+    "zuid": null,
+    "image_url": null
+  },
+  "yearBuilt": 1980,
+  "brokerageName": "eXp Realty of California, Inc.",
+  "description": "Welcome to 8388 Summerdale Rd Unit B – a beautifully updated condo in the heart of Mira Mesa.  This turnkey home features brand new flooring throughout and has been freshly painted, creating a bright and modern atmosphere. The primary suite offers a brand new walk-in shower, while the second bathroom includes a new bathtub. Additional thoughtful updates can be found throughout the home.  Enjoy the convenience of a separate laundry area and your own private, fenced-in outdoor patio — perfect for relaxing or entertaining. The community also offers great amenities, including a sparkling pool and spa.  Ideally located near shopping, dining, parks, and top-rated schools, this move-in ready home combines comfort, style, and location in one inviting package.",
+  "climate": {
+    "windSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "probability": {},
+        "source": {
+          "url": "https://firststreet.org/property/8388-summerdale-rd-unit-b-san-diego-ca-92126/603366162_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 18
+      }
+    },
+    "floodSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "femaZone": "X_UNSHADED",
+        "source": {
+          "url": "https://firststreet.org/property/8388-summerdale-rd-unit-b-san-diego-ca-92126/603366162_fsid"
+        },
+        "probability": [
+          {
+            "relativeYear": 0,
+            "probability": 0
+          },
+          {
+            "relativeYear": 5,
+            "probability": 0
+          },
+          {
+            "relativeYear": 10,
+            "probability": 0
+          },
+          {
+            "relativeYear": 15,
+            "probability": 0
+          },
+          {
+            "relativeYear": 20,
+            "probability": 0
+          },
+          {
+            "relativeYear": 25,
+            "probability": 0
+          },
+          {
+            "relativeYear": 30,
+            "probability": 0
+          }
+        ],
+        "insuranceSeparatePolicy": "NOT_REQUIRED",
+        "historicCountPropertyAll": 0
+      }
+    },
+    "fireSources": {
+      "primary": {
+        "insuranceRecommendation": "RECOMMENDED",
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 3
+        },
+        "probability": [
+          {
+            "relativeYear": 0,
+            "probability": 0
+          },
+          {
+            "relativeYear": 5,
+            "probability": 0.00019999999494758
+          },
+          {
+            "relativeYear": 10,
+            "probability": 0.00089999998454005
+          },
+          {
+            "relativeYear": 15,
+            "probability": 0.0020000000949949
+          },
+          {
+            "relativeYear": 20,
+            "probability": 0.0035000001080334
+          },
+          {
+            "relativeYear": 25,
+            "probability": 0.0054000001400709
+          },
+          {
+            "relativeYear": 30,
+            "probability": 0.0076999999582767
+          }
+        ],
+        "source": {
+          "url": "https://firststreet.org/property/8388-summerdale-rd-unit-b-san-diego-ca-92126/603366162_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 30
+      }
+    },
+    "heatSources": {
+      "primary": {
+        "percentile98Temp": 90,
+        "hotDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 7
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 9
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 11
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 14
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 16
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 18
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 20
+          }
+        ],
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 4
+        },
+        "source": {
+          "url": "https://firststreet.org/property/8388-summerdale-rd-unit-b-san-diego-ca-92126/603366162_fsid"
+        }
+      }
+    },
+    "airSources": {
+      "primary": {
+        "source": {
+          "url": "https://firststreet.org/property/8388-summerdale-rd-unit-b-san-diego-ca-92126/603366162_fsid"
+        },
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 3
+        },
+        "badAirDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 3
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 3
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 3
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 4
+          }
+        ]
+      }
+    }
+  },
+  "latitude": 32.918446,
+  "nearbyHomes": [
+    {
+      "bathrooms": 2.5,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "8384 Summerdale Rd UNIT A"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/8384-Summerdale-Rd-UNIT-A-San-Diego-CA-92126/16787048_zpid/",
+      "lotAreaValue": 5.6950642791552,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "8384 Summerdale Rd UNIT A",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.91843,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 665400,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 248077,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=8384+Summerdale+Rd%2C+San+Diego%2C+CA+92126&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=fxLU59WmO268OlFNXm2YILnIpsM="
+        }
+      ],
+      "zpid": 16787048,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1146,
+      "longitude": -117.14345,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1146
+    },
+    {
+      "bathrooms": 3,
+      "newConstructionType": null,
+      "lotAreaUnits": "sqft",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "8384 Summerdale Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/8384-Summerdale-Rd-San-Diego-CA-92126/2058154898_zpid/",
+      "lotAreaValue": null,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "8384 Summerdale Rd",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.91843,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 723400,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/409b54d3b383ed9b275ec58e2257db80-p_c.jpg"
+        }
+      ],
+      "zpid": 2058154898,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1150,
+      "longitude": -117.14345,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": "2n2j4pz5w1zwa",
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1150
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "sqft",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "8381 Summerdale Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/8381-Summerdale-Rd-San-Diego-CA-92126/2106987510_zpid/",
+      "lotAreaValue": null,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "8381 Summerdale Rd",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.91875,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 605300,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=32.91875076293945,-117.1429443359375&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=kMrrgKQAgNkb6YdCAFyOakuC4ek="
+        }
+      ],
+      "zpid": 2106987510,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1012,
+      "longitude": -117.142944,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1012
+    },
+    {
+      "bathrooms": null,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "8330 Westmore Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/8330-Westmore-Rd-San-Diego-CA-92126/295345858_zpid/",
+      "lotAreaValue": 0.42089072543618,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "8330 Westmore Rd",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.918064,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1196300,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": null,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 18334,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=8330+Westmore+Rd%2C+San+Diego%2C+CA+92126&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=y4l1_fefdaAi7f9s5nCckGEu8ok="
+        }
+      ],
+      "zpid": 295345858,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": null,
+      "longitude": -117.144424,
+      "livingAreaUnitsShort": null,
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": null,
+      "currency": "USD",
+      "livingAreaValue": null
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "sqft",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "8365 Westmore Road #24"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/8365-Westmore-Road-24-San-Diego-CA-92126/2100082206_zpid/",
+      "lotAreaValue": null,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "8365 Westmore Road #24",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.91775,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 0,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Apartment",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/b585eeda8bcb973bda03630c23dfe5e3-p_c.jpg"
+        }
+      ],
+      "zpid": 2100082206,
+      "hdpTypeDimension": "NoZestimate",
+      "livingArea": 912,
+      "longitude": -117.14331,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "APARTMENT",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 912
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "8462 Summerdale Rd UNIT A"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/8462-Summerdale-Rd-UNIT-A-San-Diego-CA-92126/16787105_zpid/",
+      "lotAreaValue": 5.6952,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "8462 Summerdale Rd UNIT A",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "RS22179215",
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.91921,
+      "homeStatus": "SOLD",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 579900,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 248082,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/ca28c4a21e40b86deb4c6fc72217785b-p_c.jpg"
+        }
+      ],
+      "zpid": 16787105,
+      "hdpTypeDimension": "RecentlySold",
+      "livingArea": 884,
+      "longitude": -117.14349,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 884
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "sqft",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "8402 Summerdale Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/8402-Summerdale-Rd-San-Diego-CA-92126/2144462995_zpid/",
+      "lotAreaValue": null,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "8402 Summerdale Rd",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.919186,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 625800,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/102a26b0feed90654b35f4f820b4cdfe-p_c.jpg"
+        }
+      ],
+      "zpid": 2144462995,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1101,
+      "longitude": -117.143295,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1101
+    },
+    {
+      "bathrooms": 1,
+      "newConstructionType": null,
+      "lotAreaUnits": "sqft",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "8357-A Summerdale Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/8357-A-Summerdale-Rd-San-Diego-CA-92126/2112468818_zpid/",
+      "lotAreaValue": null,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "8357-A Summerdale Rd",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.918186,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 629500,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/6277aba08949b6a93b23ea29b885cdfb-p_c.jpg"
+        }
+      ],
+      "zpid": 2112468818,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1012,
+      "longitude": -117.14257,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1012
+    }
+  ],
+  "priceHistory": [
+    {
+      "priceChangeRate": 2.125,
+      "date": "2025-07-18",
+      "source": "CRMLS",
+      "postingIsRental": false,
+      "time": 1752796800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "CRMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/cb8caaa629c0af2058e60add67b2f2ee-zillow_web_logo_inf_11.jpg",
+        "infoString1": "PTP2505467"
+      },
+      "pricePerSquareFoot": 503,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 775000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2021-06-28",
+      "source": "Zillow Rental Manager",
+      "postingIsRental": true,
+      "time": 1624838400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Zillow Rental Manager",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": null,
+      "buyerAgent": null,
+      "event": "Listing removed",
+      "price": null
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2021-06-22",
+      "source": "Zillow Rental Manager",
+      "postingIsRental": true,
+      "time": 1624320000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Zillow Rental Manager",
+        "infoString3": null,
+        "infoString1": ""
+      },
+      "pricePerSquareFoot": 2,
+      "buyerAgent": null,
+      "event": "Listed for rent",
+      "price": 2795
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2021-06-14",
+      "source": "Zillow Rental Manager",
+      "postingIsRental": true,
+      "time": 1623628800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Zillow Rental Manager",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": null,
+      "buyerAgent": null,
+      "event": "Listing removed",
+      "price": null
+    },
+    {
+      "priceChangeRate": 0.19189765458422,
+      "date": "2021-06-03",
+      "source": "Zillow Rental Manager",
+      "postingIsRental": true,
+      "time": 1622678400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Zillow Rental Manager",
+        "infoString3": null,
+        "infoString1": ""
+      },
+      "pricePerSquareFoot": 2,
+      "buyerAgent": null,
+      "event": "Listed for rent",
+      "price": 2795
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2017-02-16",
+      "source": "RCPM",
+      "postingIsRental": true,
+      "time": 1487203200000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "RCPM",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 2,
+      "buyerAgent": null,
+      "event": "Listing removed",
+      "price": 2345
+    },
+    {
+      "priceChangeRate": -0.020876826722338,
+      "date": "2017-02-14",
+      "source": "RCPM",
+      "postingIsRental": true,
+      "time": 1487030400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "RCPM",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 2,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 2345
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2017-01-28",
+      "source": "RCPM",
+      "postingIsRental": true,
+      "time": 1485561600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "RCPM",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 2,
+      "buyerAgent": null,
+      "event": "Listed for rent",
+      "price": 2395
+    },
+    {
+      "priceChangeRate": 0.010183299389002,
+      "date": "2012-02-01",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 1328054400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 161,
+      "buyerAgent": null,
+      "event": "Sold",
+      "price": 248000
+    },
+    {
+      "priceChangeRate": -0.12321428571429,
+      "date": "2011-08-25",
+      "source": "Weichert Realtors Elite",
+      "postingIsRental": false,
+      "time": 1314230400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Weichert Realtors Elite",
+        "infoString3": null,
+        "infoString1": "110010710"
+      },
+      "pricePerSquareFoot": 159,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 245500
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2011-05-18",
+      "source": "Weichert Realtors Elite",
+      "postingIsRental": false,
+      "time": 1305676800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Weichert Realtors Elite",
+        "infoString3": null,
+        "infoString1": "110010710"
+      },
+      "pricePerSquareFoot": 182,
+      "buyerAgent": null,
+      "event": "Listing removed",
+      "price": 280000
+    },
+    {
+      "priceChangeRate": -0.096774193548387,
+      "date": "2011-05-08",
+      "source": "Weichert Realtors Elite",
+      "postingIsRental": false,
+      "time": 1304812800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Weichert Realtors Elite",
+        "infoString3": null,
+        "infoString1": "110010710"
+      },
+      "pricePerSquareFoot": 182,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 280000
+    },
+    {
+      "priceChangeRate": -0.03125,
+      "date": "2011-03-11",
+      "source": "Weichert, Realtors Elite",
+      "postingIsRental": false,
+      "time": 1299801600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Weichert, Realtors Elite",
+        "infoString3": null,
+        "infoString1": "110010710"
+      },
+      "pricePerSquareFoot": 201,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 310000
+    },
+    {
+      "priceChangeRate": -0.03030303030303,
+      "date": "2011-03-05",
+      "source": "Weichert, Realtors Elite",
+      "postingIsRental": false,
+      "time": 1299283200000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Weichert, Realtors Elite",
+        "infoString3": null,
+        "infoString1": "110010710"
+      },
+      "pricePerSquareFoot": 208,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 320000
+    },
+    {
+      "priceChangeRate": -0.25842696629213,
+      "date": "2011-02-23",
+      "source": "Weichert Realtors Elite",
+      "postingIsRental": false,
+      "time": 1298419200000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Weichert Realtors Elite",
+        "infoString3": null,
+        "infoString1": "110010710"
+      },
+      "pricePerSquareFoot": 214,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 330000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2005-08-19",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 1124409600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 289,
+      "buyerAgent": null,
+      "event": "Sold",
+      "price": 445000
+    }
+  ],
+  "neighborhoodMapThumb": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/7c933ec6a8d675512f46cb8b56d7490b-p_c.jpg"
+    }
+  ],
+  "schools": [
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6137-Ericson-Elementary-School/",
+      "rating": 7,
+      "totalCount": null,
+      "distance": 0.7,
+      "assigned": null,
+      "name": "Ericson Elementary School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Elementary",
+      "grades": "K-5",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6252-Wangenheim-Middle-School/",
+      "rating": 6,
+      "totalCount": null,
+      "distance": 1.3,
+      "assigned": null,
+      "name": "Wangenheim Middle School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Middle",
+      "grades": "6-8",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6203-Mira-Mesa-High-School/",
+      "rating": 9,
+      "totalCount": null,
+      "distance": 0.6,
+      "assigned": null,
+      "name": "Mira Mesa High School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "High",
+      "grades": "9-12",
+      "type": "Public"
+    }
+  ],
+  "rentZestimate": 3954,
+  "city": "San Diego",
+  "providerListingID": null,
+  "currency": "USD",
+  "listingProvider": null,
+  "propertyTaxRate": 1.17,
+  "isShowcaseListing": false,
+  "openHouseSchedule": [
+    {
+      "startTime": "2025-08-30 12:00:00",
+      "endTime": "2025-08-30 16:00:00"
+    }
+  ],
+  "mortgageRates": null,
+  "address": {
+    "community": null,
+    "city": "San Diego",
+    "state": "CA",
+    "neighborhood": null,
+    "subdivision": null,
+    "streetAddress": "8388 Summerdale Rd UNIT B",
+    "zipcode": "92126"
+  },
+  "cityId": 54296,
+  "timeOnZillow": "39 days",
+  "priceChange": null,
+  "zestimate": 769200,
+  "zpid": 16787047,
+  "countyId": 2841,
+  "homeType": "TOWNHOUSE",
+  "livingAreaUnits": "sqft",
+  "pageViewCount": 2005,
+  "homeInsights": [
+    {
+      "insights": [
+        {
+          "treatmentId": "model_0",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Brand new flooring",
+            "Separate laundry area",
+            "Private fenced-in outdoor patio"
+          ]
+        },
+        {
+          "treatmentId": "model_1",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Brand new flooring",
+            "Separate laundry area",
+            "Private fenced-in outdoor patio"
+          ]
+        }
+      ]
+    }
+  ],
+  "bathrooms": 3,
+  "neighborhoodRegion": {
+    "name": "Mira Mesa"
+  },
+  "zipcode": "92126",
+  "building": null,
+  "zestimateLowPercent": "5",
+  "brokerId": null,
+  "stateId": 9,
+  "url": "/homedetails/8388-Summerdale-Rd-UNIT-B-San-Diego-CA-92126/16787047_zpid/",
+  "solarPotential": null,
+  "attributionInfo": {
+    "buyerAgentName": null,
+    "infoString3": "https://photos.zillowstatic.com/fp/cb8caaa629c0af2058e60add67b2f2ee-zillow_web_95_35.jpg",
+    "mlsName": "CRMLS",
+    "coAgentLicenseNumber": "DRE #01429976",
+    "listingAgreement": null,
+    "listingOffices": [
+      {
+        "associatedOfficeType": "listOffice",
+        "officeName": "eXp Realty of California, Inc."
+      },
+      {
+        "associatedOfficeType": "coListOffice",
+        "officeName": "eXp Realty of California, Inc"
+      }
+    ],
+    "infoString10": "The multiple listing data appearing on this website, or contained in reports produced therefrom, is owned and copyrighted by California Regional Multiple Listing Service, Inc. (\"CRMLS\") and is protected by all applicable copyright laws. Information provided is for viewer's personal, non-commercial use and may not be used for any purpose other than to identify prospective properties the viewer may be interested in purchasing. All listing data, including but not limited to square footage and lot size is believed to be accurate, but the listing Agent, listing Broker and CRMLS and its affiliates do not warrant or guarantee such accuracy. The viewer should independently verify the listed data prior to making any decisions based on such information by personal inspection and/or contacting a real estate professional.\n\nBased on information from California Regional Multiple Listing Service, Inc. as of 2025-08-26 21:25:46 PDT and /or other sources. All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy. Properties may or may not be listed by the office/agent presenting the information",
+    "buyerAgentMemberStateLicense": null,
+    "brokerName": "eXp Realty of California, Inc.",
+    "listingAttributionContact": "kristy.martinez@exprealty.com",
+    "lastUpdated": "2025-08-22 13:21:57",
+    "trueStatus": null,
+    "listingAgentAttributionContact": null,
+    "agentEmail": "kristy.martinez@exprealty.com",
+    "agentName": "Kristy Martinez",
+    "attributionTitle": "Listing Provided by:",
+    "mlsId": "PTP2505467",
+    "coAgentName": "Barbara Legg",
+    "coAgentNumber": "619-572-1144",
+    "infoString5": "888-584-9427",
+    "listingAgents": [
+      {
+        "memberStateLicense": "DRE #02181451",
+        "memberFullName": "Kristy Martinez",
+        "associatedAgentType": "listAgent"
+      },
+      {
+        "memberStateLicense": "DRE #01429976",
+        "memberFullName": "Barbara Legg",
+        "associatedAgentType": "coListAgent"
+      }
+    ],
+    "agentPhoneNumber": "888-584-9427",
+    "agentLicenseNumber": "DRE #02181451",
+    "providerLogo": "https://photos.zillowstatic.com/fp/cb8caaa629c0af2058e60add67b2f2ee-zillow_web_95_35.jpg",
+    "infoString16": null,
+    "buyerBrokerageName": null,
+    "mlsDisclaimer": "The multiple listing data appearing on this website, or contained in reports produced therefrom, is owned and copyrighted by California Regional Multiple Listing Service, Inc. (\"CRMLS\") and is protected by all applicable copyright laws. Information provided is for viewer's personal, non-commercial use and may not be used for any purpose other than to identify prospective properties the viewer may be interested in purchasing. All listing data, including but not limited to square footage and lot size is believed to be accurate, but the listing Agent, listing Broker and CRMLS and its affiliates do not warrant or guarantee such accuracy. The viewer should independently verify the listed data prior to making any decisions based on such information by personal inspection and/or contacting a real estate professional.\n\nBased on information from California Regional Multiple Listing Service, Inc. as of 2025-08-26 21:25:46 PDT and /or other sources. All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy. Properties may or may not be listed by the office/agent presenting the information",
+    "brokerPhoneNumber": "888-584-9427",
+    "lastChecked": "2025-08-26 21:25:46"
+  },
+  "priceChangeDateString": null,
+  "photoCount": 26,
+  "homeStatus": "FOR_SALE",
+  "homeFacts": null,
+  "resoFacts": {
+    "hasAttachedProperty": true,
+    "frontageType": null,
+    "poolFeatures": [
+      "Community",
+      "Heated",
+      "In Ground",
+      "Association"
+    ],
+    "flooring": null,
+    "foundationDetails": {},
+    "accessibilityFeatures": null,
+    "hasGarage": false,
+    "hasPetsAllowed": null,
+    "bodyType": null,
+    "topography": null,
+    "landLeaseExpirationDate": null,
+    "hasAdditionalParcels": false,
+    "parkName": null,
+    "livingQuarters": {},
+    "taxAssessedValue": 305380,
+    "atAGlanceFacts": [
+      {
+        "factValue": "Townhouse",
+        "factLabel": "Type"
+      },
+      {
+        "factValue": "1980",
+        "factLabel": "Year Built"
+      },
+      {
+        "factValue": null,
+        "factLabel": "Heating"
+      },
+      {
+        "factValue": "Central Air",
+        "factLabel": "Cooling"
+      },
+      {
+        "factValue": "1 Carport space",
+        "factLabel": "Parking"
+      },
+      {
+        "factValue": "$474 monthly",
+        "factLabel": "HOA"
+      },
+      {
+        "factValue": null,
+        "factLabel": "Lot"
+      },
+      {
+        "factValue": "39 Days",
+        "factLabel": "Days on Zillow"
+      },
+      {
+        "factValue": "$503",
+        "factLabel": "Price/sqft"
+      },
+      {
+        "factValue": null,
+        "factLabel": "Offer Review Date"
+      }
+    ],
+    "offerReviewDate": null,
+    "horseYN": null,
+    "view": [
+      "Courtyard"
+    ],
+    "rooms": [
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "Bedroom",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": [
+          "All Bedrooms Up"
+        ],
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "FamilyRoom",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": null,
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "Kitchen",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": null,
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "Laundry",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": null,
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "LivingRoom",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": null,
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      }
+    ],
+    "belowGradeFinishedArea": null,
+    "feesAndDues": [
+      {
+        "phone": "858-550-7900",
+        "name": "NN Jaeschke",
+        "fee": "$474 monthly",
+        "type": "HOA"
+      }
+    ],
+    "cityRegion": "San Diego",
+    "mainLevelBathrooms": 1,
+    "hasPrivatePool": null,
+    "landLeaseAmount": null,
+    "waterSource": null,
+    "exteriorFeatures": {},
+    "inclusions": null,
+    "hasFireplace": false,
+    "gas": null,
+    "propertyCondition": "Updated/Remodeled",
+    "elevationUnits": null,
+    "exclusions": null,
+    "mainLevelBedrooms": 0,
+    "numberOfUnitsVacant": null,
+    "hasWaterfrontView": null,
+    "bathroomsOneQuarter": null,
+    "lotSize": null,
+    "entryLevel": null,
+    "media": [
+      {
+        "mediaCategory": "UnbrandedVirtualTour",
+        "mediaURL": "https://www.propertypanorama.com/instaview/crmls/PTP2505467"
+      }
+    ],
+    "greenWaterConservation": null,
+    "stories": 1,
+    "livingArea": "1,542 sqft",
+    "commonWalls": "1 Common Wall",
+    "listingTerms": "Cash,Conventional,VA Loan",
+    "otherParking": null,
+    "associationFee": "$474 monthly",
+    "marketingType": null,
+    "greenIndoorAirQuality": null,
+    "greenSustainability": null,
+    "livingAreaRangeUnits": "Square Feet",
+    "associationPhone": "858-550-7900",
+    "greenBuildingVerificationType": null,
+    "hasAttachedGarage": false,
+    "bedrooms": 3,
+    "architecturalStyle": null,
+    "listingId": null,
+    "structureType": null,
+    "interiorFeatures": [
+      "All Bedrooms Up"
+    ],
+    "horseAmenities": null,
+    "garageParkingCapacity": 0,
+    "developmentStatus": null,
+    "lotFeatures": null,
+    "roofType": null,
+    "compensationBasedOn": null,
+    "greenEnergyGeneration": null,
+    "daysOnZillow": 39,
+    "listAOR": "California Regional MLS (North San Diego County & Pacific Southwest AORs)",
+    "buildingAreaSource": null,
+    "elementarySchool": null,
+    "zoningDescription": null,
+    "irrigationWaterRightsAcres": null,
+    "yearBuiltEffective": null,
+    "greenEnergyEfficient": null,
+    "constructionMaterials": {},
+    "fireplaceFeatures": [
+      "None"
+    ],
+    "hoaFeeTotal": "$474 monthly",
+    "appliances": null,
+    "sewer": null,
+    "bathroomsPartial": null,
+    "fencing": null,
+    "spaFeatures": null,
+    "waterViewYN": false,
+    "buildingName": null,
+    "attic": null,
+    "petsMaxWeight": null,
+    "cumulativeDaysOnMarket": null,
+    "waterfrontFeatures": null,
+    "additionalParcelsDescription": null,
+    "canRaiseHorses": false,
+    "hasLandLease": false,
+    "communityFeatures": [
+      "Park",
+      "Pool"
+    ],
+    "waterBodyName": null,
+    "middleOrJuniorSchool": null,
+    "lotSizeDimensions": null,
+    "virtualTour": "https://www.propertypanorama.com/instaview/crmls/PTP2505467",
+    "contingency": null,
+    "yearBuilt": 1980,
+    "utilities": null,
+    "totalActualRent": null,
+    "bathroomsFull": 2,
+    "parcelNumber": "3111801714",
+    "incomeIncludes": null,
+    "highSchool": null,
+    "taxAnnualAmount": 3709,
+    "subdivisionName": null,
+    "storiesTotal": 2,
+    "storiesDecimal": 1,
+    "specialListingConditions": "Standard",
+    "windowFeatures": null,
+    "ownership": null,
+    "woodedArea": null,
+    "middleOrJuniorSchoolDistrict": null,
+    "associationPhone2": null,
+    "onMarketDate": 1752796800000,
+    "roomTypes": [
+      "Bedroom",
+      "Family Room",
+      "Kitchen",
+      "Laundry",
+      "Living Room"
+    ],
+    "frontageLength": null,
+    "roadSurfaceType": null,
+    "associationAmenities": [
+      "Pool",
+      "Spa/Hot Tub",
+      "Trash"
+    ],
+    "propertySubType": [
+      "Townhouse"
+    ],
+    "hasCooling": true,
+    "levels": "One",
+    "coveredParkingCapacity": 1,
+    "foundationArea": null,
+    "zoning": "R-1:Single Fam-Res",
+    "hoaFee": "$474 monthly",
+    "livingAreaRange": null,
+    "parkingFeatures": [
+      "Carport",
+      "Guest"
+    ],
+    "parkingCapacity": 1,
+    "cropsIncludedYN": null,
+    "tenantPays": null,
+    "builderModel": null,
+    "otherStructures": null,
+    "otherFacts": {},
+    "additionalFeeInfo": null,
+    "hasView": true,
+    "openParkingCapacity": null,
+    "securityFeatures": null,
+    "numberOfUnitsInCommunity": 2,
+    "hasHomeWarranty": false,
+    "basementYN": null,
+    "doorFeatures": null,
+    "ownershipType": null,
+    "aboveGradeFinishedArea": null,
+    "associations": [
+      {
+        "feeFrequency": "$474 monthly",
+        "name": "NN Jaeschke",
+        "phone": "858-550-7900"
+      }
+    ],
+    "waterView": null,
+    "electric": null,
+    "buildingFeatures": null,
+    "hasOpenParking": null,
+    "hasCarport": true,
+    "bathroomsHalf": 1,
+    "homeType": "Townhouse",
+    "isSeniorCommunity": null,
+    "municipality": null,
+    "bathroomsThreeQuarter": null,
+    "hasSpa": false,
+    "basement": null,
+    "associationFee2": null,
+    "cooling": [
+      "Central Air"
+    ],
+    "hasHeating": null,
+    "associationName2": null,
+    "hasRentControl": null,
+    "elementarySchoolDistrict": null,
+    "otherEquipment": null,
+    "bathrooms": 3,
+    "buildingArea": null,
+    "furnished": false,
+    "vegetation": null,
+    "patioAndPorchFeatures": null,
+    "bathroomsFloat": 3,
+    "builderName": null,
+    "highSchoolDistrict": "San Diego Unified",
+    "hasElectricOnProperty": null,
+    "laundryFeatures": [
+      "Laundry Room"
+    ],
+    "entryLocation": "Front Door",
+    "fireplaces": null,
+    "heating": null,
+    "availabilityDate": null,
+    "carportParkingCapacity": 1,
+    "hasAssociation": true,
+    "irrigationWaterRightsYN": null,
+    "isNewConstruction": null,
+    "associationFeeIncludes": null,
+    "leaseTerm": null,
+    "pricePerSquareFoot": 503,
+    "associationName": "NN Jaeschke",
+    "elevation": null
+  },
+  "datePosted": "2025-07-18",
+  "bedrooms": 3,
+  "propertyTypeDimension": "Townhouse",
+  "mortgageZHLRates": {
+    "thirtyYearFixedBucket": {
+      "rate": 6.306,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756268991275
+    },
+    "fifteenYearFixedBucket": {
+      "rate": 5.601,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756268991275
+    },
+    "arm5Bucket": {
+      "rate": 6.529,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756268991275
+    }
+  },
+  "comingSoonOnMarketDate": null,
+  "favoriteCount": 72,
+  "livingArea": 1542,
+  "zestimateHighPercent": "5",
+  "mlsid": "PTP2505467",
+  "isListedByOwner": null,
+  "listingSubType": {
+    "is_comingSoon": false,
+    "is_pending": false,
+    "is_forAuction": false,
+    "is_bankOwned": false,
+    "is_FSBA": true,
+    "is_FSBO": false,
+    "is_newHome": false,
+    "is_foreclosure": false
+  },
+  "buildingId": "1028021591",
+  "country": "USA",
+  "price": 775000,
+  "priceChangeDate": null,
+  "contingentListingType": null
+}

@@ -1,0 +1,1827 @@
+{
+  "buildingPermits": null,
+  "contact_recipients": [
+    {
+      "agent_reason": 1,
+      "zpro": null,
+      "recent_sales": 0,
+      "review_count": 0,
+      "display_name": "Premier Broker Flex Atlanta GA",
+      "badge_type": "Premier Agent",
+      "business_name": "Zillow Group",
+      "rating_average": 0,
+      "phone": {
+        "prefix": "452",
+        "areacode": "206",
+        "number": "1030"
+      },
+      "zuid": "X1-ZUv2ktj4jt3nyh_98wrm",
+      "image_url": "https://www.zillowstatic.com/static/images/nophoto_h_g.png"
+    }
+  ],
+  "longitude": -117.16251,
+  "countyFIPS": "06073",
+  "imgSrc": "https://photos.zillowstatic.com/fp/5ecd224ef9859de9e12335f42dd864e9-p_d.jpg",
+  "livingAreaValue": 1035,
+  "streetAddress": "11530 Caminito La Bar APT 132",
+  "county": "San Diego County",
+  "monthlyHoaFee": 655,
+  "timeZone": "America/Los_Angeles",
+  "taxHistory": [
+    {
+      "time": 1724734531671,
+      "valueIncreaseRate": 0.019996788,
+      "taxIncreaseRate": 0.023368102,
+      "taxPaid": 6008.46,
+      "value": 482740
+    },
+    {
+      "time": 1693112131671,
+      "valueIncreaseRate": 0.019997975,
+      "taxIncreaseRate": 0.028519042,
+      "taxPaid": 5871.26,
+      "value": 473276
+    },
+    {
+      "time": 1661576131671,
+      "valueIncreaseRate": 0.019997802,
+      "taxIncreaseRate": -0.0068512494,
+      "taxPaid": 5708.46,
+      "value": 463997
+    },
+    {
+      "time": 1630040131671,
+      "valueIncreaseRate": 0.33062664,
+      "taxIncreaseRate": 0.32283255,
+      "taxPaid": 5747.84,
+      "value": 454900
+    },
+    {
+      "time": 1598504131671,
+      "valueIncreaseRate": 0.019999046,
+      "taxIncreaseRate": 0.05228613,
+      "taxPaid": 4345.1,
+      "value": 341869
+    },
+    {
+      "time": 1566881731671,
+      "valueIncreaseRate": 0.019997261,
+      "taxIncreaseRate": 0.03380684,
+      "taxPaid": 4129.2,
+      "value": 335166
+    },
+    {
+      "time": 1535345731671,
+      "valueIncreaseRate": 0.019999877,
+      "taxIncreaseRate": 0.025834795,
+      "taxPaid": 3994.17,
+      "value": 328595
+    },
+    {
+      "time": 1503809731671,
+      "valueIncreaseRate": 0.01999772,
+      "taxIncreaseRate": 0.015815483,
+      "taxPaid": 3893.58,
+      "value": 322152
+    },
+    {
+      "time": 1472273731671,
+      "valueIncreaseRate": 0.015246245,
+      "taxIncreaseRate": 0.01452049,
+      "taxPaid": 3832.96,
+      "value": 315836
+    },
+    {
+      "time": 1440651331671,
+      "valueIncreaseRate": 0.01997705,
+      "taxIncreaseRate": 0.015449032,
+      "taxPaid": 3778.1,
+      "value": 311093
+    },
+    {
+      "time": 1409115331671,
+      "valueIncreaseRate": 0.32608697,
+      "taxIncreaseRate": 0,
+      "taxPaid": 3720.62,
+      "value": 305000
+    },
+    {
+      "time": 1377579331671,
+      "valueIncreaseRate": 0.0952381,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 230000
+    },
+    {
+      "time": 1346043331671,
+      "valueIncreaseRate": -0.10638298,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 210000
+    },
+    {
+      "time": 1314420931671,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 235000
+    },
+    {
+      "time": 1282884931671,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 235000
+    },
+    {
+      "time": 1251348931671,
+      "valueIncreaseRate": -0.19141176,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 235000
+    },
+    {
+      "time": 1219812931671,
+      "valueIncreaseRate": 0.019997753,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 290630
+    },
+    {
+      "time": 1188190531671,
+      "valueIncreaseRate": 0.019996706,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 284932
+    },
+    {
+      "time": 1156654531671,
+      "valueIncreaseRate": 0.019994888,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 279346
+    },
+    {
+      "time": 1125118531671,
+      "valueIncreaseRate": 0.02,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 273870
+    },
+    {
+      "time": 1093582531671,
+      "valueIncreaseRate": 0.659887,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 268500
+    },
+    {
+      "time": 1061960131671,
+      "valueIncreaseRate": 0.019995334,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 161758
+    },
+    {
+      "time": 1030424131671,
+      "valueIncreaseRate": 0.019996399,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 158587
+    },
+    {
+      "time": 998888131671,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 155478
+    }
+  ],
+  "dateSold": null,
+  "annualHomeownersInsurance": 2583,
+  "state": "CA",
+  "listed_by": {
+    "agent_reason": 3,
+    "zpro": false,
+    "recent_sales": 0,
+    "zuid": "X1-ZUz6eo5yop6dxl_2nint",
+    "review_count": 6,
+    "display_name": "Gilda Duhs",
+    "profile_url": "https://www.zillow.com/profile/GildaDuhs/",
+    "business_name": "Coldwell Banker Realty",
+    "rating_average": 4.9,
+    "phone": {
+      "prefix": "683",
+      "areacode": "949",
+      "number": "7232"
+    },
+    "badge_type": "Listing Agent",
+    "image_url": "https://photos.zillowstatic.com/fp/c3ec531ed465e538a3ffba84258f7d63-h_n.jpg"
+  },
+  "yearBuilt": 1989,
+  "brokerageName": "Coldwell Banker Realty",
+  "description": "Welcome to this beautifully upgraded upstairs corner unit in the desirable Canyon Bluffs community of Mira Mesa, San Diego. This bright and airy 2-bedroom, 2-bathroom condo includes a spacious loft, vaulted ceilings, and abundant natural light. The upgraded kitchen features upgraded cabinetry, pendant lights, stainless steel appliances and granite countertops. The primary bedroom showcases a stylish wood accent wall. The living room fireplace has been refreshed with a contemporary/industrial look.  Enjoy the convenience of a newer washer, dryer, and hot water heater, plus ample storage with a large attic, patio closet, and carport storage closet. Community amenities include a pool and spa, offering resort-style living in a prime location.  Nearby you will find various hiking trails, restaurants and the 5 Freeway.",
+  "climate": {
+    "windSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "probability": {},
+        "source": {
+          "url": "https://firststreet.org/property/11530-caminito-la-bar-apt-132-san-diego-ca-92126/603338484_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 18
+      }
+    },
+    "floodSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "femaZone": "X_UNSHADED",
+        "source": {
+          "url": "https://firststreet.org/property/11530-caminito-la-bar-apt-132-san-diego-ca-92126/603338484_fsid"
+        },
+        "probability": [
+          {
+            "relativeYear": 0,
+            "probability": 0
+          },
+          {
+            "relativeYear": 5,
+            "probability": 0
+          },
+          {
+            "relativeYear": 10,
+            "probability": 0
+          },
+          {
+            "relativeYear": 15,
+            "probability": 0
+          },
+          {
+            "relativeYear": 20,
+            "probability": 0
+          },
+          {
+            "relativeYear": 25,
+            "probability": 0
+          },
+          {
+            "relativeYear": 30,
+            "probability": 0
+          }
+        ],
+        "insuranceSeparatePolicy": "NOT_REQUIRED",
+        "historicCountPropertyAll": 0
+      }
+    },
+    "fireSources": {
+      "primary": {
+        "insuranceRecommendation": "RECOMMENDED",
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 4
+        },
+        "probability": [
+          {
+            "relativeYear": 0,
+            "probability": 0.00050000002374873
+          },
+          {
+            "relativeYear": 5,
+            "probability": 0.003000000026077
+          },
+          {
+            "relativeYear": 10,
+            "probability": 0.0054999999701977
+          },
+          {
+            "relativeYear": 15,
+            "probability": 0.0080000003799796
+          },
+          {
+            "relativeYear": 20,
+            "probability": 0.010400000028312
+          },
+          {
+            "relativeYear": 25,
+            "probability": 0.012900000438094
+          },
+          {
+            "relativeYear": 30,
+            "probability": 0.015399999916553
+          }
+        ],
+        "source": {
+          "url": "https://firststreet.org/property/11530-caminito-la-bar-apt-132-san-diego-ca-92126/603338484_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 28
+      }
+    },
+    "heatSources": {
+      "primary": {
+        "percentile98Temp": 90,
+        "hotDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 7
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 9
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 11
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 13
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 15
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 17
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 19
+          }
+        ],
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 4
+        },
+        "source": {
+          "url": "https://firststreet.org/property/11530-caminito-la-bar-apt-132-san-diego-ca-92126/603338484_fsid"
+        }
+      }
+    },
+    "airSources": {
+      "primary": {
+        "source": {
+          "url": "https://firststreet.org/property/11530-caminito-la-bar-apt-132-san-diego-ca-92126/603338484_fsid"
+        },
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 3
+        },
+        "badAirDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 4
+          }
+        ]
+      }
+    }
+  },
+  "latitude": 32.927284,
+  "nearbyHomes": [
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "11530 Caminito La Bar APT 130"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/11530-Caminito-La-Bar-APT-130-San-Diego-CA-92126/16783730_zpid/",
+      "lotAreaValue": 2.2654269972452,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "11530 Caminito La Bar APT 130",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.927074,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 648300,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 98682,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/ea57306aacd1ac77fb72ccba044c14b3-p_c.jpg"
+        }
+      ],
+      "zpid": 16783730,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1110,
+      "longitude": -117.16248,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1110
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "sqft",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "11550 Caminito La Bar APT 114"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/11550-Caminito-La-Bar-APT-114-San-Diego-CA-92126/16783714_zpid/",
+      "lotAreaValue": null,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "11550 Caminito La Bar APT 114",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "NDP2407215",
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.927277,
+      "homeStatus": "RECENTLY_SOLD",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 675000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/ee234e2b9575cf76ff74daf045460fb4-p_c.jpg"
+        }
+      ],
+      "zpid": 16783714,
+      "hdpTypeDimension": "RecentlySold",
+      "livingArea": 1210,
+      "longitude": -117.16222,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1210
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "11570 Caminito La Bar APT 98"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/11570-Caminito-La-Bar-APT-98-San-Diego-CA-92126/16783700_zpid/",
+      "lotAreaValue": 2.2654269972452,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "11570 Caminito La Bar APT 98",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.92701,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 719400,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Multi Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 98682,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/6640460dfff3e2fdfaedc260b72acc7e-p_c.jpg"
+        }
+      ],
+      "zpid": 16783700,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1210,
+      "longitude": -117.162415,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "MULTI_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1210
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "sqft",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "11570 Caminito La Bar APT 99"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/11570-Caminito-La-Bar-APT-99-San-Diego-CA-92126/16783701_zpid/",
+      "lotAreaValue": null,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "11570 Caminito La Bar APT 99",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.92701,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 687600,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/4806ca2c9c083c2013dba8a1b2c77548-p_c.jpg"
+        }
+      ],
+      "zpid": 16783701,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 949,
+      "longitude": -117.162415,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 949
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "sqft",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "11570 Caminito La Bar APT 100"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/11570-Caminito-La-Bar-APT-100-San-Diego-CA-92126/16783702_zpid/",
+      "lotAreaValue": null,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "11570 Caminito La Bar APT 100",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.92701,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 675700,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/af7ff839f6bacfb8c4e32a8252966d41-p_c.jpg"
+        }
+      ],
+      "zpid": 16783702,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1110,
+      "longitude": -117.162415,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1110
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "11570 Caminito La Bar APT 101"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/11570-Caminito-La-Bar-APT-101-San-Diego-CA-92126/16783703_zpid/",
+      "lotAreaValue": 2.2654269972452,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "11570 Caminito La Bar APT 101",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.92701,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 601300,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Apartment",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 98682,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/938ca46a68f8650c514d92122d3184bf-p_c.jpg"
+        }
+      ],
+      "zpid": 16783703,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1040,
+      "longitude": -117.162415,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "APARTMENT",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1040
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "11570 Caminito La Bar APT 103"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/11570-Caminito-La-Bar-APT-103-San-Diego-CA-92126/16783704_zpid/",
+      "lotAreaValue": 2.2654269972452,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "11570 Caminito La Bar APT 103",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.92701,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 644900,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 98682,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/204e14b255800fc424c1cd878e515ebe-p_c.jpg"
+        }
+      ],
+      "zpid": 16783704,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1040,
+      "longitude": -117.162415,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1040
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "11570 Caminito La Bar APT 104"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/11570-Caminito-La-Bar-APT-104-San-Diego-CA-92126/16783705_zpid/",
+      "lotAreaValue": 2.2654269972452,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "11570 Caminito La Bar APT 104",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.92701,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 725200,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Townhouse",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 98682,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/70b5371fa7215712576427f6efc69474-p_c.jpg"
+        }
+      ],
+      "zpid": 16783705,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1210,
+      "longitude": -117.162415,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "TOWNHOUSE",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1210
+    }
+  ],
+  "priceHistory": [
+    {
+      "priceChangeRate": -0.0048543689320388,
+      "date": "2025-08-22",
+      "source": "CRMLS",
+      "postingIsRental": false,
+      "time": 1755820800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "CRMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/cb8caaa629c0af2058e60add67b2f2ee-zillow_web_logo_inf_11.jpg",
+        "infoString1": "LG25163487"
+      },
+      "pricePerSquareFoot": 594,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 615000
+    },
+    {
+      "priceChangeRate": 0.35854033853594,
+      "date": "2025-07-21",
+      "source": "CRMLS",
+      "postingIsRental": false,
+      "time": 1753056000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "CRMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/cb8caaa629c0af2058e60add67b2f2ee-zillow_web_logo_inf_11.jpg",
+        "infoString1": "LG25163487"
+      },
+      "pricePerSquareFoot": 597,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 618000
+    },
+    {
+      "priceChangeRate": 0.011113580795732,
+      "date": "2020-09-21",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1600646400000,
+      "sellerAgent": {
+        "name": "Uzma Ahmed",
+        "photo": null,
+        "profileUrl": "/profile/UzmaPena/"
+      },
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "200040441"
+      },
+      "pricePerSquareFoot": 440,
+      "buyerAgent": null,
+      "event": "Sold",
+      "price": 454900
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2020-08-24",
+      "source": "Keller Williams Realty",
+      "postingIsRental": false,
+      "time": 1598227200000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Keller Williams Realty",
+        "infoString3": null,
+        "infoString1": "200040441"
+      },
+      "pricePerSquareFoot": 435,
+      "buyerAgent": null,
+      "event": "Pending sale",
+      "price": 449900
+    },
+    {
+      "priceChangeRate": 0.47508196721311,
+      "date": "2020-08-21",
+      "source": "Keller Williams Realty",
+      "postingIsRental": false,
+      "time": 1597968000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Keller Williams Realty",
+        "infoString3": null,
+        "infoString1": "200040441"
+      },
+      "pricePerSquareFoot": 435,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 449900
+    },
+    {
+      "priceChangeRate": -0.031746031746032,
+      "date": "2013-08-08",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 1375920000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 295,
+      "buyerAgent": {
+        "name": "Uzma Ahmed",
+        "photo": null,
+        "profileUrl": "/profile/UzmaPena/"
+      },
+      "event": "Sold",
+      "price": 305000
+    },
+    {
+      "priceChangeRate": 0.1731843575419,
+      "date": "2013-07-13",
+      "source": "SureSell Real Estate",
+      "postingIsRental": false,
+      "time": 1373673600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SureSell Real Estate",
+        "infoString3": null,
+        "infoString1": "130036846"
+      },
+      "pricePerSquareFoot": 304,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 315000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2003-08-18",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 1061164800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 259,
+      "buyerAgent": null,
+      "event": "Sold",
+      "price": 268500
+    }
+  ],
+  "neighborhoodMapThumb": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/5ecd224ef9859de9e12335f42dd864e9-p_c.jpg"
+    }
+  ],
+  "schools": [
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6231-Sandburg-Elementary-School/",
+      "rating": 7,
+      "totalCount": null,
+      "distance": 0.8,
+      "assigned": null,
+      "name": "Sandburg Elementary School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Elementary",
+      "grades": "K-5",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6115-Challenger-Middle-School/",
+      "rating": 7,
+      "totalCount": null,
+      "distance": 1,
+      "assigned": null,
+      "name": "Challenger Middle School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Middle",
+      "grades": "6-8",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6203-Mira-Mesa-High-School/",
+      "rating": 9,
+      "totalCount": null,
+      "distance": 1.7,
+      "assigned": null,
+      "name": "Mira Mesa High School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "High",
+      "grades": "9-12",
+      "type": "Public"
+    }
+  ],
+  "rentZestimate": 2977,
+  "city": "San Diego",
+  "providerListingID": null,
+  "currency": "USD",
+  "listingProvider": null,
+  "propertyTaxRate": 1.17,
+  "isShowcaseListing": false,
+  "openHouseSchedule": {},
+  "mortgageRates": null,
+  "address": {
+    "community": null,
+    "city": "San Diego",
+    "state": "CA",
+    "neighborhood": null,
+    "subdivision": "Mira Mesa",
+    "streetAddress": "11530 Caminito La Bar APT 132",
+    "zipcode": "92126"
+  },
+  "cityId": 54296,
+  "timeOnZillow": "36 days",
+  "priceChange": -3000,
+  "zestimate": 610300,
+  "zpid": 16783732,
+  "countyId": 2841,
+  "homeType": "CONDO",
+  "livingAreaUnits": "sqft",
+  "pageViewCount": 1773,
+  "homeInsights": [
+    {
+      "insights": [
+        {
+          "treatmentId": "model_0",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Spacious loft",
+            "Abundant natural light",
+            "Upgraded upstairs corner unit",
+            "Stainless steel appliances",
+            "Granite countertops",
+            "Ample storage",
+            "Carport storage closet"
+          ]
+        },
+        {
+          "treatmentId": "model_1",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Spacious loft",
+            "Abundant natural light",
+            "Upgraded upstairs corner unit",
+            "Stainless steel appliances",
+            "Granite countertops",
+            "Ample storage",
+            "Carport storage closet"
+          ]
+        }
+      ]
+    }
+  ],
+  "bathrooms": 2,
+  "neighborhoodRegion": {
+    "name": "Mira Mesa"
+  },
+  "zipcode": "92126",
+  "building": null,
+  "zestimateLowPercent": "5",
+  "brokerId": null,
+  "stateId": 9,
+  "url": "/homedetails/11530-Caminito-La-Bar-APT-132-San-Diego-CA-92126/16783732_zpid/",
+  "solarPotential": null,
+  "attributionInfo": {
+    "buyerAgentName": null,
+    "infoString3": "https://photos.zillowstatic.com/fp/cb8caaa629c0af2058e60add67b2f2ee-zillow_web_95_35.jpg",
+    "mlsName": "CRMLS",
+    "coAgentLicenseNumber": null,
+    "listingAgreement": null,
+    "listingOffices": [
+      {
+        "associatedOfficeType": "listOffice",
+        "officeName": "Coldwell Banker Realty"
+      }
+    ],
+    "infoString10": "The multiple listing data appearing on this website, or contained in reports produced therefrom, is owned and copyrighted by California Regional Multiple Listing Service, Inc. (\"CRMLS\") and is protected by all applicable copyright laws. Information provided is for viewer's personal, non-commercial use and may not be used for any purpose other than to identify prospective properties the viewer may be interested in purchasing. All listing data, including but not limited to square footage and lot size is believed to be accurate, but the listing Agent, listing Broker and CRMLS and its affiliates do not warrant or guarantee such accuracy. The viewer should independently verify the listed data prior to making any decisions based on such information by personal inspection and/or contacting a real estate professional.\n\nBased on information from California Regional Multiple Listing Service, Inc. as of 2025-08-26 21:25:46 PDT and /or other sources. All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy. Properties may or may not be listed by the office/agent presenting the information",
+    "buyerAgentMemberStateLicense": null,
+    "brokerName": "Coldwell Banker Realty",
+    "listingAttributionContact": "949-683-7232",
+    "lastUpdated": "2025-08-22 14:57:44",
+    "trueStatus": null,
+    "listingAgentAttributionContact": null,
+    "agentEmail": null,
+    "agentName": "Gilda Duhs",
+    "attributionTitle": "Listing Provided by:",
+    "mlsId": "LG25163487",
+    "coAgentName": null,
+    "coAgentNumber": null,
+    "infoString5": "949-499-1320",
+    "listingAgents": [
+      {
+        "memberStateLicense": "DRE #00892910",
+        "memberFullName": "Gilda Duhs",
+        "associatedAgentType": "listAgent"
+      }
+    ],
+    "agentPhoneNumber": "949-499-1320",
+    "agentLicenseNumber": "DRE #00892910",
+    "providerLogo": "https://photos.zillowstatic.com/fp/cb8caaa629c0af2058e60add67b2f2ee-zillow_web_95_35.jpg",
+    "infoString16": null,
+    "buyerBrokerageName": null,
+    "mlsDisclaimer": "The multiple listing data appearing on this website, or contained in reports produced therefrom, is owned and copyrighted by California Regional Multiple Listing Service, Inc. (\"CRMLS\") and is protected by all applicable copyright laws. Information provided is for viewer's personal, non-commercial use and may not be used for any purpose other than to identify prospective properties the viewer may be interested in purchasing. All listing data, including but not limited to square footage and lot size is believed to be accurate, but the listing Agent, listing Broker and CRMLS and its affiliates do not warrant or guarantee such accuracy. The viewer should independently verify the listed data prior to making any decisions based on such information by personal inspection and/or contacting a real estate professional.\n\nBased on information from California Regional Multiple Listing Service, Inc. as of 2025-08-26 21:25:46 PDT and /or other sources. All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy. Properties may or may not be listed by the office/agent presenting the information",
+    "brokerPhoneNumber": "949-499-1320",
+    "lastChecked": "2025-08-26 21:25:46"
+  },
+  "priceChangeDateString": "2025-08-22",
+  "photoCount": 23,
+  "homeStatus": "FOR_SALE",
+  "homeFacts": null,
+  "resoFacts": {
+    "hasAttachedProperty": true,
+    "frontageType": null,
+    "poolFeatures": [
+      "Community",
+      "Heated",
+      "In Ground",
+      "Association"
+    ],
+    "flooring": [
+      "Carpet",
+      "Laminate"
+    ],
+    "foundationDetails": {},
+    "accessibilityFeatures": [
+      "None"
+    ],
+    "hasGarage": false,
+    "hasPetsAllowed": null,
+    "bodyType": null,
+    "topography": null,
+    "landLeaseExpirationDate": null,
+    "hasAdditionalParcels": false,
+    "parkName": null,
+    "livingQuarters": {},
+    "taxAssessedValue": 482740,
+    "atAGlanceFacts": [
+      {
+        "factValue": "Condominium",
+        "factLabel": "Type"
+      },
+      {
+        "factValue": "1989",
+        "factLabel": "Year Built"
+      },
+      {
+        "factValue": "Forced Air, Fireplace(s), Natural Gas",
+        "factLabel": "Heating"
+      },
+      {
+        "factValue": "None",
+        "factLabel": "Cooling"
+      },
+      {
+        "factValue": "1 Carport space",
+        "factLabel": "Parking"
+      },
+      {
+        "factValue": "$655 monthly",
+        "factLabel": "HOA"
+      },
+      {
+        "factValue": "36 Days",
+        "factLabel": "Days on Zillow"
+      },
+      {
+        "factValue": "$594",
+        "factLabel": "Price/sqft"
+      },
+      {
+        "factValue": null,
+        "factLabel": "Offer Review Date"
+      }
+    ],
+    "offerReviewDate": null,
+    "horseYN": null,
+    "view": [
+      "Canyon",
+      "Hills",
+      "Neighborhood"
+    ],
+    "rooms": [
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "MasterBedroom",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": null,
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "MasterBathroom",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": null,
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "Bathroom",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": [
+          "Dual Sinks",
+          "Tub Shower"
+        ],
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "Kitchen",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": null,
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "Kitchen",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": [
+          "Granite Counters",
+          "Remodeled",
+          "Updated Kitchen"
+        ],
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "LivingRoom",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": null,
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "Loft",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": null,
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      }
+    ],
+    "belowGradeFinishedArea": null,
+    "feesAndDues": [
+      {
+        "phone": "800-232-7517",
+        "name": "Canyon Bluffs",
+        "fee": "$655 monthly",
+        "type": "HOA"
+      }
+    ],
+    "cityRegion": "San Diego",
+    "mainLevelBathrooms": 2,
+    "hasPrivatePool": null,
+    "landLeaseAmount": null,
+    "waterSource": [
+      "Public"
+    ],
+    "exteriorFeatures": {},
+    "inclusions": [
+      "washer",
+      "dryer"
+    ],
+    "hasFireplace": true,
+    "gas": null,
+    "propertyCondition": null,
+    "elevationUnits": "Feet",
+    "exclusions": [
+      "Patio furniture",
+      "mirror in living room",
+      "mirror in primary bedroom"
+    ],
+    "mainLevelBedrooms": 2,
+    "numberOfUnitsVacant": null,
+    "hasWaterfrontView": null,
+    "bathroomsOneQuarter": 0,
+    "lotSize": "2.27 Acres",
+    "entryLevel": null,
+    "media": [
+      {
+        "mediaCategory": "BrandedVirtualTour",
+        "mediaURL": "https://tours.previewfirst.com/pw/153768"
+      },
+      {
+        "mediaCategory": "UnbrandedVirtualTour",
+        "mediaURL": "https://tours.previewfirst.com/ml/153768"
+      }
+    ],
+    "greenWaterConservation": null,
+    "stories": 1,
+    "livingArea": "1,035 sqft",
+    "commonWalls": "1 Common Wall,End Unit,No One Above",
+    "listingTerms": "Cash,Cash to New Loan,Conventional",
+    "otherParking": null,
+    "associationFee": "$655 monthly",
+    "marketingType": null,
+    "greenIndoorAirQuality": null,
+    "greenSustainability": null,
+    "livingAreaRangeUnits": "Square Feet",
+    "associationPhone": "800-232-7517",
+    "greenBuildingVerificationType": null,
+    "hasAttachedGarage": false,
+    "bedrooms": 2,
+    "architecturalStyle": null,
+    "listingId": null,
+    "structureType": "House",
+    "interiorFeatures": [
+      "Breakfast Bar",
+      "Balcony",
+      "Ceiling Fan(s)",
+      "Granite Counters",
+      "High Ceilings",
+      "Loft"
+    ],
+    "horseAmenities": null,
+    "garageParkingCapacity": 0,
+    "developmentStatus": null,
+    "lotFeatures": null,
+    "roofType": null,
+    "compensationBasedOn": null,
+    "greenEnergyGeneration": null,
+    "daysOnZillow": 36,
+    "listAOR": "California Regional MLS",
+    "buildingAreaSource": null,
+    "elementarySchool": null,
+    "zoningDescription": null,
+    "irrigationWaterRightsAcres": null,
+    "yearBuiltEffective": null,
+    "greenEnergyEfficient": null,
+    "constructionMaterials": {},
+    "fireplaceFeatures": [
+      "Gas",
+      "Living Room"
+    ],
+    "hoaFeeTotal": "$655 monthly",
+    "appliances": [
+      "Dishwasher",
+      "Gas Cooktop",
+      "Gas Oven",
+      "Gas Water Heater",
+      "Microwave",
+      "Refrigerator",
+      "Dryer",
+      "Washer"
+    ],
+    "sewer": [
+      "Public Sewer"
+    ],
+    "bathroomsPartial": null,
+    "fencing": null,
+    "spaFeatures": [
+      "Association",
+      "Community",
+      "Heated",
+      "In Ground"
+    ],
+    "waterViewYN": false,
+    "buildingName": null,
+    "attic": null,
+    "petsMaxWeight": null,
+    "cumulativeDaysOnMarket": "37 days",
+    "waterfrontFeatures": null,
+    "additionalParcelsDescription": null,
+    "canRaiseHorses": false,
+    "hasLandLease": false,
+    "communityFeatures": [
+      "Street Lights",
+      "Suburban",
+      "Sidewalks",
+      "Pool"
+    ],
+    "waterBodyName": null,
+    "middleOrJuniorSchool": null,
+    "lotSizeDimensions": null,
+    "virtualTour": "https://tours.previewfirst.com/pw/153768",
+    "contingency": null,
+    "yearBuilt": 1989,
+    "utilities": null,
+    "totalActualRent": null,
+    "bathroomsFull": 2,
+    "parcelNumber": "3094300736",
+    "incomeIncludes": null,
+    "highSchool": null,
+    "taxAnnualAmount": 6008,
+    "subdivisionName": "Mira Mesa",
+    "storiesTotal": 2,
+    "storiesDecimal": 1,
+    "specialListingConditions": "Standard",
+    "windowFeatures": null,
+    "ownership": null,
+    "woodedArea": null,
+    "middleOrJuniorSchoolDistrict": null,
+    "associationPhone2": null,
+    "onMarketDate": 1753056000000,
+    "roomTypes": [
+      "Kitchen",
+      "Loft",
+      "Living Room",
+      "Primary Bathroom",
+      "Primary Bedroom"
+    ],
+    "frontageLength": null,
+    "roadSurfaceType": null,
+    "associationAmenities": [
+      "Maintenance Grounds",
+      "Pool",
+      "Pet Restrictions",
+      "Spa/Hot Tub",
+      "Trash",
+      "Water"
+    ],
+    "propertySubType": [
+      "Condominium"
+    ],
+    "hasCooling": false,
+    "levels": "One",
+    "coveredParkingCapacity": 1,
+    "foundationArea": null,
+    "zoning": null,
+    "hoaFee": "$655 monthly",
+    "livingAreaRange": null,
+    "parkingFeatures": [
+      "Carport",
+      "Detached Carport"
+    ],
+    "parkingCapacity": 1,
+    "cropsIncludedYN": null,
+    "tenantPays": null,
+    "builderModel": null,
+    "otherStructures": null,
+    "otherFacts": {},
+    "additionalFeeInfo": null,
+    "hasView": true,
+    "openParkingCapacity": null,
+    "securityFeatures": [
+      "Carbon Monoxide Detector(s)",
+      "Smoke Detector(s)"
+    ],
+    "numberOfUnitsInCommunity": 172,
+    "hasHomeWarranty": false,
+    "basementYN": null,
+    "doorFeatures": null,
+    "ownershipType": null,
+    "aboveGradeFinishedArea": null,
+    "associations": [
+      {
+        "feeFrequency": "$655 monthly",
+        "name": "Canyon Bluffs",
+        "phone": "800-232-7517"
+      }
+    ],
+    "waterView": null,
+    "electric": null,
+    "buildingFeatures": null,
+    "hasOpenParking": null,
+    "hasCarport": true,
+    "bathroomsHalf": 0,
+    "homeType": "Condo",
+    "isSeniorCommunity": null,
+    "municipality": null,
+    "bathroomsThreeQuarter": 0,
+    "hasSpa": true,
+    "basement": null,
+    "associationFee2": null,
+    "cooling": [
+      "None"
+    ],
+    "hasHeating": true,
+    "associationName2": null,
+    "hasRentControl": null,
+    "elementarySchoolDistrict": null,
+    "otherEquipment": null,
+    "bathrooms": 2,
+    "buildingArea": null,
+    "furnished": false,
+    "vegetation": null,
+    "patioAndPorchFeatures": [
+      "Front Porch"
+    ],
+    "bathroomsFloat": 2,
+    "builderName": null,
+    "highSchoolDistrict": "San Diego Unified",
+    "hasElectricOnProperty": null,
+    "laundryFeatures": [
+      "Inside",
+      "Laundry Closet"
+    ],
+    "entryLocation": "2",
+    "fireplaces": null,
+    "heating": [
+      "Forced Air",
+      "Fireplace(s)",
+      "Natural Gas"
+    ],
+    "availabilityDate": null,
+    "carportParkingCapacity": 1,
+    "hasAssociation": true,
+    "irrigationWaterRightsYN": null,
+    "isNewConstruction": false,
+    "associationFeeIncludes": [
+      "Sewer"
+    ],
+    "leaseTerm": null,
+    "pricePerSquareFoot": 594,
+    "associationName": "Canyon Bluffs",
+    "elevation": null
+  },
+  "datePosted": "2025-07-21",
+  "bedrooms": 2,
+  "propertyTypeDimension": "Condo",
+  "mortgageZHLRates": {
+    "thirtyYearFixedBucket": {
+      "rate": 6.286,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756264770457
+    },
+    "fifteenYearFixedBucket": {
+      "rate": 5.601,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756264770457
+    },
+    "arm5Bucket": {
+      "rate": 6.529,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756264770457
+    }
+  },
+  "comingSoonOnMarketDate": null,
+  "favoriteCount": 86,
+  "livingArea": 1035,
+  "zestimateHighPercent": "5",
+  "mlsid": "LG25163487",
+  "isListedByOwner": null,
+  "listingSubType": {
+    "is_comingSoon": false,
+    "is_pending": false,
+    "is_forAuction": false,
+    "is_bankOwned": false,
+    "is_FSBA": true,
+    "is_FSBO": false,
+    "is_newHome": false,
+    "is_foreclosure": false
+  },
+  "buildingId": "1005784265",
+  "country": "USA",
+  "price": 615000,
+  "priceChangeDate": 1755820800000,
+  "contingentListingType": null
+}

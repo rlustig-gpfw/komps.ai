@@ -1,0 +1,1492 @@
+{
+  "buildingPermits": null,
+  "contact_recipients": [
+    {
+      "agent_reason": 1,
+      "zpro": null,
+      "recent_sales": 0,
+      "review_count": 0,
+      "display_name": "Premier Broker Flex Atlanta GA",
+      "badge_type": "Premier Agent",
+      "business_name": "Zillow Group",
+      "rating_average": 0,
+      "phone": {
+        "prefix": "452",
+        "areacode": "206",
+        "number": "1030"
+      },
+      "zuid": "X1-ZUv2ktj4jt3nyh_98wrm",
+      "image_url": "https://www.zillowstatic.com/static/images/nophoto_h_g.png"
+    }
+  ],
+  "longitude": -117.16002,
+  "countyFIPS": "06073",
+  "imgSrc": "https://photos.zillowstatic.com/fp/ba53b18921af498ddd4d77f63f5a514a-p_d.jpg",
+  "livingAreaValue": 1008,
+  "streetAddress": "7572 Northrup Dr",
+  "county": "San Diego County",
+  "monthlyHoaFee": null,
+  "timeZone": "America/Los_Angeles",
+  "taxHistory": [
+    {
+      "time": 1724734152848,
+      "valueIncreaseRate": 0.019996757,
+      "taxIncreaseRate": 0.008535582,
+      "taxPaid": 4766.42,
+      "value": 553591
+    },
+    {
+      "time": 1693111752848,
+      "valueIncreaseRate": 0.019998234,
+      "taxIncreaseRate": 0.0063283513,
+      "taxPaid": 4726.08,
+      "value": 542738
+    },
+    {
+      "time": 1661575752848,
+      "valueIncreaseRate": 0.019999463,
+      "taxIncreaseRate": 0.008313164,
+      "taxPaid": 4696.36,
+      "value": 532097
+    },
+    {
+      "time": 1630039752848,
+      "valueIncreaseRate": 0.010357997,
+      "taxIncreaseRate": 0.0048542223,
+      "taxPaid": 4657.64,
+      "value": 521664
+    },
+    {
+      "time": 1598503752848,
+      "valueIncreaseRate": 0.019996285,
+      "taxIncreaseRate": 0.025836632,
+      "taxPaid": 4635.14,
+      "value": 516316
+    },
+    {
+      "time": 1566881352848,
+      "valueIncreaseRate": 0.019999234,
+      "taxIncreaseRate": 0.052469697,
+      "taxPaid": 4518.4,
+      "value": 506194
+    },
+    {
+      "time": 1535345352848,
+      "valueIncreaseRate": 0.019998398,
+      "taxIncreaseRate": 0.02167997,
+      "taxPaid": 4293.14,
+      "value": 496269
+    },
+    {
+      "time": 1503809352848,
+      "valueIncreaseRate": 0.019997904,
+      "taxIncreaseRate": 0.014098764,
+      "taxPaid": 4202.04,
+      "value": 486539
+    },
+    {
+      "time": 1472273352848,
+      "valueIncreaseRate": 0.3697922,
+      "taxIncreaseRate": 0.3783306,
+      "taxPaid": 4143.62,
+      "value": 477000
+    },
+    {
+      "time": 1440650952848,
+      "valueIncreaseRate": 0.019979086,
+      "taxIncreaseRate": -0.26055816,
+      "taxPaid": 3006.26,
+      "value": 348228
+    },
+    {
+      "time": 1409114952848,
+      "valueIncreaseRate": 0.004537096,
+      "taxIncreaseRate": 0,
+      "taxPaid": 4065.58,
+      "value": 341407
+    },
+    {
+      "time": 1377578952848,
+      "valueIncreaseRate": 0.01999688,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 339865
+    },
+    {
+      "time": 1346042952848,
+      "valueIncreaseRate": 0.019998837,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 333202
+    },
+    {
+      "time": 1314420552848,
+      "valueIncreaseRate": 0.007525545,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 326669
+    },
+    {
+      "time": 1282884552848,
+      "valueIncreaseRate": 0.81795704,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 324229
+    },
+    {
+      "time": 1251348552848,
+      "valueIncreaseRate": 0.019994052,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 178348
+    },
+    {
+      "time": 1219812552848,
+      "valueIncreaseRate": 0.0199972,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 174852
+    },
+    {
+      "time": 1188190152848,
+      "valueIncreaseRate": 0.019998454,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 171424
+    },
+    {
+      "time": 1156654152848,
+      "valueIncreaseRate": 0.019991625,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 168063
+    },
+    {
+      "time": 1125118152848,
+      "valueIncreaseRate": 0.019995172,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 164769
+    },
+    {
+      "time": 1093582152848,
+      "valueIncreaseRate": 0.018659351,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 161539
+    },
+    {
+      "time": 1061959752848,
+      "valueIncreaseRate": 0.019997299,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 158580
+    },
+    {
+      "time": 1030423752848,
+      "valueIncreaseRate": 0.019996982,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 155471
+    },
+    {
+      "time": 998887752848,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 152423
+    }
+  ],
+  "dateSold": null,
+  "annualHomeownersInsurance": 3569,
+  "state": "CA",
+  "listed_by": {
+    "agent_reason": 3,
+    "zpro": false,
+    "recent_sales": 0,
+    "zuid": "X1-ZU12z27xg6jl1c9_3l8b5",
+    "review_count": 2,
+    "display_name": "Stefan DeLorenzo",
+    "profile_url": "https://www.zillow.com/profile/stefan683/",
+    "business_name": "eXp Realty of California, Inc.",
+    "rating_average": 5,
+    "phone": {
+      "prefix": "384",
+      "areacode": "619",
+      "number": "7571"
+    },
+    "badge_type": "Listing Agent",
+    "image_url": "https://photos.zillowstatic.com/fp/930edef86082f2fe2f02587dc1ae38af-h_n.jpg"
+  },
+  "yearBuilt": 1985,
+  "brokerageName": "eXp Realty of California, Inc.",
+  "description": "Step inside and feel the difference—this fully remodeled beauty was designed for modern living. The open-concept layout blends kitchen, dining, and living into one seamless space, perfect for effortless entertaining and everyday comfort. Every finish has been thoughtfully upgraded, from sleek flooring underfoot to the stylish, high-end fixtures that elevate each room. Natural light floods the interiors, highlighting clean lines and creating an airy, welcoming vibe. The spa-inspired bath features a deep, jetted soaking tub—perfect for unwinding after a long day. Outside, enjoy a private yard ready for weekend barbecues or a quiet morning coffee. Plus, with fully paid-off solar panels that virtually eliminate your electric bill, you’ll enjoy modern efficiency along with modern design. Located in a friendly, convenient neighborhood with easy access to shopping, dining, and major freeways, this home delivers both style and location in one perfect package.",
+  "climate": {
+    "windSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "probability": {},
+        "source": {
+          "url": "https://firststreet.org/property/7572-northrup-dr-san-diego-ca-92126/603383216_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 18
+      }
+    },
+    "floodSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "femaZone": "X_UNSHADED",
+        "source": {
+          "url": "https://firststreet.org/property/7572-northrup-dr-san-diego-ca-92126/603383216_fsid"
+        },
+        "probability": [
+          {
+            "relativeYear": 0,
+            "probability": 0
+          },
+          {
+            "relativeYear": 5,
+            "probability": 0
+          },
+          {
+            "relativeYear": 10,
+            "probability": 0
+          },
+          {
+            "relativeYear": 15,
+            "probability": 0
+          },
+          {
+            "relativeYear": 20,
+            "probability": 0
+          },
+          {
+            "relativeYear": 25,
+            "probability": 0
+          },
+          {
+            "relativeYear": 30,
+            "probability": 0
+          }
+        ],
+        "insuranceSeparatePolicy": "NOT_REQUIRED",
+        "historicCountPropertyAll": 0
+      }
+    },
+    "fireSources": {
+      "primary": {
+        "insuranceRecommendation": "RECOMMENDED",
+        "riskScore": {
+          "label": "MINOR",
+          "max": 10,
+          "value": 2
+        },
+        "probability": [
+          {
+            "relativeYear": 0,
+            "probability": 0
+          },
+          {
+            "relativeYear": 5,
+            "probability": 0
+          },
+          {
+            "relativeYear": 10,
+            "probability": 0
+          },
+          {
+            "relativeYear": 15,
+            "probability": 0
+          },
+          {
+            "relativeYear": 20,
+            "probability": 0
+          },
+          {
+            "relativeYear": 25,
+            "probability": 0
+          },
+          {
+            "relativeYear": 30,
+            "probability": 0
+          }
+        ],
+        "source": {
+          "url": "https://firststreet.org/property/7572-northrup-dr-san-diego-ca-92126/603383216_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 32
+      }
+    },
+    "heatSources": {
+      "primary": {
+        "percentile98Temp": 90,
+        "hotDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 7
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 9
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 11
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 13
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 15
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 17
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 19
+          }
+        ],
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 3
+        },
+        "source": {
+          "url": "https://firststreet.org/property/7572-northrup-dr-san-diego-ca-92126/603383216_fsid"
+        }
+      }
+    },
+    "airSources": {
+      "primary": {
+        "source": {
+          "url": "https://firststreet.org/property/7572-northrup-dr-san-diego-ca-92126/603383216_fsid"
+        },
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 3
+        },
+        "badAirDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 4
+          }
+        ]
+      }
+    }
+  },
+  "latitude": 32.901447,
+  "nearbyHomes": [
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "7564 Northrup Dr"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/7564-Northrup-Dr-San-Diego-CA-92126/16833388_zpid/",
+      "lotAreaValue": 5721,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "7564 Northrup Dr",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.901398,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1070600,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 5721,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=7564+Northrup+Dr%2C+San+Diego%2C+CA+92126&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=jppODpyuP0iiQ4zpwHEpqScWvQU="
+        }
+      ],
+      "zpid": 16833388,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1508,
+      "longitude": -117.16018,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1508
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "7578 Northrup Dr"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/7578-Northrup-Dr-San-Diego-CA-92126/16833390_zpid/",
+      "lotAreaValue": 5604,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "7578 Northrup Dr",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.901505,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1061200,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 5604,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=7578+Northrup+Dr%2C+San+Diego%2C+CA+92126&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=-P43QMC2eNcHNExENMYC62MKcD8="
+        }
+      ],
+      "zpid": 16833390,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1366,
+      "longitude": -117.15986,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1366
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "sqft",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "7558 Northrup Dr"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/7558-Northrup-Dr-San-Diego-CA-92126/16833487_zpid/",
+      "lotAreaValue": null,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "7558 Northrup Dr",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.901344,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1164600,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/8bee4ec59247793b731f8ddd9399a251-p_c.jpg"
+        }
+      ],
+      "zpid": 16833487,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1366,
+      "longitude": -117.16034,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": "1zmpx1sa5w16x",
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1366
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "7586 Northrup Dr"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/7586-Northrup-Dr-San-Diego-CA-92126/16833391_zpid/",
+      "lotAreaValue": 5639,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "7586 Northrup Dr",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.901558,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1066800,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 5639,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=7586+Northrup+Dr%2C+San+Diego%2C+CA+92126&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=v_Owqu3x58QzdkMF5LJIYGlEKcw="
+        }
+      ],
+      "zpid": 16833391,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1684,
+      "longitude": -117.1597,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1684
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "sqft",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "7556 Northrup Dr"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/7556-Northrup-Dr-San-Diego-CA-92126/432716506_zpid/",
+      "lotAreaValue": null,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "7556 Northrup Dr",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.901134,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1161700,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 5,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/949e311e2b879d1cd6eb4705cec665d1-p_c.jpg"
+        }
+      ],
+      "zpid": 432716506,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": null,
+      "longitude": -117.16025,
+      "livingAreaUnitsShort": null,
+      "providerListingID": "1cp7uepqc7bye",
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": null,
+      "currency": "USD",
+      "livingAreaValue": null
+    },
+    {
+      "hdpTypeDimension": "RecentlySold",
+      "lotAreaUnits": "Square Feet",
+      "isShowcaseListing": false,
+      "longitude": -117.159706,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "7587 Northrup Dr",
+        "zipcode": "92126"
+      },
+      "livingAreaValue": 1284,
+      "lotSize": 4791,
+      "zpid": 16833430,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 2,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "7587 Northrup Dr"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "hdpUrl": "/homedetails/7587-Northrup-Dr-San-Diego-CA-92126/16833430_zpid/",
+      "lotAreaValue": 4791.6,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "250027780",
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "RECENTLY_SOLD",
+      "latitude": 32.901134,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "newConstructionType": null,
+      "yearBuilt": 1985,
+      "listingTypeDimension": "Unknown Listed By",
+      "livingArea": 1284,
+      "providerListingID": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/f2eb33b4e948446bce7e98dd25a05330-p_c.jpg"
+        }
+      ],
+      "currency": "USD",
+      "price": 1060000,
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "7550 Northrup Dr"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/7550-Northrup-Dr-San-Diego-CA-92126/16833488_zpid/",
+      "lotAreaValue": 5510,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "7550 Northrup Dr",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.90129,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1131400,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 5510,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=7550+Northrup+Dr%2C+San+Diego%2C+CA+92126&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=xEiopAVj3r0DGlxQCdZwEGjGfsw="
+        }
+      ],
+      "zpid": 16833488,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1584,
+      "longitude": -117.1605,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1584
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Square Feet",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "7592 Northrup Dr"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/7592-Northrup-Dr-San-Diego-CA-92126/16833392_zpid/",
+      "lotAreaValue": 5631,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "7592 Northrup Dr",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.90161,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1135400,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 5631,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=7592+Northrup+Dr%2C+San+Diego%2C+CA+92126&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ccDFqLIwb0JkS4Ukh5Gr_TmNbUU="
+        }
+      ],
+      "zpid": 16833392,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1938,
+      "longitude": -117.15954,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1938
+    }
+  ],
+  "priceHistory": [
+    {
+      "priceChangeRate": 0.78155136268344,
+      "date": "2025-08-20",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1755648000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "250036024"
+      },
+      "pricePerSquareFoot": 843,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 849800
+    },
+    {
+      "priceChangeRate": 0.46769230769231,
+      "date": "2015-09-28",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 1443398400000,
+      "sellerAgent": {
+        "name": "Maya Cima",
+        "photo": null,
+        "profileUrl": "/profile/MayaCima1/"
+      },
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 473,
+      "buyerAgent": null,
+      "event": "Sold",
+      "price": 477000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2009-05-28",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 1243468800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 322,
+      "buyerAgent": null,
+      "event": "Sold",
+      "price": 325000
+    }
+  ],
+  "neighborhoodMapThumb": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/ba53b18921af498ddd4d77f63f5a514a-p_c.jpg"
+    }
+  ],
+  "schools": [
+    {
+      "link": "https://www.greatschools.org/california/san-diego/32177-Jonas-Salk-Elementary-School/",
+      "rating": 7,
+      "totalCount": null,
+      "distance": 0.4,
+      "assigned": null,
+      "name": "Jonas Salk Elementary School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Elementary",
+      "grades": "K-5",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6115-Challenger-Middle-School/",
+      "rating": 7,
+      "totalCount": null,
+      "distance": 0.8,
+      "assigned": null,
+      "name": "Challenger Middle School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Middle",
+      "grades": "6-8",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6203-Mira-Mesa-High-School/",
+      "rating": 9,
+      "totalCount": null,
+      "distance": 1.3,
+      "assigned": null,
+      "name": "Mira Mesa High School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "High",
+      "grades": "9-12",
+      "type": "Public"
+    }
+  ],
+  "rentZestimate": 3331,
+  "city": "San Diego",
+  "providerListingID": null,
+  "currency": "USD",
+  "listingProvider": null,
+  "propertyTaxRate": 1.17,
+  "isShowcaseListing": false,
+  "openHouseSchedule": {},
+  "mortgageRates": null,
+  "address": {
+    "community": null,
+    "city": "San Diego",
+    "state": "CA",
+    "neighborhood": null,
+    "subdivision": "MIRA MESA",
+    "streetAddress": "7572 Northrup Dr",
+    "zipcode": "92126"
+  },
+  "cityId": 54296,
+  "timeOnZillow": "14 days",
+  "priceChange": null,
+  "zestimate": 844800,
+  "zpid": 16833389,
+  "countyId": 2841,
+  "homeType": "SINGLE_FAMILY",
+  "livingAreaUnits": "sqft",
+  "pageViewCount": 3488,
+  "homeInsights": null,
+  "bathrooms": 2,
+  "neighborhoodRegion": {
+    "name": "Mira Mesa"
+  },
+  "zipcode": "92126",
+  "building": null,
+  "zestimateLowPercent": "5",
+  "brokerId": null,
+  "stateId": 9,
+  "url": "/homedetails/7572-Northrup-Dr-San-Diego-CA-92126/16833389_zpid/",
+  "solarPotential": null,
+  "attributionInfo": {
+    "buyerAgentName": null,
+    "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_95_35.jpg",
+    "mlsName": "SDMLS",
+    "coAgentLicenseNumber": null,
+    "listingAgreement": null,
+    "listingOffices": [
+      {
+        "associatedOfficeType": "listOffice",
+        "officeName": "eXp Realty of California, Inc."
+      }
+    ],
+    "infoString10": "This information is deemed reliable but not guaranteed. You should rely on this information only to decide whether or not to further investigate a particular property.\nBEFORE MAKING ANY OTHER DECISION, YOU SHOULD PERSONALLY INVESTIGATE THE FACTS (e.g. square footage and lot size) with the assistance of an appropriate professional. You may use this information only to identify properties you may be interested in investigating further. All uses except for personal, noncommercial use in accordance with the foregoing purpose are prohibited. Redistribution or copying of this information, any photographs or video tours is strictly\nprohibited. This information is derived from the Internet Data Exchange (IDX) service provided by San Diego MLS. Displayed property listings may be held by a brokerage firm other than the broker and/or agent responsible for this display. The information and any photographs and video tours and the compilation from which they are derived is protected by copyright. Compilation © 2025 San Diego MLS.",
+    "buyerAgentMemberStateLicense": null,
+    "brokerName": "eXp Realty of California, Inc.",
+    "listingAttributionContact": null,
+    "lastUpdated": "2025-08-20 15:33:36",
+    "trueStatus": null,
+    "listingAgentAttributionContact": null,
+    "agentEmail": null,
+    "agentName": "Stefan DeLorenzo",
+    "attributionTitle": null,
+    "mlsId": "250036024",
+    "coAgentName": null,
+    "coAgentNumber": null,
+    "infoString5": "619-384-7571",
+    "listingAgents": [
+      {
+        "memberStateLicense": "DRE #02052445",
+        "memberFullName": "Stefan DeLorenzo",
+        "associatedAgentType": "listAgent"
+      }
+    ],
+    "agentPhoneNumber": "619-384-7571",
+    "agentLicenseNumber": "DRE #02052445",
+    "providerLogo": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_95_35.jpg",
+    "infoString16": null,
+    "buyerBrokerageName": null,
+    "mlsDisclaimer": "This information is deemed reliable but not guaranteed. You should rely on this information only to decide whether or not to further investigate a particular property.\nBEFORE MAKING ANY OTHER DECISION, YOU SHOULD PERSONALLY INVESTIGATE THE FACTS (e.g. square footage and lot size) with the assistance of an appropriate professional. You may use this information only to identify properties you may be interested in investigating further. All uses except for personal, noncommercial use in accordance with the foregoing purpose are prohibited. Redistribution or copying of this information, any photographs or video tours is strictly\nprohibited. This information is derived from the Internet Data Exchange (IDX) service provided by San Diego MLS. Displayed property listings may be held by a brokerage firm other than the broker and/or agent responsible for this display. The information and any photographs and video tours and the compilation from which they are derived is protected by copyright. Compilation © 2025 San Diego MLS.",
+    "brokerPhoneNumber": "888-584-9427",
+    "lastChecked": "2025-08-26 21:43:20"
+  },
+  "priceChangeDateString": null,
+  "photoCount": 31,
+  "homeStatus": "FOR_SALE",
+  "homeFacts": null,
+  "resoFacts": {
+    "hasAttachedProperty": false,
+    "frontageType": null,
+    "poolFeatures": [
+      "N/K"
+    ],
+    "flooring": null,
+    "foundationDetails": {},
+    "accessibilityFeatures": null,
+    "hasGarage": true,
+    "hasPetsAllowed": true,
+    "bodyType": null,
+    "topography": null,
+    "landLeaseExpirationDate": null,
+    "hasAdditionalParcels": false,
+    "parkName": null,
+    "livingQuarters": {},
+    "taxAssessedValue": 553591,
+    "atAGlanceFacts": [
+      {
+        "factValue": "Single Family Residence",
+        "factLabel": "Type"
+      },
+      {
+        "factValue": "1985",
+        "factLabel": "Year Built"
+      },
+      {
+        "factValue": "Fireplace, Forced Air Unit",
+        "factLabel": "Heating"
+      },
+      {
+        "factValue": "Attic Fan, Central Forced Air",
+        "factLabel": "Cooling"
+      },
+      {
+        "factValue": "2 Garage spaces",
+        "factLabel": "Parking"
+      },
+      {
+        "factValue": "5,662 sqft",
+        "factLabel": "Lot"
+      },
+      {
+        "factValue": "14 Days",
+        "factLabel": "Days on Zillow"
+      },
+      {
+        "factValue": "$843",
+        "factLabel": "Price/sqft"
+      },
+      {
+        "factValue": null,
+        "factLabel": "Offer Review Date"
+      }
+    ],
+    "offerReviewDate": null,
+    "horseYN": null,
+    "view": {},
+    "rooms": {},
+    "belowGradeFinishedArea": null,
+    "feesAndDues": [
+      {
+        "phone": null,
+        "name": null,
+        "fee": null,
+        "type": "HOA"
+      }
+    ],
+    "cityRegion": "San Diego",
+    "mainLevelBathrooms": null,
+    "hasPrivatePool": null,
+    "landLeaseAmount": null,
+    "waterSource": [
+      "Available",
+      "Meter on Property"
+    ],
+    "exteriorFeatures": {},
+    "inclusions": null,
+    "hasFireplace": null,
+    "gas": null,
+    "propertyCondition": null,
+    "elevationUnits": null,
+    "exclusions": null,
+    "mainLevelBedrooms": null,
+    "numberOfUnitsVacant": null,
+    "hasWaterfrontView": null,
+    "bathroomsOneQuarter": null,
+    "lotSize": "5,662 sqft",
+    "entryLevel": null,
+    "media": {},
+    "greenWaterConservation": null,
+    "stories": null,
+    "livingArea": "1,008 sqft",
+    "commonWalls": null,
+    "listingTerms": "Cash,Conventional",
+    "otherParking": null,
+    "associationFee": null,
+    "marketingType": null,
+    "greenIndoorAirQuality": null,
+    "greenSustainability": null,
+    "livingAreaRangeUnits": null,
+    "associationPhone": null,
+    "greenBuildingVerificationType": null,
+    "hasAttachedGarage": null,
+    "bedrooms": 2,
+    "architecturalStyle": null,
+    "listingId": null,
+    "structureType": null,
+    "interiorFeatures": null,
+    "horseAmenities": null,
+    "garageParkingCapacity": 2,
+    "developmentStatus": null,
+    "lotFeatures": null,
+    "roofType": "Composition",
+    "compensationBasedOn": null,
+    "greenEnergyGeneration": null,
+    "daysOnZillow": 14,
+    "listAOR": "San Diego Association of REALTOR",
+    "buildingAreaSource": null,
+    "elementarySchool": null,
+    "zoningDescription": "R-1:SINGLE",
+    "irrigationWaterRightsAcres": null,
+    "yearBuiltEffective": null,
+    "greenEnergyEfficient": null,
+    "constructionMaterials": [
+      "Wood/Stucco"
+    ],
+    "fireplaceFeatures": null,
+    "hoaFeeTotal": null,
+    "appliances": [
+      "Dishwasher",
+      "Disposal",
+      "Dryer",
+      "Garage Door Opener",
+      "Microwave",
+      "Range/Oven",
+      "Refrigerator",
+      "Solar Panels",
+      "Washer",
+      "Gas Water Heater"
+    ],
+    "sewer": [
+      "Sewer Connected"
+    ],
+    "bathroomsPartial": null,
+    "fencing": "Cross Fencing,Other/Remarks",
+    "spaFeatures": null,
+    "waterViewYN": null,
+    "buildingName": null,
+    "attic": null,
+    "petsMaxWeight": null,
+    "cumulativeDaysOnMarket": null,
+    "waterfrontFeatures": null,
+    "additionalParcelsDescription": null,
+    "canRaiseHorses": false,
+    "hasLandLease": false,
+    "communityFeatures": null,
+    "waterBodyName": null,
+    "middleOrJuniorSchool": null,
+    "lotSizeDimensions": null,
+    "virtualTour": null,
+    "contingency": null,
+    "yearBuilt": 1985,
+    "utilities": null,
+    "totalActualRent": null,
+    "bathroomsFull": 2,
+    "parcelNumber": "3413010200",
+    "incomeIncludes": null,
+    "highSchool": null,
+    "taxAnnualAmount": 4766,
+    "subdivisionName": "MIRA MESA",
+    "storiesTotal": 1,
+    "storiesDecimal": null,
+    "specialListingConditions": null,
+    "windowFeatures": null,
+    "ownership": null,
+    "woodedArea": null,
+    "middleOrJuniorSchoolDistrict": "San Diego Unified School Distric",
+    "associationPhone2": null,
+    "onMarketDate": 1755019835000,
+    "roomTypes": null,
+    "frontageLength": null,
+    "roadSurfaceType": null,
+    "associationAmenities": null,
+    "propertySubType": [
+      "Single Family Residence"
+    ],
+    "hasCooling": true,
+    "levels": "1 Story",
+    "coveredParkingCapacity": 2,
+    "foundationArea": null,
+    "zoning": "R-1:SINGLE",
+    "hoaFee": null,
+    "livingAreaRange": null,
+    "parkingFeatures": [
+      "Attached"
+    ],
+    "parkingCapacity": 4,
+    "cropsIncludedYN": null,
+    "tenantPays": null,
+    "builderModel": null,
+    "otherStructures": null,
+    "otherFacts": {},
+    "additionalFeeInfo": null,
+    "hasView": false,
+    "openParkingCapacity": null,
+    "securityFeatures": null,
+    "numberOfUnitsInCommunity": null,
+    "hasHomeWarranty": false,
+    "basementYN": null,
+    "doorFeatures": null,
+    "ownershipType": null,
+    "aboveGradeFinishedArea": null,
+    "associations": {},
+    "waterView": null,
+    "electric": null,
+    "buildingFeatures": null,
+    "hasOpenParking": null,
+    "hasCarport": null,
+    "bathroomsHalf": 0,
+    "homeType": "SingleFamily",
+    "isSeniorCommunity": null,
+    "municipality": null,
+    "bathroomsThreeQuarter": null,
+    "hasSpa": false,
+    "basement": null,
+    "associationFee2": null,
+    "cooling": [
+      "Attic Fan",
+      "Central Forced Air"
+    ],
+    "hasHeating": true,
+    "associationName2": null,
+    "hasRentControl": null,
+    "elementarySchoolDistrict": "San Diego Unified School Distric",
+    "otherEquipment": null,
+    "bathrooms": 2,
+    "buildingArea": "1,008",
+    "furnished": false,
+    "vegetation": null,
+    "patioAndPorchFeatures": null,
+    "bathroomsFloat": 2,
+    "builderName": null,
+    "highSchoolDistrict": "San Diego Unified School Distric",
+    "hasElectricOnProperty": null,
+    "laundryFeatures": [
+      "Electric",
+      "Gas"
+    ],
+    "entryLocation": null,
+    "fireplaces": null,
+    "heating": [
+      "Fireplace",
+      "Forced Air Unit"
+    ],
+    "availabilityDate": null,
+    "carportParkingCapacity": null,
+    "hasAssociation": null,
+    "irrigationWaterRightsYN": null,
+    "isNewConstruction": null,
+    "associationFeeIncludes": null,
+    "leaseTerm": null,
+    "pricePerSquareFoot": 843,
+    "associationName": null,
+    "elevation": null
+  },
+  "datePosted": "2025-08-12",
+  "bedrooms": 2,
+  "propertyTypeDimension": "Single Family",
+  "mortgageZHLRates": {
+    "thirtyYearFixedBucket": {
+      "rate": 6.306,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756268015093
+    },
+    "fifteenYearFixedBucket": {
+      "rate": 5.601,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756268015093
+    },
+    "arm5Bucket": {
+      "rate": 6.529,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756268015093
+    }
+  },
+  "comingSoonOnMarketDate": null,
+  "favoriteCount": 199,
+  "livingArea": 1008,
+  "zestimateHighPercent": "5",
+  "mlsid": "250036024",
+  "isListedByOwner": null,
+  "listingSubType": {
+    "is_comingSoon": false,
+    "is_pending": false,
+    "is_forAuction": false,
+    "is_bankOwned": false,
+    "is_FSBA": true,
+    "is_FSBO": false,
+    "is_newHome": false,
+    "is_foreclosure": false
+  },
+  "buildingId": null,
+  "country": "USA",
+  "price": 849800,
+  "priceChangeDate": null,
+  "contingentListingType": null
+}

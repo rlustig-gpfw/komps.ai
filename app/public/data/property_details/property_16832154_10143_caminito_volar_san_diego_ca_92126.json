@@ -1,0 +1,1596 @@
+{
+  "buildingPermits": null,
+  "contact_recipients": [
+    {
+      "agent_reason": 1,
+      "zpro": null,
+      "recent_sales": 0,
+      "review_count": 0,
+      "display_name": "Premier Broker Flex Atlanta GA",
+      "badge_type": "Premier Agent",
+      "business_name": "Zillow Group",
+      "rating_average": 0,
+      "phone": {
+        "prefix": "452",
+        "areacode": "206",
+        "number": "1030"
+      },
+      "zuid": "X1-ZUv2ktj4jt3nyh_98wrm",
+      "image_url": "https://www.zillowstatic.com/static/images/nophoto_h_g.png"
+    }
+  ],
+  "longitude": -117.11861,
+  "countyFIPS": "06073",
+  "imgSrc": "https://photos.zillowstatic.com/fp/69d488011c1a17e7a59380982cd5e765-p_d.jpg",
+  "livingAreaValue": 1264,
+  "streetAddress": "10143 Caminito Volar",
+  "county": "San Diego County",
+  "monthlyHoaFee": 475,
+  "timeZone": "America/Los_Angeles",
+  "taxHistory": [
+    {
+      "time": 1724734320496,
+      "valueIncreaseRate": 0.019996414,
+      "taxIncreaseRate": 0.022620931,
+      "taxPaid": 4655.4,
+      "value": 375477
+    },
+    {
+      "time": 1693111920496,
+      "valueIncreaseRate": 0.019997284,
+      "taxIncreaseRate": 0.027355958,
+      "taxPaid": 4552.42,
+      "value": 368116
+    },
+    {
+      "time": 1661575920496,
+      "valueIncreaseRate": 0.0199987,
+      "taxIncreaseRate": 0.0069811055,
+      "taxPaid": 4431.2,
+      "value": 360899
+    },
+    {
+      "time": 1630039920496,
+      "valueIncreaseRate": 0.010357057,
+      "taxIncreaseRate": 0.01222826,
+      "taxPaid": 4400.48,
+      "value": 353823
+    },
+    {
+      "time": 1598503920496,
+      "valueIncreaseRate": 0.019998252,
+      "taxIncreaseRate": 0.02778869,
+      "taxPaid": 4347.32,
+      "value": 350196
+    },
+    {
+      "time": 1566881520496,
+      "valueIncreaseRate": 0.019997088,
+      "taxIncreaseRate": 0.059195295,
+      "taxPaid": 4229.78,
+      "value": 343330
+    },
+    {
+      "time": 1535345520496,
+      "valueIncreaseRate": 0.019996969,
+      "taxIncreaseRate": 0.02490794,
+      "taxPaid": 3993.39,
+      "value": 336599
+    },
+    {
+      "time": 1503809520496,
+      "valueIncreaseRate": 0.07749824,
+      "taxIncreaseRate": 0.09777085,
+      "taxPaid": 3896.34,
+      "value": 330000
+    },
+    {
+      "time": 1472273520496,
+      "valueIncreaseRate": 0.015248703,
+      "taxIncreaseRate": 0.015222668,
+      "taxPaid": 3549.32,
+      "value": 306265
+    },
+    {
+      "time": 1440651120496,
+      "valueIncreaseRate": 0.058473684,
+      "taxIncreaseRate": 0.055190723,
+      "taxPaid": 3496.1,
+      "value": 301665
+    },
+    {
+      "time": 1409115120496,
+      "valueIncreaseRate": 0.2837838,
+      "taxIncreaseRate": 0,
+      "taxPaid": 3313.24,
+      "value": 285000
+    },
+    {
+      "time": 1377579120496,
+      "valueIncreaseRate": 0.03255814,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 222000
+    },
+    {
+      "time": 1346043120496,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 215000
+    },
+    {
+      "time": 1314420720496,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 215000
+    },
+    {
+      "time": 1282884720496,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 215000
+    },
+    {
+      "time": 1251348720497,
+      "valueIncreaseRate": -0.2210653,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 215000
+    },
+    {
+      "time": 1219812720497,
+      "valueIncreaseRate": 0.019995788,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 276018
+    },
+    {
+      "time": 1188190320497,
+      "valueIncreaseRate": 0.01999608,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 270607
+    },
+    {
+      "time": 1156654320497,
+      "valueIncreaseRate": 0.02,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 265302
+    },
+    {
+      "time": 1125118320497,
+      "valueIncreaseRate": 0.02,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 260100
+    },
+    {
+      "time": 1093582320497,
+      "valueIncreaseRate": 0.46643588,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 255000
+    },
+    {
+      "time": 1061959920497,
+      "valueIncreaseRate": 0.019996246,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 173891
+    },
+    {
+      "time": 1030423920497,
+      "valueIncreaseRate": 0.019995214,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 170482
+    },
+    {
+      "time": 998887920497,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 167140
+    }
+  ],
+  "dateSold": null,
+  "annualHomeownersInsurance": 2856,
+  "state": "CA",
+  "listed_by": {
+    "agent_reason": 3,
+    "zpro": false,
+    "recent_sales": 0,
+    "zuid": "X1-ZUz85ayxyrf0uh_634pd",
+    "review_count": 3,
+    "display_name": "Chirag Mehta",
+    "profile_url": "https://www.zillow.com/profile/ccmehta/",
+    "business_name": "HomeSmart Realty West",
+    "rating_average": 5,
+    "phone": {
+      "prefix": "247",
+      "areacode": "619",
+      "number": "4374"
+    },
+    "badge_type": "Listing Agent",
+    "image_url": "https://photos.zillowstatic.com/fp/8c52544eb46320ae4024a7820ed5fc90-h_n.jpg"
+  },
+  "yearBuilt": 1975,
+  "brokerageName": "HomeSmart Realty West",
+  "description": "Welcome Home to this Highly Upgraded & Elegantly Finished Beauty in the prestigious Playmor Community in Mira Mesa. End unit townhome is a real must see with its new interior paint throughout the house including cabinets and doors, Granite Countertop, New luxury waterproof vinyl flooring, New oven/stove, new baseboard, new light fixtures, new led bathroom mirros, New Fans, New mirror closet doors, new bedroom doors, and new shower door. Outside patio has washer and dryer. Great location with spacious lawn and large trees. Two parking 1 carport and 1 space(#185). Close to freeways, shopping centers, and schools. This is a must see!!",
+  "climate": {
+    "windSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "probability": {},
+        "source": {
+          "url": "https://firststreet.org/property/10143-caminito-volar-san-diego-ca-92126/603405942_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 18
+      }
+    },
+    "floodSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "femaZone": "X_UNSHADED",
+        "source": {
+          "url": "https://firststreet.org/property/10143-caminito-volar-san-diego-ca-92126/603405942_fsid"
+        },
+        "probability": [
+          {
+            "relativeYear": 0,
+            "probability": 0
+          },
+          {
+            "relativeYear": 5,
+            "probability": 0
+          },
+          {
+            "relativeYear": 10,
+            "probability": 0
+          },
+          {
+            "relativeYear": 15,
+            "probability": 0
+          },
+          {
+            "relativeYear": 20,
+            "probability": 0
+          },
+          {
+            "relativeYear": 25,
+            "probability": 0
+          },
+          {
+            "relativeYear": 30,
+            "probability": 0
+          }
+        ],
+        "insuranceSeparatePolicy": "NOT_REQUIRED",
+        "historicCountPropertyAll": 0
+      }
+    },
+    "fireSources": {
+      "primary": {
+        "insuranceRecommendation": "CRITICAL",
+        "riskScore": {
+          "label": "MAJOR",
+          "max": 10,
+          "value": 5
+        },
+        "probability": [
+          {
+            "relativeYear": 0,
+            "probability": 0.0010000000474975
+          },
+          {
+            "relativeYear": 5,
+            "probability": 0.0060000000521541
+          },
+          {
+            "relativeYear": 10,
+            "probability": 0.010900000110269
+          },
+          {
+            "relativeYear": 15,
+            "probability": 0.015900000929832
+          },
+          {
+            "relativeYear": 20,
+            "probability": 0.020800000056624
+          },
+          {
+            "relativeYear": 25,
+            "probability": 0.025699999183416
+          },
+          {
+            "relativeYear": 30,
+            "probability": 0.030500000342727
+          }
+        ],
+        "source": {
+          "url": "https://firststreet.org/property/10143-caminito-volar-san-diego-ca-92126/603405942_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_REQUIRED",
+        "historicCountAll": 33
+      }
+    },
+    "heatSources": {
+      "primary": {
+        "percentile98Temp": 93,
+        "hotDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 7
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 9
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 11
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 14
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 16
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 18
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 20
+          }
+        ],
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 4
+        },
+        "source": {
+          "url": "https://firststreet.org/property/10143-caminito-volar-san-diego-ca-92126/603405942_fsid"
+        }
+      }
+    },
+    "airSources": {
+      "primary": {
+        "source": {
+          "url": "https://firststreet.org/property/10143-caminito-volar-san-diego-ca-92126/603405942_fsid"
+        },
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 3
+        },
+        "badAirDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 3
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 3
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 3
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 4
+          }
+        ]
+      }
+    }
+  },
+  "latitude": 32.90244,
+  "nearbyHomes": [
+    {
+      "hdpTypeDimension": "RecentlySold",
+      "lotAreaUnits": "Acres",
+      "isShowcaseListing": false,
+      "longitude": -117.11859,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "10155 Caminito Volar",
+        "zipcode": "92126"
+      },
+      "livingAreaValue": 1264,
+      "lotSize": 194277,
+      "zpid": 52513675,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 2,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "10155 Caminito Volar"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "hdpUrl": "/homedetails/10155-Caminito-Volar-San-Diego-CA-92126/52513675_zpid/",
+      "lotAreaValue": 4.46,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "250024140",
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "RECENTLY_SOLD",
+      "latitude": 32.902695,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "newConstructionType": null,
+      "yearBuilt": 1975,
+      "listingTypeDimension": "Unknown Listed By",
+      "livingArea": 1264,
+      "providerListingID": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/00c793e3a3e38c1e6b8ae596656c7cd1-p_c.jpg"
+        }
+      ],
+      "currency": "USD",
+      "price": 650000,
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "sqft",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "10129 Caminito Volar"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/10129-Caminito-Volar-San-Diego-CA-92126/16832152_zpid/",
+      "lotAreaValue": null,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "10129 Caminito Volar",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "220023538",
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.902176,
+      "homeStatus": "SOLD",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 575000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/31824032e76fd8ea49c5ef2dcae09384-p_c.jpg"
+        }
+      ],
+      "zpid": 16832152,
+      "hdpTypeDimension": "RecentlySold",
+      "livingArea": 1264,
+      "longitude": -117.118675,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1264
+    },
+    {
+      "bathrooms": 1,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "9640 Caminito Tizona"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/9640-Caminito-Tizona-San-Diego-CA-92126/16832122_zpid/",
+      "lotAreaValue": 4.4582874196511,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "9640 Caminito Tizona",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.902573,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 500600,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 194202,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=32.90257263183594,-117.11891174316406&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=8mlNzmabMvz7XCIaO2-eATi_TNI="
+        }
+      ],
+      "zpid": 16832122,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 930,
+      "longitude": -117.11891,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 930
+    },
+    {
+      "bathrooms": 1,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "9644 Caminito Tizona #152"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/9644-Caminito-Tizona-152-San-Diego-CA-92126/16832123_zpid/",
+      "lotAreaValue": 4.4582874196511,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "9644 Caminito Tizona #152",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.902573,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 453900,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 194202,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=9644+Caminito+Tizona%2C+San+Diego%2C+CA+92126&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=ghzLGNwFHh_Sjacwf3CHmjzLV4Q="
+        }
+      ],
+      "zpid": 16832123,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 930,
+      "longitude": -117.11891,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 930
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "sqft",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "9620 Caminito Tizona"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/9620-Caminito-Tizona-San-Diego-CA-92126/16832125_zpid/",
+      "lotAreaValue": null,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "9620 Caminito Tizona",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.902573,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 674000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/3867b43d86539c2d097bb90e7cc172e9-p_c.jpg"
+        }
+      ],
+      "zpid": 16832125,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1264,
+      "longitude": -117.11891,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1264
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "9624 Caminito Tizona"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/9624-Caminito-Tizona-San-Diego-CA-92126/16832126_zpid/",
+      "lotAreaValue": 4.4582874196511,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "9624 Caminito Tizona",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.902573,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 774900,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 194202,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/69d36f52d3472c2167c67fbc84549396-p_c.jpg"
+        }
+      ],
+      "zpid": 16832126,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1500,
+      "longitude": -117.11891,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1500
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "sqft",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "9628 Caminito Tizona"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/9628-Caminito-Tizona-San-Diego-CA-92126/16832127_zpid/",
+      "lotAreaValue": null,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "9628 Caminito Tizona",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.902573,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 767500,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 4,
+      "propertyTypeDimension": "Townhouse",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/48601badddf1863aa885dcc42685c82a-p_c.jpg"
+        }
+      ],
+      "zpid": 16832127,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1500,
+      "longitude": -117.11891,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": "18fr0kuf4zzr0",
+      "homeType": "TOWNHOUSE",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1500
+    },
+    {
+      "bathrooms": 1.5,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "9616 Caminito Tizona"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/9616-Caminito-Tizona-San-Diego-CA-92126/16832128_zpid/",
+      "lotAreaValue": 4.4582874196511,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "9616 Caminito Tizona",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.902573,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 636400,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 194202,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=32.90257263183594,-117.11891174316406&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=8mlNzmabMvz7XCIaO2-eATi_TNI="
+        }
+      ],
+      "zpid": 16832128,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1264,
+      "longitude": -117.11891,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1264
+    }
+  ],
+  "priceHistory": [
+    {
+      "priceChangeRate": -0.014491325349747,
+      "date": "2025-07-25",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1753401600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "250030222"
+      },
+      "pricePerSquareFoot": 538,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 680000
+    },
+    {
+      "priceChangeRate": 1.0909060606061,
+      "date": "2025-06-11",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1749600000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "250030222"
+      },
+      "pricePerSquareFoot": 546,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 689999
+    },
+    {
+      "priceChangeRate": 0.015384615384615,
+      "date": "2016-09-30",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 1475193600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 261,
+      "buyerAgent": null,
+      "event": "Sold",
+      "price": 330000
+    },
+    {
+      "priceChangeRate": 0.27450980392157,
+      "date": "2016-08-18",
+      "source": "HomeSmart Realty West",
+      "postingIsRental": false,
+      "time": 1471478400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "HomeSmart Realty West",
+        "infoString3": null,
+        "infoString1": "160045150"
+      },
+      "pricePerSquareFoot": 257,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 325000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2003-07-11",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 1057881600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 202,
+      "buyerAgent": null,
+      "event": "Sold",
+      "price": 255000
+    }
+  ],
+  "neighborhoodMapThumb": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/69d488011c1a17e7a59380982cd5e765-p_c.jpg"
+    }
+  ],
+  "schools": [
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6251-Walker-Elementary-School/",
+      "rating": 6,
+      "totalCount": null,
+      "distance": 0.8,
+      "assigned": null,
+      "name": "Walker Elementary School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Elementary",
+      "grades": "K-5",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6252-Wangenheim-Middle-School/",
+      "rating": 6,
+      "totalCount": null,
+      "distance": 0.5,
+      "assigned": null,
+      "name": "Wangenheim Middle School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Middle",
+      "grades": "6-8",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6203-Mira-Mesa-High-School/",
+      "rating": 9,
+      "totalCount": null,
+      "distance": 1.4,
+      "assigned": null,
+      "name": "Mira Mesa High School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "High",
+      "grades": "9-12",
+      "type": "Public"
+    }
+  ],
+  "rentZestimate": 3341,
+  "city": "San Diego",
+  "providerListingID": null,
+  "currency": "USD",
+  "listingProvider": null,
+  "propertyTaxRate": 1.17,
+  "isShowcaseListing": false,
+  "openHouseSchedule": {},
+  "mortgageRates": null,
+  "address": {
+    "community": null,
+    "city": "San Diego",
+    "state": "CA",
+    "neighborhood": null,
+    "subdivision": "MIRA MESA",
+    "streetAddress": "10143 Caminito Volar",
+    "zipcode": "92126"
+  },
+  "cityId": 54296,
+  "timeOnZillow": "76 days",
+  "priceChange": -9999,
+  "zestimate": 672800,
+  "zpid": 16832154,
+  "countyId": 2841,
+  "homeType": "TOWNHOUSE",
+  "livingAreaUnits": "sqft",
+  "pageViewCount": 1835,
+  "homeInsights": [
+    {
+      "insights": [
+        {
+          "treatmentId": "model_0",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "New fans",
+            "New light fixtures",
+            "New baseboard",
+            "Large trees",
+            "New bedroom doors",
+            "Outside patio",
+            "New interior paint"
+          ]
+        },
+        {
+          "treatmentId": "model_1",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "New fans",
+            "New light fixtures",
+            "New baseboard",
+            "Large trees",
+            "New bedroom doors",
+            "Outside patio",
+            "New interior paint"
+          ]
+        }
+      ]
+    }
+  ],
+  "bathrooms": 2,
+  "neighborhoodRegion": {
+    "name": "Mira Mesa"
+  },
+  "zipcode": "92126",
+  "building": null,
+  "zestimateLowPercent": "5",
+  "brokerId": null,
+  "stateId": 9,
+  "url": "/homedetails/10143-Caminito-Volar-San-Diego-CA-92126/16832154_zpid/",
+  "solarPotential": null,
+  "attributionInfo": {
+    "buyerAgentName": null,
+    "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_95_35.jpg",
+    "mlsName": "SDMLS",
+    "coAgentLicenseNumber": null,
+    "listingAgreement": null,
+    "listingOffices": [
+      {
+        "associatedOfficeType": "listOffice",
+        "officeName": "HomeSmart Realty West"
+      }
+    ],
+    "infoString10": "This information is deemed reliable but not guaranteed. You should rely on this information only to decide whether or not to further investigate a particular property.\nBEFORE MAKING ANY OTHER DECISION, YOU SHOULD PERSONALLY INVESTIGATE THE FACTS (e.g. square footage and lot size) with the assistance of an appropriate professional. You may use this information only to identify properties you may be interested in investigating further. All uses except for personal, noncommercial use in accordance with the foregoing purpose are prohibited. Redistribution or copying of this information, any photographs or video tours is strictly\nprohibited. This information is derived from the Internet Data Exchange (IDX) service provided by San Diego MLS. Displayed property listings may be held by a brokerage firm other than the broker and/or agent responsible for this display. The information and any photographs and video tours and the compilation from which they are derived is protected by copyright. Compilation © 2025 San Diego MLS.",
+    "buyerAgentMemberStateLicense": null,
+    "brokerName": "HomeSmart Realty West",
+    "listingAttributionContact": null,
+    "lastUpdated": "2025-07-25 10:12:07",
+    "trueStatus": null,
+    "listingAgentAttributionContact": null,
+    "agentEmail": null,
+    "agentName": "Chirag Mehta",
+    "attributionTitle": null,
+    "mlsId": "250030222",
+    "coAgentName": null,
+    "coAgentNumber": null,
+    "infoString5": "619-247-4374",
+    "listingAgents": [
+      {
+        "memberStateLicense": "DRE #01293351",
+        "memberFullName": "Chirag Mehta",
+        "associatedAgentType": "listAgent"
+      }
+    ],
+    "agentPhoneNumber": "619-247-4374",
+    "agentLicenseNumber": "DRE #01293351",
+    "providerLogo": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_95_35.jpg",
+    "infoString16": null,
+    "buyerBrokerageName": null,
+    "mlsDisclaimer": "This information is deemed reliable but not guaranteed. You should rely on this information only to decide whether or not to further investigate a particular property.\nBEFORE MAKING ANY OTHER DECISION, YOU SHOULD PERSONALLY INVESTIGATE THE FACTS (e.g. square footage and lot size) with the assistance of an appropriate professional. You may use this information only to identify properties you may be interested in investigating further. All uses except for personal, noncommercial use in accordance with the foregoing purpose are prohibited. Redistribution or copying of this information, any photographs or video tours is strictly\nprohibited. This information is derived from the Internet Data Exchange (IDX) service provided by San Diego MLS. Displayed property listings may be held by a brokerage firm other than the broker and/or agent responsible for this display. The information and any photographs and video tours and the compilation from which they are derived is protected by copyright. Compilation © 2025 San Diego MLS.",
+    "brokerPhoneNumber": "760-607-5900",
+    "lastChecked": "2025-08-26 21:43:20"
+  },
+  "priceChangeDateString": "2025-07-25",
+  "photoCount": 26,
+  "homeStatus": "FOR_SALE",
+  "homeFacts": null,
+  "resoFacts": {
+    "hasAttachedProperty": false,
+    "frontageType": "N/K",
+    "poolFeatures": [
+      "Community/Common"
+    ],
+    "flooring": [
+      "Linoleum/Vinyl"
+    ],
+    "foundationDetails": {},
+    "accessibilityFeatures": [
+      "None"
+    ],
+    "hasGarage": false,
+    "hasPetsAllowed": null,
+    "bodyType": null,
+    "topography": null,
+    "landLeaseExpirationDate": null,
+    "hasAdditionalParcels": false,
+    "parkName": null,
+    "livingQuarters": {},
+    "taxAssessedValue": 375477,
+    "atAGlanceFacts": [
+      {
+        "factValue": "Townhouse",
+        "factLabel": "Type"
+      },
+      {
+        "factValue": "1975",
+        "factLabel": "Year Built"
+      },
+      {
+        "factValue": "Radiant",
+        "factLabel": "Heating"
+      },
+      {
+        "factValue": "N/K",
+        "factLabel": "Cooling"
+      },
+      {
+        "factValue": "2 Parking spaces",
+        "factLabel": "Parking"
+      },
+      {
+        "factValue": "$475 monthly",
+        "factLabel": "HOA"
+      },
+      {
+        "factValue": "4.46 Acres",
+        "factLabel": "Lot"
+      },
+      {
+        "factValue": "76 Days",
+        "factLabel": "Days on Zillow"
+      },
+      {
+        "factValue": "$538",
+        "factLabel": "Price/sqft"
+      },
+      {
+        "factValue": null,
+        "factLabel": "Offer Review Date"
+      }
+    ],
+    "offerReviewDate": null,
+    "horseYN": null,
+    "view": [
+      "Greenbelt"
+    ],
+    "rooms": {},
+    "belowGradeFinishedArea": null,
+    "feesAndDues": [
+      {
+        "phone": null,
+        "name": "Prescott Management",
+        "fee": "$475 monthly",
+        "type": "HOA"
+      }
+    ],
+    "cityRegion": "San Diego",
+    "mainLevelBathrooms": null,
+    "hasPrivatePool": null,
+    "landLeaseAmount": null,
+    "waterSource": [
+      "Available"
+    ],
+    "exteriorFeatures": {},
+    "inclusions": null,
+    "hasFireplace": null,
+    "gas": null,
+    "propertyCondition": "Turnkey",
+    "elevationUnits": null,
+    "exclusions": null,
+    "mainLevelBedrooms": null,
+    "numberOfUnitsVacant": null,
+    "hasWaterfrontView": null,
+    "bathroomsOneQuarter": null,
+    "lotSize": "4.46 Acres",
+    "entryLevel": null,
+    "media": [
+      {
+        "mediaCategory": "UnbrandedVirtualTour",
+        "mediaURL": "https://www.propertypanorama.com/instaview/snd/250030222"
+      }
+    ],
+    "greenWaterConservation": null,
+    "stories": 2,
+    "livingArea": "1,264 sqft",
+    "commonWalls": "End Unit",
+    "listingTerms": "Cal Vet,Cash,Conventional,FHA,VA",
+    "otherParking": null,
+    "associationFee": "$475 monthly",
+    "marketingType": null,
+    "greenIndoorAirQuality": null,
+    "greenSustainability": null,
+    "livingAreaRangeUnits": null,
+    "associationPhone": null,
+    "greenBuildingVerificationType": null,
+    "hasAttachedGarage": null,
+    "bedrooms": 3,
+    "architecturalStyle": null,
+    "listingId": null,
+    "structureType": null,
+    "interiorFeatures": [
+      "2 Staircases",
+      "Ceiling Fan"
+    ],
+    "horseAmenities": null,
+    "garageParkingCapacity": 0,
+    "developmentStatus": null,
+    "lotFeatures": null,
+    "roofType": "Other/Remarks",
+    "compensationBasedOn": null,
+    "greenEnergyGeneration": null,
+    "daysOnZillow": 76,
+    "listAOR": "San Diego Association of REALTOR",
+    "buildingAreaSource": null,
+    "elementarySchool": null,
+    "zoningDescription": "R-1:SINGLE",
+    "irrigationWaterRightsAcres": null,
+    "yearBuiltEffective": null,
+    "greenEnergyEfficient": null,
+    "constructionMaterials": [
+      "Stucco"
+    ],
+    "fireplaceFeatures": [
+      "FP in Living Room"
+    ],
+    "hoaFeeTotal": "$475 monthly",
+    "appliances": [
+      "Dishwasher",
+      "Disposal",
+      "Refrigerator",
+      "Electric Stove",
+      "Gas Water Heater"
+    ],
+    "sewer": [
+      "Sewer Connected"
+    ],
+    "bathroomsPartial": null,
+    "fencing": "Partial",
+    "spaFeatures": [
+      "N/K"
+    ],
+    "waterViewYN": null,
+    "buildingName": "Playmor",
+    "attic": null,
+    "petsMaxWeight": null,
+    "cumulativeDaysOnMarket": null,
+    "waterfrontFeatures": null,
+    "additionalParcelsDescription": null,
+    "canRaiseHorses": false,
+    "hasLandLease": false,
+    "communityFeatures": [
+      "N/K"
+    ],
+    "waterBodyName": null,
+    "middleOrJuniorSchool": null,
+    "lotSizeDimensions": null,
+    "virtualTour": "https://www.propertypanorama.com/instaview/snd/250030222",
+    "contingency": null,
+    "yearBuilt": 1975,
+    "utilities": [
+      "Cable Available",
+      "Electricity Available",
+      "Sewer Connected"
+    ],
+    "totalActualRent": null,
+    "bathroomsFull": 1,
+    "parcelNumber": "3412101337",
+    "incomeIncludes": null,
+    "highSchool": null,
+    "taxAnnualAmount": 4655,
+    "subdivisionName": "MIRA MESA",
+    "storiesTotal": 2,
+    "storiesDecimal": 2,
+    "specialListingConditions": null,
+    "windowFeatures": null,
+    "ownership": null,
+    "woodedArea": null,
+    "middleOrJuniorSchoolDistrict": null,
+    "associationPhone2": null,
+    "onMarketDate": 1749662903000,
+    "roomTypes": null,
+    "frontageLength": null,
+    "roadSurfaceType": null,
+    "associationAmenities": [
+      "Pool"
+    ],
+    "propertySubType": [
+      "Townhouse"
+    ],
+    "hasCooling": true,
+    "levels": "2 Story",
+    "coveredParkingCapacity": null,
+    "foundationArea": null,
+    "zoning": "R-1:SINGLE",
+    "hoaFee": "$475 monthly",
+    "livingAreaRange": null,
+    "parkingFeatures": [
+      "None Known"
+    ],
+    "parkingCapacity": 2,
+    "cropsIncludedYN": null,
+    "tenantPays": null,
+    "builderModel": null,
+    "otherStructures": [
+      "N/K"
+    ],
+    "otherFacts": {},
+    "additionalFeeInfo": null,
+    "hasView": true,
+    "openParkingCapacity": null,
+    "securityFeatures": [
+      "N/K"
+    ],
+    "numberOfUnitsInCommunity": 200,
+    "hasHomeWarranty": false,
+    "basementYN": null,
+    "doorFeatures": null,
+    "ownershipType": null,
+    "aboveGradeFinishedArea": null,
+    "associations": [
+      {
+        "feeFrequency": "$475 monthly",
+        "name": "Prescott Management",
+        "phone": null
+      }
+    ],
+    "waterView": null,
+    "electric": null,
+    "buildingFeatures": null,
+    "hasOpenParking": null,
+    "hasCarport": null,
+    "bathroomsHalf": 1,
+    "homeType": "Townhouse",
+    "isSeniorCommunity": null,
+    "municipality": null,
+    "bathroomsThreeQuarter": null,
+    "hasSpa": false,
+    "basement": null,
+    "associationFee2": null,
+    "cooling": [
+      "N/K"
+    ],
+    "hasHeating": true,
+    "associationName2": null,
+    "hasRentControl": null,
+    "elementarySchoolDistrict": null,
+    "otherEquipment": null,
+    "bathrooms": 2,
+    "buildingArea": "1,264",
+    "furnished": false,
+    "vegetation": null,
+    "patioAndPorchFeatures": [
+      "Patio"
+    ],
+    "bathroomsFloat": 2,
+    "builderName": null,
+    "highSchoolDistrict": null,
+    "hasElectricOnProperty": true,
+    "laundryFeatures": [
+      "Electric",
+      "Gas"
+    ],
+    "entryLocation": null,
+    "fireplaces": 1,
+    "heating": [
+      "Radiant"
+    ],
+    "availabilityDate": null,
+    "carportParkingCapacity": null,
+    "hasAssociation": null,
+    "irrigationWaterRightsYN": null,
+    "isNewConstruction": null,
+    "associationFeeIncludes": [
+      "Common Area Maintenance",
+      "Exterior (Landscaping)",
+      "Exterior Bldg Maintenance",
+      "Limited Insurance",
+      "Sewer",
+      "Trash Pickup"
+    ],
+    "leaseTerm": null,
+    "pricePerSquareFoot": 538,
+    "associationName": "Prescott Management",
+    "elevation": null
+  },
+  "datePosted": "2025-06-11",
+  "bedrooms": 3,
+  "propertyTypeDimension": "Townhouse",
+  "mortgageZHLRates": {
+    "thirtyYearFixedBucket": {
+      "rate": 6.306,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756270320512
+    },
+    "fifteenYearFixedBucket": {
+      "rate": 5.601,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756270320512
+    },
+    "arm5Bucket": {
+      "rate": 6.529,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756270320512
+    }
+  },
+  "comingSoonOnMarketDate": null,
+  "favoriteCount": 67,
+  "livingArea": 1264,
+  "zestimateHighPercent": "5",
+  "mlsid": "250030222",
+  "isListedByOwner": null,
+  "listingSubType": {
+    "is_comingSoon": false,
+    "is_pending": false,
+    "is_forAuction": false,
+    "is_bankOwned": false,
+    "is_FSBA": true,
+    "is_FSBO": false,
+    "is_newHome": false,
+    "is_foreclosure": false
+  },
+  "buildingId": null,
+  "country": "USA",
+  "price": 680000,
+  "priceChangeDate": 1753401600000,
+  "contingentListingType": null
+}

@@ -1,0 +1,1693 @@
+{
+  "buildingPermits": null,
+  "contact_recipients": [
+    {
+      "agent_reason": 1,
+      "zpro": null,
+      "recent_sales": 0,
+      "review_count": 0,
+      "display_name": "Premier Broker Flex Atlanta GA",
+      "badge_type": "Premier Agent",
+      "business_name": "Zillow Group",
+      "rating_average": 0,
+      "phone": {
+        "prefix": "452",
+        "areacode": "206",
+        "number": "1030"
+      },
+      "zuid": "X1-ZUv2ktj4jt3nyh_98wrm",
+      "image_url": "https://www.zillowstatic.com/static/images/nophoto_h_g.png"
+    }
+  ],
+  "longitude": -117.225334,
+  "countyFIPS": "06073",
+  "imgSrc": "https://photos.zillowstatic.com/fp/03516d69fa76a0a3a385b773682a1caa-p_d.jpg",
+  "livingAreaValue": 1871,
+  "streetAddress": "11325 Carmel Creek Rd",
+  "county": "San Diego County",
+  "monthlyHoaFee": 295,
+  "timeZone": "America/Los_Angeles",
+  "taxHistory": [
+    {
+      "time": 1724734057775,
+      "valueIncreaseRate": 0.019998612,
+      "taxIncreaseRate": 0.020709518,
+      "taxPaid": 12245.84,
+      "value": 970494
+    },
+    {
+      "time": 1693111657775,
+      "valueIncreaseRate": 0.019998692,
+      "taxIncreaseRate": 0.015326279,
+      "taxPaid": 11997.38,
+      "value": 951466
+    },
+    {
+      "time": 1661575657775,
+      "valueIncreaseRate": 0.019998426,
+      "taxIncreaseRate": 0.033182416,
+      "taxPaid": 11816.28,
+      "value": 932811
+    },
+    {
+      "time": 1630039657775,
+      "valueIncreaseRate": 0.01035855,
+      "taxIncreaseRate": -0.0067894016,
+      "taxPaid": 11436.78,
+      "value": 914522
+    },
+    {
+      "time": 1598503657775,
+      "valueIncreaseRate": 0.019998895,
+      "taxIncreaseRate": 0.21112199,
+      "taxPaid": 11514.96,
+      "value": 905146
+    },
+    {
+      "time": 1566881257775,
+      "valueIncreaseRate": 0.01999885,
+      "taxIncreaseRate": -0.1222008,
+      "taxPaid": 9507.68,
+      "value": 887399
+    },
+    {
+      "time": 1535345257775,
+      "valueIncreaseRate": 0.23187236,
+      "taxIncreaseRate": 0.1964525,
+      "taxPaid": 10831.27,
+      "value": 870000
+    },
+    {
+      "time": 1503809257775,
+      "valueIncreaseRate": 0.0199987,
+      "taxIncreaseRate": 0.02745689,
+      "taxPaid": 9052.82,
+      "value": 706242
+    },
+    {
+      "time": 1472273257775,
+      "valueIncreaseRate": 0.01524789,
+      "taxIncreaseRate": 0.012344565,
+      "taxPaid": 8810.9,
+      "value": 692395
+    },
+    {
+      "time": 1440650857775,
+      "valueIncreaseRate": 0.019977925,
+      "taxIncreaseRate": 0.0169922,
+      "taxPaid": 8703.46,
+      "value": 681996
+    },
+    {
+      "time": 1409114857775,
+      "valueIncreaseRate": 0.004538646,
+      "taxIncreaseRate": 0,
+      "taxPaid": 8558.04,
+      "value": 668638
+    },
+    {
+      "time": 1377578857775,
+      "valueIncreaseRate": 0.019997947,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 665617
+    },
+    {
+      "time": 1346042857775,
+      "valueIncreaseRate": 0.019999312,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 652567
+    },
+    {
+      "time": 1314420457775,
+      "valueIncreaseRate": 0.0075292406,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 639772
+    },
+    {
+      "time": 1282884457775,
+      "valueIncreaseRate": -0.09287,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 634991
+    },
+    {
+      "time": 1251348457775,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 700000
+    },
+    {
+      "time": 1219812457775,
+      "valueIncreaseRate": -0.07833131,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 700000
+    },
+    {
+      "time": 1188190057775,
+      "valueIncreaseRate": 0.02,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 759492
+    },
+    {
+      "time": 1156654057775,
+      "valueIncreaseRate": 0.02,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 744600
+    },
+    {
+      "time": 1125118057775,
+      "valueIncreaseRate": 0.6399961,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 730000
+    },
+    {
+      "time": 1093582057775,
+      "valueIncreaseRate": 0.018667357,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 445123
+    },
+    {
+      "time": 1061959657775,
+      "valueIncreaseRate": 0.019997712,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 436966
+    },
+    {
+      "time": 1030423657775,
+      "valueIncreaseRate": 0.35556436,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 428399
+    },
+    {
+      "time": 998887657775,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 316030
+    }
+  ],
+  "dateSold": null,
+  "annualHomeownersInsurance": 6716,
+  "state": "CA",
+  "listed_by": {
+    "agent_reason": 3,
+    "zpro": false,
+    "recent_sales": 1,
+    "zuid": "X1-ZUxsx74nxta495_4kciy",
+    "review_count": 158,
+    "display_name": "Felicia Lewis",
+    "profile_url": "https://www.zillow.com/profile/FeliciaLewisGroup/",
+    "business_name": "Real Broker",
+    "rating_average": 5,
+    "phone": {
+      "prefix": "295",
+      "areacode": "858",
+      "number": "8576"
+    },
+    "badge_type": "Listing Agent",
+    "image_url": "https://photos.zillowstatic.com/fp/2b8df142fc8e70800d13ed77defc686c-h_n.jpg"
+  },
+  "yearBuilt": 1998,
+  "brokerageName": "Real Broker",
+  "description": "Welcome to Trilogy II in Torrey Hills, a picturesque gated community w/ tree-lined streets & resort-style amenities. This 3-level home features 3 bedrooms plus an office, 3 full bathrooms, & 1,871 sqft of living space designed for comfort & flexibility. Step inside to a foyer that connects all levels. On the lower floor is a private bedroom, full bath, laundry room, oversized storage closet, & direct-access 2-car garage. From here, step out to a backyard oasis complete w/ built-in BBQ, bubbling water feature, grassy area, & mature landscaping—perfect for relaxing or entertaining. The main level is where daily life unfolds. The updated kitchen includes white cabinetry, stone counters, upgraded appliances, & a dine-in space that feels welcoming anytime of day. The living room invites you to unwind by the fireplace, stream your favorite show, or step onto the balcony to enjoy an iced coffee & coastal breezes. The adjacent room offers flexibility for work or play, while a secondary bedroom & full bath offer comfort & convenience for guests. Upstairs, the primary suite provides a serene escape w/ plantation shutters, a walk-in closet, & spacious bath featuring dual sinks, soaking tub, & large storage room. Fresh paint, new luxury vinyl plank flooring, abundant natural light, & central A/C make this home move-in ready. Living in Trilogy II means access to a pool, spa, playground, & ample guest parking—all just minutes from award-winning schools, parks, hiking trails, One Paseo, Del Mar Highlands & Sky Deck, & the beaches of Del Mar, w/ convenient access to Hwy-56 & I-5.",
+  "climate": {
+    "windSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "probability": {},
+        "source": {
+          "url": "https://firststreet.org/property/11325-carmel-creek-rd-san-diego-ca-92130/603339025_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 18
+      }
+    },
+    "floodSources": {
+      "primary": {
+        "insuranceRecommendation": "CRITICAL",
+        "riskScore": {
+          "label": "MAJOR",
+          "max": 10,
+          "value": 5
+        },
+        "femaZone": "X_UNSHADED",
+        "source": {
+          "url": "https://firststreet.org/property/11325-carmel-creek-rd-san-diego-ca-92130/603339025_fsid"
+        },
+        "probability": [
+          {
+            "relativeYear": 0,
+            "probability": 0.0099999997764826
+          },
+          {
+            "relativeYear": 5,
+            "probability": 0.059999998658895
+          },
+          {
+            "relativeYear": 10,
+            "probability": 0.10999999940395
+          },
+          {
+            "relativeYear": 15,
+            "probability": 0.15000000596046
+          },
+          {
+            "relativeYear": 20,
+            "probability": 0.18999999761581
+          },
+          {
+            "relativeYear": 25,
+            "probability": 0.23000000417233
+          },
+          {
+            "relativeYear": 30,
+            "probability": 0.27000001072884
+          }
+        ],
+        "insuranceSeparatePolicy": "STRONGLY_RECOMMENDED",
+        "historicCountPropertyAll": 0
+      }
+    },
+    "fireSources": {
+      "primary": {
+        "insuranceRecommendation": "RECOMMENDED",
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 3
+        },
+        "probability": [
+          {
+            "relativeYear": 0,
+            "probability": 9.9999997473788e-05
+          },
+          {
+            "relativeYear": 5,
+            "probability": 0.00060000002849847
+          },
+          {
+            "relativeYear": 10,
+            "probability": 0.001300000003539
+          },
+          {
+            "relativeYear": 15,
+            "probability": 0.0020000000949949
+          },
+          {
+            "relativeYear": 20,
+            "probability": 0.0027999999001622
+          },
+          {
+            "relativeYear": 25,
+            "probability": 0.0037000000011176
+          },
+          {
+            "relativeYear": 30,
+            "probability": 0.004600000102073
+          }
+        ],
+        "source": {
+          "url": "https://firststreet.org/property/11325-carmel-creek-rd-san-diego-ca-92130/603339025_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 18
+      }
+    },
+    "heatSources": {
+      "primary": {
+        "percentile98Temp": 87,
+        "hotDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 6
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 8
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 10
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 12
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 13
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 15
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 17
+          }
+        ],
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 3
+        },
+        "source": {
+          "url": "https://firststreet.org/property/11325-carmel-creek-rd-san-diego-ca-92130/603339025_fsid"
+        }
+      }
+    },
+    "airSources": {
+      "primary": {
+        "source": {
+          "url": "https://firststreet.org/property/11325-carmel-creek-rd-san-diego-ca-92130/603339025_fsid"
+        },
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 3
+        },
+        "badAirDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 4
+          }
+        ]
+      }
+    }
+  },
+  "latitude": 32.92322,
+  "nearbyHomes": [
+    {
+      "bathrooms": 3,
+      "newConstructionType": null,
+      "lotAreaUnits": "sqft",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "11309 Carmel Creek Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/11309-Carmel-Creek-Rd-San-Diego-CA-92130/16777922_zpid/",
+      "lotAreaValue": null,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "11309 Carmel Creek Rd",
+        "zipcode": "92130"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.923065,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1578100,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/496c0431bf84d3f3a1c1f61eb16ea151-p_c.jpg"
+        }
+      ],
+      "zpid": 16777922,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1871,
+      "longitude": -117.22518,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": "rm1usd2fbg72",
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1871
+    },
+    {
+      "bathrooms": 3,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "11311 Carmel Creek Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/11311-Carmel-Creek-Rd-San-Diego-CA-92130/16777923_zpid/",
+      "lotAreaValue": 1.19,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "11311 Carmel Creek Rd",
+        "zipcode": "92130"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.923065,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1483500,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 51836,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/3fc294305f4e737c2f8c863e821bca89-p_c.jpg"
+        }
+      ],
+      "zpid": 16777923,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1410,
+      "longitude": -117.22518,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1410
+    },
+    {
+      "bathrooms": 3,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "11313 Carmel Creek Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/11313-Carmel-Creek-Rd-San-Diego-CA-92130/16777924_zpid/",
+      "lotAreaValue": 1.192378328742,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "11313 Carmel Creek Rd",
+        "zipcode": "92130"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.923065,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1605300,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 51940,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/9a87c389074ef69cb8dfda2935eb9630-p_c.jpg"
+        }
+      ],
+      "zpid": 16777924,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1944,
+      "longitude": -117.22518,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1944
+    },
+    {
+      "bathrooms": 3,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "11315 Carmel Creek Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/11315-Carmel-Creek-Rd-San-Diego-CA-92130/16777925_zpid/",
+      "lotAreaValue": 1.192378328742,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "11315 Carmel Creek Rd",
+        "zipcode": "92130"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.923065,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1529000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 51940,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=32.923065185546875,-117.22518157958984&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=jb8rDXJqyQjr98rpUB_F2KrjFVc="
+        }
+      ],
+      "zpid": 16777925,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1818,
+      "longitude": -117.22518,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1818
+    },
+    {
+      "bathrooms": 2.5,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "11317 Carmel Creek Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/11317-Carmel-Creek-Rd-San-Diego-CA-92130/16777926_zpid/",
+      "lotAreaValue": 1.192378328742,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "11317 Carmel Creek Rd",
+        "zipcode": "92130"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.923065,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1524000,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 51940,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/581593aee65bf783cb250d1f4b4f9a6c-p_c.jpg"
+        }
+      ],
+      "zpid": 16777926,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1818,
+      "longitude": -117.22518,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1818
+    },
+    {
+      "bathrooms": 2.5,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "11323 Carmel Creek Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/11323-Carmel-Creek-Rd-San-Diego-CA-92130/16777930_zpid/",
+      "lotAreaValue": 1.192378328742,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "11323 Carmel Creek Rd",
+        "zipcode": "92130"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.923065,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1178600,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 51940,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/b16acd56091b906c9e26ad5b069fbe10-p_c.jpg"
+        }
+      ],
+      "zpid": 16777930,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1426,
+      "longitude": -117.22518,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1426
+    },
+    {
+      "hdpTypeDimension": "Zestimate",
+      "lotAreaUnits": "sqft",
+      "isShowcaseListing": false,
+      "longitude": -117.22518,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "11329 Carmel Creek Rd",
+        "zipcode": "92130"
+      },
+      "livingAreaValue": 1818,
+      "lotSize": null,
+      "zpid": 16777934,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 3,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "11329 Carmel Creek Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "hdpUrl": "/homedetails/11329-Carmel-Creek-Rd-San-Diego-CA-92130/16777934_zpid/",
+      "lotAreaValue": null,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "OTHER",
+      "latitude": 32.923065,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "newConstructionType": null,
+      "yearBuilt": null,
+      "listingTypeDimension": "Unknown Listed By",
+      "livingArea": 1818,
+      "providerListingID": "59qp7s3np4gfe",
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/191a8e9891e31227ccb33857c8728b85-p_c.jpg"
+        }
+      ],
+      "currency": "USD",
+      "price": 1625500,
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    },
+    {
+      "bathrooms": 2.5,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "11321 Carmel Creek Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/11321-Carmel-Creek-Rd-San-Diego-CA-92130/16777927_zpid/",
+      "lotAreaValue": 1.192378328742,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "11321 Carmel Creek Rd",
+        "zipcode": "92130"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.92302,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 1559300,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 3,
+      "propertyTypeDimension": "Single Family",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 51940,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/c0009acb6ec28b5f9c471055a144ada0-p_c.jpg"
+        }
+      ],
+      "zpid": 16777927,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 1818,
+      "longitude": -117.2252,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "SINGLE_FAMILY",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 1818
+    }
+  ],
+  "priceHistory": [
+    {
+      "priceChangeRate": 0.83793103448276,
+      "date": "2025-08-21",
+      "source": "SDMLS",
+      "postingIsRental": false,
+      "time": 1755734400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "SDMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_logo_inf_11.jpg",
+        "infoString1": "250036899"
+      },
+      "pricePerSquareFoot": 855,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 1599000
+    },
+    {
+      "priceChangeRate": -0.021372328458943,
+      "date": "2017-11-16",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 1510790400000,
+      "sellerAgent": {
+        "name": "Tiffany Howell",
+        "photo": null,
+        "profileUrl": "/profile/Tiffany-M-Howell/"
+      },
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 465,
+      "buyerAgent": {
+        "name": "Felicia Lewis",
+        "photo": {
+          "url": "https://photos.zillowstatic.com/h_e/ISvg4fh2w5j2wg0000000000.jpg"
+        },
+        "profileUrl": "/profile/FeliciaLewisGroup/"
+      },
+      "event": "Sold",
+      "price": 870000
+    },
+    {
+      "priceChangeRate": 0.39670070699136,
+      "date": "2017-10-06",
+      "source": "Avanti Assets Inc",
+      "postingIsRental": false,
+      "time": 1507248000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Avanti Assets Inc",
+        "infoString3": null,
+        "infoString1": "170052364"
+      },
+      "pricePerSquareFoot": 475,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 889000
+    },
+    {
+      "priceChangeRate": -0.076197387518142,
+      "date": "2009-05-21",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 1242864000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 340,
+      "buyerAgent": {
+        "name": "Ryan Mathys and Tracie Kersten",
+        "photo": null,
+        "profileUrl": "/profile/RyanMathys/"
+      },
+      "event": "Sold",
+      "price": 636500
+    },
+    {
+      "priceChangeRate": 0.082482325216025,
+      "date": "2009-02-20",
+      "source": "Keller Williams Realty",
+      "postingIsRental": false,
+      "time": 1235088000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Keller Williams Realty",
+        "infoString3": null,
+        "infoString1": "090004897"
+      },
+      "pricePerSquareFoot": 368,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 689000
+    },
+    {
+      "priceChangeRate": -0.12808219178082,
+      "date": "2009-01-23",
+      "source": "Agent Provided",
+      "postingIsRental": false,
+      "time": 1232668800000,
+      "sellerAgent": {
+        "name": "John Roehrig",
+        "photo": null,
+        "profileUrl": "/profile/John-Roehrig/"
+      },
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": null,
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 340,
+      "buyerAgent": null,
+      "event": "Sold",
+      "price": 636500
+    },
+    {
+      "priceChangeRate": 0.73809523809524,
+      "date": "2004-12-15",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 1103068800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 390,
+      "buyerAgent": null,
+      "event": "Sold",
+      "price": 730000
+    },
+    {
+      "priceChangeRate": 0.6030534351145,
+      "date": "2001-04-25",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 988156800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 224,
+      "buyerAgent": null,
+      "event": "Sold",
+      "price": 420000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "1998-01-14",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 884736000000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 140,
+      "buyerAgent": null,
+      "event": "Sold",
+      "price": 262000
+    }
+  ],
+  "neighborhoodMapThumb": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/03516d69fa76a0a3a385b773682a1caa-p_c.jpg"
+    }
+  ],
+  "schools": [
+    {
+      "link": "https://www.greatschools.org/california/san-diego/12213-Torrey-Hills-School/",
+      "rating": 8,
+      "totalCount": null,
+      "distance": 0.6,
+      "assigned": null,
+      "name": "Torrey Hills School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Elementary",
+      "grades": "K-6",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/11118-Carmel-Valley-Middle-School/",
+      "rating": 8,
+      "totalCount": null,
+      "distance": 1.7,
+      "assigned": null,
+      "name": "Carmel Valley Middle School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Middle",
+      "grades": "7-8",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6091-Torrey-Pines-High-School/",
+      "rating": 10,
+      "totalCount": null,
+      "distance": 2.4,
+      "assigned": null,
+      "name": "Torrey Pines High School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "High",
+      "grades": "9-12",
+      "type": "Public"
+    }
+  ],
+  "rentZestimate": 5375,
+  "city": "San Diego",
+  "providerListingID": null,
+  "currency": "USD",
+  "listingProvider": null,
+  "propertyTaxRate": 1.17,
+  "isShowcaseListing": false,
+  "openHouseSchedule": [
+    {
+      "startTime": "2025-08-31 13:00:00",
+      "endTime": "2025-08-31 15:00:00"
+    }
+  ],
+  "mortgageRates": null,
+  "address": {
+    "community": null,
+    "city": "San Diego",
+    "state": "CA",
+    "neighborhood": null,
+    "subdivision": "CARMEL VALLEY",
+    "streetAddress": "11325 Carmel Creek Rd",
+    "zipcode": "92130"
+  },
+  "cityId": 54296,
+  "timeOnZillow": "5 days",
+  "priceChange": null,
+  "zestimate": 1582200,
+  "zpid": 16777931,
+  "countyId": 2841,
+  "homeType": "SINGLE_FAMILY",
+  "livingAreaUnits": "sqft",
+  "pageViewCount": 1860,
+  "homeInsights": [
+    {
+      "insights": [
+        {
+          "treatmentId": "model_0",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Backyard oasis",
+            "Bubbling water feature",
+            "Tree-lined streets",
+            "Abundant natural light",
+            "Fresh paint",
+            "Primary suite",
+            "White cabinetry"
+          ]
+        },
+        {
+          "treatmentId": "model_1",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Backyard oasis",
+            "Bubbling water feature",
+            "Tree-lined streets",
+            "Abundant natural light",
+            "Fresh paint",
+            "Primary suite",
+            "White cabinetry"
+          ]
+        }
+      ]
+    }
+  ],
+  "bathrooms": 3,
+  "neighborhoodRegion": {
+    "name": "Carmel Valley"
+  },
+  "zipcode": "92130",
+  "building": null,
+  "zestimateLowPercent": "5",
+  "brokerId": null,
+  "stateId": 9,
+  "url": "/homedetails/11325-Carmel-Creek-Rd-San-Diego-CA-92130/16777931_zpid/",
+  "solarPotential": null,
+  "attributionInfo": {
+    "buyerAgentName": null,
+    "infoString3": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_95_35.jpg",
+    "mlsName": "SDMLS",
+    "coAgentLicenseNumber": null,
+    "listingAgreement": null,
+    "listingOffices": [
+      {
+        "associatedOfficeType": "listOffice",
+        "officeName": "Real Broker"
+      }
+    ],
+    "infoString10": "This information is deemed reliable but not guaranteed. You should rely on this information only to decide whether or not to further investigate a particular property.\nBEFORE MAKING ANY OTHER DECISION, YOU SHOULD PERSONALLY INVESTIGATE THE FACTS (e.g. square footage and lot size) with the assistance of an appropriate professional. You may use this information only to identify properties you may be interested in investigating further. All uses except for personal, noncommercial use in accordance with the foregoing purpose are prohibited. Redistribution or copying of this information, any photographs or video tours is strictly\nprohibited. This information is derived from the Internet Data Exchange (IDX) service provided by San Diego MLS. Displayed property listings may be held by a brokerage firm other than the broker and/or agent responsible for this display. The information and any photographs and video tours and the compilation from which they are derived is protected by copyright. Compilation © 2025 San Diego MLS.",
+    "buyerAgentMemberStateLicense": null,
+    "brokerName": "Real Broker",
+    "listingAttributionContact": "858-876-8565",
+    "lastUpdated": "2025-08-25 09:50:46",
+    "trueStatus": null,
+    "listingAgentAttributionContact": null,
+    "agentEmail": null,
+    "agentName": "Felicia Lewis",
+    "attributionTitle": null,
+    "mlsId": "250036899",
+    "coAgentName": null,
+    "coAgentNumber": null,
+    "infoString5": "858-876-8565",
+    "listingAgents": [
+      {
+        "memberStateLicense": "DRE #01872727",
+        "memberFullName": "Felicia Lewis",
+        "associatedAgentType": "listAgent"
+      }
+    ],
+    "agentPhoneNumber": "858-876-8565",
+    "agentLicenseNumber": "DRE #01872727",
+    "providerLogo": "https://photos.zillowstatic.com/fp/32fa7129f16f8438799012a11d1f3534-zillow_web_95_35.jpg",
+    "infoString16": null,
+    "buyerBrokerageName": null,
+    "mlsDisclaimer": "This information is deemed reliable but not guaranteed. You should rely on this information only to decide whether or not to further investigate a particular property.\nBEFORE MAKING ANY OTHER DECISION, YOU SHOULD PERSONALLY INVESTIGATE THE FACTS (e.g. square footage and lot size) with the assistance of an appropriate professional. You may use this information only to identify properties you may be interested in investigating further. All uses except for personal, noncommercial use in accordance with the foregoing purpose are prohibited. Redistribution or copying of this information, any photographs or video tours is strictly\nprohibited. This information is derived from the Internet Data Exchange (IDX) service provided by San Diego MLS. Displayed property listings may be held by a brokerage firm other than the broker and/or agent responsible for this display. The information and any photographs and video tours and the compilation from which they are derived is protected by copyright. Compilation © 2025 San Diego MLS.",
+    "brokerPhoneNumber": "855-450-0442",
+    "lastChecked": "2025-08-26 21:11:24"
+  },
+  "priceChangeDateString": null,
+  "photoCount": 44,
+  "homeStatus": "FOR_SALE",
+  "homeFacts": null,
+  "resoFacts": {
+    "hasAttachedProperty": false,
+    "frontageType": null,
+    "poolFeatures": [
+      "Community/Common"
+    ],
+    "flooring": [
+      "Linoleum/Vinyl"
+    ],
+    "foundationDetails": {},
+    "accessibilityFeatures": null,
+    "hasGarage": true,
+    "hasPetsAllowed": true,
+    "bodyType": null,
+    "topography": null,
+    "landLeaseExpirationDate": null,
+    "hasAdditionalParcels": false,
+    "parkName": null,
+    "livingQuarters": {},
+    "taxAssessedValue": 970494,
+    "atAGlanceFacts": [
+      {
+        "factValue": "Single Family Residence",
+        "factLabel": "Type"
+      },
+      {
+        "factValue": "1998",
+        "factLabel": "Year Built"
+      },
+      {
+        "factValue": "Forced Air Unit",
+        "factLabel": "Heating"
+      },
+      {
+        "factValue": "Central Forced Air",
+        "factLabel": "Cooling"
+      },
+      {
+        "factValue": "2 Garage spaces",
+        "factLabel": "Parking"
+      },
+      {
+        "factValue": "$295 monthly",
+        "factLabel": "HOA"
+      },
+      {
+        "factValue": null,
+        "factLabel": "Lot"
+      },
+      {
+        "factValue": "5 Days",
+        "factLabel": "Days on Zillow"
+      },
+      {
+        "factValue": "$855",
+        "factLabel": "Price/sqft"
+      },
+      {
+        "factValue": null,
+        "factLabel": "Offer Review Date"
+      }
+    ],
+    "offerReviewDate": null,
+    "horseYN": null,
+    "view": {},
+    "rooms": {},
+    "belowGradeFinishedArea": null,
+    "feesAndDues": [
+      {
+        "phone": null,
+        "name": "Trilogy II",
+        "fee": "$295 monthly",
+        "type": "HOA"
+      }
+    ],
+    "cityRegion": "San Diego",
+    "mainLevelBathrooms": null,
+    "hasPrivatePool": null,
+    "landLeaseAmount": null,
+    "waterSource": [
+      "Meter on Property"
+    ],
+    "exteriorFeatures": {},
+    "inclusions": null,
+    "hasFireplace": null,
+    "gas": null,
+    "propertyCondition": "Turnkey",
+    "elevationUnits": null,
+    "exclusions": null,
+    "mainLevelBedrooms": null,
+    "numberOfUnitsVacant": null,
+    "hasWaterfrontView": null,
+    "bathroomsOneQuarter": null,
+    "lotSize": null,
+    "entryLevel": null,
+    "media": [
+      {
+        "mediaCategory": "UnbrandedVirtualTour",
+        "mediaURL": "https://www.propertypanorama.com/instaview/snd/250036899"
+      }
+    ],
+    "greenWaterConservation": null,
+    "stories": 3,
+    "livingArea": "1,871 sqft",
+    "commonWalls": null,
+    "listingTerms": "Cash,Conventional",
+    "otherParking": null,
+    "associationFee": "$295 monthly",
+    "marketingType": null,
+    "greenIndoorAirQuality": null,
+    "greenSustainability": null,
+    "livingAreaRangeUnits": null,
+    "associationPhone": null,
+    "greenBuildingVerificationType": null,
+    "hasAttachedGarage": null,
+    "bedrooms": 3,
+    "architecturalStyle": null,
+    "listingId": null,
+    "structureType": null,
+    "interiorFeatures": [
+      "Bathtub",
+      "Ceiling Fan",
+      "Crown Moldings",
+      "Recessed Lighting",
+      "Remodeled Kitchen",
+      "Shower"
+    ],
+    "horseAmenities": null,
+    "garageParkingCapacity": 2,
+    "developmentStatus": null,
+    "lotFeatures": null,
+    "roofType": "Tile/Clay,Spanish Tile",
+    "compensationBasedOn": null,
+    "greenEnergyGeneration": null,
+    "daysOnZillow": 5,
+    "listAOR": "San Diego Association of REALTOR",
+    "buildingAreaSource": null,
+    "elementarySchool": null,
+    "zoningDescription": null,
+    "irrigationWaterRightsAcres": null,
+    "yearBuiltEffective": null,
+    "greenEnergyEfficient": null,
+    "constructionMaterials": [
+      "Stucco"
+    ],
+    "fireplaceFeatures": [
+      "FP in Living Room"
+    ],
+    "hoaFeeTotal": "$295 monthly",
+    "appliances": [
+      "Dishwasher",
+      "Disposal",
+      "Dryer",
+      "Microwave",
+      "Refrigerator",
+      "Washer",
+      "Gas Oven",
+      "Barbecue",
+      "Gas Cooking",
+      "Gas Water Heater"
+    ],
+    "sewer": [
+      "Sewer Connected"
+    ],
+    "bathroomsPartial": null,
+    "fencing": "Partial",
+    "spaFeatures": [
+      "Community/Common"
+    ],
+    "waterViewYN": null,
+    "buildingName": "Trilogy II",
+    "attic": null,
+    "petsMaxWeight": null,
+    "cumulativeDaysOnMarket": null,
+    "waterfrontFeatures": null,
+    "additionalParcelsDescription": null,
+    "canRaiseHorses": false,
+    "hasLandLease": false,
+    "communityFeatures": [
+      "Gated Community",
+      "Playground",
+      "Pool",
+      "Spa/Hot Tub"
+    ],
+    "waterBodyName": null,
+    "middleOrJuniorSchool": null,
+    "lotSizeDimensions": null,
+    "virtualTour": "https://www.propertypanorama.com/instaview/snd/250036899",
+    "contingency": null,
+    "yearBuilt": 1998,
+    "utilities": [
+      "Electricity Connected",
+      "Natural Gas Connected",
+      "Sewer Connected",
+      "Water Connected"
+    ],
+    "totalActualRent": null,
+    "bathroomsFull": 3,
+    "parcelNumber": "3073611011",
+    "incomeIncludes": null,
+    "highSchool": null,
+    "taxAnnualAmount": 12246,
+    "subdivisionName": "CARMEL VALLEY",
+    "storiesTotal": 3,
+    "storiesDecimal": 3,
+    "specialListingConditions": null,
+    "windowFeatures": null,
+    "ownership": null,
+    "woodedArea": null,
+    "middleOrJuniorSchoolDistrict": null,
+    "associationPhone2": null,
+    "onMarketDate": 1755810442000,
+    "roomTypes": null,
+    "frontageLength": null,
+    "roadSurfaceType": null,
+    "associationAmenities": null,
+    "propertySubType": [
+      "Single Family Residence"
+    ],
+    "hasCooling": true,
+    "levels": "3 Story",
+    "coveredParkingCapacity": 2,
+    "foundationArea": null,
+    "zoning": null,
+    "hoaFee": "$295 monthly",
+    "livingAreaRange": null,
+    "parkingFeatures": [
+      "Attached"
+    ],
+    "parkingCapacity": 2,
+    "cropsIncludedYN": null,
+    "tenantPays": null,
+    "builderModel": null,
+    "otherStructures": null,
+    "otherFacts": {},
+    "additionalFeeInfo": null,
+    "hasView": false,
+    "openParkingCapacity": null,
+    "securityFeatures": [
+      "Gated Community",
+      "Smoke Detector",
+      "Carbon Monoxide Detectors"
+    ],
+    "numberOfUnitsInCommunity": 189,
+    "hasHomeWarranty": false,
+    "basementYN": null,
+    "doorFeatures": null,
+    "ownershipType": null,
+    "aboveGradeFinishedArea": null,
+    "associations": [
+      {
+        "feeFrequency": "$295 monthly",
+        "name": "Trilogy II",
+        "phone": null
+      }
+    ],
+    "waterView": null,
+    "electric": null,
+    "buildingFeatures": null,
+    "hasOpenParking": null,
+    "hasCarport": null,
+    "bathroomsHalf": 0,
+    "homeType": "SingleFamily",
+    "isSeniorCommunity": null,
+    "municipality": null,
+    "bathroomsThreeQuarter": null,
+    "hasSpa": false,
+    "basement": null,
+    "associationFee2": null,
+    "cooling": [
+      "Central Forced Air"
+    ],
+    "hasHeating": true,
+    "associationName2": null,
+    "hasRentControl": null,
+    "elementarySchoolDistrict": null,
+    "otherEquipment": null,
+    "bathrooms": 3,
+    "buildingArea": "1,871",
+    "furnished": false,
+    "vegetation": null,
+    "patioAndPorchFeatures": null,
+    "bathroomsFloat": 3,
+    "builderName": null,
+    "highSchoolDistrict": null,
+    "hasElectricOnProperty": true,
+    "laundryFeatures": [
+      "Electric",
+      "Gas"
+    ],
+    "entryLocation": null,
+    "fireplaces": 1,
+    "heating": [
+      "Forced Air Unit"
+    ],
+    "availabilityDate": null,
+    "carportParkingCapacity": null,
+    "hasAssociation": null,
+    "irrigationWaterRightsYN": null,
+    "isNewConstruction": null,
+    "associationFeeIncludes": [
+      "Common Area Maintenance",
+      "Exterior (Landscaping)",
+      "Gated Community"
+    ],
+    "leaseTerm": null,
+    "pricePerSquareFoot": 855,
+    "associationName": "Trilogy II",
+    "elevation": null
+  },
+  "datePosted": "2025-08-21",
+  "bedrooms": 3,
+  "propertyTypeDimension": "Single Family",
+  "mortgageZHLRates": {
+    "thirtyYearFixedBucket": {
+      "rate": 6.402,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756269928576
+    },
+    "fifteenYearFixedBucket": {
+      "rate": 6.303,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756269928576
+    },
+    "arm5Bucket": {
+      "rate": 6.423,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756269928576
+    }
+  },
+  "comingSoonOnMarketDate": null,
+  "favoriteCount": 114,
+  "livingArea": 1871,
+  "zestimateHighPercent": "5",
+  "mlsid": "250036899",
+  "isListedByOwner": null,
+  "listingSubType": {
+    "is_comingSoon": false,
+    "is_pending": false,
+    "is_forAuction": false,
+    "is_bankOwned": false,
+    "is_FSBA": true,
+    "is_FSBO": false,
+    "is_newHome": false,
+    "is_foreclosure": false
+  },
+  "buildingId": null,
+  "country": "USA",
+  "price": 1599000,
+  "priceChangeDate": null,
+  "contingentListingType": null
+}

@@ -1,0 +1,1665 @@
+{
+  "buildingPermits": null,
+  "contact_recipients": [
+    {
+      "agent_reason": 1,
+      "zpro": null,
+      "recent_sales": 0,
+      "review_count": 0,
+      "display_name": "Premier Broker Flex Atlanta GA",
+      "badge_type": "Premier Agent",
+      "business_name": "Zillow Group",
+      "rating_average": 0,
+      "phone": {
+        "prefix": "452",
+        "areacode": "206",
+        "number": "1030"
+      },
+      "zuid": "X1-ZUv2ktj4jt3nyh_98wrm",
+      "image_url": "https://www.zillowstatic.com/static/images/nophoto_h_g.png"
+    }
+  ],
+  "longitude": -117.13751,
+  "countyFIPS": "06073",
+  "imgSrc": "https://photos.zillowstatic.com/fp/fd6c4601b08bd7e1ec23db092b1a6ebd-p_d.jpg",
+  "livingAreaValue": 831,
+  "streetAddress": "8670 New Salem St UNIT 106",
+  "county": "San Diego County",
+  "monthlyHoaFee": 408,
+  "timeZone": "America/Los_Angeles",
+  "taxHistory": [
+    {
+      "time": 1724734538131,
+      "valueIncreaseRate": 0.18875685,
+      "taxIncreaseRate": 0.19066067,
+      "taxPaid": 8029.72,
+      "value": 650250
+    },
+    {
+      "time": 1693112138131,
+      "valueIncreaseRate": 0.4721476,
+      "taxIncreaseRate": 0.5067519,
+      "taxPaid": 6743.92,
+      "value": 547000
+    },
+    {
+      "time": 1661576138131,
+      "valueIncreaseRate": 0.019998297,
+      "taxIncreaseRate": 0.00735966,
+      "taxPaid": 4475.8,
+      "value": 371566
+    },
+    {
+      "time": 1630040138131,
+      "valueIncreaseRate": 0.10023105,
+      "taxIncreaseRate": 0.10351388,
+      "taxPaid": 4443.1,
+      "value": 364281
+    },
+    {
+      "time": 1598504138131,
+      "valueIncreaseRate": 0.019999815,
+      "taxIncreaseRate": 0.029007211,
+      "taxPaid": 4026.32,
+      "value": 331095
+    },
+    {
+      "time": 1566881738131,
+      "valueIncreaseRate": 0.019997548,
+      "taxIncreaseRate": 0.058806676,
+      "taxPaid": 3912.82,
+      "value": 324603
+    },
+    {
+      "time": 1535345738131,
+      "valueIncreaseRate": 0.019996794,
+      "taxIncreaseRate": 0.02541124,
+      "taxPaid": 3695.5,
+      "value": 318239
+    },
+    {
+      "time": 1503809738131,
+      "valueIncreaseRate": 0.07586207,
+      "taxIncreaseRate": 0.07313176,
+      "taxPaid": 3603.92,
+      "value": 312000
+    },
+    {
+      "time": 1472273738131,
+      "valueIncreaseRate": 0.035714287,
+      "taxIncreaseRate": 0.0360005,
+      "taxPaid": 3358.32,
+      "value": 290000
+    },
+    {
+      "time": 1440651338131,
+      "valueIncreaseRate": 0.19148937,
+      "taxIncreaseRate": 0.19013567,
+      "taxPaid": 3241.62,
+      "value": 280000
+    },
+    {
+      "time": 1409115338131,
+      "valueIncreaseRate": 0.08796296,
+      "taxIncreaseRate": 0,
+      "taxPaid": 2723.74,
+      "value": 235000
+    },
+    {
+      "time": 1377579338131,
+      "valueIncreaseRate": 0.053658538,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 216000
+    },
+    {
+      "time": 1346043338131,
+      "valueIncreaseRate": -0.03301887,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 205000
+    },
+    {
+      "time": 1314420938131,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 212000
+    },
+    {
+      "time": 1282884938131,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 212000
+    },
+    {
+      "time": 1251348938131,
+      "valueIncreaseRate": -0.2,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 212000
+    },
+    {
+      "time": 1219812938131,
+      "valueIncreaseRate": -0.24418306,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 265000
+    },
+    {
+      "time": 1188190538131,
+      "valueIncreaseRate": 0.019997673,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 350614
+    },
+    {
+      "time": 1156654538131,
+      "valueIncreaseRate": 0.7161001,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 343740
+    },
+    {
+      "time": 1125118538131,
+      "valueIncreaseRate": 0.019992158,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 200303
+    },
+    {
+      "time": 1093582538131,
+      "valueIncreaseRate": 0.018663859,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 196377
+    },
+    {
+      "time": 1061960138131,
+      "valueIncreaseRate": 0.01999471,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 192779
+    },
+    {
+      "time": 1030424138131,
+      "valueIncreaseRate": 0.3724095,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 189000
+    },
+    {
+      "time": 998888138131,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": null,
+      "value": 137714
+    }
+  ],
+  "dateSold": null,
+  "annualHomeownersInsurance": 2625,
+  "state": "CA",
+  "listed_by": {
+    "agent_reason": 3,
+    "zpro": false,
+    "recent_sales": 0,
+    "zuid": "X1-ZU1715p1kuvdrt5_8l13l",
+    "review_count": 0,
+    "display_name": "zandra58",
+    "profile_url": "https://www.zillow.com/profile/zandra58/",
+    "business_name": "Team Z Realty",
+    "rating_average": 0,
+    "phone": "",
+    "badge_type": "Listing Agent",
+    "image_url": "https://www.zillowstatic.com/static/images/nophoto_h_n.png"
+  },
+  "yearBuilt": 1993,
+  "brokerageName": "Team Z Realty",
+  "description": "Discover modern elegance and comfort in this beautifully remodeled unit, featuring designer finishes throughout. This upper corner unit in the Villas development of Mira Mesa features a spacious living and dining room with direct access to the covered patio and side by side washer and dryer. Not one detail has gone untouched and a true pride of ownership is evident. 2 assigned parking spaces and conveniently located near shopping, restaurants, schools, public library and Mira Mesa community park.",
+  "climate": {
+    "windSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "probability": {},
+        "source": {
+          "url": "https://firststreet.org/property/8670-new-salem-st-unit-106-san-diego-ca-92126/603400598_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 18
+      }
+    },
+    "floodSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "femaZone": "X_UNSHADED",
+        "source": {
+          "url": "https://firststreet.org/property/8670-new-salem-st-unit-106-san-diego-ca-92126/603400598_fsid"
+        },
+        "probability": [
+          {
+            "relativeYear": 0,
+            "probability": 0
+          },
+          {
+            "relativeYear": 5,
+            "probability": 0
+          },
+          {
+            "relativeYear": 10,
+            "probability": 0
+          },
+          {
+            "relativeYear": 15,
+            "probability": 0
+          },
+          {
+            "relativeYear": 20,
+            "probability": 0
+          },
+          {
+            "relativeYear": 25,
+            "probability": 0
+          },
+          {
+            "relativeYear": 30,
+            "probability": 0
+          }
+        ],
+        "insuranceSeparatePolicy": "NOT_REQUIRED",
+        "historicCountPropertyAll": 0
+      }
+    },
+    "fireSources": {
+      "primary": {
+        "insuranceRecommendation": "NOT_CRITICAL",
+        "riskScore": {
+          "label": "MINIMAL",
+          "max": 10,
+          "value": 1
+        },
+        "probability": {},
+        "source": {
+          "url": "https://firststreet.org/property/8670-new-salem-st-unit-106-san-diego-ca-92126/603400598_fsid"
+        },
+        "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+        "historicCountAll": 31
+      }
+    },
+    "heatSources": {
+      "primary": {
+        "percentile98Temp": 93,
+        "hotDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 7
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 9
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 11
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 14
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 16
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 18
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 20
+          }
+        ],
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 4
+        },
+        "source": {
+          "url": "https://firststreet.org/property/8670-new-salem-st-unit-106-san-diego-ca-92126/603400598_fsid"
+        }
+      }
+    },
+    "airSources": {
+      "primary": {
+        "source": {
+          "url": "https://firststreet.org/property/8670-new-salem-st-unit-106-san-diego-ca-92126/603400598_fsid"
+        },
+        "riskScore": {
+          "label": "MODERATE",
+          "max": 10,
+          "value": 3
+        },
+        "badAirDays": [
+          {
+            "relativeYear": 0,
+            "dayCount": 3
+          },
+          {
+            "relativeYear": 5,
+            "dayCount": 3
+          },
+          {
+            "relativeYear": 10,
+            "dayCount": 3
+          },
+          {
+            "relativeYear": 15,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 20,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 25,
+            "dayCount": 4
+          },
+          {
+            "relativeYear": 30,
+            "dayCount": 4
+          }
+        ]
+      }
+    }
+  },
+  "latitude": 32.91343,
+  "nearbyHomes": [
+    {
+      "hdpTypeDimension": "RecentlySold",
+      "lotAreaUnits": "sqft",
+      "isShowcaseListing": false,
+      "longitude": -117.13751,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "8668 New Salem St UNIT 104",
+        "zipcode": "92126"
+      },
+      "livingAreaValue": 831,
+      "lotSize": null,
+      "zpid": 16788202,
+      "livingAreaUnitsShort": "sqft",
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "bathrooms": 2,
+      "state": "CA",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "8668 New Salem St UNIT 104"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "hdpUrl": "/homedetails/8668-New-Salem-St-UNIT-104-San-Diego-CA-92126/16788202_zpid/",
+      "lotAreaValue": null,
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": "250023621",
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "homeStatus": "RECENTLY_SOLD",
+      "latitude": 32.91343,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Condo",
+      "newConstructionType": null,
+      "yearBuilt": 1993,
+      "listingTypeDimension": "Unknown Listed By",
+      "livingArea": 831,
+      "providerListingID": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/61b0247b5b202e7e4e5260fc75f3c820-p_c.jpg"
+        }
+      ],
+      "currency": "USD",
+      "price": 648800,
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      }
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "8668 New Salem St UNIT 97"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/8668-New-Salem-St-UNIT-97-San-Diego-CA-92126/16788195_zpid/",
+      "lotAreaValue": 2.074334251607,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "8668 New Salem St UNIT 97",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.91351,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 578700,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Apartment",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 90357,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/32fd1b85f1d16529e814448eb39b55d1-p_c.jpg"
+        }
+      ],
+      "zpid": 16788195,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 831,
+      "longitude": -117.13756,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "APARTMENT",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 831
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "8668 New Salem St UNIT 98"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/8668-New-Salem-St-UNIT-98-San-Diego-CA-92126/16788196_zpid/",
+      "lotAreaValue": 2.074334251607,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "8668 New Salem St UNIT 98",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.91351,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 598100,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Apartment",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 90357,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/86f7f7b14beafee97ccc44d0725545bd-p_c.jpg"
+        }
+      ],
+      "zpid": 16788196,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 831,
+      "longitude": -117.13756,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "APARTMENT",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 831
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "8668 New Salem St UNIT 99"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/8668-New-Salem-St-UNIT-99-San-Diego-CA-92126/16788197_zpid/",
+      "lotAreaValue": 2.074334251607,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "8668 New Salem St UNIT 99",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.91351,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 593300,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Apartment",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 90357,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/1ef147b8f0788479a065961bf48c18cb-p_c.jpg"
+        }
+      ],
+      "zpid": 16788197,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 831,
+      "longitude": -117.13756,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "APARTMENT",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 831
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "8668 New Salem St UNIT 100"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/8668-New-Salem-St-UNIT-100-San-Diego-CA-92126/16788198_zpid/",
+      "lotAreaValue": 2.074334251607,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "8668 New Salem St UNIT 100",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.91351,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 569100,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 90357,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=32.913509368896484,-117.13755798339844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Jq92-GcDtVvNHa0SL9FukOQjxNs="
+        }
+      ],
+      "zpid": 16788198,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 831,
+      "longitude": -117.13756,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 831
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "8668 New Salem St UNIT 101"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/8668-New-Salem-St-UNIT-101-San-Diego-CA-92126/16788199_zpid/",
+      "lotAreaValue": 2.074334251607,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "8668 New Salem St UNIT 101",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.91351,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 550700,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 90357,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=32.913509368896484,-117.13755798339844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Jq92-GcDtVvNHa0SL9FukOQjxNs="
+        }
+      ],
+      "zpid": 16788199,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 831,
+      "longitude": -117.13756,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 831
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "8668 New Salem St UNIT 102"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/8668-New-Salem-St-UNIT-102-San-Diego-CA-92126/16788200_zpid/",
+      "lotAreaValue": 2.074334251607,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "8668 New Salem St UNIT 102",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.91351,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 591700,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Condo",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 90357,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=32.913509368896484,-117.13755798339844&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Jq92-GcDtVvNHa0SL9FukOQjxNs="
+        }
+      ],
+      "zpid": 16788200,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 831,
+      "longitude": -117.13756,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": null,
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 831
+    },
+    {
+      "bathrooms": 2,
+      "newConstructionType": null,
+      "lotAreaUnits": "Acres",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "8668 New Salem St UNIT 103"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "hdpUrl": "/homedetails/8668-New-Salem-St-UNIT-103-San-Diego-CA-92126/16788201_zpid/",
+      "lotAreaValue": 2.07,
+      "parentRegion": null,
+      "address": {
+        "city": "San Diego",
+        "state": "CA",
+        "streetAddress": "8668 New Salem St UNIT 103",
+        "zipcode": "92126"
+      },
+      "state": "CA",
+      "attributionInfo": {
+        "agentPhoneNumber": null,
+        "trueStatus": null,
+        "providerLogo": null,
+        "mlsId": null,
+        "brokerName": null,
+        "mlsName": null,
+        "brokerPhoneNumber": null,
+        "agentName": null
+      },
+      "latitude": 32.91351,
+      "homeStatus": "OTHER",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_forAuction": false,
+        "is_comingSoon": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_newHome": false,
+        "is_FSBO": false
+      },
+      "price": 614500,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "bedrooms": 2,
+      "propertyTypeDimension": "Apartment",
+      "listingTypeDimension": "Unknown Listed By",
+      "lotSize": 90169,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/d9d2d79a18584763d143c8a06b546aa1-p_c.jpg"
+        }
+      ],
+      "zpid": 16788201,
+      "hdpTypeDimension": "Zestimate",
+      "livingArea": 831,
+      "longitude": -117.13756,
+      "livingAreaUnitsShort": "sqft",
+      "providerListingID": "2nfy0r1whrjd5",
+      "homeType": "APARTMENT",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "livingAreaValue": 831
+    }
+  ],
+  "priceHistory": [
+    {
+      "priceChangeRate": 0,
+      "date": "2025-08-02",
+      "source": "CRMLS",
+      "postingIsRental": false,
+      "time": 1754092800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "CRMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/cb8caaa629c0af2058e60add67b2f2ee-zillow_web_logo_inf_11.jpg",
+        "infoString1": "PTP2505872"
+      },
+      "pricePerSquareFoot": 752,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 625000
+    },
+    {
+      "priceChangeRate": 0.0080645161290323,
+      "date": "2022-05-16",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 1652659200000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 752,
+      "buyerAgent": null,
+      "event": "Sold",
+      "price": 625000
+    },
+    {
+      "priceChangeRate": 0.076388888888889,
+      "date": "2022-04-22",
+      "source": "CRMLS",
+      "postingIsRental": false,
+      "time": 1650585600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "CRMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/cb8caaa629c0af2058e60add67b2f2ee-zillow_web_logo_inf_11.jpg",
+        "infoString1": "NDP2203518"
+      },
+      "pricePerSquareFoot": 746,
+      "buyerAgent": null,
+      "event": "Pending sale",
+      "price": 620000
+    },
+    {
+      "priceChangeRate": 0.84615384615385,
+      "date": "2022-04-14",
+      "source": "CRMLS",
+      "postingIsRental": false,
+      "time": 1649894400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "CRMLS",
+        "infoString3": "https://photos.zillowstatic.com/fp/cb8caaa629c0af2058e60add67b2f2ee-zillow_web_logo_inf_11.jpg",
+        "infoString1": "NDP2203518"
+      },
+      "pricePerSquareFoot": 693,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 576000
+    },
+    {
+      "priceChangeRate": -0.074183976261128,
+      "date": "2016-07-22",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 1469145600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 375,
+      "buyerAgent": {
+        "name": "Josh Otten",
+        "photo": null,
+        "profileUrl": "/profile/JoshOttenDifference/"
+      },
+      "event": "Sold",
+      "price": 312000
+    },
+    {
+      "priceChangeRate": 0.78306878306878,
+      "date": "2005-02-15",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 1108425600000,
+      "sellerAgent": {
+        "name": "John Frasca",
+        "photo": null,
+        "profileUrl": "/profile/John-L-Frasca/"
+      },
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 406,
+      "buyerAgent": null,
+      "event": "Sold",
+      "price": 337000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2001-11-02",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 1004659200000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 227,
+      "buyerAgent": {
+        "name": "John Frasca",
+        "photo": null,
+        "profileUrl": "/profile/John-L-Frasca/"
+      },
+      "event": "Sold",
+      "price": 189000
+    }
+  ],
+  "neighborhoodMapThumb": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/fd6c4601b08bd7e1ec23db092b1a6ebd-p_c.jpg"
+    }
+  ],
+  "schools": [
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6137-Ericson-Elementary-School/",
+      "rating": 7,
+      "totalCount": null,
+      "distance": 0.9,
+      "assigned": null,
+      "name": "Ericson Elementary School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Elementary",
+      "grades": "K-5",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6252-Wangenheim-Middle-School/",
+      "rating": 6,
+      "totalCount": null,
+      "distance": 0.8,
+      "assigned": null,
+      "name": "Wangenheim Middle School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Middle",
+      "grades": "6-8",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/california/san-diego/6203-Mira-Mesa-High-School/",
+      "rating": 9,
+      "totalCount": null,
+      "distance": 0.2,
+      "assigned": null,
+      "name": "Mira Mesa High School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "High",
+      "grades": "9-12",
+      "type": "Public"
+    }
+  ],
+  "rentZestimate": 2856,
+  "city": "San Diego",
+  "providerListingID": null,
+  "currency": "USD",
+  "listingProvider": null,
+  "propertyTaxRate": 1.17,
+  "isShowcaseListing": false,
+  "openHouseSchedule": {},
+  "mortgageRates": null,
+  "address": {
+    "community": null,
+    "city": "San Diego",
+    "state": "CA",
+    "neighborhood": null,
+    "subdivision": null,
+    "streetAddress": "8670 New Salem St UNIT 106",
+    "zipcode": "92126"
+  },
+  "cityId": 54296,
+  "timeOnZillow": "24 days",
+  "priceChange": null,
+  "zestimate": 618000,
+  "zpid": 16788204,
+  "countyId": 2841,
+  "homeType": "CONDO",
+  "livingAreaUnits": "sqft",
+  "pageViewCount": 1269,
+  "homeInsights": [
+    {
+      "insights": [
+        {
+          "treatmentId": "model_0",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Designer finishes",
+            "Upper corner unit"
+          ]
+        },
+        {
+          "treatmentId": "model_1",
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Designer finishes",
+            "Upper corner unit"
+          ]
+        }
+      ]
+    }
+  ],
+  "bathrooms": 2,
+  "neighborhoodRegion": {
+    "name": "Mira Mesa"
+  },
+  "zipcode": "92126",
+  "building": null,
+  "zestimateLowPercent": "5",
+  "brokerId": null,
+  "stateId": 9,
+  "url": "/homedetails/8670-New-Salem-St-UNIT-106-San-Diego-CA-92126/16788204_zpid/",
+  "solarPotential": null,
+  "attributionInfo": {
+    "buyerAgentName": null,
+    "infoString3": "https://photos.zillowstatic.com/fp/cb8caaa629c0af2058e60add67b2f2ee-zillow_web_95_35.jpg",
+    "mlsName": "CRMLS",
+    "coAgentLicenseNumber": null,
+    "listingAgreement": null,
+    "listingOffices": [
+      {
+        "associatedOfficeType": "listOffice",
+        "officeName": "Team Z Realty"
+      }
+    ],
+    "infoString10": "The multiple listing data appearing on this website, or contained in reports produced therefrom, is owned and copyrighted by California Regional Multiple Listing Service, Inc. (\"CRMLS\") and is protected by all applicable copyright laws. Information provided is for viewer's personal, non-commercial use and may not be used for any purpose other than to identify prospective properties the viewer may be interested in purchasing. All listing data, including but not limited to square footage and lot size is believed to be accurate, but the listing Agent, listing Broker and CRMLS and its affiliates do not warrant or guarantee such accuracy. The viewer should independently verify the listed data prior to making any decisions based on such information by personal inspection and/or contacting a real estate professional.\n\nBased on information from California Regional Multiple Listing Service, Inc. as of 2025-08-26 21:25:46 PDT and /or other sources. All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy. Properties may or may not be listed by the office/agent presenting the information",
+    "buyerAgentMemberStateLicense": null,
+    "brokerName": "Team Z Realty",
+    "listingAttributionContact": null,
+    "lastUpdated": "2025-08-14 13:39:31",
+    "trueStatus": null,
+    "listingAgentAttributionContact": null,
+    "agentEmail": null,
+    "agentName": "Zandra Ulloa",
+    "attributionTitle": "Listing Provided by:",
+    "mlsId": "PTP2505872",
+    "coAgentName": null,
+    "coAgentNumber": null,
+    "infoString5": "949-617-2875",
+    "listingAgents": [
+      {
+        "memberStateLicense": "DRE #01849548",
+        "memberFullName": "Zandra Ulloa",
+        "associatedAgentType": "listAgent"
+      }
+    ],
+    "agentPhoneNumber": "949-617-2875",
+    "agentLicenseNumber": "DRE #01849548",
+    "providerLogo": "https://photos.zillowstatic.com/fp/cb8caaa629c0af2058e60add67b2f2ee-zillow_web_95_35.jpg",
+    "infoString16": null,
+    "buyerBrokerageName": null,
+    "mlsDisclaimer": "The multiple listing data appearing on this website, or contained in reports produced therefrom, is owned and copyrighted by California Regional Multiple Listing Service, Inc. (\"CRMLS\") and is protected by all applicable copyright laws. Information provided is for viewer's personal, non-commercial use and may not be used for any purpose other than to identify prospective properties the viewer may be interested in purchasing. All listing data, including but not limited to square footage and lot size is believed to be accurate, but the listing Agent, listing Broker and CRMLS and its affiliates do not warrant or guarantee such accuracy. The viewer should independently verify the listed data prior to making any decisions based on such information by personal inspection and/or contacting a real estate professional.\n\nBased on information from California Regional Multiple Listing Service, Inc. as of 2025-08-26 21:25:46 PDT and /or other sources. All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy. Properties may or may not be listed by the office/agent presenting the information",
+    "brokerPhoneNumber": "949-617-2875",
+    "lastChecked": "2025-08-26 21:25:46"
+  },
+  "priceChangeDateString": null,
+  "photoCount": 39,
+  "homeStatus": "FOR_SALE",
+  "homeFacts": null,
+  "resoFacts": {
+    "hasAttachedProperty": true,
+    "frontageType": null,
+    "poolFeatures": [
+      "Community",
+      "Association"
+    ],
+    "flooring": null,
+    "foundationDetails": {},
+    "accessibilityFeatures": null,
+    "hasGarage": true,
+    "hasPetsAllowed": null,
+    "bodyType": null,
+    "topography": null,
+    "landLeaseExpirationDate": null,
+    "hasAdditionalParcels": false,
+    "parkName": "Mirabella",
+    "livingQuarters": {},
+    "taxAssessedValue": 650250,
+    "atAGlanceFacts": [
+      {
+        "factValue": "Condominium",
+        "factLabel": "Type"
+      },
+      {
+        "factValue": "1993",
+        "factLabel": "Year Built"
+      },
+      {
+        "factValue": null,
+        "factLabel": "Heating"
+      },
+      {
+        "factValue": "Central Air",
+        "factLabel": "Cooling"
+      },
+      {
+        "factValue": "2 Garage spaces",
+        "factLabel": "Parking"
+      },
+      {
+        "factValue": "$408 monthly",
+        "factLabel": "HOA"
+      },
+      {
+        "factValue": "24 Days",
+        "factLabel": "Days on Zillow"
+      },
+      {
+        "factValue": "$752",
+        "factLabel": "Price/sqft"
+      },
+      {
+        "factValue": null,
+        "factLabel": "Offer Review Date"
+      }
+    ],
+    "offerReviewDate": null,
+    "horseYN": null,
+    "view": [
+      "None"
+    ],
+    "rooms": [
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "MasterBedroom",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": null,
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "MasterBathroom",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": null,
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "Kitchen",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": null,
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "Laundry",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": null,
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "LivingRoom",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": null,
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      }
+    ],
+    "belowGradeFinishedArea": null,
+    "feesAndDues": [
+      {
+        "phone": "858-748-7656",
+        "name": "Mirabella",
+        "fee": "$408 monthly",
+        "type": "HOA"
+      }
+    ],
+    "cityRegion": "San Diego",
+    "mainLevelBathrooms": null,
+    "hasPrivatePool": null,
+    "landLeaseAmount": null,
+    "waterSource": null,
+    "exteriorFeatures": {},
+    "inclusions": null,
+    "hasFireplace": true,
+    "gas": null,
+    "propertyCondition": null,
+    "elevationUnits": null,
+    "exclusions": null,
+    "mainLevelBedrooms": null,
+    "numberOfUnitsVacant": null,
+    "hasWaterfrontView": null,
+    "bathroomsOneQuarter": null,
+    "lotSize": "2.07 Acres",
+    "entryLevel": null,
+    "media": [
+      {
+        "mediaCategory": "UnbrandedVirtualTour",
+        "mediaURL": "https://www.propertypanorama.com/instaview/crmls/PTP2505872"
+      }
+    ],
+    "greenWaterConservation": null,
+    "stories": 1,
+    "livingArea": "831 sqft",
+    "commonWalls": "1 Common Wall,No One Above",
+    "listingTerms": "Cash,Conventional",
+    "otherParking": null,
+    "associationFee": "$408 monthly",
+    "marketingType": null,
+    "greenIndoorAirQuality": null,
+    "greenSustainability": null,
+    "livingAreaRangeUnits": "Square Feet",
+    "associationPhone": "858-748-7656",
+    "greenBuildingVerificationType": null,
+    "hasAttachedGarage": false,
+    "bedrooms": 2,
+    "architecturalStyle": null,
+    "listingId": null,
+    "structureType": null,
+    "interiorFeatures": null,
+    "horseAmenities": null,
+    "garageParkingCapacity": 2,
+    "developmentStatus": null,
+    "lotFeatures": null,
+    "roofType": "Tile",
+    "compensationBasedOn": null,
+    "greenEnergyGeneration": null,
+    "daysOnZillow": 24,
+    "listAOR": "California Regional MLS (North San Diego County & Pacific Southwest AORs)",
+    "buildingAreaSource": null,
+    "elementarySchool": null,
+    "zoningDescription": null,
+    "irrigationWaterRightsAcres": null,
+    "yearBuiltEffective": null,
+    "greenEnergyEfficient": null,
+    "constructionMaterials": {},
+    "fireplaceFeatures": [
+      "Living Room"
+    ],
+    "hoaFeeTotal": "$408 monthly",
+    "appliances": null,
+    "sewer": null,
+    "bathroomsPartial": null,
+    "fencing": null,
+    "spaFeatures": null,
+    "waterViewYN": false,
+    "buildingName": null,
+    "attic": null,
+    "petsMaxWeight": null,
+    "cumulativeDaysOnMarket": null,
+    "waterfrontFeatures": null,
+    "additionalParcelsDescription": null,
+    "canRaiseHorses": false,
+    "hasLandLease": false,
+    "communityFeatures": [
+      "Sidewalks",
+      "Pool"
+    ],
+    "waterBodyName": null,
+    "middleOrJuniorSchool": null,
+    "lotSizeDimensions": null,
+    "virtualTour": "https://www.propertypanorama.com/instaview/crmls/PTP2505872",
+    "contingency": null,
+    "yearBuilt": 1993,
+    "utilities": null,
+    "totalActualRent": null,
+    "bathroomsFull": 2,
+    "parcelNumber": "3112004710",
+    "incomeIncludes": null,
+    "highSchool": null,
+    "taxAnnualAmount": 8030,
+    "subdivisionName": null,
+    "storiesTotal": 1,
+    "storiesDecimal": 1,
+    "specialListingConditions": "Standard",
+    "windowFeatures": null,
+    "ownership": null,
+    "woodedArea": null,
+    "middleOrJuniorSchoolDistrict": null,
+    "associationPhone2": null,
+    "onMarketDate": 1754092800000,
+    "roomTypes": [
+      "Kitchen",
+      "Laundry",
+      "Living Room",
+      "Primary Bathroom",
+      "Primary Bedroom"
+    ],
+    "frontageLength": null,
+    "roadSurfaceType": null,
+    "associationAmenities": [
+      "Clubhouse",
+      "Fitness Center",
+      "Pool",
+      "Water"
+    ],
+    "propertySubType": [
+      "Condominium"
+    ],
+    "hasCooling": true,
+    "levels": "One",
+    "coveredParkingCapacity": 2,
+    "foundationArea": null,
+    "zoning": "R-1:SINGLE FAM-RES",
+    "hoaFee": "$408 monthly",
+    "livingAreaRange": null,
+    "parkingFeatures": [
+      "Garage"
+    ],
+    "parkingCapacity": 2,
+    "cropsIncludedYN": null,
+    "tenantPays": null,
+    "builderModel": null,
+    "otherStructures": null,
+    "otherFacts": {},
+    "additionalFeeInfo": null,
+    "hasView": true,
+    "openParkingCapacity": null,
+    "securityFeatures": null,
+    "numberOfUnitsInCommunity": 8,
+    "hasHomeWarranty": false,
+    "basementYN": null,
+    "doorFeatures": null,
+    "ownershipType": null,
+    "aboveGradeFinishedArea": null,
+    "associations": [
+      {
+        "feeFrequency": "$408 monthly",
+        "name": "Mirabella",
+        "phone": "858-748-7656"
+      }
+    ],
+    "waterView": null,
+    "electric": null,
+    "buildingFeatures": null,
+    "hasOpenParking": null,
+    "hasCarport": null,
+    "bathroomsHalf": null,
+    "homeType": "Condo",
+    "isSeniorCommunity": null,
+    "municipality": null,
+    "bathroomsThreeQuarter": null,
+    "hasSpa": false,
+    "basement": null,
+    "associationFee2": null,
+    "cooling": [
+      "Central Air"
+    ],
+    "hasHeating": null,
+    "associationName2": null,
+    "hasRentControl": null,
+    "elementarySchoolDistrict": null,
+    "otherEquipment": null,
+    "bathrooms": 2,
+    "buildingArea": null,
+    "furnished": false,
+    "vegetation": null,
+    "patioAndPorchFeatures": null,
+    "bathroomsFloat": 2,
+    "builderName": null,
+    "highSchoolDistrict": "San Diego Unified",
+    "hasElectricOnProperty": null,
+    "laundryFeatures": [
+      "Electric Dryer Hookup",
+      "Gas Dryer Hookup",
+      "Laundry Closet"
+    ],
+    "entryLocation": "main",
+    "fireplaces": null,
+    "heating": null,
+    "availabilityDate": null,
+    "carportParkingCapacity": null,
+    "hasAssociation": true,
+    "irrigationWaterRightsYN": null,
+    "isNewConstruction": false,
+    "associationFeeIncludes": null,
+    "leaseTerm": null,
+    "pricePerSquareFoot": 752,
+    "associationName": "Mirabella",
+    "elevation": null
+  },
+  "datePosted": "2025-08-02",
+  "bedrooms": 2,
+  "propertyTypeDimension": "Condo",
+  "mortgageZHLRates": {
+    "thirtyYearFixedBucket": {
+      "rate": 6.306,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756270538144
+    },
+    "fifteenYearFixedBucket": {
+      "rate": 5.601,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756270538144
+    },
+    "arm5Bucket": {
+      "rate": 6.529,
+      "rateSource": "ZGMI",
+      "lastUpdated": 1756270538144
+    }
+  },
+  "comingSoonOnMarketDate": null,
+  "favoriteCount": 64,
+  "livingArea": 831,
+  "zestimateHighPercent": "5",
+  "mlsid": "PTP2505872",
+  "isListedByOwner": null,
+  "listingSubType": {
+    "is_comingSoon": false,
+    "is_pending": false,
+    "is_forAuction": false,
+    "is_bankOwned": false,
+    "is_FSBA": true,
+    "is_FSBO": false,
+    "is_newHome": false,
+    "is_foreclosure": false
+  },
+  "buildingId": "1001667918",
+  "country": "USA",
+  "price": 625000,
+  "priceChangeDate": null,
+  "contingentListingType": null
+}
